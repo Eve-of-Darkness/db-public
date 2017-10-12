@@ -1,0 +1,25 @@
+/*Data for the table `area` */
+
+insert  into `area`(`TranslationId`,`Description`,`X`,`Y`,`Z`,`Radius`,`Region`,`ClassType`,`CanBroadcast`,`Sound`,`CheckLOS`,`Points`,`LastTimeRowUpdated`,`Area_ID`) values 
+(NULL,'Camelot Bind Area',35564,27157,8448,15000,10,'DOL.GS.Area+BindArea',1,0,0,NULL,'2000-01-01 00:00:00','06307389-7762-4d8e-a3c3-4aeee1683df6'),
+(NULL,'Jordheim Bind Area',33344,32137,8469,15000,101,'DOL.GS.Area+BindArea',1,0,0,NULL,'2000-01-01 00:00:00','264f34dd-09fb-4996-b379-3c36030dbeef'),
+(NULL,'Godrborg',597394,304815,8088,2000,163,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','36147893-ce79-4a9f-9b13-38f63c76dcdd'),
+(NULL,'Harrogath',36332,41970,5208,4000,10045,'DOL.GS.Area+Circle',1,0,0,'','2000-01-01 00:00:00','36fa2802-4bd5-47b1-870a-b0c0a7265cfe'),
+(NULL,'a safe area',560708,511763,2368,1000,10013,'DOL.GS.Area+SafeArea',1,0,0,'','2000-01-01 00:00:00','601bee14-20a2-41a3-8027-edd7e47e052e'),
+(NULL,'Crair Treflan',373562,572957,8040,2500,163,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','71149ce9-7667-4440-9479-9dc8f8a9959d'),
+(NULL,'Tir na Nog Bind Area',29825,33165,7916,15000,201,'DOL.GS.Area+BindArea',1,0,0,NULL,'2000-01-01 00:00:00','9e560b3e-10f0-4d12-afa3-72a8f72bc459'),
+(NULL,'Aalid Feie',310486,351988,6062,6000,181,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','aalid_feie'),
+(NULL,'Aegirhamn',291043,354886,3868,5000,151,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','aegirhamn'),
+(NULL,'Catterick Hamlet',677251,568214,8088,2000,163,'DOL.GS.Area+Circle',1,6,0,NULL,'2000-01-01 00:00:00','bf84dfc0-b6fc-4a68-abaa-429ddc73f8a6'),
+(NULL,'Bjarken',287715,302919,4160,4000,151,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','bjarken'),
+(NULL,'thehiddenlair',31840,37818,21396,5830,326,'DOL.GS.Area+Circle',0,0,0,'','2000-01-01 00:00:00','c4e4e337-f8f1-421f-8198-2d7802c258d9'),
+(NULL,'Caer Diogel',402771,502879,4680,4000,51,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','caer_diogel'),
+(NULL,'Caer Gothwaite',534958,548813,4755,4000,51,'DOL.GS.Area+Circle',1,6,0,NULL,'2000-01-01 00:00:00','caer_gothwaite'),
+(NULL,'Droighaid',379827,420963,5528,5000,181,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','droighaid'),
+(NULL,'Fort Gwyntell',426905,416817,5712,3000,51,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','fort_gwyntell'),
+(NULL,'Gothwaite Harbor',525023,542126,3168,4000,51,'DOL.GS.Area+Circle',1,6,0,NULL,'2000-01-01 00:00:00','gothwaite_harbour'),
+(NULL,'Grove of Domnann',423149,444401,6062,4000,181,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','grove_of_domnann'),
+(NULL,'Hagall',379260,385996,7752,3500,151,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','hagall'),
+(NULL,'Knarr',302561,433648,3212,3500,151,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','knarr'),
+(NULL,'Necht',429890,317886,1832,4000,181,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','necht'),
+(NULL,'Wearyall Village',435799,493970,3088,4000,51,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','wearyall_village');
