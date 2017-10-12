@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Ban`;
-
 CREATE TABLE `Ban` (
   `Author` text NOT NULL,
   `Type` varchar(255) NOT NULL,

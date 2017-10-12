@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DBOutdoorItem`;
-
 CREATE TABLE `DBOutdoorItem` (
   `HouseNumber` int(11) NOT NULL,
   `Model` int(11) NOT NULL,

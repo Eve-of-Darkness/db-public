@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DropTemplateXItemTemplate`;
-
 CREATE TABLE `DropTemplateXItemTemplate` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `TemplateName` varchar(255) NOT NULL,

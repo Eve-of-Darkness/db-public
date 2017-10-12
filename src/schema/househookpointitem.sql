@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `househookpointitem`;
-
 CREATE TABLE `househookpointitem` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `HouseNumber` int(11) NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `CharacterXOneTimeDrop`;
-
 CREATE TABLE `CharacterXOneTimeDrop` (
   `CharacterID` varchar(100) NOT NULL,
   `ItemTemplateID` varchar(100) NOT NULL,

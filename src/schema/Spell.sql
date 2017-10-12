@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Spell`;
-
 CREATE TABLE `Spell` (
   `SpellID` int(11) NOT NULL,
   `ClientEffect` int(11) NOT NULL,

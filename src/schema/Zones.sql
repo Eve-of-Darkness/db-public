@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Zones`;
-
 CREATE TABLE `Zones` (
   `ZoneID` int(11) NOT NULL,
   `RegionID` smallint(5) unsigned NOT NULL,

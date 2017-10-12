@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Area`;
-
 CREATE TABLE `Area` (
   `TranslationId` text,
   `Description` text NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ArtifactXItem`;
-
 CREATE TABLE `ArtifactXItem` (
   `ArtifactID` text NOT NULL,
   `ItemID` text NOT NULL,

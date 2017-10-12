@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `GuildAlliance`;
-
 CREATE TABLE `GuildAlliance` (
   `AllianceName` text,
   `Motd` text,

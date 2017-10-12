@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Mob`;
-
 CREATE TABLE `Mob` (
   `ClassType` text,
   `TranslationId` text,

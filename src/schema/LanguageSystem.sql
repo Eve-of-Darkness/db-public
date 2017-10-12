@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LanguageSystem`;
-
 CREATE TABLE `LanguageSystem` (
   `Text` text NOT NULL,
   `TranslationId` varchar(255) NOT NULL,

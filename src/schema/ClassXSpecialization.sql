@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ClassXSpecialization`;
-
 CREATE TABLE `ClassXSpecialization` (
   `ClassXSpecializationID` int(11) NOT NULL AUTO_INCREMENT,
   `ClassID` int(11) DEFAULT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `BindPoint`;
-
 CREATE TABLE `BindPoint` (
   `X` int(11) NOT NULL,
   `Y` int(11) NOT NULL,

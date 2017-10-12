@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Relic`;
-
 CREATE TABLE `Relic` (
   `RelicID` int(11) NOT NULL,
   `Region` int(11) NOT NULL,

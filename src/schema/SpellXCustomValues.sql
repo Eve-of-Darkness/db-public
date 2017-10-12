@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `SpellXCustomValues`;
-
 CREATE TABLE `SpellXCustomValues` (
   `SpellID` int(11) NOT NULL,
   `KeyName` varchar(100) NOT NULL,

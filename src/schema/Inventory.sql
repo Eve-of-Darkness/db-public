@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Inventory`;
-
 CREATE TABLE `Inventory` (
   `OwnerID` varchar(255) NOT NULL,
   `OwnerLot` smallint(5) unsigned DEFAULT NULL,

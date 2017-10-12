@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `GuildRank`;
-
 CREATE TABLE `GuildRank` (
   `GuildID` varchar(255) DEFAULT NULL,
   `Title` text,

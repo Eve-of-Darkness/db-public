@@ -1,7 +1,5 @@
 /* TODO: Possible delete - LT 10/2017 */
 
-DROP TABLE IF EXISTS `language`;
-
 CREATE TABLE `language` (
   `TranslationID` varchar(255) NOT NULL,
   `EN` text NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DOLCharactersBackupXCustomParam`;
-
 CREATE TABLE `DOLCharactersBackupXCustomParam` (
   `DOLCharactersObjectId` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,

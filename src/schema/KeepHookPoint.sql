@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `KeepHookPoint`;
-
 CREATE TABLE `KeepHookPoint` (
   `HookPointID` int(11) NOT NULL,
   `KeepComponentSkinID` int(11) NOT NULL,

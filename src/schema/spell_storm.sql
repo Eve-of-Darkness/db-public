@@ -1,7 +1,5 @@
 /* TODO: Possible delete - LT 10/2017 */
 
-DROP TABLE IF EXISTS `spell_storm`;
-
 CREATE TABLE `spell_storm` (
   `Spell_ID` varchar(255) NOT NULL DEFAULT '',
   `SpellID` int(11) NOT NULL DEFAULT '0',

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Teleport`;
-
 CREATE TABLE `Teleport` (
   `Type` text NOT NULL,
   `TeleportID` varchar(255) NOT NULL,

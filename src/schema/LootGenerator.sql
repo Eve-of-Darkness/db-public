@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LootGenerator`;
-
 CREATE TABLE `LootGenerator` (
   `MobName` text,
   `MobGuild` text,

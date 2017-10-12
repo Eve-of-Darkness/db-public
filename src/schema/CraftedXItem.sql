@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `CraftedXItem`;
-
 CREATE TABLE `CraftedXItem` (
   `CraftedItemId_nb` varchar(255) NOT NULL,
   `IngredientId_nb` text NOT NULL,

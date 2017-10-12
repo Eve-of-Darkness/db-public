@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Door`;
-
 CREATE TABLE `Door` (
   `Name` text,
   `Type` int(11) DEFAULT NULL,

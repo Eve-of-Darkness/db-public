@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LanguageZone`;
-
 CREATE TABLE `LanguageZone` (
   `Description` text NOT NULL,
   `ScreenDescription` text NOT NULL,

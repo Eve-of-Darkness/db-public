@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `househookpointoffset`;
-
 CREATE TABLE `househookpointoffset` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `HouseModel` int(11) NOT NULL,

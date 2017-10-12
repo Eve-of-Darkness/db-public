@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `PlayerInfo`;
-
 CREATE TABLE `PlayerInfo` (
   `Name` text,
   `LastName` text,

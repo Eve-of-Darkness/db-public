@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Battleground`;
-
 CREATE TABLE `Battleground` (
   `RegionID` smallint(5) unsigned NOT NULL,
   `MinLevel` tinyint(3) unsigned NOT NULL,

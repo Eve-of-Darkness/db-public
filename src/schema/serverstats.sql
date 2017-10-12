@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `serverstats`;
-
 CREATE TABLE `serverstats` (
   `StatDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Clients` int(11) NOT NULL,

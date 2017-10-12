@@ -1,7 +1,5 @@
 /* TODO: may need deleted LT: 10/2017 *//
 
-DROP TABLE IF EXISTS `ChampSpecs`;
-
 CREATE TABLE `ChampSpecs` (
   `Cost` int(11) NOT NULL,
   `IdLine` int(11) NOT NULL,

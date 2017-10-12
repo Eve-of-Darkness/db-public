@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LinkedFaction`;
-
 CREATE TABLE `LinkedFaction` (
   `FactionID` int(11) NOT NULL,
   `LinkedFactionID` int(11) DEFAULT NULL,

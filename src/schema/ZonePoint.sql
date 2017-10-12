@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ZonePoint`;
-
 CREATE TABLE `ZonePoint` (
   `Id` smallint(5) unsigned NOT NULL,
   `TargetX` int(11) DEFAULT NULL,

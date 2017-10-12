@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `TownCrierMessages`;
-
 CREATE TABLE `TownCrierMessages` (
   `TownCrierID` varchar(255) NOT NULL,
   `Message` text,

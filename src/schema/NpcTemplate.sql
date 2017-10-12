@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `NpcTemplate`;
-
 CREATE TABLE `NpcTemplate` (
   `TemplateId` int(11) NOT NULL,
   `TranslationId` text,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `SinglePermission`;
-
 CREATE TABLE `SinglePermission` (
   `PlayerID` varchar(255) NOT NULL,
   `Command` varchar(255) NOT NULL,

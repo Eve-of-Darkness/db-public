@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `FactionAggroLevel`;
-
 CREATE TABLE `FactionAggroLevel` (
   `CharacterID` varchar(100) NOT NULL,
   `FactionID` int(11) NOT NULL,

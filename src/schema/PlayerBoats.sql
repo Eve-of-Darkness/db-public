@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `PlayerBoats`;
-
 CREATE TABLE `PlayerBoats` (
   `BoatID` text NOT NULL,
   `BoatOwner` text NOT NULL,

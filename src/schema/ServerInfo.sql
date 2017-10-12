@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ServerInfo`;
-
 CREATE TABLE `ServerInfo` (
   `Time` text,
   `ServerName` text,

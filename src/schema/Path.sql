@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Path`;
-
 CREATE TABLE `Path` (
   `PathID` varchar(255) NOT NULL,
   `PathType` int(11) NOT NULL,

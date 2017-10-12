@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ArtifactBonus`;
-
 CREATE TABLE `ArtifactBonus` (
   `ArtifactID` text NOT NULL,
   `BonusID` int(11) NOT NULL,

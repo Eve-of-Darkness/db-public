@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DBHousePermissions`;
-
 CREATE TABLE `DBHousePermissions` (
   `PermissionLevel` int(11) NOT NULL,
   `HouseNumber` int(11) NOT NULL,

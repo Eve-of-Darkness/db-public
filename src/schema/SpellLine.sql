@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `SpellLine`;
-
 CREATE TABLE `SpellLine` (
   `SpellLineID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(255) NOT NULL,

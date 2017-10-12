@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Keep`;
-
 CREATE TABLE `Keep` (
   `KeepID` int(11) NOT NULL,
   `Name` text NOT NULL,

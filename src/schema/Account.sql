@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Account`;
-
 CREATE TABLE `Account` (
   `Name` varchar(255) NOT NULL,
   `Password` text NOT NULL,

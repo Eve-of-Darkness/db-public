@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `AutoXMLUpdate`;
-
 CREATE TABLE `AutoXMLUpdate` (
   `AutoXMLUpdateID` int(11) NOT NULL AUTO_INCREMENT,
   `FilePackage` varchar(255) NOT NULL,

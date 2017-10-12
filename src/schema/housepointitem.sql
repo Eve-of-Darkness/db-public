@@ -1,7 +1,5 @@
 /* TODO: Possibly delete - LT 10/2017 */
 
-DROP TABLE IF EXISTS `housepointitem`;
-
 CREATE TABLE `housepointitem` (
   `housepointitem_ID` varchar(255) NOT NULL,
   `HouseID` int(11) NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `SpecXAbility`;
-
 CREATE TABLE `SpecXAbility` (
   `SpecXabilityID` int(11) NOT NULL AUTO_INCREMENT,
   `Spec` varchar(100) NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DOLCharacters`;
-
 CREATE TABLE `DOLCharacters` (
   `HasGravestone` tinyint(1) DEFAULT NULL,
   `GravestoneRegion` int(11) DEFAULT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `AccountXCustomParam`;
-
 CREATE TABLE `AccountXCustomParam` (
   `Name` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,

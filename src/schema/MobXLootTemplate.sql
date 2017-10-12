@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `MobXLootTemplate`;
-
 CREATE TABLE `MobXLootTemplate` (
   `MobName` varchar(255) NOT NULL,
   `LootTemplateName` varchar(255) NOT NULL,

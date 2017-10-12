@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LineXSpell`;
-
 CREATE TABLE `LineXSpell` (
   `LineName` varchar(255) NOT NULL,
   `SpellID` int(11) NOT NULL,

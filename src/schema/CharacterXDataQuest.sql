@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `CharacterXDataQuest`;
-
 CREATE TABLE `CharacterXDataQuest` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Character_ID` varchar(100) NOT NULL,

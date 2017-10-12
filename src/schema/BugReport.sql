@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `BugReport`;
-
 CREATE TABLE `BugReport` (
   `ID` int(11) NOT NULL,
   `Message` text NOT NULL,

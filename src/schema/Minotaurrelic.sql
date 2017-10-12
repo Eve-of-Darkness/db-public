@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Minotaurrelic`;
-
 CREATE TABLE `Minotaurrelic` (
   `relicSpell` int(11) NOT NULL,
   `SpawnLocked` tinyint(1) NOT NULL,

@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DBHouseCharsXPerms`;
-
 CREATE TABLE `DBHouseCharsXPerms` (
   `HouseNumber` int(11) NOT NULL,
   `PermissionType` int(11) NOT NULL,

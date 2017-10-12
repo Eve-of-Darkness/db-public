@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `PlayerXEffect`;
-
 CREATE TABLE `PlayerXEffect` (
   `IsHandler` tinyint(1) DEFAULT NULL,
   `Var6` int(11) DEFAULT NULL,

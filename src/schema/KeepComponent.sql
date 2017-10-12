@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `KeepComponent`;
-
 CREATE TABLE `KeepComponent` (
   `X` int(11) DEFAULT NULL,
   `Y` int(11) DEFAULT NULL,

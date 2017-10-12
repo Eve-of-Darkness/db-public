@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Appeal`;
-
 CREATE TABLE `Appeal` (
   `Name` varchar(255) NOT NULL,
   `Account` varchar(255) NOT NULL,

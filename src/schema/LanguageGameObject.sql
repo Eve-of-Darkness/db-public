@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LanguageGameObject`;
-
 CREATE TABLE `LanguageGameObject` (
   `Name` text,
   `ExamineArticle` text,

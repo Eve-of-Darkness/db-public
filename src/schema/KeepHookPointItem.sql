@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `KeepHookPointItem`;
-
 CREATE TABLE `KeepHookPointItem` (
   `KeepID` int(11) NOT NULL,
   `ComponentID` int(11) NOT NULL,

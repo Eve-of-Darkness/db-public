@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Task`;
-
 CREATE TABLE `Task` (
   `Character_ID` varchar(255) NOT NULL,
   `TimeOut` datetime DEFAULT NULL,

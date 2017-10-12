@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Guild`;
-
 CREATE TABLE `Guild` (
   `GuildID` varchar(255) DEFAULT NULL,
   `GuildName` varchar(255) DEFAULT NULL,

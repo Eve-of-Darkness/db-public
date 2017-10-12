@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Quest`;
-
 CREATE TABLE `Quest` (
   `Name` text NOT NULL,
   `Step` int(11) NOT NULL,

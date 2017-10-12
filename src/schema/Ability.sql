@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Ability`;
-
 CREATE TABLE `Ability` (
   `AbilityID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(100) NOT NULL,

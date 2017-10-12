@@ -1,7 +1,5 @@
 /* TODO: Possible delete - LT 10/2017 */
 
-DROP TABLE IF EXISTS `languagesystemtext`;
-
 CREATE TABLE `languagesystemtext` (
   `TranslationId` varchar(255) CHARACTER SET latin1 NOT NULL,
   `Text` text CHARACTER SET latin1 NOT NULL,

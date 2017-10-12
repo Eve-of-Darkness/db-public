@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `HouseConsignmentMerchant`;
-
 CREATE TABLE `HouseConsignmentMerchant` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `OwnerID` varchar(128) NOT NULL,

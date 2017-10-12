@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DOLCharactersBackup`;
-
 CREATE TABLE `DOLCharactersBackup` (
   `DOLCharacters_ID` varchar(255) NOT NULL,
   `Name` varchar(255) NOT NULL,

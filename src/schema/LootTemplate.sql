@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `LootTemplate`;
-
 CREATE TABLE `LootTemplate` (
   `TemplateName` varchar(255) NOT NULL,
   `ItemTemplateID` text NOT NULL,

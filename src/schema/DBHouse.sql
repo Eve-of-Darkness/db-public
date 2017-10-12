@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `DBHouse`;
-
 CREATE TABLE `DBHouse` (
   `HouseNumber` int(11) NOT NULL,
   `X` int(11) NOT NULL,

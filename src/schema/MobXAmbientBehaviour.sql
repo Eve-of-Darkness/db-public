@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `MobXAmbientBehaviour`;
-
 CREATE TABLE `MobXAmbientBehaviour` (
   `Source` varchar(255) NOT NULL,
   `Trigger` text NOT NULL,

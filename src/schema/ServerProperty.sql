@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `ServerProperty`;
-
 CREATE TABLE `ServerProperty` (
   `Category` text NOT NULL,
   `Key` varchar(255) NOT NULL,

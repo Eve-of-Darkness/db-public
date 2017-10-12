@@ -1,5 +1,3 @@
-DROP TABLE IF EXISTS `Specialization`;
-
 CREATE TABLE `Specialization` (
   `SpecializationID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(100) NOT NULL,
