@@ -1,8 +1,6 @@
-/*Table structure for table `keepposition` */
+DROP TABLE IF EXISTS `KeepPosition`;
 
-DROP TABLE IF EXISTS `keepposition`;
-
-CREATE TABLE `keepposition` (
+CREATE TABLE `KeepPosition` (
   `ComponentSkin` int(11) DEFAULT NULL,
   `ComponentRotation` int(11) DEFAULT NULL,
   `TemplateID` varchar(255) DEFAULT NULL,

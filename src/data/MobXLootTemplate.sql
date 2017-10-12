@@ -1,6 +1,4 @@
-/*Data for the table `mobxloottemplate` */
-
-insert  into `mobxloottemplate`(`MobName`,`LootTemplateName`,`DropCount`,`LastTimeRowUpdated`,`MobXLootTemplate_ID`) values 
+insert  into `MobXLootTemplate`(`MobName`,`LootTemplateName`,`DropCount`,`LastTimeRowUpdated`,`MobXLootTemplate_ID`) values 
 ('the terrible','the terrible',2,'2000-01-01 00:00:00','00105aaa-34b4-47ae-9bea-d9a871175e59'),
 ('draco','draco',2,'2000-01-01 00:00:00','00134614-721d-4b8c-bbe4-4706de0326dd'),
 ('flame of volcanus','flame of volcanus',2,'2000-01-01 00:00:00','001a898f-2dc3-44fd-b0b4-ae53e7690ac7'),

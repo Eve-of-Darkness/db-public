@@ -1,6 +1,4 @@
-/*Data for the table `dbindooritem` */
-
-insert  into `dbindooritem`(`HouseNumber`,`Model`,`Position`,`Placemode`,`X`,`Y`,`BaseItemID`,`Color`,`Emblem`,`Rotation`,`Size`,`LastTimeRowUpdated`,`DBIndoorItem_ID`) values 
+insert  into `DBIndoorItem`(`HouseNumber`,`Model`,`Position`,`Placemode`,`X`,`Y`,`BaseItemID`,`Color`,`Emblem`,`Rotation`,`Size`,`LastTimeRowUpdated`,`DBIndoorItem_ID`) values 
 (83,1525,8,3,-167,357,'housing_indoor_shop14',0,0,67,100,'2000-01-01 00:00:00','000e500d-35c9-4a9d-aa71-9778790fe9a3'),
 (83,1413,179,2,-78,-12,'housing_indoor_shop77',0,0,360,100,'2000-01-01 00:00:00','00385968-ff63-4adf-842f-4275830303b1'),
 (83,1353,8,3,329,195,'housing_indoor_shop26',0,0,10,100,'2000-01-01 00:00:00','0047440e-aae1-423f-bb0c-773e55db72a9'),

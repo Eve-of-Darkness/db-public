@@ -1,6 +1,4 @@
-/*Data for the table `artifactbonus` */
-
-insert  into `artifactbonus`(`ArtifactID`,`BonusID`,`Level`,`LastTimeRowUpdated`,`ArtifactBonus_ID`) values 
+insert  into `ArtifactBonus`(`ArtifactID`,`BonusID`,`Level`,`LastTimeRowUpdated`,`ArtifactBonus_ID`) values 
 ('1001',11,10,'2000-01-01 00:00:00','10010'),
 ('1001',0,0,'2000-01-01 00:00:00','10011'),
 ('1001',1,0,'2000-01-01 00:00:00','10012'),

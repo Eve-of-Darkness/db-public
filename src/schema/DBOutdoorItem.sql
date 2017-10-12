@@ -1,8 +1,6 @@
-/*Table structure for table `dboutdooritem` */
+DROP TABLE IF EXISTS `DBOutdoorItem`;
 
-DROP TABLE IF EXISTS `dboutdooritem`;
-
-CREATE TABLE `dboutdooritem` (
+CREATE TABLE `DBOutdoorItem` (
   `HouseNumber` int(11) NOT NULL,
   `Model` int(11) NOT NULL,
   `Position` int(11) NOT NULL,

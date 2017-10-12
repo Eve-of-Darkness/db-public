@@ -1,8 +1,6 @@
-/*Table structure for table `npctemplate` */
+DROP TABLE IF EXISTS `NpcTemplate`;
 
-DROP TABLE IF EXISTS `npctemplate`;
-
-CREATE TABLE `npctemplate` (
+CREATE TABLE `NpcTemplate` (
   `TemplateId` int(11) NOT NULL,
   `TranslationId` text,
   `Name` text NOT NULL,

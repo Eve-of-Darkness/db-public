@@ -1,8 +1,6 @@
-/*Table structure for table `merchantitem` */
+DROP TABLE IF EXISTS `MerchantItem`;
 
-DROP TABLE IF EXISTS `merchantitem`;
-
-CREATE TABLE `merchantitem` (
+CREATE TABLE `MerchantItem` (
   `ItemListID` varchar(255) NOT NULL,
   `ItemTemplateID` text NOT NULL,
   `PageNumber` int(11) NOT NULL,

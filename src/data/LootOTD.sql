@@ -1,6 +1,4 @@
-/*Data for the table `loototd` */
-
-insert  into `loototd`(`MobName`,`ItemTemplateID`,`MinLevel`,`LastTimeRowUpdated`,`LootOTD_ID`) values 
+insert  into `LootOTD`(`MobName`,`ItemTemplateID`,`MinLevel`,`LastTimeRowUpdated`,`LootOTD_ID`) values 
 ('Charred Skeletal Commander','Brimstone_Breastplate',24,'2000-01-01 00:00:00','061460ec-950a-4ee1-8796-c1b8b7f4ea09'),
 ('Askafroa','Askafroa\'s_Chain_Leggings',32,'2000-01-01 00:00:00','06190546-2cd3-46a3-8179-45a963678263'),
 ('Fjalar','Bracelet_of_Defense',37,'2000-01-01 00:00:00','08525ece-943c-4f4b-b077-88feab2fad9e'),

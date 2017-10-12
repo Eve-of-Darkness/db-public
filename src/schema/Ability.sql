@@ -1,8 +1,6 @@
-/*Table structure for table `ability` */
+DROP TABLE IF EXISTS `Ability`;
 
-DROP TABLE IF EXISTS `ability`;
-
-CREATE TABLE `ability` (
+CREATE TABLE `Ability` (
   `AbilityID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(100) NOT NULL,
   `Name` varchar(255) NOT NULL,

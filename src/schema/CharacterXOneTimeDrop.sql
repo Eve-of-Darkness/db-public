@@ -1,8 +1,6 @@
-/*Table structure for table `characterxonetimedrop` */
+DROP TABLE IF EXISTS `CharacterXOneTimeDrop`;
 
-DROP TABLE IF EXISTS `characterxonetimedrop`;
-
-CREATE TABLE `characterxonetimedrop` (
+CREATE TABLE `CharacterXOneTimeDrop` (
   `CharacterID` varchar(100) NOT NULL,
   `ItemTemplateID` varchar(100) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

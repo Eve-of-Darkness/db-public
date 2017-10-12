@@ -1,8 +1,6 @@
-/*Table structure for table `quest` */
+DROP TABLE IF EXISTS `Quest`;
 
-DROP TABLE IF EXISTS `quest`;
-
-CREATE TABLE `quest` (
+CREATE TABLE `Quest` (
   `Name` text NOT NULL,
   `Step` int(11) NOT NULL,
   `Character_ID` varchar(255) NOT NULL,

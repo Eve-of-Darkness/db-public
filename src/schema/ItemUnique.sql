@@ -1,8 +1,6 @@
-/*Table structure for table `itemunique` */
+DROP TABLE IF EXISTS `ItemUnique`;
 
-DROP TABLE IF EXISTS `itemunique`;
-
-CREATE TABLE `itemunique` (
+CREATE TABLE `ItemUnique` (
   `Id_nb` varchar(255) NOT NULL,
   `TranslationId` text,
   `Name` text NOT NULL,

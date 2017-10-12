@@ -1,8 +1,6 @@
-/*Table structure for table `keephookpointitem` */
+DROP TABLE IF EXISTS `KeepHookPointItem`;
 
-DROP TABLE IF EXISTS `keephookpointitem`;
-
-CREATE TABLE `keephookpointitem` (
+CREATE TABLE `KeepHookPointItem` (
   `KeepID` int(11) NOT NULL,
   `ComponentID` int(11) NOT NULL,
   `HookPointID` int(11) NOT NULL,

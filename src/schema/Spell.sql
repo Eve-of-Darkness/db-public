@@ -1,8 +1,6 @@
-/*Table structure for table `spell` */
+DROP TABLE IF EXISTS `Spell`;
 
-DROP TABLE IF EXISTS `spell`;
-
-CREATE TABLE `spell` (
+CREATE TABLE `Spell` (
   `SpellID` int(11) NOT NULL,
   `ClientEffect` int(11) NOT NULL,
   `Icon` int(11) NOT NULL,

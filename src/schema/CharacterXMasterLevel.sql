@@ -1,8 +1,6 @@
-/*Table structure for table `characterxmasterlevel` */
+DROP TABLE IF EXISTS `CharacterXMasterLevel`;
 
-DROP TABLE IF EXISTS `characterxmasterlevel`;
-
-CREATE TABLE `characterxmasterlevel` (
+CREATE TABLE `CharacterXMasterLevel` (
   `Character_ID` varchar(255) NOT NULL,
   `MLLevel` int(11) NOT NULL,
   `MLStep` int(11) NOT NULL,

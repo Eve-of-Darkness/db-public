@@ -1,4 +1,4 @@
-/*Table structure for table `spell_storm` */
+/* TODO: Possible delete - LT 10/2017 */
 
 DROP TABLE IF EXISTS `spell_storm`;
 

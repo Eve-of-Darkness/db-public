@@ -1,8 +1,6 @@
-/*Table structure for table `dolcharacters` */
+DROP TABLE IF EXISTS `DOLCharacters`;
 
-DROP TABLE IF EXISTS `dolcharacters`;
-
-CREATE TABLE `dolcharacters` (
+CREATE TABLE `DOLCharacters` (
   `HasGravestone` tinyint(1) DEFAULT NULL,
   `GravestoneRegion` int(11) DEFAULT NULL,
   `Constitution` int(11) DEFAULT NULL,

@@ -1,8 +1,6 @@
-/*Table structure for table `languagegameobject` */
+DROP TABLE IF EXISTS `LanguageGameObject`;
 
-DROP TABLE IF EXISTS `languagegameobject`;
-
-CREATE TABLE `languagegameobject` (
+CREATE TABLE `LanguageGameObject` (
   `Name` text,
   `ExamineArticle` text,
   `TranslationId` varchar(255) NOT NULL,

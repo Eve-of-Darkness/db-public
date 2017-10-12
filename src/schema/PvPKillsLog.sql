@@ -1,8 +1,6 @@
-/*Table structure for table `pvpkillslog` */
+DROP TABLE IF EXISTS `PvPKillsLog`;
 
-DROP TABLE IF EXISTS `pvpkillslog`;
-
-CREATE TABLE `pvpkillslog` (
+CREATE TABLE `PvPKillsLog` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `DateKilled` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `KilledName` text NOT NULL,

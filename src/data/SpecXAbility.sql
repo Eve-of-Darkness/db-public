@@ -1,6 +1,4 @@
-/*Data for the table `specxability` */
-
-insert  into `specxability`(`SpecXabilityID`,`Spec`,`SpecLevel`,`AbilityKey`,`AbilityLevel`,`ClassId`,`LastTimeRowUpdated`) values 
+insert  into `SpecXAbility`(`SpecXabilityID`,`Spec`,`SpecLevel`,`AbilityKey`,`AbilityLevel`,`ClassId`,`LastTimeRowUpdated`) values 
 (1,'Stealth',25,'Climb Walls',0,9,'2000-01-01 00:00:00'),
 (2,'Stealth',50,'Safe Fall',5,9,'2000-01-01 00:00:00'),
 (3,'Stealth',16,'Detect Hidden',0,9,'2000-01-01 00:00:00'),

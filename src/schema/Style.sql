@@ -1,8 +1,6 @@
-/*Table structure for table `style` */
+DROP TABLE IF EXISTS `Style`;
 
-DROP TABLE IF EXISTS `style`;
-
-CREATE TABLE `style` (
+CREATE TABLE `Style` (
   `StyleID` int(11) NOT NULL AUTO_INCREMENT,
   `ID` int(11) NOT NULL,
   `ClassId` int(11) NOT NULL,

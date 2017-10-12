@@ -1,6 +1,4 @@
-/*Data for the table `linexspell` */
-
-insert  into `linexspell`(`LineName`,`SpellID`,`Level`,`LastTimeRowUpdated`,`LineXSpell_ID`,`PackageID`) values 
+insert  into `LineXSpell`(`LineName`,`SpellID`,`Level`,`LastTimeRowUpdated`,`LineXSpell_ID`,`PackageID`) values 
 ('Path of Air',402,9,'2000-01-01 00:00:00','000a6a50-4015-4b93-852d-b4d634c445c1','Theurgist'),
 ('Nurture Warden Spec',5143,43,'2000-01-01 00:00:00','000ed0d7-4d76-4f79-81cd-cc89a8672cf1','Warden'),
 ('Subterranean Spec',3485,1,'2000-01-01 00:00:00','00142538-b0b6-49f4-9c3f-cc7b7d9a53cd','Shaman'),

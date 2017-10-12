@@ -1,8 +1,6 @@
-/*Table structure for table `itemtemplate` */
+DROP TABLE IF EXISTS `ItemTemplate`;
 
-DROP TABLE IF EXISTS `itemtemplate`;
-
-CREATE TABLE `itemtemplate` (
+CREATE TABLE `ItemTemplate` (
   `Id_nb` varchar(255) NOT NULL,
   `TranslationId` text,
   `Name` text NOT NULL,

@@ -1,8 +1,6 @@
-/*Table structure for table `keepcapturelog` */
+DROP TABLE IF EXISTS `KeepCaptureLog`;
 
-DROP TABLE IF EXISTS `keepcapturelog`;
-
-CREATE TABLE `keepcapturelog` (
+CREATE TABLE `KeepCaptureLog` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `DateTaken` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `KeepName` text NOT NULL,

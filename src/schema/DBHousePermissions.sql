@@ -1,8 +1,6 @@
-/*Table structure for table `dbhousepermissions` */
+DROP TABLE IF EXISTS `DBHousePermissions`;
 
-DROP TABLE IF EXISTS `dbhousepermissions`;
-
-CREATE TABLE `dbhousepermissions` (
+CREATE TABLE `DBHousePermissions` (
   `PermissionLevel` int(11) NOT NULL,
   `HouseNumber` int(11) NOT NULL,
   `CanEnterHouse` tinyint(1) NOT NULL,

@@ -1,5 +1,3 @@
-/*Table structure for table `serverstats` */
-
 DROP TABLE IF EXISTS `serverstats`;
 
 CREATE TABLE `serverstats` (

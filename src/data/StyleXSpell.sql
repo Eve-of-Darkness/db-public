@@ -1,6 +1,4 @@
-/*Data for the table `stylexspell` */
-
-insert  into `stylexspell`(`SpellID`,`ClassID`,`StyleID`,`Chance`,`LastTimeRowUpdated`,`StyleXSpell_ID`) values 
+insert  into `StyleXSpell`(`SpellID`,`ClassID`,`StyleID`,`Chance`,`LastTimeRowUpdated`,`StyleXSpell_ID`) values 
 (20006,0,290,100,'2000-01-01 00:00:00','-87190432690890u346mn'),
 (7353,0,309,100,'2000-01-01 00:00:00','002c33ba-596b-4bd4-b521-ec3c2775a961'),
 (20052,0,182,100,'2000-01-01 00:00:00','00890fd5-b2af-4cf9-af02-a7b342b2ef23'),

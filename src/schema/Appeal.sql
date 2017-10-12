@@ -1,8 +1,6 @@
-/*Table structure for table `appeal` */
+DROP TABLE IF EXISTS `Appeal`;
 
-DROP TABLE IF EXISTS `appeal`;
-
-CREATE TABLE `appeal` (
+CREATE TABLE `Appeal` (
   `Name` varchar(255) NOT NULL,
   `Account` varchar(255) NOT NULL,
   `Severity` int(11) NOT NULL,

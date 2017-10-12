@@ -1,8 +1,6 @@
-/*Table structure for table `regions` */
+DROP TABLE IF EXISTS `Regions`;
 
-DROP TABLE IF EXISTS `regions`;
-
-CREATE TABLE `regions` (
+CREATE TABLE `Regions` (
   `RegionID` smallint(5) unsigned NOT NULL,
   `Name` text NOT NULL,
   `Description` text NOT NULL,

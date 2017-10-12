@@ -1,8 +1,6 @@
-/*Table structure for table `serverproperty` */
+DROP TABLE IF EXISTS `ServerProperty`;
 
-DROP TABLE IF EXISTS `serverproperty`;
-
-CREATE TABLE `serverproperty` (
+CREATE TABLE `ServerProperty` (
   `Category` text NOT NULL,
   `Key` varchar(255) NOT NULL,
   `Description` text NOT NULL,

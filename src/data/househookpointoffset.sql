@@ -1,5 +1,3 @@
-/*Data for the table `househookpointoffset` */
-
 insert  into `househookpointoffset`(`ID`,`HouseModel`,`HookpointID`,`X`,`Y`,`Z`,`Heading`,`LastTimeRowUpdated`) values 
 (1,4,16,-106,42,-344,248,'2000-01-01 00:00:00'),
 (2,4,21,-598,322,-345,2799,'2000-01-01 00:00:00'),

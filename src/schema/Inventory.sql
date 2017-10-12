@@ -1,8 +1,6 @@
-/*Table structure for table `inventory` */
+DROP TABLE IF EXISTS `Inventory`;
 
-DROP TABLE IF EXISTS `inventory`;
-
-CREATE TABLE `inventory` (
+CREATE TABLE `Inventory` (
   `OwnerID` varchar(255) NOT NULL,
   `OwnerLot` smallint(5) unsigned DEFAULT NULL,
   `ITemplate_Id` varchar(255) DEFAULT NULL,

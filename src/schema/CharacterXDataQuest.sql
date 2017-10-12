@@ -1,8 +1,6 @@
-/*Table structure for table `characterxdataquest` */
+DROP TABLE IF EXISTS `CharacterXDataQuest`;
 
-DROP TABLE IF EXISTS `characterxdataquest`;
-
-CREATE TABLE `characterxdataquest` (
+CREATE TABLE `CharacterXDataQuest` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Character_ID` varchar(100) NOT NULL,
   `DataQuestID` int(11) NOT NULL,

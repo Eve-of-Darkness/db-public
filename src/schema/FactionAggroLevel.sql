@@ -1,8 +1,6 @@
-/*Table structure for table `factionaggrolevel` */
+DROP TABLE IF EXISTS `FactionAggroLevel`;
 
-DROP TABLE IF EXISTS `factionaggrolevel`;
-
-CREATE TABLE `factionaggrolevel` (
+CREATE TABLE `FactionAggroLevel` (
   `CharacterID` varchar(100) NOT NULL,
   `FactionID` int(11) NOT NULL,
   `AggroLevel` int(11) NOT NULL,

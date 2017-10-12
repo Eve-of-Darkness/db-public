@@ -1,6 +1,4 @@
-/*Data for the table `pathpoints` */
-
-insert  into `pathpoints`(`PathID`,`Step`,`X`,`Y`,`Z`,`MaxSpeed`,`WaitTime`,`LastTimeRowUpdated`,`PathPoints_ID`) values 
+insert  into `PathPoints`(`PathID`,`Step`,`X`,`Y`,`Z`,`MaxSpeed`,`WaitTime`,`LastTimeRowUpdated`,`PathPoints_ID`) values 
 ('HS_ParthenonFarm_Ardagh',12,368057,487081,4679,600,NULL,'2000-01-01 00:00:00','0000463a-14c4-4dd3-b033-5349c676da68'),
 ('HS_Huginfel_GnaFaste',65,780892,896384,4739,1000,0,'2000-01-01 00:00:00','00049320-bb7e-40a1-b4c6-7035a61d197f'),
 ('hs_cotswold_northcamelotgate',28,514473,477414,2298,1200,0,'2015-02-11 06:28:19','0004dd24-f53e-4c8d-9176-9c483b82e458'),

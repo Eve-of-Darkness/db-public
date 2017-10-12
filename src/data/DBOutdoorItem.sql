@@ -1,6 +1,4 @@
-/*Data for the table `dboutdooritem` */
-
-insert  into `dboutdooritem`(`HouseNumber`,`Model`,`Position`,`Rotation`,`BaseItemID`,`LastTimeRowUpdated`,`DBOutdoorItem_ID`) values 
+insert  into `DBOutdoorItem`(`HouseNumber`,`Model`,`Position`,`Rotation`,`BaseItemID`,`LastTimeRowUpdated`,`DBOutdoorItem_ID`) values 
 (5051,1524,45,3,'housing_outdoor_shop24','2000-01-01 00:00:00','0034a1c9-c005-4dba-a1fa-9c3e3a0f630e'),
 (5109,1524,114,3,'housing_outdoor_shop24','2000-01-01 00:00:00','004ffc4b-5582-4ee7-8b86-6ea6b3bd9a6d'),
 (5046,1330,2,3,'housing_outdoor_shop85','2000-01-01 00:00:00','005025f8-517b-4f65-a77d-b3902df1545b'),

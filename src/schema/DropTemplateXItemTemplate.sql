@@ -1,8 +1,6 @@
-/*Table structure for table `droptemplatexitemtemplate` */
+DROP TABLE IF EXISTS `DropTemplateXItemTemplate`;
 
-DROP TABLE IF EXISTS `droptemplatexitemtemplate`;
-
-CREATE TABLE `droptemplatexitemtemplate` (
+CREATE TABLE `DropTemplateXItemTemplate` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `TemplateName` varchar(255) NOT NULL,
   `ItemTemplateID` text NOT NULL,

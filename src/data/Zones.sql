@@ -1,6 +1,4 @@
-/*Data for the table `zones` */
-
-insert  into `zones`(`ZoneID`,`RegionID`,`Name`,`IsLava`,`DivingFlag`,`WaterLevel`,`OffsetY`,`OffsetX`,`Width`,`Height`,`Experience`,`Realmpoints`,`Bountypoints`,`Coin`,`Realm`,`LastTimeRowUpdated`,`Zones_ID`) values 
+insert  into `Zones`(`ZoneID`,`RegionID`,`Name`,`IsLava`,`DivingFlag`,`WaterLevel`,`OffsetY`,`OffsetX`,`Width`,`Height`,`Experience`,`Realmpoints`,`Bountypoints`,`Coin`,`Realm`,`LastTimeRowUpdated`,`Zones_ID`) values 
 (0,1,'Camelot Hills',0,0,0,59,67,8,8,0,0,0,0,0,'2017-01-08 18:51:03','3b36b39d-f2f8-4f2f-85e2-d155f1e4101d'),
 (1,1,'Salisbury Plains',0,0,0,67,67,8,8,0,0,0,0,0,'2017-01-08 18:51:03','145560e8-c0dd-4fcb-bdd9-bcc65b35f11a'),
 (2,1,'Black Mtns. South',0,0,0,53,59,8,8,0,0,0,0,0,'2017-01-08 18:51:03','0e21ce0b-8a6b-4df1-9e05-c81b6028267b'),

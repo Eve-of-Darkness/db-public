@@ -1,8 +1,6 @@
-/*Table structure for table `dbhouse` */
+DROP TABLE IF EXISTS `DBHouse`;
 
-DROP TABLE IF EXISTS `dbhouse`;
-
-CREATE TABLE `dbhouse` (
+CREATE TABLE `DBHouse` (
   `HouseNumber` int(11) NOT NULL,
   `X` int(11) NOT NULL,
   `Y` int(11) NOT NULL,

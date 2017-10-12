@@ -1,6 +1,4 @@
-/*Data for the table `path` */
-
-insert  into `path`(`PathID`,`PathType`,`RegionID`,`LastTimeRowUpdated`,`Path_ID`) values 
+insert  into `Path`(`PathID`,`PathType`,`RegionID`,`LastTimeRowUpdated`,`Path_ID`) values 
 ('hs_fintain_altacoill',1,NULL,'2000-01-01 00:00:00','0017170b-5dd6-4c25-b0e2-cf2b070ba656'),
 ('HS_GnaFaste_WestSkona',1,NULL,'2000-01-01 00:00:00','00c23fa5-1c81-4fde-b229-049507c890bf'),
 ('Dragonfly_ticket_to_Adribards_RetreatYaren',1,NULL,'2000-01-01 00:00:00','00dc7d6e-b087-4f06-9ec7-e61b46fd9f7a'),

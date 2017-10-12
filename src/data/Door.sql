@@ -1,6 +1,4 @@
-/*Data for the table `door` */
-
-insert  into `door`(`Name`,`Type`,`Z`,`Y`,`X`,`Heading`,`InternalID`,`Guild`,`Level`,`Realm`,`Flags`,`Locked`,`Health`,`MaxHealth`,`LastTimeRowUpdated`,`Door_ID`) values 
+insert  into `Door`(`Name`,`Type`,`Z`,`Y`,`X`,`Heading`,`InternalID`,`Guild`,`Level`,`Realm`,`Flags`,`Locked`,`Health`,`MaxHealth`,`LastTimeRowUpdated`,`Door_ID`) values 
 ('door',0,5709,90769,98014,3094,27018901,NULL,20,6,0,0,2545,2545,'2017-02-11 04:28:25','01aa9478-6fbe-4e13-bbc1-29a849dc3039'),
 ('door',1,9882,618779,396537,1427,173216301,NULL,20,6,0,0,2545,2545,'2017-02-11 22:22:28','03a6926e-dd71-4112-baeb-8d7f14efcb1c'),
 ('door',1,4763,727811,805607,3599,100164701,NULL,20,6,0,0,2545,2545,'2017-02-11 21:25:56','03bacd59-635b-413b-ae93-f80f5634a5ef'),

@@ -1,8 +1,6 @@
-/*Table structure for table `startuplocation` */
+DROP TABLE IF EXISTS `StartupLocation`;
 
-DROP TABLE IF EXISTS `startuplocation`;
-
-CREATE TABLE `startuplocation` (
+CREATE TABLE `StartupLocation` (
   `StartupLoc_ID` int(11) NOT NULL AUTO_INCREMENT,
   `XPos` int(11) NOT NULL,
   `YPos` int(11) NOT NULL,

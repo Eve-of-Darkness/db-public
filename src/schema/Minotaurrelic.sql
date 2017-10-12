@@ -1,8 +1,6 @@
-/*Table structure for table `minotaurrelic` */
+DROP TABLE IF EXISTS `Minotaurrelic`;
 
-DROP TABLE IF EXISTS `minotaurrelic`;
-
-CREATE TABLE `minotaurrelic` (
+CREATE TABLE `Minotaurrelic` (
   `relicSpell` int(11) NOT NULL,
   `SpawnLocked` tinyint(1) NOT NULL,
   `ProtectorClassType` text NOT NULL,

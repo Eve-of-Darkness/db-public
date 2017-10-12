@@ -1,6 +1,4 @@
-/*Data for the table `artifactxitem` */
-
-insert  into `artifactxitem`(`ArtifactID`,`ItemID`,`Version`,`Realm`,`LastTimeRowUpdated`,`ArtifactXItem_ID`) values 
+insert  into `ArtifactXItem`(`ArtifactID`,`ItemID`,`Version`,`Realm`,`LastTimeRowUpdated`,`ArtifactXItem_ID`) values 
 ('1001','Alvarus_Leggings_Cloth','0',0,'2000-01-01 00:00:00','10011'),
 ('1001','Alvarus_Leggings_Leather','1',0,'2000-01-01 00:00:00','10012'),
 ('1001','Alvarus_Leggings_Studded','2',0,'2000-01-01 00:00:00','10013'),

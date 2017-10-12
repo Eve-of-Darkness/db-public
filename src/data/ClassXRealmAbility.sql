@@ -1,6 +1,4 @@
-/*Data for the table `classxrealmability` */
-
-insert  into `classxrealmability`(`CharClass`,`AbilityKey`,`LastTimeRowUpdated`,`ClassXRealmAbility_ID`) values 
+insert  into `ClassXRealmAbility`(`CharClass`,`AbilityKey`,`LastTimeRowUpdated`,`ClassXRealmAbility_ID`) values 
 (55,'Fungal Union','2000-01-01 00:00:00','Animist-RR5'),
 (55,'Augmented Acuity','2000-01-01 00:00:00','Animist1-0-1'),
 (55,'Augmented Constitution','2000-01-01 00:00:00','Animist1-0-2'),

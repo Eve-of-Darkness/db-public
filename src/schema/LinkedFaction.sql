@@ -1,8 +1,6 @@
-/*Table structure for table `linkedfaction` */
+DROP TABLE IF EXISTS `LinkedFaction`;
 
-DROP TABLE IF EXISTS `linkedfaction`;
-
-CREATE TABLE `linkedfaction` (
+CREATE TABLE `LinkedFaction` (
   `FactionID` int(11) NOT NULL,
   `LinkedFactionID` int(11) DEFAULT NULL,
   `IsFriend` tinyint(1) DEFAULT NULL,

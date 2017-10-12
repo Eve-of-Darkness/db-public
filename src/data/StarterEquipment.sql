@@ -1,6 +1,4 @@
-/*Data for the table `starterequipment` */
-
-insert  into `starterequipment`(`StarterEquipmentID`,`Class`,`TemplateID`,`LastTimeRowUpdated`) values 
+insert  into `StarterEquipment`(`StarterEquipmentID`,`Class`,`TemplateID`,`LastTimeRowUpdated`) values 
 (1,'15;','trimmed_branch','2000-01-01 00:00:00'),
 (2,'17;9;4;3;','practice_dirk','2000-01-01 00:00:00'),
 (3,'16;6;10;33;','training_mace','2000-01-01 00:00:00'),

@@ -1,8 +1,6 @@
-/*Table structure for table `playerinfo` */
+DROP TABLE IF EXISTS `PlayerInfo`;
 
-DROP TABLE IF EXISTS `playerinfo`;
-
-CREATE TABLE `playerinfo` (
+CREATE TABLE `PlayerInfo` (
   `Name` text,
   `LastName` text,
   `Guild` text,

@@ -1,6 +1,4 @@
-/*Data for the table `guildrank` */
-
-insert  into `guildrank`(`GuildID`,`Title`,`RankLevel`,`Alli`,`Emblem`,`Buff`,`GcHear`,`GcSpeak`,`OcHear`,`OcSpeak`,`AcHear`,`AcSpeak`,`Invite`,`Promote`,`Remove`,`View`,`Claim`,`Upgrade`,`Release`,`Dues`,`Withdraw`,`LastTimeRowUpdated`,`GuildRank_ID`) values 
+insert  into `GuildRank`(`GuildID`,`Title`,`RankLevel`,`Alli`,`Emblem`,`Buff`,`GcHear`,`GcSpeak`,`OcHear`,`OcSpeak`,`AcHear`,`AcSpeak`,`Invite`,`Promote`,`Remove`,`View`,`Claim`,`Upgrade`,`Release`,`Dues`,`Withdraw`,`LastTimeRowUpdated`,`GuildRank_ID`) values 
 ('d2b1eb0d-69f0-436f-89f2-690ecf60a3cd','Rank 6',6,0,1,0,1,1,0,0,1,0,0,0,0,1,0,0,0,0,0,'2015-07-15 14:21:41','0167d5c3-35e2-4240-843b-a9ca265d17d4'),
 ('a48111db-d2df-4e40-a57b-4a1511bde058','Rank 9',9,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2000-01-01 00:00:00','038dec59-2161-402d-ace9-b17e0346a789'),
 ('3a115775-bcb9-4ae1-a2c6-346054a3e4eb','Rank 2',2,0,1,0,1,1,1,1,1,1,1,1,0,1,0,0,0,0,0,'2017-01-08 18:52:06','06507076-cadf-4145-b313-8a21362c621b'),

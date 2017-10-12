@@ -1,8 +1,6 @@
-/*Table structure for table `mob` */
+DROP TABLE IF EXISTS `Mob`;
 
-DROP TABLE IF EXISTS `mob`;
-
-CREATE TABLE `mob` (
+CREATE TABLE `Mob` (
   `ClassType` text,
   `TranslationId` text,
   `Name` varchar(255) NOT NULL,

@@ -1,6 +1,4 @@
-/*Data for the table `specialization` */
-
-insert  into `specialization`(`SpecializationID`,`KeyName`,`Name`,`Icon`,`Description`,`Implementation`,`LastTimeRowUpdated`) values 
+insert  into `Specialization`(`SpecializationID`,`KeyName`,`Name`,`Icon`,`Description`,`Implementation`,`LastTimeRowUpdated`) values 
 (1,'Odin\'s Will','Odin\'s Will',0,'no',NULL,'2000-01-01 00:00:00'),
 (2,'Witchcraft','Witchcraft',0,'no',NULL,'2000-01-01 00:00:00'),
 (3,'Hexing','Hexing',0,'no',NULL,'2000-01-01 00:00:00'),

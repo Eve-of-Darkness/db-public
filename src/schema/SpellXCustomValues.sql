@@ -1,8 +1,6 @@
-/*Table structure for table `spellxcustomvalues` */
+DROP TABLE IF EXISTS `SpellXCustomValues`;
 
-DROP TABLE IF EXISTS `spellxcustomvalues`;
-
-CREATE TABLE `spellxcustomvalues` (
+CREATE TABLE `SpellXCustomValues` (
   `SpellID` int(11) NOT NULL,
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

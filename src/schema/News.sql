@@ -1,8 +1,6 @@
-/*Table structure for table `news` */
+DROP TABLE IF EXISTS `News`;
 
-DROP TABLE IF EXISTS `news`;
-
-CREATE TABLE `news` (
+CREATE TABLE `News` (
   `CreationDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Type` tinyint(3) unsigned NOT NULL,
   `Realm` tinyint(3) unsigned DEFAULT NULL,

@@ -1,8 +1,6 @@
-/*Table structure for table `classxspecialization` */
+DROP TABLE IF EXISTS `ClassXSpecialization`;
 
-DROP TABLE IF EXISTS `classxspecialization`;
-
-CREATE TABLE `classxspecialization` (
+CREATE TABLE `ClassXSpecialization` (
   `ClassXSpecializationID` int(11) NOT NULL AUTO_INCREMENT,
   `ClassID` int(11) DEFAULT NULL,
   `SpecKeyName` varchar(100) NOT NULL,

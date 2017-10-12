@@ -1,6 +1,4 @@
-/*Data for the table `salvage` */
-
-insert  into `salvage`(`ObjectType`,`SalvageLevel`,`Id_nb`,`Realm`,`LastTimeRowUpdated`,`Salvage_ID`) values 
+insert  into `Salvage`(`ObjectType`,`SalvageLevel`,`Id_nb`,`Realm`,`LastTimeRowUpdated`,`Salvage_ID`) values 
 (26,9,'arcanite_metal_bars',0,'2000-01-01 00:00:00','0130ac4a-80a1-4c40-9d2d-597665bad90f'),
 (5,0,'rowan_wooden_boards',0,'2000-01-01 00:00:00','01468f1b-df0d-49a2-9ca6-8e46761015c2'),
 (38,1,'ferrite_metal_bars',0,'2000-01-01 00:00:00','03638b37-d5d5-41d6-b968-20462834cc2a'),

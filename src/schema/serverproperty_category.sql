@@ -1,5 +1,3 @@
-/*Table structure for table `serverproperty_category` */
-
 DROP TABLE IF EXISTS `serverproperty_category`;
 
 CREATE TABLE `serverproperty_category` (

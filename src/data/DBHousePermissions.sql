@@ -1,6 +1,6 @@
-/*Data for the table `dbhousepermissions` */
+/* TODO: Possibly delete - LT 10/2017 */
 
-insert  into `dbhousepermissions`(`PermissionLevel`,`HouseNumber`,`CanEnterHouse`,`Vault1`,`Vault2`,`Vault3`,`Vault4`,`CanChangeExternalAppearance`,`ChangeInterior`,`ChangeGarden`,`CanBanish`,`CanUseMerchants`,`CanUseTools`,`CanBindInHouse`,`ConsignmentMerchant`,`CanPayRent`,`LastTimeRowUpdated`,`DBHousePermissions_ID`) values 
+insert  into `DBHousePermissions`(`PermissionLevel`,`HouseNumber`,`CanEnterHouse`,`Vault1`,`Vault2`,`Vault3`,`Vault4`,`CanChangeExternalAppearance`,`ChangeInterior`,`ChangeGarden`,`CanBanish`,`CanUseMerchants`,`CanUseTools`,`CanBindInHouse`,`ConsignmentMerchant`,`CanPayRent`,`LastTimeRowUpdated`,`DBHousePermissions_ID`) values 
 (5,3363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2017-01-10 12:20:22','2357d937-8a77-407b-a645-b04ed6883407'),
 (7,3363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2017-01-10 12:20:22','70ba260d-fc3c-4bd8-9b8e-1475bd6a46e8'),
 (1,3363,0,0,0,0,0,0,0,0,0,0,0,0,0,0,'2017-01-10 12:20:22','80b2f8bd-c09d-453c-a3a8-8c9b4fa83ae2'),

@@ -1,8 +1,6 @@
-/*Table structure for table `spellline` */
+DROP TABLE IF EXISTS `SpellLine`;
 
-DROP TABLE IF EXISTS `spellline`;
-
-CREATE TABLE `spellline` (
+CREATE TABLE `SpellLine` (
   `SpellLineID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(255) NOT NULL,
   `Name` varchar(255) DEFAULT NULL,

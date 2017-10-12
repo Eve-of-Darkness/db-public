@@ -1,6 +1,4 @@
-/*Data for the table `race` */
-
-insert  into `race`(`ID`,`Name`,`ResistBody`,`ResistCold`,`ResistCrush`,`ResistEnergy`,`ResistHeat`,`ResistMatter`,`ResistNatural`,`ResistSlash`,`ResistSpirit`,`ResistThrust`,`LastTimeRowUpdated`,`Race_ID`) values 
+insert  into `Race`(`ID`,`Name`,`ResistBody`,`ResistCold`,`ResistCrush`,`ResistEnergy`,`ResistHeat`,`ResistMatter`,`ResistNatural`,`ResistSlash`,`ResistSpirit`,`ResistThrust`,`LastTimeRowUpdated`,`Race_ID`) values 
 (1,'Briton',0,0,2,0,0,5,0,3,0,0,'2000-01-01 00:00:00','1'),
 (10,'Firbolg',0,0,3,0,5,0,0,2,0,0,'2000-01-01 00:00:00','10'),
 (11,'Elf',0,0,0,0,0,0,0,2,5,3,'2000-01-01 00:00:00','11'),

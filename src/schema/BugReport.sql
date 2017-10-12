@@ -1,8 +1,6 @@
-/*Table structure for table `bugreport` */
+DROP TABLE IF EXISTS `BugReport`;
 
-DROP TABLE IF EXISTS `bugreport`;
-
-CREATE TABLE `bugreport` (
+CREATE TABLE `BugReport` (
   `ID` int(11) NOT NULL,
   `Message` text NOT NULL,
   `Submitter` text NOT NULL,

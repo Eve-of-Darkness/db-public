@@ -1,8 +1,6 @@
-/*Table structure for table `teleport` */
+DROP TABLE IF EXISTS `Teleport`;
 
-DROP TABLE IF EXISTS `teleport`;
-
-CREATE TABLE `teleport` (
+CREATE TABLE `Teleport` (
   `Type` text NOT NULL,
   `TeleportID` varchar(255) NOT NULL,
   `Realm` int(11) NOT NULL,

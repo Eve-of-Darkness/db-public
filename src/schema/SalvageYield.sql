@@ -1,8 +1,6 @@
-/*Table structure for table `salvageyield` */
+DROP TABLE IF EXISTS `SalvageYield`;
 
-DROP TABLE IF EXISTS `salvageyield`;
-
-CREATE TABLE `salvageyield` (
+CREATE TABLE `SalvageYield` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `ObjectType` int(11) DEFAULT NULL,
   `SalvageLevel` int(11) DEFAULT NULL,

@@ -1,6 +1,4 @@
-/*Data for the table `classxspecialization` */
-
-insert  into `classxspecialization`(`ClassXSpecializationID`,`ClassID`,`SpecKeyName`,`LevelAcquired`,`LastTimeRowUpdated`) values 
+insert  into `ClassXSpecialization`(`ClassXSpecializationID`,`ClassID`,`SpecKeyName`,`LevelAcquired`,`LastTimeRowUpdated`) values 
 (1,NULL,'CharacterCareer',-65535,'2014-09-21 15:34:42'),
 (2,60,'MaulerCareer',-100,'2000-01-01 00:00:00'),
 (3,61,'MaulerCareer',-100,'2000-01-01 00:00:00'),

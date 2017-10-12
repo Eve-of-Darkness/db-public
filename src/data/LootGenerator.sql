@@ -1,6 +1,4 @@
-/*Data for the table `lootgenerator` */
-
-insert  into `lootgenerator`(`MobName`,`MobGuild`,`MobFaction`,`RegionID`,`LootGeneratorClass`,`ExclusivePriority`,`LastTimeRowUpdated`,`LootGenerator_ID`) values 
+insert  into `LootGenerator`(`MobName`,`MobGuild`,`MobFaction`,`RegionID`,`LootGeneratorClass`,`ExclusivePriority`,`LastTimeRowUpdated`,`LootGenerator_ID`) values 
 (NULL,NULL,NULL,130,'DOL.GS.LootGeneratorAtlanteanGlass',0,'2000-01-01 00:00:00','130_AtlanteanGlass'),
 (NULL,NULL,NULL,135,'DOL.GS.LootGeneratorAtlanteanGlass',0,'2000-01-01 00:00:00','135_AtlanteanGlass'),
 (NULL,NULL,NULL,136,'DOL.GS.LootGeneratorAtlanteanGlass',0,'2000-01-01 00:00:00','136_AtlanteanGlass'),

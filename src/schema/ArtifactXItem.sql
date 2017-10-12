@@ -1,8 +1,6 @@
-/*Table structure for table `artifactxitem` */
+DROP TABLE IF EXISTS `ArtifactXItem`;
 
-DROP TABLE IF EXISTS `artifactxitem`;
-
-CREATE TABLE `artifactxitem` (
+CREATE TABLE `ArtifactXItem` (
   `ArtifactID` text NOT NULL,
   `ItemID` text NOT NULL,
   `Version` text NOT NULL,

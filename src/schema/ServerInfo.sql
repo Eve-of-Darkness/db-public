@@ -1,8 +1,6 @@
-/*Table structure for table `serverinfo` */
+DROP TABLE IF EXISTS `ServerInfo`;
 
-DROP TABLE IF EXISTS `serverinfo`;
-
-CREATE TABLE `serverinfo` (
+CREATE TABLE `ServerInfo` (
   `Time` text,
   `ServerName` text,
   `AAC` text,

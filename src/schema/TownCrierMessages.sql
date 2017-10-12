@@ -1,8 +1,6 @@
-/*Table structure for table `towncriermessages` */
+DROP TABLE IF EXISTS `TownCrierMessages`;
 
-DROP TABLE IF EXISTS `towncriermessages`;
-
-CREATE TABLE `towncriermessages` (
+CREATE TABLE `TownCrierMessages` (
   `TownCrierID` varchar(255) NOT NULL,
   `Message` text,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

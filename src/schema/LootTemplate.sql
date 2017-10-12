@@ -1,8 +1,6 @@
-/*Table structure for table `loottemplate` */
+DROP TABLE IF EXISTS `LootTemplate`;
 
-DROP TABLE IF EXISTS `loottemplate`;
-
-CREATE TABLE `loottemplate` (
+CREATE TABLE `LootTemplate` (
   `TemplateName` varchar(255) NOT NULL,
   `ItemTemplateID` text NOT NULL,
   `Chance` int(11) NOT NULL,

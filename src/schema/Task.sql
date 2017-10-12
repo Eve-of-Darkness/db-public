@@ -1,8 +1,6 @@
-/*Table structure for table `task` */
+DROP TABLE IF EXISTS `Task`;
 
-DROP TABLE IF EXISTS `task`;
-
-CREATE TABLE `task` (
+CREATE TABLE `Task` (
   `Character_ID` varchar(255) NOT NULL,
   `TimeOut` datetime DEFAULT NULL,
   `TaskType` text,

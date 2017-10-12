@@ -1,6 +1,4 @@
-/*Data for the table `serverproperty` */
-
-insert  into `serverproperty`(`Category`,`Key`,`Description`,`DefaultValue`,`Value`,`LastTimeRowUpdated`,`ServerProperty_ID`) values 
+insert  into `ServerProperty`(`Category`,`Key`,`Description`,`DefaultValue`,`Value`,`LastTimeRowUpdated`,`ServerProperty_ID`) values 
 ('pve','adventurewing_time_to_destroy','Set the time before Instanced Adventure Wings (Catacombs) are destroy when empty (in minutes).','5','5','2017-01-08 18:50:11','c3d8f8ca-c656-47aa-9546-e96e1c827e67'),
 ('guild','alliance_max','Max Guilds In Alliance - Edit this to change the maximum number of guilds in an alliance -1 = unlimited, 0=disable alliances','-1','-1','2017-01-08 18:50:15','9aca8b3d-da4e-4c9d-b4a6-b6c4a333e261'),
 ('system','allow_all_realms','should we allow characters to be created on all realms using a single account','True','True','2017-01-08 18:49:58','5f3124c5-7a00-4365-8586-9bdcd93dc783'),

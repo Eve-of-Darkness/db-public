@@ -1,8 +1,6 @@
-/*Table structure for table `dbhousecharsxperms` */
+DROP TABLE IF EXISTS `DBHouseCharsXPerms`;
 
-DROP TABLE IF EXISTS `dbhousecharsxperms`;
-
-CREATE TABLE `dbhousecharsxperms` (
+CREATE TABLE `DBHouseCharsXPerms` (
   `HouseNumber` int(11) NOT NULL,
   `PermissionType` int(11) NOT NULL,
   `TargetName` text NOT NULL,

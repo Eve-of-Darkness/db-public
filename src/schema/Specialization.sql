@@ -1,8 +1,6 @@
-/*Table structure for table `specialization` */
+DROP TABLE IF EXISTS `Specialization`;
 
-DROP TABLE IF EXISTS `specialization`;
-
-CREATE TABLE `specialization` (
+CREATE TABLE `Specialization` (
   `SpecializationID` int(11) NOT NULL AUTO_INCREMENT,
   `KeyName` varchar(100) NOT NULL,
   `Name` varchar(255) NOT NULL,

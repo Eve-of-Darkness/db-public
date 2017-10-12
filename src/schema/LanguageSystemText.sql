@@ -1,4 +1,4 @@
-/*Table structure for table `languagesystemtext` */
+/* TODO: Possible delete - LT 10/2017 */
 
 DROP TABLE IF EXISTS `languagesystemtext`;
 

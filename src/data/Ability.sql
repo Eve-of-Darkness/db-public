@@ -1,6 +1,4 @@
-/*Data for the table `ability` */
-
-insert  into `ability`(`AbilityID`,`KeyName`,`Name`,`InternalID`,`Description`,`IconID`,`Implementation`,`LastTimeRowUpdated`) values 
+insert  into `Ability`(`AbilityID`,`KeyName`,`Name`,`InternalID`,`Description`,`IconID`,`Implementation`,`LastTimeRowUpdated`) values 
 (1,'Augmented Strength','Augmented Strength',129,'Increases Strength by the listed amount per level.',0,'DOL.GS.RealmAbilities.RAStrengthEnhancer','2000-01-01 00:00:00'),
 (2,'Stag','Stag %n',130,'Whenever this ability is used, the Hero will shapeshift into a fearsome stag-headed Huntsman from Celtic Lore, and will receive bonus hit points. There are four different levels of of this ability: Initiate(15th level), Member(25th level), Leader(35th level), and Master(45th level). While in this form, the hero has increased hit points - +20% for the 15th level ability up to +50% for the 45th level ability. The ability lasts for thirty seconds - at the end of this time, the hero\'s maximum hits will return to normal, but he keeps any hit point gain from the ability in his current hits.',480,NULL,'2000-01-01 00:00:00'),
 (3,'Weaponry: Blunt','Weaponry: Blunt',32,'The ability to use one-handed blunt weapons of all kinds. Training in the Blunt Skill results in a decreased damage variance and gives you access to the combat styles.',0,NULL,'2000-01-01 00:00:00'),

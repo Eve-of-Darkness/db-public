@@ -1,8 +1,6 @@
-/*Table structure for table `area` */
+DROP TABLE IF EXISTS `Area`;
 
-DROP TABLE IF EXISTS `area`;
-
-CREATE TABLE `area` (
+CREATE TABLE `Area` (
   `TranslationId` text,
   `Description` text NOT NULL,
   `X` int(11) DEFAULT NULL,

@@ -1,8 +1,6 @@
-/*Table structure for table `door` */
+DROP TABLE IF EXISTS `Door`;
 
-DROP TABLE IF EXISTS `door`;
-
-CREATE TABLE `door` (
+CREATE TABLE `Door` (
   `Name` text,
   `Type` int(11) DEFAULT NULL,
   `Z` int(11) DEFAULT NULL,

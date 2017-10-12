@@ -1,8 +1,6 @@
-/*Table structure for table `account` */
+DROP TABLE IF EXISTS `Account`;
 
-DROP TABLE IF EXISTS `account`;
-
-CREATE TABLE `account` (
+CREATE TABLE `Account` (
   `Name` varchar(255) NOT NULL,
   `Password` text NOT NULL,
   `CreationDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

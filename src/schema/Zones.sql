@@ -1,8 +1,6 @@
-/*Table structure for table `zones` */
+DROP TABLE IF EXISTS `Zones`;
 
-DROP TABLE IF EXISTS `zones`;
-
-CREATE TABLE `zones` (
+CREATE TABLE `Zones` (
   `ZoneID` int(11) NOT NULL,
   `RegionID` smallint(5) unsigned NOT NULL,
   `Name` text NOT NULL,

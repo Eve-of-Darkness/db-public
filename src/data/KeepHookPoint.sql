@@ -1,6 +1,4 @@
-/*Data for the table `keephookpoint` */
-
-insert  into `keephookpoint`(`HookPointID`,`KeepComponentSkinID`,`Z`,`Y`,`X`,`Heading`,`Height`,`LastTimeRowUpdated`,`KeepHookPoint_ID`) values 
+insert  into `KeepHookPoint`(`HookPointID`,`KeepComponentSkinID`,`Z`,`Y`,`X`,`Heading`,`Height`,`LastTimeRowUpdated`,`KeepHookPoint_ID`) values 
 (33,0,12,-473,665,0,0,'2000-01-01 00:00:00','0'),
 (129,0,373,-353,374,-58,0,'2000-01-01 00:00:00','1'),
 (2,0,365,-285,564,0,0,'2000-01-01 00:00:00','10'),

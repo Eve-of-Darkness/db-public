@@ -1,8 +1,6 @@
-/*Table structure for table `playerboats` */
+DROP TABLE IF EXISTS `PlayerBoats`;
 
-DROP TABLE IF EXISTS `playerboats`;
-
-CREATE TABLE `playerboats` (
+CREATE TABLE `PlayerBoats` (
   `BoatID` text NOT NULL,
   `BoatOwner` text NOT NULL,
   `BoatName` varchar(255) NOT NULL,

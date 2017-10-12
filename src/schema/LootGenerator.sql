@@ -1,8 +1,6 @@
-/*Table structure for table `lootgenerator` */
+DROP TABLE IF EXISTS `LootGenerator`;
 
-DROP TABLE IF EXISTS `lootgenerator`;
-
-CREATE TABLE `lootgenerator` (
+CREATE TABLE `LootGenerator` (
   `MobName` text,
   `MobGuild` text,
   `MobFaction` text,

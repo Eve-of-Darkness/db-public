@@ -1,8 +1,6 @@
-/*Table structure for table `auditentry` */
+DROP TABLE IF EXISTS `AuditEntry`;
 
-DROP TABLE IF EXISTS `auditentry`;
-
-CREATE TABLE `auditentry` (
+CREATE TABLE `AuditEntry` (
   `AuditTime` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `AccountID` text,
   `RemoteHost` text,
@@ -14,5 +12,3 @@ CREATE TABLE `auditentry` (
   `AuditEntry_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`AuditEntry_ID`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
-/*Data for the table `auditentry` */

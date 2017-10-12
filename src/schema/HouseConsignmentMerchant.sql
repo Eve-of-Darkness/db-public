@@ -1,8 +1,6 @@
-/*Table structure for table `houseconsignmentmerchant` */
+DROP TABLE IF EXISTS `HouseConsignmentMerchant`;
 
-DROP TABLE IF EXISTS `houseconsignmentmerchant`;
-
-CREATE TABLE `houseconsignmentmerchant` (
+CREATE TABLE `HouseConsignmentMerchant` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `OwnerID` varchar(128) NOT NULL,
   `HouseNumber` int(11) NOT NULL,

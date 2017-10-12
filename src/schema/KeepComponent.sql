@@ -1,8 +1,6 @@
-/*Table structure for table `keepcomponent` */
+DROP TABLE IF EXISTS `KeepComponent`;
 
-DROP TABLE IF EXISTS `keepcomponent`;
-
-CREATE TABLE `keepcomponent` (
+CREATE TABLE `KeepComponent` (
   `X` int(11) DEFAULT NULL,
   `Y` int(11) DEFAULT NULL,
   `Heading` int(11) DEFAULT NULL,

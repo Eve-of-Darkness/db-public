@@ -1,6 +1,4 @@
-/*Data for the table `faction` */
-
-insert  into `faction`(`ID`,`Name`,`BaseAggroLevel`,`LastTimeRowUpdated`,`Faction_ID`) values 
+insert  into `Faction`(`ID`,`Name`,`BaseAggroLevel`,`LastTimeRowUpdated`,`Faction_ID`) values 
 (1,'Applesnatchers',100,'2000-01-01 00:00:00','Alb0000001'),
 (2,'Barfog Renegade',100,'2000-01-01 00:00:00','Alb0000002'),
 (3,'Black Mountains Goblins',100,'2000-01-01 00:00:00','Alb0000003'),

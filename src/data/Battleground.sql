@@ -1,6 +1,4 @@
-/*Data for the table `battleground` */
-
-insert  into `battleground`(`RegionID`,`MinLevel`,`MaxLevel`,`MaxRealmLevel`,`LastTimeRowUpdated`,`Battleground_ID`) values 
+insert  into `Battleground`(`RegionID`,`MinLevel`,`MaxLevel`,`MaxRealmLevel`,`LastTimeRowUpdated`,`Battleground_ID`) values 
 (239,25,29,10,'2000-01-01 00:00:00','Braemar (Level 25-29)'),
 (237,45,50,130,'2000-01-01 00:00:00','Drizzle (Level 45-50)'),
 (242,40,44,30,'2000-01-01 00:00:00','Leirvik (Level 40-44)'),

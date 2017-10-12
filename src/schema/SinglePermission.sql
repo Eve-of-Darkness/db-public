@@ -1,8 +1,6 @@
-/*Table structure for table `singlepermission` */
+DROP TABLE IF EXISTS `SinglePermission`;
 
-DROP TABLE IF EXISTS `singlepermission`;
-
-CREATE TABLE `singlepermission` (
+CREATE TABLE `SinglePermission` (
   `PlayerID` varchar(255) NOT NULL,
   `Command` varchar(255) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

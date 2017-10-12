@@ -1,8 +1,6 @@
-/*Table structure for table `craftedxitem` */
+DROP TABLE IF EXISTS `CraftedXItem`;
 
-DROP TABLE IF EXISTS `craftedxitem`;
-
-CREATE TABLE `craftedxitem` (
+CREATE TABLE `CraftedXItem` (
   `CraftedItemId_nb` varchar(255) NOT NULL,
   `IngredientId_nb` text NOT NULL,
   `Count` int(11) NOT NULL,

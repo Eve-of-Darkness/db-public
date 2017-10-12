@@ -1,8 +1,6 @@
-/*Table structure for table `keep` */
+DROP TABLE IF EXISTS `Keep`;
 
-DROP TABLE IF EXISTS `keep`;
-
-CREATE TABLE `keep` (
+CREATE TABLE `Keep` (
   `KeepID` int(11) NOT NULL,
   `Name` text NOT NULL,
   `Region` smallint(5) unsigned NOT NULL,

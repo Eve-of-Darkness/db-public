@@ -1,8 +1,6 @@
-/*Table structure for table `faction` */
+DROP TABLE IF EXISTS `Faction`;
 
-DROP TABLE IF EXISTS `faction`;
-
-CREATE TABLE `faction` (
+CREATE TABLE `Faction` (
   `ID` int(11) NOT NULL,
   `Name` text,
   `BaseAggroLevel` int(11) DEFAULT NULL,

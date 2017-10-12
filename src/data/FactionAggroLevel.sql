@@ -1,6 +1,4 @@
-/*Data for the table `factionaggrolevel` */
-
-insert  into `factionaggrolevel`(`CharacterID`,`FactionID`,`AggroLevel`,`LastTimeRowUpdated`,`FactionAggroLevel_ID`) values 
+insert  into `FactionAggroLevel`(`CharacterID`,`FactionID`,`AggroLevel`,`LastTimeRowUpdated`,`FactionAggroLevel_ID`) values 
 ('ab8aa7ff-6588-4426-913f-d35004fffbc9',57,23,'2000-01-01 00:00:00','03088b31-bf2f-4cc2-a59c-43f2d302a3f1'),
 ('35164b61-c907-4a56-a6e0-f571a8df5829',27,94,'2000-01-01 00:00:00','043dfc16-9620-4bf8-93df-9a0074d2c02f'),
 ('431ffaa7-a067-4508-92b9-49f2294d9cec',30,100,'2000-01-01 00:00:00','057d412a-8c7a-49cb-ba65-2172a2cb6470'),

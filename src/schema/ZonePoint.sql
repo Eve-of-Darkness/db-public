@@ -1,8 +1,6 @@
-/*Table structure for table `zonepoint` */
+DROP TABLE IF EXISTS `ZonePoint`;
 
-DROP TABLE IF EXISTS `zonepoint`;
-
-CREATE TABLE `zonepoint` (
+CREATE TABLE `ZonePoint` (
   `Id` smallint(5) unsigned NOT NULL,
   `TargetX` int(11) DEFAULT NULL,
   `TargetY` int(11) DEFAULT NULL,

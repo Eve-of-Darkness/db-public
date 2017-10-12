@@ -1,6 +1,4 @@
-/*Data for the table `style` */
-
-insert  into `style`(`StyleID`,`ID`,`ClassId`,`Name`,`SpecKeyName`,`SpecLevelRequirement`,`Icon`,`EnduranceCost`,`StealthRequirement`,`OpeningRequirementType`,`OpeningRequirementValue`,`AttackResultRequirement`,`WeaponTypeRequirement`,`GrowthOffset`,`GrowthRate`,`BonusToHit`,`BonusToDefense`,`TwoHandAnimation`,`RandomProc`,`ArmorHitLocation`,`LastTimeRowUpdated`) values 
+insert  into `Style`(`StyleID`,`ID`,`ClassId`,`Name`,`SpecKeyName`,`SpecLevelRequirement`,`Icon`,`EnduranceCost`,`StealthRequirement`,`OpeningRequirementType`,`OpeningRequirementValue`,`AttackResultRequirement`,`WeaponTypeRequirement`,`GrowthOffset`,`GrowthRate`,`BonusToHit`,`BonusToDefense`,`TwoHandAnimation`,`RandomProc`,`ArmorHitLocation`,`LastTimeRowUpdated`) values 
 (1,527,14,'Emerald Slash','Slash',2,66,5,0,0,56,0,3,NULL,0.15,10,0,66,0,0,'2000-01-01 00:00:00'),
 (2,528,14,'Sever','Thrust',2,449,5,0,0,131,7,4,NULL,0.15,10,0,449,0,0,'2000-01-01 00:00:00'),
 (3,57,17,'Cross Slash','Slash',4,57,5,0,2,2,0,3,NULL,0.6,10,10,57,0,0,'2000-01-01 00:00:00'),

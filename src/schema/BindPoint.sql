@@ -1,8 +1,6 @@
-/*Table structure for table `bindpoint` */
+DROP TABLE IF EXISTS `BindPoint`;
 
-DROP TABLE IF EXISTS `bindpoint`;
-
-CREATE TABLE `bindpoint` (
+CREATE TABLE `BindPoint` (
   `X` int(11) NOT NULL,
   `Y` int(11) NOT NULL,
   `Z` int(11) NOT NULL,

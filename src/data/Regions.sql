@@ -1,6 +1,4 @@
-/*Data for the table `regions` */
-
-insert  into `regions`(`RegionID`,`Name`,`Description`,`IP`,`Port`,`Expansion`,`HousingEnabled`,`DivingEnabled`,`WaterLevel`,`ClassType`,`IsFrontier`,`LastTimeRowUpdated`,`Regions_ID`) values 
+insert  into `Regions`(`RegionID`,`Name`,`Description`,`IP`,`Port`,`Expansion`,`HousingEnabled`,`DivingEnabled`,`WaterLevel`,`ClassType`,`IsFrontier`,`LastTimeRowUpdated`,`Regions_ID`) values 
 (1,'Region001','Albion','127.0.0.1',10400,0,0,1,0,'',0,'2017-01-08 18:50:38','94029576-ba5d-4bcc-94d3-33ab1714926f'),
 (2,'Region002','Albion Housing','127.0.0.1',10400,0,1,0,0,'',0,'2017-01-08 18:50:38','338c285b-6437-40ba-adf8-87ea87432ef1'),
 (10,'Region010','Camelot City','127.0.0.1',10400,0,0,0,0,'',0,'2017-01-08 18:50:38','8badd7c7-9979-4a4b-82a5-3db4c5d0b305'),

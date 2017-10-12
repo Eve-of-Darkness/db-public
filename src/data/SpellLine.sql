@@ -1,6 +1,4 @@
-/*Data for the table `spellline` */
-
-insert  into `spellline`(`SpellLineID`,`KeyName`,`Name`,`Spec`,`IsBaseLine`,`ClassIDHint`,`LastTimeRowUpdated`) values 
+insert  into `SpellLine`(`SpellLineID`,`KeyName`,`Name`,`Spec`,`IsBaseLine`,`ClassIDHint`,`LastTimeRowUpdated`) values 
 (1,'Verdant Path Spec Pet','Verdant Path Spec Pet','Verdant Path Spec Pet',1,NULL,'2000-01-01 00:00:00'),
 (2,'Spectral Force','Spectral Force','Spectral Guard',1,NULL,'2000-01-01 00:00:00'),
 (3,'Spectral Guard','Spectral Guard','Spectral Guard',0,NULL,'2000-01-01 00:00:00'),

@@ -1,8 +1,6 @@
-/*Table structure for table `guild` */
+DROP TABLE IF EXISTS `Guild`;
 
-DROP TABLE IF EXISTS `guild`;
-
-CREATE TABLE `guild` (
+CREATE TABLE `Guild` (
   `GuildID` varchar(255) DEFAULT NULL,
   `GuildName` varchar(255) DEFAULT NULL,
   `Realm` tinyint(3) unsigned DEFAULT NULL,

@@ -1,8 +1,6 @@
-/*Table structure for table `starterequipment` */
+DROP TABLE IF EXISTS `StarterEquipment`;
 
-DROP TABLE IF EXISTS `starterequipment`;
-
-CREATE TABLE `starterequipment` (
+CREATE TABLE `StarterEquipment` (
   `StarterEquipmentID` int(11) NOT NULL AUTO_INCREMENT,
   `Class` text NOT NULL,
   `TemplateID` varchar(255) NOT NULL,

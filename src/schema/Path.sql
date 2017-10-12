@@ -1,8 +1,6 @@
-/*Table structure for table `path` */
+DROP TABLE IF EXISTS `Path`;
 
-DROP TABLE IF EXISTS `path`;
-
-CREATE TABLE `path` (
+CREATE TABLE `Path` (
   `PathID` varchar(255) NOT NULL,
   `PathType` int(11) NOT NULL,
   `RegionID` smallint(5) unsigned DEFAULT NULL,

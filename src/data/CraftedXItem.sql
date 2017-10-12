@@ -1,6 +1,4 @@
-/*Data for the table `craftedxitem` */
-
-insert  into `craftedxitem`(`CraftedItemId_nb`,`IngredientId_nb`,`Count`,`LastTimeRowUpdated`,`CraftedXItem_ID`) values 
+insert  into `CraftedXItem`(`CraftedItemId_nb`,`IngredientId_nb`,`Count`,`LastTimeRowUpdated`,`CraftedXItem_ID`) values 
 ('Flawed_Blood_Essence_Jewel2','essence_of_life2',13,'2000-01-01 00:00:00','0001ee80-0dee-45ab-b24a-48584df17415'),
 ('woolen_cloak3','woolen_cloth_squares3',5,'2000-01-01 00:00:00','0002b7ad-69f8-4f65-ac4f-37726221f0e0'),
 ('ironwood_tower_shield3','ironwood_wooden_boards3',3,'2000-01-01 00:00:00','000df81b-db9b-44b6-b3ae-2a4e0368a89e'),

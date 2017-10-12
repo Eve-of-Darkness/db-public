@@ -1,8 +1,6 @@
-/*Table structure for table `worldobject` */
+DROP TABLE IF EXISTS `WorldObject`;
 
-DROP TABLE IF EXISTS `worldobject`;
-
-CREATE TABLE `worldobject` (
+CREATE TABLE `WorldObject` (
   `ClassType` text,
   `TranslationId` text,
   `Name` text NOT NULL,

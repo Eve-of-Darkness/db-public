@@ -1,6 +1,4 @@
-/*Data for the table `keepcomponent` */
-
-insert  into `keepcomponent`(`X`,`Y`,`Heading`,`Health`,`Skin`,`KeepID`,`ID`,`CreateInfo`,`LastTimeRowUpdated`,`KeepComponent_ID`) values 
+insert  into `KeepComponent`(`X`,`Y`,`Heading`,`Health`,`Skin`,`KeepID`,`ID`,`CreateInfo`,`LastTimeRowUpdated`,`KeepComponent_ID`) values 
 (6,1,3,39200,1,101,8,'','2000-01-01 00:00:00','00030ab4-e2f8-4137-a0ea-ae81e617d5c8'),
 (10,2,2,30000,4,646,11,'','2000-01-01 00:00:00','009822bc-22ba-48a0-be1d-50bc1345ebdc'),
 (253,253,3,31200,10,132,13,'','2000-01-01 00:00:00','00b2f664-ddd5-4246-86ba-aa50eb56c25d'),

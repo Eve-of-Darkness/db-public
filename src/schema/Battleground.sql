@@ -1,8 +1,6 @@
-/*Table structure for table `battleground` */
+DROP TABLE IF EXISTS `Battleground`;
 
-DROP TABLE IF EXISTS `battleground`;
-
-CREATE TABLE `battleground` (
+CREATE TABLE `Battleground` (
   `RegionID` smallint(5) unsigned NOT NULL,
   `MinLevel` tinyint(3) unsigned NOT NULL,
   `MaxLevel` tinyint(3) unsigned NOT NULL,

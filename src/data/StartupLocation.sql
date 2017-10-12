@@ -1,6 +1,4 @@
-/*Data for the table `startuplocation` */
-
-insert  into `startuplocation`(`StartupLoc_ID`,`XPos`,`YPos`,`ZPos`,`Heading`,`Region`,`MinVersion`,`RealmID`,`RaceID`,`ClassID`,`ClientRegionID`,`LastTimeRowUpdated`) values 
+insert  into `StartupLocation`(`StartupLoc_ID`,`XPos`,`YPos`,`ZPos`,`Heading`,`Region`,`MinVersion`,`RealmID`,`RaceID`,`ClassID`,`ClientRegionID`,`LastTimeRowUpdated`) values 
 (1,422985,445853,5952,307,181,0,0,21,52,181,'2017-01-08 18:50:38'),
 (2,422985,445853,5952,307,181,0,0,21,53,181,'2017-01-08 18:50:38'),
 (3,287682,355297,3488,1536,151,0,0,20,37,151,'2017-01-08 18:50:38'),

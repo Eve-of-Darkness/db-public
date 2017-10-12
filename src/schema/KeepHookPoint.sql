@@ -1,8 +1,6 @@
-/*Table structure for table `keephookpoint` */
+DROP TABLE IF EXISTS `KeepHookPoint`;
 
-DROP TABLE IF EXISTS `keephookpoint`;
-
-CREATE TABLE `keephookpoint` (
+CREATE TABLE `KeepHookPoint` (
   `HookPointID` int(11) NOT NULL,
   `KeepComponentSkinID` int(11) NOT NULL,
   `Z` int(11) DEFAULT NULL,

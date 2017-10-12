@@ -1,6 +1,4 @@
-/*Data for the table `teleport` */
-
-insert  into `teleport`(`Type`,`TeleportID`,`Realm`,`RegionID`,`X`,`Y`,`Z`,`Heading`,`LastTimeRowUpdated`,`Teleport_ID`) values 
+insert  into `Teleport`(`Type`,`TeleportID`,`Realm`,`RegionID`,`X`,`Y`,`Z`,`Heading`,`LastTimeRowUpdated`,`Teleport_ID`) values 
 ('Midgard Town Teleporter','Midgard Town',2,163,597650,304878,8088,3151,'2000-01-01 00:00:00','0224aef6-3cdd-49a2-97f8-c2d694f9c283'),
 ('Mid Training Teleporter','Jordheim',1,101,31665,27495,8800,3077,'2000-01-01 00:00:00','04359c4b-8eea-4989-967f-5d836b704c29'),
 ('Djinn','Druim Ligen',3,200,334435,419941,5184,184,'2000-01-01 00:00:00','0441c39c-bf5d-4633-b27b-49e10bfcff57'),

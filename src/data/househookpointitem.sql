@@ -1,5 +1,3 @@
-/*Data for the table `househookpointitem` */
-
 insert  into `househookpointitem`(`ID`,`HouseNumber`,`HookpointID`,`Heading`,`ItemTemplateID`,`Index`,`LastTimeRowUpdated`) values 
 (2609,5175,10,0,'d2_housing_forge',0,'2000-01-01 00:00:00'),
 (2610,5175,27,1468,'d2_housing_mid_vault',0,'2000-01-01 00:00:00'),

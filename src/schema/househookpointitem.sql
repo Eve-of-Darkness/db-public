@@ -1,5 +1,3 @@
-/*Table structure for table `househookpointitem` */
-
 DROP TABLE IF EXISTS `househookpointitem`;
 
 CREATE TABLE `househookpointitem` (

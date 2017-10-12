@@ -1,8 +1,6 @@
-/*Table structure for table `dolcharactersbackupxcustomparam` */
+DROP TABLE IF EXISTS `DOLCharactersBackupXCustomParam`;
 
-DROP TABLE IF EXISTS `dolcharactersbackupxcustomparam`;
-
-CREATE TABLE `dolcharactersbackupxcustomparam` (
+CREATE TABLE `DOLCharactersBackupXCustomParam` (
   `DOLCharactersObjectId` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

@@ -1,6 +1,4 @@
-/*Data for the table `loottemplate` */
-
-insert  into `loottemplate`(`TemplateName`,`ItemTemplateID`,`Chance`,`Count`,`LastTimeRowUpdated`,`LootTemplate_ID`) values 
+insert  into `LootTemplate`(`TemplateName`,`ItemTemplateID`,`Chance`,`Count`,`LastTimeRowUpdated`,`LootTemplate_ID`) values 
 ('peallaidh','Peallaidh_Hide',20,0,'2000-01-01 00:00:00',' Peallaidh_Hide'),
 ('anger sprite','Elven_Gossamer_Gloves',35,0,'2000-01-01 00:00:00','00009baa-02d2-4d2b-8723-30b92afe9158'),
 ('forest giant','Forester\'s_Leggings',20,0,'2000-01-01 00:00:00','0009faa3-54cd-42cb-9e02-4f2a2cb424b0'),

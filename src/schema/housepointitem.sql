@@ -1,4 +1,4 @@
-/*Table structure for table `housepointitem` */
+/* TODO: Possibly delete - LT 10/2017 */
 
 DROP TABLE IF EXISTS `housepointitem`;
 

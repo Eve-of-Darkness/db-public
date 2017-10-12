@@ -1,6 +1,4 @@
-/*Data for the table `inventory` */
-
-insert  into `inventory`(`OwnerID`,`OwnerLot`,`ITemplate_Id`,`UTemplate_Id`,`IsCrafted`,`Creator`,`SlotPosition`,`Count`,`SellPrice`,`Experience`,`Color`,`Emblem`,`Extension`,`Condition`,`Durability`,`PoisonSpellID`,`PoisonMaxCharges`,`PoisonCharges`,`Charges`,`Charges1`,`Cooldown`,`LastTimeRowUpdated`,`Inventory_ID`) values 
+insert  into `Inventory`(`OwnerID`,`OwnerLot`,`ITemplate_Id`,`UTemplate_Id`,`IsCrafted`,`Creator`,`SlotPosition`,`Count`,`SellPrice`,`Experience`,`Color`,`Emblem`,`Extension`,`Condition`,`Durability`,`PoisonSpellID`,`PoisonMaxCharges`,`PoisonCharges`,`Charges`,`Charges1`,`Cooldown`,`LastTimeRowUpdated`,`Inventory_ID`) values 
 ('7f68f707-a855-4f86-b85f-7c60be788bbe',0,'woolen_cloth_cap','',0,'',47,1,0,0,0,0,0,50000,50000,0,0,0,0,0,0,'2015-10-07 10:21:26','00382424-dfb7-4ccb-9ad5-b36d66048b0a'),
 ('1851bc99-652d-4fe6-861f-55b7fd758cc7',0,'bronze_studded_gauntlets',NULL,0,'',22,1,0,0,0,0,0,50000,50000,0,0,0,0,0,0,'2017-03-12 14:24:19','004611cd-c776-435f-aabf-4641ecf92d4b'),
 ('1ee4221b-3b25-403b-8608-bc423caa097d',0,'Personal_Bind_Recall_Stone','',0,'',78,1,0,0,0,0,1,50000,50000,0,0,0,0,0,0,'2015-10-20 14:32:52','007ccae2-01f7-4ba0-80e9-9b346ff537bb'),

@@ -1,8 +1,6 @@
-/*Table structure for table `pathpoints` */
+DROP TABLE IF EXISTS `PathPoints`;
 
-DROP TABLE IF EXISTS `pathpoints`;
-
-CREATE TABLE `pathpoints` (
+CREATE TABLE `PathPoints` (
   `PathID` varchar(255) NOT NULL,
   `Step` int(11) NOT NULL,
   `X` int(11) NOT NULL,

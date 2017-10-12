@@ -1,4 +1,4 @@
-/*Data for the table `language` */
+/* TODO: Possible delete - LT 10/2017 */
 
 insert  into `language`(`TranslationID`,`EN`,`ES`,`DE`,`CZ`,`FR`,`IT`,`CU`,`PackageID`,`Language_ID`,`LastTimeRowUpdated`) values 
 ('GamePlayer.PlayerRace.Male.Dwarf','Dwarf',NULL,'Zwerg',NULL,'','','','','0004beeb-e29d-4aad-90c2-7c031b55240a','2000-01-01 00:00:00'),

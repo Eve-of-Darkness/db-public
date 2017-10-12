@@ -1,8 +1,6 @@
-/*Table structure for table `guildrank` */
+DROP TABLE IF EXISTS `GuildRank`;
 
-DROP TABLE IF EXISTS `guildrank`;
-
-CREATE TABLE `guildrank` (
+CREATE TABLE `GuildRank` (
   `GuildID` varchar(255) DEFAULT NULL,
   `Title` text,
   `RankLevel` tinyint(3) unsigned DEFAULT NULL,

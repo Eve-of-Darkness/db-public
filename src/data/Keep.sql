@@ -1,6 +1,4 @@
-/*Data for the table `keep` */
-
-insert  into `keep`(`KeepID`,`Name`,`Region`,`X`,`Y`,`Z`,`Heading`,`Realm`,`Level`,`ClaimedGuildName`,`AlbionDifficultyLevel`,`MidgardDifficultyLevel`,`HiberniaDifficultyLevel`,`OriginalRealm`,`KeepType`,`BaseLevel`,`SkinType`,`CreateInfo`,`LastTimeRowUpdated`,`Keep_ID`) values 
+insert  into `Keep`(`KeepID`,`Name`,`Region`,`X`,`Y`,`Z`,`Heading`,`Realm`,`Level`,`ClaimedGuildName`,`AlbionDifficultyLevel`,`MidgardDifficultyLevel`,`HiberniaDifficultyLevel`,`OriginalRealm`,`KeepType`,`BaseLevel`,`SkinType`,`CreateInfo`,`LastTimeRowUpdated`,`Keep_ID`) values 
 (1,'Albion Portal Keep',165,583575,584548,4896,1988,1,0,NULL,NULL,NULL,NULL,1,NULL,100,NULL,'','2000-01-01 00:00:00','CathalAPK'),
 (2,'Midgard Portal Keep',165,574386,538221,4832,571,2,0,NULL,NULL,NULL,NULL,2,NULL,100,NULL,'','2000-01-01 00:00:00','CathalMPK'),
 (3,'Hibernia Portal Keep',165,536186,584836,5800,1791,3,0,NULL,NULL,NULL,NULL,3,NULL,100,NULL,'','2000-01-01 00:00:00','CathalHPK'),

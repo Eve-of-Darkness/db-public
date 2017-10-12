@@ -1,6 +1,4 @@
-/*Data for the table `crafteditem` */
-
-insert  into `crafteditem`(`CraftedItemID`,`Id_nb`,`CraftingLevel`,`CraftingSkillType`,`MakeTemplated`,`LastTimeRowUpdated`,`CraftedItem_ID`) values 
+insert  into `CraftedItem`(`CraftedItemID`,`Id_nb`,`CraftingLevel`,`CraftingSkillType`,`MakeTemplated`,`LastTimeRowUpdated`,`CraftedItem_ID`) values 
 ('10','orange_cloth_dye',208,4,1,'2000-01-01 00:00:00','1'),
 ('100','mauve_leather_dye',835,4,1,'2000-01-01 00:00:00','2'),
 ('1000','arcanium_scaled_plate_boots',985,2,0,'2000-01-01 00:00:00','3'),

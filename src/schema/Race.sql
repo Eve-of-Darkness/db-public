@@ -1,8 +1,6 @@
-/*Table structure for table `race` */
+DROP TABLE IF EXISTS `Race`;
 
-DROP TABLE IF EXISTS `race`;
-
-CREATE TABLE `race` (
+CREATE TABLE `Race` (
   `ID` int(11) NOT NULL,
   `Name` varchar(255) NOT NULL,
   `ResistBody` tinyint(3) DEFAULT NULL,

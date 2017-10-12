@@ -1,8 +1,6 @@
-/*Table structure for table `dataquest` */
+DROP TABLE IF EXISTS `DataQuest`;
 
-DROP TABLE IF EXISTS `dataquest`;
-
-CREATE TABLE `dataquest` (
+CREATE TABLE `DataQuest` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Name` varchar(255) NOT NULL,
   `StartType` tinyint(3) unsigned NOT NULL,

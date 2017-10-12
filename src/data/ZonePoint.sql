@@ -1,6 +1,4 @@
-/*Data for the table `zonepoint` */
-
-insert  into `zonepoint`(`Id`,`TargetX`,`TargetY`,`TargetZ`,`TargetRegion`,`TargetHeading`,`SourceX`,`SourceY`,`SourceZ`,`SourceRegion`,`Realm`,`ClassType`,`LastTimeRowUpdated`,`ZonePoint_ID`) values 
+insert  into `ZonePoint`(`Id`,`TargetX`,`TargetY`,`TargetZ`,`TargetRegion`,`TargetHeading`,`SourceX`,`SourceY`,`SourceZ`,`SourceRegion`,`Realm`,`ClassType`,`LastTimeRowUpdated`,`ZonePoint_ID`) values 
 (664,27492,61743,7296,335,3185,NULL,NULL,NULL,NULL,1,'','2000-01-01 00:00:00','001eb050-10ee-418b-a788-7da6703ee530'),
 (666,20948,24009,24571,348,1058,27292,61700,7296,330,1,'','2000-01-01 00:00:00','0094af1c-2af9-417d-9a09-a4bd62492470'),
 (665,51917,39686,4692,335,3561,NULL,NULL,NULL,NULL,1,'','2000-01-01 00:00:00','03b02ede-6433-4660-a56f-a54eb5b7ab20'),

@@ -1,8 +1,6 @@
-/*Table structure for table `specxability` */
+DROP TABLE IF EXISTS `SpecXAbility`;
 
-DROP TABLE IF EXISTS `specxability`;
-
-CREATE TABLE `specxability` (
+CREATE TABLE `SpecXAbility` (
   `SpecXabilityID` int(11) NOT NULL AUTO_INCREMENT,
   `Spec` varchar(100) NOT NULL,
   `SpecLevel` int(11) NOT NULL,

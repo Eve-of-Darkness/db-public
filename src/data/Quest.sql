@@ -1,6 +1,4 @@
-/*Data for the table `quest` */
-
-insert  into `quest`(`Name`,`Step`,`Character_ID`,`CustomPropertiesString`,`LastTimeRowUpdated`,`Quest_ID`) values 
+insert  into `Quest`(`Name`,`Step`,`Character_ID`,`CustomPropertiesString`,`LastTimeRowUpdated`,`Quest_ID`) values 
 ('DOL.GS.Quests.Albion.NoHopeForTheHopeful',-1,'72e5f24f-bdb0-4272-bb95-6d843cf77f84','goal1Target=2;goal1Current=2;','2000-01-01 00:00:00','0038ef40-b3d1-47bf-b9b8-77109f2d6668'),
 ('DOL.GS.Quests.Albion.childsplay',1,'f7deee77-2093-45e2-a0d3-5a4be1928142','','2000-01-01 00:00:00','03448f5c-4d58-4427-aa97-682421cba9c7'),
 ('DOL.GS.Quests.Hibernia.childsplay',1,'11bc8df8-e177-47d6-9e52-1f9a687800a9','','2000-01-01 00:00:00','0dac886c-9733-467a-be03-fd9079f5b231'),

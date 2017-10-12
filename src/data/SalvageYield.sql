@@ -1,6 +1,4 @@
-/*Data for the table `salvageyield` */
-
-insert  into `salvageyield`(`ID`,`ObjectType`,`SalvageLevel`,`MaterialId_nb`,`Count`,`Realm`,`PackageID`,`LastTimeRowUpdated`) values 
+insert  into `SalvageYield`(`ID`,`ObjectType`,`SalvageLevel`,`MaterialId_nb`,`Count`,`Realm`,`PackageID`,`LastTimeRowUpdated`) values 
 (1,26,9,'arcanite_metal_bars',0,0,'legacy_salvage_donotdelete','2000-01-01 00:00:00'),
 (2,5,0,'rowan_wooden_boards',0,0,'legacy_salvage_donotdelete','2000-01-01 00:00:00'),
 (3,38,1,'ferrite_metal_bars',0,0,'legacy_salvage_donotdelete','2000-01-01 00:00:00'),

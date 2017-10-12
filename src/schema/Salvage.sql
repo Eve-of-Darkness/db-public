@@ -1,8 +1,6 @@
-/*Table structure for table `salvage` */
+DROP TABLE IF EXISTS `Salvage`;
 
-DROP TABLE IF EXISTS `salvage`;
-
-CREATE TABLE `salvage` (
+CREATE TABLE `Salvage` (
   `ObjectType` int(11) NOT NULL,
   `SalvageLevel` int(11) NOT NULL,
   `Id_nb` text NOT NULL,

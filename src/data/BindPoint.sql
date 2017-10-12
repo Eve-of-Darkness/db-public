@@ -1,6 +1,4 @@
-/*Data for the table `bindpoint` */
-
-insert  into `bindpoint`(`X`,`Y`,`Z`,`Radius`,`Region`,`Realm`,`LastTimeRowUpdated`,`BindPoint_ID`) values 
+insert  into `BindPoint`(`X`,`Y`,`Z`,`Radius`,`Region`,`Realm`,`LastTimeRowUpdated`,`BindPoint_ID`) values 
 (344452,491649,5188,750,200,0,'2000-01-01 00:00:00','03065286-d7d3-4644-a84b-3afb3200c6db'),
 (531481,479508,2280,750,1,0,'2000-01-01 00:00:00','044786ed-4db8-4abd-a08b-1bc31a88ca7e'),
 (803816,726487,4776,750,100,NULL,'2000-01-01 00:00:00','06028c39-a4b4-4942-9c75-11a09f7dfd9b'),

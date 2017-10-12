@@ -1,8 +1,6 @@
-/*Table structure for table `instancexelement` */
+DROP TABLE IF EXISTS `InstanceXElement`;
 
-DROP TABLE IF EXISTS `instancexelement`;
-
-CREATE TABLE `instancexelement` (
+CREATE TABLE `InstanceXElement` (
   `InstanceID` varchar(255) NOT NULL,
   `ClassType` text,
   `X` int(11) NOT NULL,

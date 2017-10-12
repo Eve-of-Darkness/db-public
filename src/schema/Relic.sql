@@ -1,8 +1,6 @@
-/*Table structure for table `relic` */
+DROP TABLE IF EXISTS `Relic`;
 
-DROP TABLE IF EXISTS `relic`;
-
-CREATE TABLE `relic` (
+CREATE TABLE `Relic` (
   `RelicID` int(11) NOT NULL,
   `Region` int(11) NOT NULL,
   `X` int(11) NOT NULL,

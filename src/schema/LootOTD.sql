@@ -1,8 +1,6 @@
-/*Table structure for table `loototd` */
+DROP TABLE IF EXISTS `LootOTD`;
 
-DROP TABLE IF EXISTS `loototd`;
-
-CREATE TABLE `loototd` (
+CREATE TABLE `LootOTD` (
   `MobName` varchar(100) NOT NULL,
   `ItemTemplateID` varchar(100) NOT NULL,
   `MinLevel` int(11) NOT NULL,

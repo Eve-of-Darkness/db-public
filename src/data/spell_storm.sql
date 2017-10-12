@@ -1,4 +1,4 @@
-/*Data for the table `spell_storm` */
+/* TODO: Possible delete - LT 10/2017 */
 
 insert  into `spell_storm`(`Spell_ID`,`SpellID`,`ClientEffect`,`Icon`,`Name`,`Description`,`Target`,`Range`,`Power`,`CastTime`,`Damage`,`DamageType`,`Type`,`Duration`,`Frequency`,`Pulse`,`PulsePower`,`Radius`,`RecastDelay`,`ResurrectHealth`,`ResurrectMana`,`Value`,`Concentration`,`LifeDrainReturn`,`AmnesiaChance`,`Message1`,`Message2`,`Message3`,`Message4`,`InstrumentRequirement`,`SpellGroup`,`EffectGroup`,`SubSpellID`,`MoveCast`,`Uninterruptible`,`IsPrimary`,`IsSecondary`,`AllowBolt`,`SharedTimerGroup`,`PackageID`,`IsFocus`,`LastTimeRowUpdated`,`TooltipId`,`Params`) values 
 ('0008dc64-626c-493b-bea8-04d1d6028c43',5303,5303,5303,'Lullaby','Mob Target hate list is cleared it becomes very easy for other group members to distract.','Enemy',2300,13,0,0,0,'Amnesia',0,0,0,0,175,10,0,0,0,0,0,84,'','','','',0,300,NULL,NULL,NULL,NULL,NULL,NULL,NULL,25,'Bard',0,'2000-01-01 00:00:00',1,NULL),

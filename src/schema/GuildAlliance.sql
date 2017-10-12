@@ -1,8 +1,6 @@
-/*Table structure for table `guildalliance` */
+DROP TABLE IF EXISTS `GuildAlliance`;
 
-DROP TABLE IF EXISTS `guildalliance`;
-
-CREATE TABLE `guildalliance` (
+CREATE TABLE `GuildAlliance` (
   `AllianceName` text,
   `Motd` text,
   `LeaderGuildID` varchar(255) DEFAULT NULL,

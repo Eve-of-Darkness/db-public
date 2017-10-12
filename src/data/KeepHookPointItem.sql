@@ -1,6 +1,4 @@
-/*Data for the table `keephookpointitem` */
-
-insert  into `keephookpointitem`(`KeepID`,`ComponentID`,`HookPointID`,`ClassType`,`LastTimeRowUpdated`,`KeepHookPointItem_ID`) values 
+insert  into `KeepHookPointItem`(`KeepID`,`ComponentID`,`HookPointID`,`ClassType`,`LastTimeRowUpdated`,`KeepHookPointItem_ID`) values 
 (50,19,97,'DOL.GS.GameSiegeTrebuchet','2000-01-01 00:00:00','000724fb-136c-442f-be44-cebb3049983b'),
 (51,9,3,'DOL.GS.Keeps.GuardStaticArcher','2000-01-01 00:00:00','0019b4a8-9288-4d7b-a960-211a7ac5e958'),
 (51,14,2,'DOL.GS.Keeps.GuardStaticArcher','2000-01-01 00:00:00','00a83b06-c1e9-47bd-9efe-8b65d921b6e6'),

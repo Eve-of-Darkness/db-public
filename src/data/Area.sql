@@ -1,6 +1,4 @@
-/*Data for the table `area` */
-
-insert  into `area`(`TranslationId`,`Description`,`X`,`Y`,`Z`,`Radius`,`Region`,`ClassType`,`CanBroadcast`,`Sound`,`CheckLOS`,`Points`,`LastTimeRowUpdated`,`Area_ID`) values 
+insert  into `Area`(`TranslationId`,`Description`,`X`,`Y`,`Z`,`Radius`,`Region`,`ClassType`,`CanBroadcast`,`Sound`,`CheckLOS`,`Points`,`LastTimeRowUpdated`,`Area_ID`) values 
 (NULL,'Camelot Bind Area',35564,27157,8448,15000,10,'DOL.GS.Area+BindArea',1,0,0,NULL,'2000-01-01 00:00:00','06307389-7762-4d8e-a3c3-4aeee1683df6'),
 (NULL,'Jordheim Bind Area',33344,32137,8469,15000,101,'DOL.GS.Area+BindArea',1,0,0,NULL,'2000-01-01 00:00:00','264f34dd-09fb-4996-b379-3c36030dbeef'),
 (NULL,'Godrborg',597394,304815,8088,2000,163,'DOL.GS.Area+Circle',1,0,0,NULL,'2000-01-01 00:00:00','36147893-ce79-4a9f-9b13-38f63c76dcdd'),

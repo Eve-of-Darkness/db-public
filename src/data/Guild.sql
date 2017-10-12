@@ -1,6 +1,4 @@
-/*Data for the table `guild` */
-
-insert  into `guild`(`GuildID`,`GuildName`,`Realm`,`GuildBanner`,`GuildBannerLostTime`,`Motd`,`oMotd`,`AllianceID`,`Emblem`,`RealmPoints`,`BountyPoints`,`Webpage`,`Email`,`Dues`,`Bank`,`DuesPercent`,`HaveGuildHouse`,`GuildHouseNumber`,`GuildLevel`,`BonusType`,`BonusStartTime`,`MeritPoints`,`LastTimeRowUpdated`,`Guild_ID`) values 
+insert  into `Guild`(`GuildID`,`GuildName`,`Realm`,`GuildBanner`,`GuildBannerLostTime`,`Motd`,`oMotd`,`AllianceID`,`Emblem`,`RealmPoints`,`BountyPoints`,`Webpage`,`Email`,`Dues`,`Bank`,`DuesPercent`,`HaveGuildHouse`,`GuildHouseNumber`,`GuildLevel`,`BonusType`,`BonusStartTime`,`MeritPoints`,`LastTimeRowUpdated`,`Guild_ID`) values 
 ('074e99e8-d322-403d-9ac8-b12c4a8214e5','Mularn Protectors',2,0,'2000-01-01 00:00:00','Use /gu <text> to talk in this starter guild.','Type /gc quit to leave this starter guild.','',0,0,0,'','',0,0,0,0,0,0,0,'2000-01-01 00:00:00',6,'2017-03-11 13:39:49','074fcc94-8c41-473c-aca3-b7a50521f82e'),
 ('f3e86284-eb37-480a-bc47-e8a1aee3f272','DOL Staff',2,0,'2000-01-01 00:00:00','','','',0,0,0,'','',0,0,0,0,0,0,0,'2000-01-01 00:00:00',0,'2016-07-06 10:51:13','0cd0396c-30fa-4809-92c9-7f55d996b7fc'),
 ('3a115775-bcb9-4ae1-a2c6-346054a3e4eb','Tir na Nog Adventurers',3,0,'2000-01-01 00:00:00','Use /gu <text> to talk in this starter guild.','Type /gc quit to leave this starter guild.',NULL,0,0,0,'','',0,0,0,0,0,0,0,'2000-01-01 00:00:00',0,'2017-03-12 12:01:26','16d38bd5-67cd-497f-9d08-c798f5050073'),

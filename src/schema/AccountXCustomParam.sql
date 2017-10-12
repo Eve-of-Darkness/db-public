@@ -1,8 +1,6 @@
-/*Table structure for table `accountxcustomparam` */
+DROP TABLE IF EXISTS `AccountXCustomParam`;
 
-DROP TABLE IF EXISTS `accountxcustomparam`;
-
-CREATE TABLE `accountxcustomparam` (
+CREATE TABLE `AccountXCustomParam` (
   `Name` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

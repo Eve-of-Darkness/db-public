@@ -1,8 +1,6 @@
-/*Table structure for table `artifactbonus` */
+DROP TABLE IF EXISTS `ArtifactBonus`;
 
-DROP TABLE IF EXISTS `artifactbonus`;
-
-CREATE TABLE `artifactbonus` (
+CREATE TABLE `ArtifactBonus` (
   `ArtifactID` text NOT NULL,
   `BonusID` int(11) NOT NULL,
   `Level` int(11) NOT NULL,

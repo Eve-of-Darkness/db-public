@@ -1,8 +1,6 @@
-/*Table structure for table `mobxambientbehaviour` */
+DROP TABLE IF EXISTS `MobXAmbientBehaviour`;
 
-DROP TABLE IF EXISTS `mobxambientbehaviour`;
-
-CREATE TABLE `mobxambientbehaviour` (
+CREATE TABLE `MobXAmbientBehaviour` (
   `Source` varchar(255) NOT NULL,
   `Trigger` text NOT NULL,
   `Emote` smallint(5) unsigned DEFAULT NULL,

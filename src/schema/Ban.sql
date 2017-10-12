@@ -1,8 +1,6 @@
-/*Table structure for table `ban` */
+DROP TABLE IF EXISTS `Ban`;
 
-DROP TABLE IF EXISTS `ban`;
-
-CREATE TABLE `ban` (
+CREATE TABLE `Ban` (
   `Author` text NOT NULL,
   `Type` varchar(255) NOT NULL,
   `Ip` varchar(255) NOT NULL,
@@ -16,5 +14,3 @@ CREATE TABLE `ban` (
   KEY `I_Ban_Ip` (`Ip`),
   KEY `I_Ban_Account` (`Account`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
-/*Data for the table `ban` */

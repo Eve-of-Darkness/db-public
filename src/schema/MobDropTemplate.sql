@@ -1,8 +1,6 @@
-/*Table structure for table `mobdroptemplate` */
+DROP TABLE IF EXISTS `MobDropTemplate`;
 
-DROP TABLE IF EXISTS `mobdroptemplate`;
-
-CREATE TABLE `mobdroptemplate` (
+CREATE TABLE `MobDropTemplate` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `MobName` varchar(255) NOT NULL,
   `LootTemplateName` varchar(255) NOT NULL,

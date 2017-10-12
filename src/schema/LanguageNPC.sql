@@ -1,8 +1,6 @@
-/*Table structure for table `languagenpc` */
+DROP TABLE IF EXISTS `LanguageNPC`;
 
-DROP TABLE IF EXISTS `languagenpc`;
-
-CREATE TABLE `languagenpc` (
+CREATE TABLE `LanguageNPC` (
   `Name` text,
   `Suffix` text,
   `GuildName` text,

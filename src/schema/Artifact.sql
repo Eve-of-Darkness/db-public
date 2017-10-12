@@ -1,8 +1,6 @@
-/*Table structure for table `artifact` */
+DROP TABLE IF EXISTS `Artifact`;
 
-DROP TABLE IF EXISTS `artifact`;
-
-CREATE TABLE `artifact` (
+CREATE TABLE `Artifact` (
   `ArtifactID` text NOT NULL,
   `EncounterID` text NOT NULL,
   `QuestID` text NOT NULL,

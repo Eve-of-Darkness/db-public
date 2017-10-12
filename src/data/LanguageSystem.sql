@@ -1,6 +1,4 @@
-/*Data for the table `languagesystem` */
-
-insert  into `languagesystem`(`Text`,`TranslationId`,`Language`,`Tag`,`LastTimeRowUpdated`,`LanguageSystem_ID`) values 
+insert  into `LanguageSystem`(`Text`,`TranslationId`,`Language`,`Tag`,`LastTimeRowUpdated`,`LanguageSystem_ID`) values 
 ('Axe is a basic weaponry skill. Each point you place into it will increase your damage with axe. At different levels of training you will acquire combat styles. These styles will be unique to axe. What else can I tell you about? [Swords], [Hammer], [Axe], [shield], [Stormcalling] or are you [done]?','Mid.GreetingsThane.Description.Specialization.Axe','EN','Grenlock\'s Sound Quests','2015-07-16 06:43:54','0004e9ea-ec03-4493-8169-407eea1eb87b'),
 ('[Region] {0}: {1}','Scripts.Players.Region.Message','EN','','2015-07-16 06:44:01','000997f9-991e-43ae-a60a-1b43c9909f89'),
 ('There are {0} advisors online!','Scripts.Players.Advice.AdvicersOn','EN','','2015-07-16 06:43:51','000bf754-9853-4de2-9643-a70739a77566'),

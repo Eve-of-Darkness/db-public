@@ -1,8 +1,6 @@
-/*Table structure for table `linexspell` */
+DROP TABLE IF EXISTS `LineXSpell`;
 
-DROP TABLE IF EXISTS `linexspell`;
-
-CREATE TABLE `linexspell` (
+CREATE TABLE `LineXSpell` (
   `LineName` varchar(255) NOT NULL,
   `SpellID` int(11) NOT NULL,
   `Level` int(11) NOT NULL,

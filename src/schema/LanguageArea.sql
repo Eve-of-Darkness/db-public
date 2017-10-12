@@ -1,8 +1,6 @@
-/*Table structure for table `languagearea` */
+DROP TABLE IF EXISTS `LanguageArea`;
 
-DROP TABLE IF EXISTS `languagearea`;
-
-CREATE TABLE `languagearea` (
+CREATE TABLE `LanguageArea` (
   `Description` text NOT NULL,
   `ScreenDescription` text NOT NULL,
   `TranslationId` varchar(255) NOT NULL,

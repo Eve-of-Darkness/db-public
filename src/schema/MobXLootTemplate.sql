@@ -1,8 +1,6 @@
-/*Table structure for table `mobxloottemplate` */
+DROP TABLE IF EXISTS `MobXLootTemplate`;
 
-DROP TABLE IF EXISTS `mobxloottemplate`;
-
-CREATE TABLE `mobxloottemplate` (
+CREATE TABLE `MobXLootTemplate` (
   `MobName` varchar(255) NOT NULL,
   `LootTemplateName` varchar(255) NOT NULL,
   `DropCount` int(11) NOT NULL,

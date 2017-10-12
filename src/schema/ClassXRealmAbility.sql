@@ -1,8 +1,6 @@
-/*Table structure for table `classxrealmability` */
+DROP TABLE IF EXISTS `ClassXRealmAbility`;
 
-DROP TABLE IF EXISTS `classxrealmability`;
-
-CREATE TABLE `classxrealmability` (
+CREATE TABLE `ClassXRealmAbility` (
   `CharClass` int(11) NOT NULL,
   `AbilityKey` text NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

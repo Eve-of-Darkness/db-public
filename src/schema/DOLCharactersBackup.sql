@@ -1,8 +1,6 @@
-/*Table structure for table `dolcharactersbackup` */
+DROP TABLE IF EXISTS `DOLCharactersBackup`;
 
-DROP TABLE IF EXISTS `dolcharactersbackup`;
-
-CREATE TABLE `dolcharactersbackup` (
+CREATE TABLE `DOLCharactersBackup` (
   `DOLCharacters_ID` varchar(255) NOT NULL,
   `Name` varchar(255) NOT NULL,
   `DeleteDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

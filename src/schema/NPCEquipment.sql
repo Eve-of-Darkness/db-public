@@ -1,8 +1,6 @@
-/*Table structure for table `npcequipment` */
+DROP TABLE IF EXISTS `NPCEquipment`;
 
-DROP TABLE IF EXISTS `npcequipment`;
-
-CREATE TABLE `npcequipment` (
+CREATE TABLE `NPCEquipment` (
   `TemplateID` varchar(255) NOT NULL,
   `Slot` int(11) NOT NULL,
   `Model` int(11) NOT NULL,

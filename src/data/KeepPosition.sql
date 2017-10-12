@@ -1,6 +1,4 @@
-/*Data for the table `keepposition` */
-
-insert  into `keepposition`(`ComponentSkin`,`ComponentRotation`,`TemplateID`,`Height`,`XOff`,`YOff`,`ZOff`,`HOff`,`ClassType`,`TemplateType`,`KeepType`,`LastTimeRowUpdated`,`KeepPosition_ID`) values 
+insert  into `KeepPosition`(`ComponentSkin`,`ComponentRotation`,`TemplateID`,`Height`,`XOff`,`YOff`,`ZOff`,`HOff`,`ClassType`,`TemplateType`,`KeepType`,`LastTimeRowUpdated`,`KeepPosition_ID`) values 
 (10,0,'ee34c225-8f76-4258-a639-5e4fdfa3bd90',NULL,891,-878,1211,-1033,'DOL.GS.Keeps.GuardStaticArcher',0,0,'2000-01-01 00:00:00','014e5cf6-dc74-41b0-9c6d-25a0d2dd69ce'),
 (10,0,'7b834ea2-710b-423e-a49d-2b0d7c562fae',NULL,461,-130,578,369,'DOL.GS.Keeps.GuardLord',0,0,'2015-05-21 10:38:26','01ee1e99-d9c6-4dd1-931b-c2fe33507a08'),
 (18,1,'f0084b51-8889-48bd-8b20-d456c5fcd361',NULL,147,77,336,-240,'DOL.GS.Keeps.GameKeepDoor',2,0,'2000-01-01 00:00:00','03183fa3-ff55-4779-bba1-bf67a383c19b'),

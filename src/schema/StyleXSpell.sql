@@ -1,8 +1,6 @@
-/*Table structure for table `stylexspell` */
+DROP TABLE IF EXISTS `StyleXSpell`;
 
-DROP TABLE IF EXISTS `stylexspell`;
-
-CREATE TABLE `stylexspell` (
+CREATE TABLE `StyleXSpell` (
   `SpellID` int(11) NOT NULL,
   `ClassID` int(11) NOT NULL,
   `StyleID` int(11) NOT NULL,
