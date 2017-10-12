@@ -13146,7 +13146,7 @@ insert  into `LanguageSystem`(`Text`,`TranslationId`,`Language`,`Tag`,`LastTimeR
 ('Greetings I can tell you about your specializations [Piercing], [Blades], [Blunt], [Large Weapon], [Valor], [Shield], and [Parry]. Let me know when you are [done].','Hib.GreetingsChampion.Description.Specialization','EN','','2015-07-16 06:43:50','d235b910-221f-4290-9fb9-7ec0dd806262'),
 ('Basic Crafting','BasicCraftingMaster.AcceptedByOrderName','FR','','2015-07-16 06:44:09','d236702d-2ef6-487a-8865-32175309fb52'),
 ('Marik\'s Workroom','Zone.Description.Marik\'sWorkroom','EN','','2015-07-16 06:44:00','d23d9947-ec00-4708-88ab-3bbdfcc08824');
-insert  into `languagesystem`(`Text`,`TranslationId`,`Language`,`Tag`,`LastTimeRowUpdated`,`LanguageSystem_ID`) values 
+insert  into `LanguageSystem`(`Text`,`TranslationId`,`Language`,`Tag`,`LastTimeRowUpdated`,`LanguageSystem_ID`) values 
 ('Not set bonus type!','GMCommands.Item.mBonus.NonSetBonusType','DE','','2015-07-16 06:43:53','d23df908-720f-4636-9ce1-b498357fd3d7'),
 ('Excellent, {0}! You\'ve done very well.','Hib.GreetingsBainshee.Conclusion.Text1','EN','','2015-07-16 06:43:56','d2404097-99e7-44d0-b6a9-f22078c6fb53'),
 ('Training dual wield will allow you to hit with both of your weapons more often. It will also provide you with specialized combat styles, that require you to have two weapons readied. Training it will increase the damage of those styles as well. [Thrust], [Slash], [Dual Wield], [Stealth], [Critical Strike], [Envenom] or are you [done]?','Alb.GreetingsInfiltrator.Description.DualWield','EN','Constantine\'s Sound Quests','2015-07-16 06:44:02','d24293e1-ccf9-419c-9c1d-e43382cb59ac'),

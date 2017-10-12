@@ -1,6 +1,4 @@
-/*Data for the table `worldobject` */
-
-insert  into `worldobject`(`ClassType`,`TranslationId`,`Name`,`ExamineArticle`,`X`,`Y`,`Z`,`Heading`,`Region`,`Model`,`Emblem`,`Realm`,`RespawnInterval`,`LastTimeRowUpdated`,`WorldObject_ID`) values 
+insert  into `WorldObject`(`ClassType`,`TranslationId`,`Name`,`ExamineArticle`,`X`,`Y`,`Z`,`Heading`,`Region`,`Model`,`Emblem`,`Realm`,`RespawnInterval`,`LastTimeRowUpdated`,`WorldObject_ID`) values 
 ('DOL.GS.StormWorldDataQuestItem',NULL,'Wild Oats;;19489;0;0',NULL,90914,85583,5056,659,27,4172,0,0,120,'2000-01-01 00:00:00','00270551-ac7e-47f4-989b-06d7af5290e5'),
 ('DOL.GS.GameStaticItem',NULL,'pile of smoldering rubble',NULL,393340,755536,200,34,1,3850,0,0,NULL,'2000-01-01 00:00:00','0053b0f5-2025-4f74-8592-69555a466d24'),
 ('DOL.GS.GameStaticItem',NULL,'building supplies',NULL,388313,725743,479,3254,1,3473,0,0,NULL,'2000-01-01 00:00:00','00652355-23e3-4018-a97a-ee9e6c041047'),

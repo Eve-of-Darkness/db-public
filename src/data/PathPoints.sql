@@ -16347,7 +16347,7 @@ insert  into `PathPoints`(`PathID`,`Step`,`X`,`Y`,`Z`,`MaxSpeed`,`WaitTime`,`Las
 ('Dragonfly_ticket_to_Adribards_RetreatYaren',15,567035,492804,3985,1120,NULL,'2000-01-01 00:00:00','9fae7704-acb1-4a04-8331-d8f5a4a00d40'),
 ('HS_Vasudheim_Galplen',269,744781,843121,4496,1000,0,'2000-01-01 00:00:00','9faf44fc-fba6-4ec2-91bf-6be34d2028b3'),
 ('ticket_to_Druim_CainErine',19,419941,495224,1680,600,NULL,'2000-01-01 00:00:00','9fb7833b-1b1e-4748-92fa-2013a81e6245');
-insert  into `pathpoints`(`PathID`,`Step`,`X`,`Y`,`Z`,`MaxSpeed`,`WaitTime`,`LastTimeRowUpdated`,`PathPoints_ID`) values 
+insert  into `PathPoints`(`PathID`,`Step`,`X`,`Y`,`Z`,`MaxSpeed`,`WaitTime`,`LastTimeRowUpdated`,`PathPoints_ID`) values 
 ('ticket_to_Snowdonia_StationFlambon',9,512583,387174,6336,600,NULL,'2000-01-01 00:00:00','9fbd2be8-f9fd-4a28-b1d4-24d7f7c338c7'),
 ('ticket_to_West_DownsVuloch',33,589760,513886,2568,1000,0,'2015-02-06 20:23:12','9fbd9dd3-88bc-402b-8267-cba458845b0a'),
 ('bt_hesperos_notos',29,357200,628576,7970,1500,0,'2000-01-01 00:00:00','9fbf132a-d8d7-4441-8110-f83d154f7636'),

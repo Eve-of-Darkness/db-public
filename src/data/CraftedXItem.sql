@@ -19170,7 +19170,7 @@ insert  into `CraftedXItem`(`CraftedItemId_nb`,`IngredientId_nb`,`Count`,`LastTi
 ('flawed_Watery_War_Rune','leviathan_blood',4,'2000-01-01 00:00:00','flawed_Watery_War_Rune3'),
 ('flawed_Watery_War_Sigil','Ee_gem',1,'2000-01-01 00:00:00','flawed_Watery_War_Sigil1'),
 ('flawed_Watery_War_Sigil','ground_caer_stone',13,'2000-01-01 00:00:00','flawed_Watery_War_Sigil2');
-insert  into `craftedxitem`(`CraftedItemId_nb`,`IngredientId_nb`,`Count`,`LastTimeRowUpdated`,`CraftedXItem_ID`) values 
+insert  into `CraftedXItem`(`CraftedItemId_nb`,`IngredientId_nb`,`Count`,`LastTimeRowUpdated`,`CraftedXItem_ID`) values 
 ('flawed_Watery_War_Sigil','leviathan_blood',4,'2000-01-01 00:00:00','flawed_Watery_War_Sigil3'),
 ('flawed_Watery_War_Spell_Stone','Ee_gem',1,'2000-01-01 00:00:00','flawed_Watery_War_Spell_Stone1'),
 ('flawed_Watery_War_Spell_Stone','unseelie_dust',13,'2000-01-01 00:00:00','flawed_Watery_War_Spell_Stone2'),
