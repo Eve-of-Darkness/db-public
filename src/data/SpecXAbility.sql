@@ -359,4 +359,5 @@ INSERT INTO `SpecXAbility` (`SpecXabilityID`, `Spec`, `SpecLevel`, `AbilityKey`,
 	(363, 'Stealth', 20, 'Safe Fall', 2, 4, '2000-01-01 00:00:00'),
 	(364, 'Stealth', 25, 'Climb Walls', 0, 23, '2000-01-01 00:00:00'),
 	(365, 'Stealth', 25, 'Climb Walls', 0, 49, '2000-01-01 00:00:00'),
-	(366, 'Stealth', 25, 'Climb Walls', 0, 4, '2000-01-01 00:00:00');
+	(366, 'Stealth', 25, 'Climb Walls', 0, 4, '2000-01-01 00:00:00'),
+	(367, 'MinstrelCareer', 1, 'Weaponry: Instruments', 0, 0, '2016-05-30 14:12:00');	
