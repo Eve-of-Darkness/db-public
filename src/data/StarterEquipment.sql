@@ -116,13 +116,4 @@ INSERT INTO `StarterEquipment` (`StarterEquipmentID`, `Class`, `TemplateID`, `La
 	(115, '25;', 'hunter_item', '2000-01-01 00:00:00'),
 	(116, '60;61;62;', 'plain_mauler_fistwrap', '2000-01-01 00:00:00'),
 	(117, '60;61;62;', 'plain_mauler_fistwrap', '2000-01-01 00:00:00'),
-	(118, '60;61;62;', 'plainwood_mauler_staff', '2000-01-01 00:00:00'),
-	(119, '99;', 'd2_starter_scythe', '2000-01-01 00:00:00'),
-	(120, '99;', 'd2_starter_totem', '2000-01-01 00:00:00'),
-	(121, '99;', 'training_axe', '2000-01-01 00:00:00'),
-	(122, '99;', 'training_dirk', '2000-01-01 00:00:00'),
-	(123, '99;', 'training_sword_hib', '2000-01-01 00:00:00'),
-	(124, '99;', 'training_club', '2000-01-01 00:00:00'),
-	(125, '99;', 'training_staff', '2000-01-01 00:00:00'),
-	(126, '99;', 'scout_item', '2000-01-01 00:00:00'),
-	(127, '99;', 'plain_mauler_fistwrap', '2000-01-01 00:00:00');
+	(118, '60;61;62;', 'plainwood_mauler_staff', '2000-01-01 00:00:00');	
