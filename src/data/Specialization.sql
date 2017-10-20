@@ -56,7 +56,7 @@ INSERT INTO `Specialization` (`SpecializationID`, `KeyName`, `Name`, `Icon`, `De
 	(55, 'Dual Wield', 'Dual Wield', 0, 'no', NULL, '2000-01-01 00:00:00'),
 	(56, 'Light', 'Light Magic', 0, 'no', NULL, '2000-01-01 00:00:00'),
 	(57, 'Cold Magic', 'Cold Magic', 0, 'no', NULL, '2000-01-01 00:00:00'),
-	(58, 'Archery', 'Archery', 0, 'no', NULL, '2000-01-01 00:00:00'),
+	(58, 'Archery', 'Archery', 0, 'no', 'DOL.GS.LiveSpellHybridSpecialization', '2000-01-01 00:00:00'),
 	(59, 'Enchantments', 'Enchantments', 0, 'no', NULL, '2000-01-01 00:00:00'),
 	(60, 'Thrown Weapons', 'Thrown Weapons', 0, 'no', NULL, '2000-01-01 00:00:00'),
 	(61, 'Hammer', 'Hammer', 0, 'no', NULL, '2000-01-01 00:00:00'),
