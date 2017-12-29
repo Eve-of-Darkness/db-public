@@ -3,7 +3,7 @@
 export MYSQL_PWD=root
 result=0
 
-for file in Customizations/*.sql; do
+for file in src/customizations/*.sql; do
   echo "Testing [$file]"
   # run each script inside of a transaction to ensure it doesn't change the db
   # and then rollback at the end of it
