@@ -1,12 +1,12 @@
 ### Adds Dreaded Seal content, including the seals themselves, crafting recipes, and collectors.
 
 # Add Dreaded Seal Collectors to mob
-INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
-	VALUES ('Lady Nina','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',33505,22668,8479,0,0,0,0,0,0,0,0,0,0,1035,10,283,49,30,'LadyNina','DreadedSeal',1,'Dreaded_Seal_Lady_Nina');
-INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
-	VALUES ('Fiana','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',31613,33839,8030,0,0,0,0,0,0,0,0,0,0,3231,101,162,48,30,'Fiana','DreadedSeal',2,'Dreaded_Seal_Fiana');
-INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
-	VALUES ('Relena','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',32263,33049,7998,0,0,0,0,0,0,0,0,0,0,2150,201,388,52,30,'Relena','DreadedSeal',3,'Dreaded_Seal_Relena');
+INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`HouseNumber`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
+	VALUES ('Lady Nina','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',33505,22668,8479,0,0,0,0,0,0,0,0,0,0,0,1035,10,283,49,30,'LadyNina','DreadedSeal',1,'Dreaded_Seal_Lady_Nina');
+INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`HouseNumber`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
+	VALUES ('Fiana','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',31613,33839,8030,0,0,0,0,0,0,0,0,0,0,0,3231,101,162,48,30,'Fiana','DreadedSeal',2,'Dreaded_Seal_Fiana');
+INSERT INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`HouseNumber`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
+	VALUES ('Relena','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',32263,33049,7998,0,0,0,0,0,0,0,0,0,0,0,2150,201,388,52,30,'Relena','DreadedSeal',3,'Dreaded_Seal_Relena');
 
 # Add Dreaded Seal Collectors stuff to NPCEquipment
 INSERT INTO `NPCEquipment` (`TemplateID`,`Slot`,`Model`,`Color`,`NPCEquipment_ID`)
