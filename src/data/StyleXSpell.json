@@ -1,0 +1,3546 @@
+[
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 290,
+    "StyleXSpell_ID": "-87190432690890u346mn"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 309,
+    "StyleXSpell_ID": "002c33ba-596b-4bd4-b521-ec3c2775a961"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 182,
+    "StyleXSpell_ID": "00890fd5-b2af-4cf9-af02-a7b342b2ef23"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 218,
+    "StyleXSpell_ID": "00d0dd91-bc0a-461d-bc2f-8f0cbe88f651"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 340,
+    "StyleXSpell_ID": "01cb8ecb-fabe-463d-bc8c-54d19defbe12"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51001,
+    "StyleID": 393,
+    "StyleXSpell_ID": "05b456b4-ad2f-4dbe-8ff6-b749616c389a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 153,
+    "StyleXSpell_ID": "06d173be-69b8-424d-bb33-6eb9d46d6549"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 77,
+    "StyleXSpell_ID": "0b297879-1147-4f49-a768-891162895bcd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51004,
+    "StyleID": 241,
+    "StyleXSpell_ID": "0b8ff2e8-c8ab-4666-874b-0fbdb174555f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 136,
+    "StyleXSpell_ID": "0bd030f5-4f09-40a5-86b8-9dba3726dc08"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 232,
+    "StyleXSpell_ID": "0ecc5a00-42d6-4686-9cc0-170bf1097071"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 249,
+    "StyleXSpell_ID": "0ed7df63-c917-4a8d-b63d-b96bc54cf9f8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 199,
+    "StyleXSpell_ID": "0f6a2698-c344-4c0f-95d0-c9508d79926d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20016,
+    "StyleID": 281,
+    "StyleXSpell_ID": "1196a08a-97bf-4b62-b4c9-f0111a25b838"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 389,
+    "StyleXSpell_ID": "12d61563-31e8-4be7-b3b5-8029bedc8f3b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 336,
+    "StyleXSpell_ID": "13121c61-fe06-4ed2-86ea-08154490dd4a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20038,
+    "StyleID": 274,
+    "StyleXSpell_ID": "15aa7c49-63fd-47aa-bff5-67adc8b6ece5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 208,
+    "StyleXSpell_ID": "188d6834-69a9-43b0-a688-eb3a5fd73871"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51005,
+    "StyleID": 190,
+    "StyleXSpell_ID": "19647193-b9e6-478d-b4d4-ef81ab7f71f5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 60,
+    "StyleXSpell_ID": "1a944408-ae3f-4766-9f19-0213317275b5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20128,
+    "StyleID": 240,
+    "StyleXSpell_ID": "1cf44743-26d4-4f15-b2f1-5ae394f0ec0b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 91,
+    "StyleXSpell_ID": "1edc10a4-fea3-4fac-96da-179cd8194556"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 181,
+    "StyleXSpell_ID": "2024426d-697d-46d2-b3bf-92376e3b7982"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20122,
+    "StyleID": 390,
+    "StyleXSpell_ID": "206c3bcb-37ba-40ac-8605-8127cf0a383d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 180,
+    "StyleXSpell_ID": "209adb3e-7e9f-40b2-90f7-03cfcf6dc68f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 278,
+    "StyleXSpell_ID": "209df2c6-50b0-493a-8c44-5add01e25970"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 255,
+    "StyleXSpell_ID": "218776e7-eaab-4507-ad27-795ae56076d7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 250,
+    "StyleXSpell_ID": "22bae13e-ad66-465e-bbab-82ea23d810d3"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 178,
+    "StyleXSpell_ID": "23d6a7fb-953c-48b3-9e15-8ffcab526dfb"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 314,
+    "StyleXSpell_ID": "24208019-4446-475e-b180-4dac2a873ffa"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20126,
+    "StyleID": 395,
+    "StyleXSpell_ID": "24933e8f-7218-4447-95a4-adab51eec341"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20110,
+    "StyleID": 375,
+    "StyleXSpell_ID": "266cca76-10c6-41ae-8f13-5c7b904751b0"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51007,
+    "StyleID": 369,
+    "StyleXSpell_ID": "26f5d3e0-95b0-4fee-96e6-8cbfdfa798fd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20002,
+    "StyleID": 89,
+    "StyleXSpell_ID": "270d161c-988b-4bba-8f94-62da6acb8b97"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20031,
+    "StyleID": 222,
+    "StyleXSpell_ID": "2934bfd0-3d18-4071-934a-55fcc5ae50cc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51003,
+    "StyleID": 239,
+    "StyleXSpell_ID": "2956fa64-9a5e-4fd8-9101-9114e6180c3a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20037,
+    "StyleID": 114,
+    "StyleXSpell_ID": "2ad3b661-026a-45ed-a3dc-b30a1c16bf87"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 294,
+    "StyleXSpell_ID": "2bb26e56-6ab2-41bd-9751-02add6b0d8d9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20120,
+    "StyleID": 386,
+    "StyleXSpell_ID": "2c81831f-0ac6-4a1a-a2eb-278fc3950938"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 212,
+    "StyleXSpell_ID": "2d4641b9-5d85-4e43-8b56-d9d8500aa5bc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 135,
+    "StyleXSpell_ID": "2ed06b61-c843-4e3a-8aa0-7efacd63e333"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 233,
+    "StyleXSpell_ID": "2f88371e-008c-4431-aeda-2b7d6e2dc02a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 343,
+    "StyleXSpell_ID": "30dce1b6-0743-44f2-a908-e4a5b5bc0842"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20057,
+    "StyleID": 83,
+    "StyleXSpell_ID": "31cb6b73-edc0-4a4e-bda1-b7e4411d8e58"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 2,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 96,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 65,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b3154"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20090,
+    "StyleID": 201,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20089,
+    "StyleID": 259,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-0645"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20093,
+    "StyleID": 110,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 204,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebc56"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 92,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e59cd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 2,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20079,
+    "StyleID": 98,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e59cd5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 253,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e59cd54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 2,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20055,
+    "StyleID": 95,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e59cd56"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20015,
+    "StyleID": 219,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e59cd588"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 140,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebce7e65"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 147,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31e-06ebfgh"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 284,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31sdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20015,
+    "StyleID": 287,
+    "StyleXSpell_ID": "326692f9-ce64-45ca-b31sdfsdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 207,
+    "StyleXSpell_ID": "33af2ea6-204e-425e-b6ed-ba31e0bb446a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 74,
+    "StyleXSpell_ID": "340cfa4e-91ce-4271-8196-a804c28ec88f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 154,
+    "StyleXSpell_ID": "343add05-2582-487f-98bf-1eabb11ab95d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 64001,
+    "StyleID": 231,
+    "StyleXSpell_ID": "34fa78ca-da40-4f97-95c1-0e79e50578f6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 22221,
+    "StyleID": 236,
+    "StyleXSpell_ID": "359ce990-b26e-401a-8c6c-66fd3c148768"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 200,
+    "StyleXSpell_ID": "35d17ac5-5922-4800-91e5-2ed3bb44963e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 346,
+    "StyleXSpell_ID": "36fe2dc0-6784-4e16-bb72-22a765ff7d57"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 144,
+    "StyleXSpell_ID": "38859d87-dd97-4bed-9e1d-59b46d106330"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20089,
+    "StyleID": 159,
+    "StyleXSpell_ID": "39325691-71b3-45d1-8a24-96b675e42ea9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 257,
+    "StyleXSpell_ID": "3aead7e8-37da-4bd3-a789-1d9ec2ce45e4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 211,
+    "StyleXSpell_ID": "3b6e2383-bf0b-4786-bdc3-3be817e09bbd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 251,
+    "StyleXSpell_ID": "3da0b785-1815-41b8-8ddb-b8813571038f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 156,
+    "StyleXSpell_ID": "3f284aaa-bbe2-421f-bad5-5459ee1ae301"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 330,
+    "StyleXSpell_ID": "3f705994-9720-48ae-aeed-3ed70dfec4d0"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 105,
+    "StyleXSpell_ID": "401f9027-94d8-4a03-8c82-324e0896ebd7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 138,
+    "StyleXSpell_ID": "4333aad2-a599-4d7d-9375-2acc6118ba92"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 248,
+    "StyleXSpell_ID": "433f0f94-0b27-4e07-97bc-800faefae41c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 238,
+    "StyleXSpell_ID": "437a2d2c-5a3d-43ad-92a8-3ad7bf25ba74"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 151,
+    "StyleXSpell_ID": "4387733a-a711-4efa-91be-8ceaa9b336be"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 326,
+    "StyleXSpell_ID": "4389d042-367c-4725-a733-60e61b2167bb"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20015,
+    "StyleID": 69,
+    "StyleXSpell_ID": "44f40e0f-fb76-4493-9639-b81f71e8fc0a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20000,
+    "StyleID": 117,
+    "StyleXSpell_ID": "46771fda-6576-4d71-8d74-bf71cfe3239a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 162,
+    "StyleXSpell_ID": "472ae409-04e8-49a4-9666-62f90a26ddb6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 211,
+    "StyleXSpell_ID": "48bc564b-e8d1-482d-96c2-0998eb7237d8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 104,
+    "StyleXSpell_ID": "49f12baf-fa36-47fd-896d-ee429251643f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 376,
+    "StyleXSpell_ID": "4a511ece-a089-4201-b672-6c8a4c48fcd5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51011,
+    "StyleID": 338,
+    "StyleXSpell_ID": "4b1d3b72-f182-45ef-8ffd-a0d38e26d76b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20009,
+    "StyleID": 220,
+    "StyleXSpell_ID": "4e771eb4-045e-46ba-80a0-acebad7ddfde"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 223,
+    "StyleXSpell_ID": "519f5b58-b5c7-4dda-b8ed-603873dca69b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 163,
+    "StyleXSpell_ID": "52fb1268-7832-42e0-9531-669e6d69f7b9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 318,
+    "StyleXSpell_ID": "540"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 310,
+    "StyleXSpell_ID": "54ea51a8-f29f-47a8-927a-151e26386a9f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 325,
+    "StyleXSpell_ID": "560f7f13-7a4c-4fc0-8e61-160ca054eeea"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 187,
+    "StyleXSpell_ID": "562fa183-94d2-4fc3-bcdb-ec836953f1d7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20031,
+    "StyleID": 339,
+    "StyleXSpell_ID": "56319ff2-31e1-40a6-85ee-abd09ec49f35"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20000,
+    "StyleID": 192,
+    "StyleXSpell_ID": "5714654d-aea1-4511-9b8b-720dc13d95bd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 327,
+    "StyleXSpell_ID": "57450071-6672-4f7b-a20b-ad7af8dce674"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 132,
+    "StyleXSpell_ID": "5777f4e0-a041-4dcd-9b7c-4f95645d8c49"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 293,
+    "StyleXSpell_ID": "5d3e2921-f83c-474b-95eb-fd859193cd44"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 119,
+    "StyleXSpell_ID": "5d5ee098-eb90-4a79-8dda-b2bfd4ed68e8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 324,
+    "StyleXSpell_ID": "5e93a019-e6b2-4d2f-83bc-07372b1311a9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 342,
+    "StyleXSpell_ID": "5ed0737e-e64c-42b1-99df-ea6b60100f1d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 262,
+    "StyleXSpell_ID": "6039bda7-418d-4e9e-956a-ef14dfde59e4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20089,
+    "StyleID": 319,
+    "StyleXSpell_ID": "6059cd01-164c-45ef-8ed1-632a9bdde275"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 372,
+    "StyleXSpell_ID": "60930965-0b68-489f-a2c6-77727ba20995"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20089,
+    "StyleID": 175,
+    "StyleXSpell_ID": "6226d77e-719e-4529-a811-1a9e6103b2bc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 21111,
+    "StyleID": 244,
+    "StyleXSpell_ID": "62572we5432tru7323y4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 224,
+    "StyleXSpell_ID": "653034c1-1d68-47df-b048-29a2c2dc84ff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 148,
+    "StyleXSpell_ID": "66d21937-3261-4c7e-a872-1757d7c01df7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20093,
+    "StyleID": 170,
+    "StyleXSpell_ID": "66d58bb7-8906-4cd9-a098-14aef2e02192"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20079,
+    "StyleID": 113,
+    "StyleXSpell_ID": "6838ba03-3dce-4c1b-9eae-7c39b3280037"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 102,
+    "StyleXSpell_ID": "68657b8e-21bb-4458-a9b2-cbebf2b61e00"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 295,
+    "StyleXSpell_ID": "6871ac1f-e235-4810-8eac-764eb8db2819"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 107,
+    "StyleXSpell_ID": "68af6747-4848-4d61-85ce-42ea856ed028"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 377,
+    "StyleXSpell_ID": "6a9d7412-5777-4a3c-8846-08e5fbeffff2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20051,
+    "StyleID": 373,
+    "StyleXSpell_ID": "6a9d7412-5777-4a3c-88rrttyu"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 21113,
+    "StyleID": 175,
+    "StyleXSpell_ID": "6ba2b356-8098-422b-a288-8bb1603aca99"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 129,
+    "StyleXSpell_ID": "6ba2e383-8445-49b1-b1bd-5464f4d215f7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 337,
+    "StyleXSpell_ID": "6bb996be-b718-42c3-83e5-12c52c4b7e19"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 61,
+    "StyleXSpell_ID": "6d496c40-3561-4bde-8506-9eb152ee90a9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 67,
+    "StyleXSpell_ID": "6d7604eb-94a6-4567-a30c-56940e418437"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 152,
+    "StyleXSpell_ID": "6ea4f3f4-32ba-4612-850c-b82c0ff13384"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 214,
+    "StyleXSpell_ID": "70c18886-3104-4cf0-84b2-7ee74bed2958"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20037,
+    "StyleID": 304,
+    "StyleXSpell_ID": "77949b69-29c8-441f-9949-ed63c7e140f4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20030,
+    "StyleID": 335,
+    "StyleXSpell_ID": "7990a18a-ce29-42d7-a230-3fa19819d7f8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20123,
+    "StyleID": 391,
+    "StyleXSpell_ID": "79936399-3eed-4bd1-99ec-22ca4beedbc8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 21112,
+    "StyleID": 173,
+    "StyleXSpell_ID": "79961711-a20c-4c05-8b8c-9aa382d71848"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 137,
+    "StyleXSpell_ID": "7a4013c7-c622-4532-913a-55e25683d1e5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 203,
+    "StyleXSpell_ID": "7c72ed36-57fd-4457-94b5-1c00415a5238"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 279,
+    "StyleXSpell_ID": "7d29d6cc-878d-488b-885c-e9258185e814"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 168,
+    "StyleXSpell_ID": "7e4b87af-42cd-4d85-9054-04efe5de63ce"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20031,
+    "StyleID": 75,
+    "StyleXSpell_ID": "7eae89f5-b7b9-4d6c-ad9a-cc8a15851751"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 205,
+    "StyleXSpell_ID": "7ebc8307-5d8d-4cf5-9dc1-e57011b68425"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20094,
+    "StyleID": 378,
+    "StyleXSpell_ID": "803955d7-7f0b-4358-9955-070f6c3f29e3"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 43,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20031,
+    "StyleID": 261,
+    "StyleXSpell_ID": "829f7221-fah"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 48,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20031,
+    "StyleID": 261,
+    "StyleXSpell_ID": "829f7221-fgh"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 11,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20092,
+    "StyleID": 130,
+    "StyleXSpell_ID": "83db7cdfed-614b-4ffa-8f88-67b38d863800"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20015,
+    "StyleID": 130,
+    "StyleXSpell_ID": "83db7ced-614b-4ffa-8f88-67b38d863800"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20121,
+    "StyleID": 388,
+    "StyleXSpell_ID": "8469fbb5-0db5-48e7-ba35-e4753df0780b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 243,
+    "StyleXSpell_ID": "85e0857d-81aa-4e8e-9935-916e6198c927"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 23,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "86185-21d9-4ad8-5a67d-0a51ee47cf54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 22,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "86185-21d9-4ad8-5a67d5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 24,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "86185-21d9a51ee47cf54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 31,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "8618b9b5-21d9-4ad8-5a67d-0a51ee47cf54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 25,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "8618b9b5-21d9-4addf8-a67d-0a51ee47cf54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 32,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 158,
+    "StyleXSpell_ID": "8618b9b5-521d9-4ad8-5a67d-0a51ee47cf54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 84,
+    "StyleXSpell_ID": "899031be-1138-4aff-b054-100847aa8b83"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 263,
+    "StyleXSpell_ID": "89b63285-b393-4853-9dde-ddfc62c5a9e3"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 296,
+    "StyleXSpell_ID": "89na9sfv89hyds7f897897t2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 322,
+    "StyleXSpell_ID": "8b70497f-5140-424b-965d-5167eea9ddd2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 120,
+    "StyleXSpell_ID": "8baae726-0292-4085-9e66-f5e02cdbec5a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20053,
+    "StyleID": 196,
+    "StyleXSpell_ID": "8bfb0cb0-e075-4097-aacd-3769a9e0a133"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 151,
+    "StyleXSpell_ID": "8c0cf53b-c4ba-4d92-8958-eb556cec1eeb"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20056,
+    "StyleID": 188,
+    "StyleXSpell_ID": "8ee29702-5d1c-433a-b58c-db151baef388"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 265,
+    "StyleXSpell_ID": "8f071ed0-a9b6-4ccb-996d-af9cfcd64c18"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 292,
+    "StyleXSpell_ID": "8f3fe4fe-8cc9-47f4-ab83-19a1f992e784"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 185,
+    "StyleXSpell_ID": "8fc3045c-6ae2-40d3-8111-bcbc17753b6d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 145,
+    "StyleXSpell_ID": "902005b0-df59-4e1c-b9bd-b475e555584c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51002,
+    "StyleID": 152,
+    "StyleXSpell_ID": "906ba9c2-7185-4e58-9c70-db4bc513cf2e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 264,
+    "StyleXSpell_ID": "90d3cd89-ff31-4746-a4c2-5dc4829fce99"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 134,
+    "StyleXSpell_ID": "9223576e-3868-4b26-8491-b514293c231e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 108,
+    "StyleXSpell_ID": "9240bf1b-939a-4178-ac1f-fcbdfb560db8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 43,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20094,
+    "StyleID": 329,
+    "StyleXSpell_ID": "924f19e0-b786-45be-8f3f-5dfba3c5ccfc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 50,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20095,
+    "StyleID": 329,
+    "StyleXSpell_ID": "924f19e0-b78dsfe-8dfgf3f-5dfba3c5ccfc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 49,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20095,
+    "StyleID": 329,
+    "StyleXSpell_ID": "924f19e0-b78dsfe-8f3f-5dfba3c5ccfc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 148,
+    "StyleXSpell_ID": "94d6e7d5-83f7-45e0-96be-eab591651d35"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20003,
+    "StyleID": 213,
+    "StyleXSpell_ID": "95da2463-1d54-4964-873d-f8606a4921a2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20124,
+    "StyleID": 392,
+    "StyleXSpell_ID": "9690c418-a1dd-41a1-879c-8c392d377fc3"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 172,
+    "StyleXSpell_ID": "97e489d5-a3dc-461f-bf78-09e3bb6ddc41"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20055,
+    "StyleID": 283,
+    "StyleXSpell_ID": "98f937bd-1636-4412-a1b3-f8c207e41625"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20051,
+    "StyleID": 93,
+    "StyleXSpell_ID": "99e2c27c-6bea-48a0-91d2-7f99309bac87"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 143,
+    "StyleXSpell_ID": "9a41ea89-57cd-45c3-9153-a4773a9541dd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 90,
+    "StyleXSpell_ID": "9ad79977-498b-4f31-a6a1-4ed3eb7a2ed9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20015,
+    "StyleID": 349,
+    "StyleXSpell_ID": "9af7a772-b221-4c55-bba8-d8edc236a668"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 72,
+    "StyleXSpell_ID": "9b18815a-4d63-4f02-be8d-5c245f6ba8ed"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 59,
+    "StyleXSpell_ID": "9be04283-4bfd-454b-ab35-323f5f6cef9b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 106,
+    "StyleXSpell_ID": "9c05f1ab-d1bf-4ce0-a93c-5a479b4257d8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 272,
+    "StyleXSpell_ID": "9c8d58e0-3a0a-4191-b291-6a947dd151df"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20051,
+    "StyleID": 87,
+    "StyleXSpell_ID": "9d6291ed-c4a0-452e-9f94-101b1af8ffad"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 398,
+    "StyleXSpell_ID": "9f005a66-6e43-4ee6-988e-057792d833f6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20037,
+    "StyleID": 228,
+    "StyleXSpell_ID": "9f66c5f2-5b38-46b0-be63-0515f90272eb"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 64,
+    "StyleXSpell_ID": "a045dea0-0829-4b5c-8aaf-751bcdb2e0f6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 235,
+    "StyleXSpell_ID": "a0b2f2a7-a56b-43af-af29-17ce6b352bc1"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 344,
+    "StyleXSpell_ID": "a0cdc831-a753-4c12-be57-2bd30c33d6d2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 303,
+    "StyleXSpell_ID": "a4303eb7-dfda-4ab8-b70e-0152b0553bcf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20127,
+    "StyleID": 397,
+    "StyleXSpell_ID": "a67c042d-40a1-43d1-acf5-632793df33a0"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20093,
+    "StyleID": 300,
+    "StyleXSpell_ID": "a76759d3-33f6-4db9-a578-5f54f23e552d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 396,
+    "StyleXSpell_ID": "aa93b59f-a1c6-46a9-8c21-fd7f138f0e37"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20088,
+    "StyleID": 317,
+    "StyleXSpell_ID": "ab7e84f1-ed9a-4dcf-91f2-cb22cf8b2c61"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 103,
+    "StyleXSpell_ID": "ac0837f1-9ad0-44aa-b2aa-3e8505904d5c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 313,
+    "StyleXSpell_ID": "ac6ad919-b46b-4edd-b2a3-7af12566dd35"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 41998,
+    "StyleID": 348,
+    "StyleXSpell_ID": "ae431c23-1e8a-4d45-a55e-c200affdfe65"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 276,
+    "StyleXSpell_ID": "af67613c-23b1-49df-b481-464ccb84640d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 195,
+    "StyleXSpell_ID": "afb7e760-a8bd-436b-8990-73bac41bdad4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 529,
+    "StyleXSpell_ID": "AlbsLevel2StyleCrush"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 527,
+    "StyleXSpell_ID": "AlbsLevel2StyleSlash"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 528,
+    "StyleXSpell_ID": "AlbsLevel2StyleThrust"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25684,
+    "StyleID": 465,
+    "StyleXSpell_ID": "anticipation"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 43579,
+    "StyleID": 185,
+    "StyleXSpell_ID": "b039e1d9-a101-412d-90d1-9c19bf26bf1e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 306,
+    "StyleXSpell_ID": "b26fc7d8-cb08-4703-aef8-232ee74005f8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 347,
+    "StyleXSpell_ID": "b2799be2-46ae-4b53-ac98-85dd414f9878"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 333,
+    "StyleXSpell_ID": "b30c1d9a-8c94-4d1c-beb0-436e09b6500e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 111,
+    "StyleXSpell_ID": "b6235d6c-ed94-4242-9920-98277dd3d73b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20056,
+    "StyleID": 171,
+    "StyleXSpell_ID": "b6c38116-15a9-4f5e-9060-512016365806"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 149,
+    "StyleXSpell_ID": "b7af1fa7-f13b-47be-869e-bb1479c786a2"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20105,
+    "StyleID": 94,
+    "StyleXSpell_ID": "b887aa7a-d45a-43fd-8b81-308b0c2164ec"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 321,
+    "StyleXSpell_ID": "bac1f132-7161-4d10-a83d-6af2d3f5e995"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25684,
+    "StyleID": 475,
+    "StyleXSpell_ID": "backfireweapon"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32020,
+    "StyleID": 403,
+    "StyleXSpell_ID": "battlemaster_ML1"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32025,
+    "StyleID": 407,
+    "StyleXSpell_ID": "battlemaster_ML10"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32020,
+    "StyleID": 403,
+    "StyleXSpell_ID": "battlemaster_ML1_19"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32021,
+    "StyleID": 404,
+    "StyleXSpell_ID": "battlemaster_ML3"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32022,
+    "StyleID": 401,
+    "StyleXSpell_ID": "battlemaster_ML5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32023,
+    "StyleID": 405,
+    "StyleXSpell_ID": "battlemaster_ML7"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32024,
+    "StyleID": 406,
+    "StyleXSpell_ID": "battlemaster_ML9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 31,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25600,
+    "StyleID": 205,
+    "StyleXSpell_ID": "Berserker_Aurora_Borealis"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 209,
+    "StyleXSpell_ID": "c0687b51-dd78-466e-bbf5-23b3634c8165"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 58,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 420,
+    "StyleXSpell_ID": "c18102c1-f92c-4ae2-ae3c-fea593a09699"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20037,
+    "StyleID": 383,
+    "StyleXSpell_ID": "c3708a19-e7ca-45c0-a750-0fe743e76a3a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 266,
+    "StyleXSpell_ID": "c415fa20-f450-4f2f-95f6-eb8ffaf152bc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 277,
+    "StyleXSpell_ID": "c4656aaa-98cf-4e6d-b3e8-58083def788c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20030,
+    "StyleID": 221,
+    "StyleXSpell_ID": "c5d18575-fbca-43c8-904c-cb31f8486be6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 270,
+    "StyleXSpell_ID": "c85a21cf-83de-4fee-b89d-e9cb7429265f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51002,
+    "StyleID": 213,
+    "StyleXSpell_ID": "c92e63a8-4afe-47f1-b49b-2701da7f39ac"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 208,
+    "StyleXSpell_ID": "c92e63a8-4afe-47f1-b49b-2701da7f39ac-StyleTaunt"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 115,
+    "StyleXSpell_ID": "cb6bd33e-5d81-4f8f-9d43-b7b9ae974337"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20055,
+    "StyleID": 166,
+    "StyleXSpell_ID": "cec7d0e9-a458-4cb9-b598-319042e8234b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 315,
+    "StyleXSpell_ID": "CelticSpear29Style"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20053,
+    "StyleID": 126,
+    "StyleXSpell_ID": "cf12084a-0428-4000-b049-59215323f9d8"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 468,
+    "StyleXSpell_ID": "concussslow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 478,
+    "StyleXSpell_ID": "counterassaultslow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 183,
+    "StyleXSpell_ID": "d07033b3-3544-4600-9eb8-bd82daf759ff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20089,
+    "StyleID": 100,
+    "StyleXSpell_ID": "d0c9ebcf-e011-4c5e-9281-308fdf293ae1"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 387,
+    "StyleXSpell_ID": "d2ed85c4-6a96-4915-862c-55b6676162ec"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 121,
+    "StyleXSpell_ID": "d4d858a8-b254-46cd-9e6d-aa7db11c6d4f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 247,
+    "StyleXSpell_ID": "d4f5ab56-9ea2-42d7-b7ce-6eebba442542"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 41999,
+    "StyleID": 345,
+    "StyleXSpell_ID": "d5557180-2c9a-445a-98d5-5d5accda76bf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 128,
+    "StyleXSpell_ID": "d563ab1a-8bff-40d8-9c70-cd400324865d"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 246,
+    "StyleXSpell_ID": "d608ed77-4800-4082-ae19-f92b641890d0"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 323,
+    "StyleXSpell_ID": "d66ab10d-33ae-4767-84c9-ffab8cb82f9a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20056,
+    "StyleID": 268,
+    "StyleXSpell_ID": "d66b3227-05e1-4294-a3ec-375728295404"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20034,
+    "StyleID": 225,
+    "StyleXSpell_ID": "d680c11b-d3db-4bd7-9572-831241cdb4d0"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20051,
+    "StyleID": 20054,
+    "StyleXSpell_ID": "d82292c6-4b91-44a6-b980-02a9d319c636"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51009,
+    "StyleID": 364,
+    "StyleXSpell_ID": "d986f21a-1319-4162-b66f-d4af7288c337"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 141,
+    "StyleXSpell_ID": "daa05771-041b-47a9-96a1-5b68c4d70d6c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 11,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20090,
+    "StyleID": 124,
+    "StyleXSpell_ID": "dfdgd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 11,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 118,
+    "StyleXSpell_ID": "dfgdfg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51005,
+    "StyleID": 160,
+    "StyleXSpell_ID": "dfgdfgdfg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20093,
+    "StyleID": 254,
+    "StyleXSpell_ID": "dfgdfhsdfsf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 184,
+    "StyleXSpell_ID": "dfhdhfgjfgjghj"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 361,
+    "StyleXSpell_ID": "dgdfgdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20128,
+    "StyleID": 63,
+    "StyleXSpell_ID": "dgdfgdfgdfg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 173,
+    "StyleXSpell_ID": "dgdfhdh"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 31,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20094,
+    "StyleID": 198,
+    "StyleXSpell_ID": "dgdg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 23,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20095,
+    "StyleID": 198,
+    "StyleXSpell_ID": "dgdgrt"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20090,
+    "StyleID": 256,
+    "StyleXSpell_ID": "dgfdhg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 382,
+    "StyleXSpell_ID": "dgfgfd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20128,
+    "StyleID": 282,
+    "StyleXSpell_ID": "dgsdgfdg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 57,
+    "StyleXSpell_ID": "dgsgsgsg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 234,
+    "StyleXSpell_ID": "ds4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20092,
+    "StyleID": 289,
+    "StyleXSpell_ID": "dsfdg64"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 158,
+    "StyleXSpell_ID": "dsfdsfsdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 158,
+    "StyleXSpell_ID": "dsfdsfsdf5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 299,
+    "StyleXSpell_ID": "dsfsdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20092,
+    "StyleID": 70,
+    "StyleXSpell_ID": "dsgdgdfg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 269,
+    "StyleXSpell_ID": "dsgfsg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20093,
+    "StyleID": 285,
+    "StyleXSpell_ID": "dsgg54"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 85,
+    "StyleXSpell_ID": "dsgsg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 62,
+    "StyleXSpell_ID": "e1adaf0f-0339-49e8-848b-61584047bfdd"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 308,
+    "StyleXSpell_ID": "e2f7cb44-4f86-4500-84b2-ffc50ce5f700"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 177,
+    "StyleXSpell_ID": "e3310c8d-bbca-4b8d-b2e7-24d85bf6c232"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 288,
+    "StyleXSpell_ID": "e425fcc1-6670-4c06-8166-ca045c874d7b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 76,
+    "StyleXSpell_ID": "e4cd90d3-6276-45ba-bec4-c21de3a262db"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51006,
+    "StyleID": 399,
+    "StyleXSpell_ID": "e5da5c0b-a4fe-4d64-9811-397698da5579"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20091,
+    "StyleID": 368,
+    "StyleXSpell_ID": "e6360dfd-2e5c-4fc0-afa4-2b993f6e6db6"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20058,
+    "StyleID": 237,
+    "StyleXSpell_ID": "e8d72347-6b39-406c-b82d-c984fc129cb9"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 123,
+    "StyleXSpell_ID": "e9204229-c768-406d-9f61-545e842f1106"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20085,
+    "StyleID": 297,
+    "StyleXSpell_ID": "e99ecfac-4393-45ab-8666-89f8e08b5a5b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20038,
+    "StyleID": 229,
+    "StyleXSpell_ID": "eb01577c-c82a-43af-a6f7-b07dd3871a6e"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 133,
+    "StyleXSpell_ID": "eb78de7e-3f22-464c-bf61-02579a91236a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 167,
+    "StyleXSpell_ID": "ef5df8f9-ce27-4c57-b4e8-18640288991f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20035,
+    "StyleID": 226,
+    "StyleXSpell_ID": "efc8495d-3313-474c-b4e0-0cf7e8aafe0c"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 169,
+    "StyleXSpell_ID": "f0692a02-4e1d-4c45-b7f3-faa497a2dc75"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20012,
+    "StyleID": 216,
+    "StyleXSpell_ID": "f0784f16-3a4a-4aa6-b68f-68103cf2bde4"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20082,
+    "StyleID": 190,
+    "StyleXSpell_ID": "f0b5ae8e-1002-4516-aaaf-9462d72f972a"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 194,
+    "StyleXSpell_ID": "f218e617-7b8f-4e1b-a1a3-f4dd09ee6e72"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 88,
+    "StyleXSpell_ID": "f36b872e-ad61-4450-bdac-2f627cb02417"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20098,
+    "StyleID": 334,
+    "StyleXSpell_ID": "f4e064ae-9ead-4704-99b3-a23e594bc014"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20078,
+    "StyleID": 312,
+    "StyleXSpell_ID": "f5011d48-3d0c-4039-90d0-0aefb80c1698"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20037,
+    "StyleID": 99,
+    "StyleXSpell_ID": "f6452529-a33d-4fe1-89b1-68cea7d4d51b"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 21110,
+    "StyleID": 166,
+    "StyleXSpell_ID": "f763d9e7-fe17-46ea-8722-93db2764950f"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20056,
+    "StyleID": 82,
+    "StyleXSpell_ID": "f909747b-15e9-4838-90bb-0abe9ea222bf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 227,
+    "StyleXSpell_ID": "f93ce60a-80b3-471d-94e4-f4000d21b327"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20014,
+    "StyleID": 78,
+    "StyleXSpell_ID": "fa088d9f-3162-4c10-adc9-79eb1abeecda"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20032,
+    "StyleID": 164,
+    "StyleXSpell_ID": "fb46b135-c6d5-4d52-bddc-7377d7265a39"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 22224,
+    "StyleID": 242,
+    "StyleXSpell_ID": "fb96a02d-b326-4272-80e0-0a6251fb9678"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20017,
+    "StyleID": 302,
+    "StyleXSpell_ID": "fd926c1b-2302-49ee-aedb-f45142d528e2"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25657,
+    "StyleID": 473,
+    "StyleXSpell_ID": "flankingblow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 467,
+    "StyleXSpell_ID": "foesplitterdetaunt"
+  },
+  {
+    "Chance": 0,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 0,
+    "StyleID": 0,
+    "StyleXSpell_ID": "fury"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 358,
+    "StyleXSpell_ID": "gdfgdfg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 68,
+    "StyleXSpell_ID": "gfd56"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 11,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20094,
+    "StyleID": 125,
+    "StyleXSpell_ID": "gfhfgj"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25678,
+    "StyleID": 474,
+    "StyleXSpell_ID": "gougefeintbleed"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 280,
+    "StyleXSpell_ID": "gs4dg5dsg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 367,
+    "StyleXSpell_ID": "Heretic-Anaconda"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20090,
+    "StyleID": 363,
+    "StyleXSpell_ID": "Heretic-Boomslang"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20091,
+    "StyleID": 368,
+    "StyleXSpell_ID": "Heretic-Cobra"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50879,
+    "StyleID": 366,
+    "StyleXSpell_ID": "Heretic-Constrictor"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 360,
+    "StyleXSpell_ID": "Heretic-Copperhead"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 357,
+    "StyleXSpell_ID": "Heretic-Diamondback"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51010,
+    "StyleID": 362,
+    "StyleXSpell_ID": "Heretic-Indigo"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 356,
+    "StyleXSpell_ID": "Heretic-Kingsnake"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51009,
+    "StyleID": 364,
+    "StyleXSpell_ID": "Heretic-Python"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20016,
+    "StyleID": 311,
+    "StyleXSpell_ID": "HeroBleedStyleHunter'sLance"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20054,
+    "StyleID": 307,
+    "StyleXSpell_ID": "HeroSlowHunter'sBoonProc"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 477,
+    "StyleXSpell_ID": "kickbackslow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 518,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xBodyBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20064,
+    "StyleID": 525,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xCounterBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20063,
+    "StyleID": 524,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xCross"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 523,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xDislocation"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20050,
+    "StyleID": 521,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xEagleStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20062,
+    "StyleID": 522,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xGutShot"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 517,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xHaymaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 516,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xHeartStopper"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20076,
+    "StyleID": 514,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xJawBreaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 515,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xOwlStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20065,
+    "StyleID": 526,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xPhoenixStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20061,
+    "StyleID": 520,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xRibCracker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 513,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xUppercut"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 519,
+    "StyleXSpell_ID": "mauler_alb_fistwraps_xWindTaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20072,
+    "StyleID": 507,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xBurningCloud"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 500,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xCinderStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 506,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xEmberClip"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50700,
+    "StyleID": 497,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xFocusedBreach"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20074,
+    "StyleID": 509,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xForgingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20067,
+    "StyleID": 502,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xJoltingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 499,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xPercussion"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 498,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xRescue"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20073,
+    "StyleID": 508,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xScorchingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20071,
+    "StyleID": 505,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xShockingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50701,
+    "StyleID": 503,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xSmeltingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 501,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xSubterfuge"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50702,
+    "StyleID": 510,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xTemperedStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20069,
+    "StyleID": 504,
+    "StyleXSpell_ID": "mauler_alb_maulerstaff_xWindingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 518,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xBodyBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20064,
+    "StyleID": 525,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xCounterBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20063,
+    "StyleID": 524,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xCross"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 523,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xDislocation"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20050,
+    "StyleID": 521,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xEagleStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20062,
+    "StyleID": 522,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xGutShot"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 517,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xHaymaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 516,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xHeartStopper"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20076,
+    "StyleID": 514,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xJawBreaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 515,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xOwlStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20065,
+    "StyleID": 526,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xPhoenixStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20061,
+    "StyleID": 520,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xRibCracker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 513,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xUppercut"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 519,
+    "StyleXSpell_ID": "mauler_hib_fistwraps_xWindTaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20072,
+    "StyleID": 507,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xBurningCloud"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 500,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xCinderStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 506,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xEmberClip"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50700,
+    "StyleID": 497,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xFocusedBreach"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20074,
+    "StyleID": 509,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xForgingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20067,
+    "StyleID": 502,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xJoltingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 499,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xPercussion"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 498,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xRescue"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20073,
+    "StyleID": 508,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xScorchingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20071,
+    "StyleID": 505,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xShockingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50701,
+    "StyleID": 503,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xSmeltingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 501,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xSubterfuge"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50702,
+    "StyleID": 510,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xTemperedStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20069,
+    "StyleID": 504,
+    "StyleXSpell_ID": "mauler_hib_maulerstaff_xWindingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 518,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xBodyBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20064,
+    "StyleID": 525,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xCounterBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20063,
+    "StyleID": 524,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xCross"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 523,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xDislocation"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20050,
+    "StyleID": 521,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xEagleStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20062,
+    "StyleID": 522,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xGutShot"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 517,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xHaymaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 516,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xHeartStopper"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20076,
+    "StyleID": 514,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xJawBreaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 515,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xOwlStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20065,
+    "StyleID": 526,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xPhoenixStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20061,
+    "StyleID": 520,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xRibCracker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20049,
+    "StyleID": 513,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xUppercut"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20052,
+    "StyleID": 519,
+    "StyleXSpell_ID": "mauler_mid_fistwraps_xWindTaker"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20072,
+    "StyleID": 507,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xBurningCloud"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20060,
+    "StyleID": 500,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xCinderStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 506,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xEmberClip"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50700,
+    "StyleID": 497,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xFocusedBreach"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20074,
+    "StyleID": 509,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xForgingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20067,
+    "StyleID": 502,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xJoltingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 499,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xPercussion"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 498,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xRescue"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20073,
+    "StyleID": 508,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xScorchingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20071,
+    "StyleID": 505,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xShockingStaff"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50701,
+    "StyleID": 503,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xSmeltingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7354,
+    "StyleID": 501,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xSubterfuge"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50702,
+    "StyleID": 510,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xTemperedStrike"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20069,
+    "StyleID": 504,
+    "StyleXSpell_ID": "mauler_mid_maulerstaff_xWindingBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 530,
+    "StyleXSpell_ID": "MidLevel2Bleed"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 531,
+    "StyleXSpell_ID": "MidLevel2HammerBleed"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25678,
+    "StyleID": 462,
+    "StyleXSpell_ID": "onslaughtbleed"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 25,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-hunter"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 23,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-shadow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 24,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-sklad"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 31,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-svg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 22,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-warri"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 32,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 160,
+    "StyleXSpell_ID": "ragna-zerk"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20036,
+    "StyleID": 367,
+    "StyleXSpell_ID": "Reaver-Anaconda"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20090,
+    "StyleID": 363,
+    "StyleXSpell_ID": "Reaver-Boomslang"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50879,
+    "StyleID": 366,
+    "StyleXSpell_ID": "Reaver-Constrictor"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20033,
+    "StyleID": 360,
+    "StyleXSpell_ID": "Reaver-Copperhead"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 7353,
+    "StyleID": 357,
+    "StyleXSpell_ID": "Reaver-Diamondback"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51010,
+    "StyleID": 362,
+    "StyleXSpell_ID": "Reaver-Indigo"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20006,
+    "StyleID": 356,
+    "StyleXSpell_ID": "Reaver-Kingsnake"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51007,
+    "StyleID": 369,
+    "StyleXSpell_ID": "Reaver-Levi"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25684,
+    "StyleID": 476,
+    "StyleXSpell_ID": "recoil"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25657,
+    "StyleID": 461,
+    "StyleXSpell_ID": "resilience"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25684,
+    "StyleID": 464,
+    "StyleXSpell_ID": "retaliation"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25678,
+    "StyleID": 471,
+    "StyleXSpell_ID": "rupture"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 10503,
+    "StyleID": 381,
+    "StyleXSpell_ID": "SavageBuffParryStyle"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 10507,
+    "StyleID": 380,
+    "StyleXSpell_ID": "SavageBuffStyleEvade"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 10501,
+    "StyleID": 370,
+    "StyleXSpell_ID": "SavageStyleParry"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 9,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20095,
+    "StyleID": 125,
+    "StyleXSpell_ID": "sdfdsf5"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51008,
+    "StyleID": 160,
+    "StyleXSpell_ID": "sdfgsdg"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 328,
+    "StyleXSpell_ID": "sdfsdfsdfsdf"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20086,
+    "StyleID": 80,
+    "StyleXSpell_ID": "sfdf"
+  },
+  {
+    "Chance": 80,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 25657,
+    "StyleID": 470,
+    "StyleXSpell_ID": "spinecrack"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20055,
+    "StyleID": 565,
+    "StyleXSpell_ID": "StyleProcFrozenComet"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 43579,
+    "StyleID": 155,
+    "StyleXSpell_ID": "ThaneIceStorm"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 21112,
+    "StyleID": 157,
+    "StyleXSpell_ID": "ThanePolarRift"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20401,
+    "StyleID": 413,
+    "StyleXSpell_ID": "Valkyrie-150-PBAoE"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20400,
+    "StyleID": 412,
+    "StyleXSpell_ID": "Valkyrie-50-PBAoE"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20087,
+    "StyleID": 155,
+    "StyleXSpell_ID": "ValkyrieIceStorm"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51075,
+    "StyleID": 410,
+    "StyleXSpell_ID": "ValkyrieOdinsBite"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20402,
+    "StyleID": 409,
+    "StyleXSpell_ID": "ValkyrieOdinsClip"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 51008,
+    "StyleID": 411,
+    "StyleXSpell_ID": "ValkyrieOdinsDeathBlow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 50879,
+    "StyleID": 157,
+    "StyleXSpell_ID": "ValkyriePolarRift"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 32152,
+    "StyleID": 417,
+    "StyleXSpell_ID": "ValkyrieShieldAblative"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20402,
+    "StyleID": 415,
+    "StyleXSpell_ID": "ValkyrieShieldRoot"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20083,
+    "StyleID": 463,
+    "StyleXSpell_ID": "vengeanceslow"
+  },
+  {
+    "Chance": 100,
+    "ClassID": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 20084,
+    "StyleID": 365,
+    "StyleXSpell_ID": "xgdfgfd"
+  }
+]

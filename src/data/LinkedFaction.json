@@ -1,0 +1,44 @@
+[
+  {
+    "FactionID": 97,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 195,
+    "LinkedFaction_ID": "Azure_Dragonsworn"
+  },
+  {
+    "FactionID": 97,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 83,
+    "LinkedFaction_ID": "Azure_GlimmerSpirits"
+  },
+  {
+    "FactionID": 124,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 195,
+    "LinkedFaction_ID": "DragonBaneSvaltalfar_Dragonsworn"
+  },
+  {
+    "FactionID": 124,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 154,
+    "LinkedFaction_ID": "DragonbaneSvaltalfar_PackDrakulv"
+  },
+  {
+    "FactionID": 60,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 195,
+    "LinkedFaction_ID": "StonecrushClan_Dragonsworn"
+  },
+  {
+    "FactionID": 60,
+    "IsFriend": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LinkedFactionID": 31,
+    "LinkedFaction_ID": "StonecrushClan_GraniteGiants"
+  }
+]
