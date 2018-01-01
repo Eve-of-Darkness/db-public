@@ -1,6 +1,7 @@
 package main
 
 import (
+	"crypto/sha256"
 	"database/sql"
 	"encoding/json"
 	"fmt"
@@ -193,6 +194,20 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 
 	if _, err := os.Stat("../data"); os.IsNotExist(err) {
 		os.MkdirAll("../data", os.ModePerm)
+	}
+
+	if _, err := os.Stat("../data/" + fileName + ".json"); err == nil {
+		file, e := ioutil.ReadFile("../data/" + fileName + ".json")
+		if e != nil {
+			panic(e)
+		}
+
+		fileHash := fmt.Sprintf("%x", sha256.Sum256(file))
+		jsonHash := fmt.Sprintf("%x", sha256.Sum256(jsonData))
+
+		if fileHash == jsonHash {
+			return
+		}
 	}
 
 	err = ioutil.WriteFile("../data/"+fileName+".json", jsonData, 0644)
