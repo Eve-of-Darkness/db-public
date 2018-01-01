@@ -1,0 +1,6 @@
+db:
+    host:     localhost
+    user:     dol
+    password: dol
+    database: dol
+    port:     3306
