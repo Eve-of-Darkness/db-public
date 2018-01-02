@@ -4,3 +4,32 @@ db:
     password: dol
     database: dol
     port:     3306
+exportignore:
+    - Appeal
+    - AuditEntry
+    - Ban
+    - DBHouseCharsXPerms
+    - DOLCharacters
+    - DBHousePermissions
+    - DOLCharactersBackup
+    - DOLCharactersBackupXCustomParam
+    - DOLCharactersXCustomParam
+    - GuildAlliance
+    - HouseConsignmentMerchant
+    - KeepCaptureLog
+    - News
+    - PlayerXEffect
+    - PvPKillsLog
+    - ServerInfo
+    - serverproperty_category
+    - serverstats
+    - SinglePermission
+    - Task
+    - Account
+    - Characterxdataquest
+    - characterxmasterlevel
+    - characterxonetimedrop
+    - inventory
+    - playerboats
+    - playerinfo
+    - BugReport
