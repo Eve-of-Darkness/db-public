@@ -28,6 +28,8 @@ var Config = struct {
 }{}
 
 func main() {
+	configor.Load(&Config, "config.yml")
+
 	db, err := sql.Open(
 		"mysql",
 		Config.DB.User+":"+Config.DB.Password+"@tcp("+Config.DB.Host+":"+fmt.Sprint(Config.DB.Port)+")/"+Config.DB.Database)
@@ -40,7 +42,7 @@ func main() {
 
 	tables, err := getTables(db)
 	if err != nil {
-		fmt.Printf("Failed to get tables")
+		fmt.Printf("Failed to get tables: %v", err)
 		return
 	}
 
