@@ -24,11 +24,10 @@ var Config = struct {
 		Password string `required:"true" default:"dolserver"`
 		Port     uint   `default:"3306"`
 	}
+	ExportIgnore []string
 }{}
 
 func main() {
-	configor.Load(&Config, "config.yml")
-
 	db, err := sql.Open(
 		"mysql",
 		Config.DB.User+":"+Config.DB.Password+"@tcp("+Config.DB.Host+":"+fmt.Sprint(Config.DB.Port)+")/"+Config.DB.Database)
@@ -57,7 +56,10 @@ func main() {
 }
 
 func getTables(db *sql.DB) ([]string, error) {
-	re := regexp.MustCompile("(?i)(Appeal|AuditEntry|Ban|DBHouseCharsXPerms|DOLCharacters|DBHousePermissions|DOLCharactersBackup|DOLCharactersBackupXCustomParam|DOLCharactersXCustomParam|GuildAlliance|HouseConsignmentMerchant|KeepCaptureLog|News|PlayerXEffect|PvPKillsLog|ServerInfo|serverproperty_category|serverstats|SinglePermission|Task|Account|Characterxdataquest|characterxmasterlevel|characterxonetimedrop|inventory|playerboats|playerinfo|BugReport)")
+	configor.Load(&Config, "config.yml")
+	ignoreTables := strings.Join(Config.ExportIgnore, "|")
+
+	re := regexp.MustCompile("(?i)(" + ignoreTables + ")")
 
 	rows, err := db.Query("SHOW TABLES;")
 	if err != nil {
