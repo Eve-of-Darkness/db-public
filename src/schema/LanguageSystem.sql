@@ -8,4 +8,4 @@ CREATE TABLE `LanguageSystem` (
   PRIMARY KEY (`LanguageSystem_ID`),
   KEY `I_LanguageSystem_TranslationId` (`TranslationId`),
   KEY `I_LanguageSystem_Language` (`Language`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

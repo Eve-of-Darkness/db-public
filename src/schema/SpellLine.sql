@@ -9,4 +9,4 @@ CREATE TABLE `SpellLine` (
   PRIMARY KEY (`SpellLineID`),
   UNIQUE KEY `U_SpellLine_KeyName` (`KeyName`),
   KEY `I_SpellLine_Spec` (`Spec`)
-) ENGINE=InnoDB AUTO_INCREMENT=1463 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=1463 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

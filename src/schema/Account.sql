@@ -16,4 +16,4 @@ CREATE TABLE `Account` (
   PRIMARY KEY (`Name`),
   UNIQUE KEY `U_Account_Account_ID` (`Account_ID`),
   KEY `I_Account_LastLoginIP` (`LastLoginIP`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;;

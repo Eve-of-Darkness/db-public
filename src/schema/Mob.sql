@@ -50,4 +50,4 @@ CREATE TABLE `Mob` (
   PRIMARY KEY (`Mob_ID`),
   KEY `I_Mob_Name` (`Name`),
   KEY `I_Mob_HouseNumber` (`HouseNumber`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -9,4 +9,4 @@ CREATE TABLE `LanguageGameObject` (
   PRIMARY KEY (`LanguageGameObject_ID`),
   KEY `I_LanguageGameObject_TranslationId` (`TranslationId`),
   KEY `I_LanguageGameObject_Language` (`Language`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

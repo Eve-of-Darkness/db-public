@@ -16,4 +16,4 @@ CREATE TABLE `Race` (
   PRIMARY KEY (`Race_ID`),
   UNIQUE KEY `U_Race_ID` (`ID`),
   UNIQUE KEY `U_Race_Name` (`Name`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

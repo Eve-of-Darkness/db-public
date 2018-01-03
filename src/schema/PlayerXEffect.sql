@@ -14,4 +14,4 @@ CREATE TABLE `PlayerXEffect` (
   `PlayerXEffect_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`PlayerXEffect_ID`),
   KEY `I_PlayerXEffect_ChardID` (`ChardID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

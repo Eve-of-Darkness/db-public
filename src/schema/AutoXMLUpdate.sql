@@ -7,4 +7,4 @@ CREATE TABLE `AutoXMLUpdate` (
   PRIMARY KEY (`AutoXMLUpdateID`),
   KEY `I_AutoXMLUpdate_FilePackage` (`FilePackage`),
   KEY `I_AutoXMLUpdate_FileHash` (`FileHash`)
-) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=4 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -80,4 +80,4 @@ CREATE TABLE `ItemUnique` (
   `ItemUnique_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`Id_nb`),
   UNIQUE KEY `U_ItemUnique_ItemUnique_ID` (`ItemUnique_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

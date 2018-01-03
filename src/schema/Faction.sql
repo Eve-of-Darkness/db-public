@@ -6,4 +6,4 @@ CREATE TABLE `Faction` (
   `Faction_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`ID`),
   UNIQUE KEY `U_Faction_Faction_ID` (`Faction_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

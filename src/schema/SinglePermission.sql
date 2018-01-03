@@ -6,4 +6,4 @@ CREATE TABLE `SinglePermission` (
   PRIMARY KEY (`SinglePermission_ID`),
   KEY `I_SinglePermission_PlayerID` (`PlayerID`),
   KEY `I_SinglePermission_Command` (`Command`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

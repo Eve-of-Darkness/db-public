@@ -9,4 +9,4 @@ CREATE TABLE `Salvage` (
   KEY `I_Salvage_ObjectType` (`ObjectType`),
   KEY `I_Salvage_SalvageLevel` (`SalvageLevel`),
   KEY `I_Salvage_Realm` (`Realm`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

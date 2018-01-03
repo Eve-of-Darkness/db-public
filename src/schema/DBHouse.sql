@@ -37,4 +37,4 @@ CREATE TABLE `DBHouse` (
   PRIMARY KEY (`HouseNumber`),
   UNIQUE KEY `U_DBHouse_DBHouse_ID` (`DBHouse_ID`),
   KEY `I_DBHouse_RegionID` (`RegionID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

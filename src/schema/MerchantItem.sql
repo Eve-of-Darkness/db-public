@@ -9,4 +9,4 @@ CREATE TABLE `MerchantItem` (
   KEY `I_MerchantItem_ItemListID` (`ItemListID`),
   KEY `I_MerchantItem_PageNumber` (`PageNumber`),
   KEY `I_MerchantItem_SlotPosition` (`SlotPosition`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

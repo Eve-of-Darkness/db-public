@@ -12,4 +12,4 @@ CREATE TABLE `KeepComponent` (
   PRIMARY KEY (`KeepComponent_ID`),
   KEY `I_KeepComponent_KeepID` (`KeepID`),
   KEY `I_KeepComponent_ID` (`ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -16,4 +16,4 @@ CREATE TABLE `ZonePoint` (
   PRIMARY KEY (`ZonePoint_ID`),
   KEY `I_ZonePoint_Id` (`Id`),
   KEY `I_ZonePoint_Realm` (`Realm`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

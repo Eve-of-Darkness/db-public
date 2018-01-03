@@ -13,4 +13,4 @@ CREATE TABLE `Relic` (
   `Relic_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`RelicID`),
   UNIQUE KEY `U_Relic_Relic_ID` (`Relic_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

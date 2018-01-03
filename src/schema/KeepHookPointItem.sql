@@ -9,4 +9,4 @@ CREATE TABLE `KeepHookPointItem` (
   KEY `I_KeepHookPointItem_KeepID` (`KeepID`),
   KEY `I_KeepHookPointItem_ComponentID` (`ComponentID`),
   KEY `I_KeepHookPointItem_HookPointID` (`HookPointID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
