@@ -132,7 +132,7 @@ func parseFile(fileName string) []map[string]interface{} {
 }
 
 func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir("../" + dir)
+	files, err := ioutil.ReadDir("../../../" + dir)
 	if err != nil {
 		panic(err)
 	}
