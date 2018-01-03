@@ -17,4 +17,4 @@ CREATE TABLE `KeepPosition` (
   KEY `I_KeepPosition_TemplateID` (`TemplateID`),
   KEY `I_KeepPosition_Height` (`Height`),
   KEY `I_KeepPosition_ClassType` (`ClassType`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

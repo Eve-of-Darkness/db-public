@@ -6,4 +6,4 @@ CREATE TABLE `GuildAlliance` (
   `GuildAlliance_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`GuildAlliance_ID`),
   UNIQUE KEY `U_GuildAlliance_LeaderGuildID` (`LeaderGuildID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

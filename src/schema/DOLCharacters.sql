@@ -137,4 +137,4 @@ CREATE TABLE `DOLCharacters` (
   UNIQUE KEY `U_DOLCharacters_Name` (`Name`),
   KEY `I_DOLCharacters_AccountName` (`AccountName`),
   KEY `I_DOLCharacters_GuildID` (`GuildID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

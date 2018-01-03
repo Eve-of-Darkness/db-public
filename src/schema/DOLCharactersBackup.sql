@@ -139,4 +139,4 @@ CREATE TABLE `DOLCharactersBackup` (
   KEY `I_DOLCharactersBackup_Name` (`Name`),
   KEY `I_DOLCharactersBackup_AccountName` (`AccountName`),
   KEY `I_DOLCharactersBackup_GuildID` (`GuildID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

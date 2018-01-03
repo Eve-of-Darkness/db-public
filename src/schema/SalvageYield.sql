@@ -11,4 +11,4 @@ CREATE TABLE `SalvageYield` (
   KEY `I_SalvageYield_ObjectType` (`ObjectType`),
   KEY `I_SalvageYield_SalvageLevel` (`SalvageLevel`),
   KEY `I_SalvageYield_Realm` (`Realm`)
-) ENGINE=InnoDB AUTO_INCREMENT=366 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=366 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

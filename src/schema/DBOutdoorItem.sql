@@ -8,4 +8,4 @@ CREATE TABLE `DBOutdoorItem` (
   `DBOutdoorItem_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`DBOutdoorItem_ID`),
   KEY `I_DBOutdoorItem_HouseNumber` (`HouseNumber`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

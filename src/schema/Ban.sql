@@ -11,4 +11,4 @@ CREATE TABLE `Ban` (
   KEY `I_Ban_Type` (`Type`),
   KEY `I_Ban_Ip` (`Ip`),
   KEY `I_Ban_Account` (`Account`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

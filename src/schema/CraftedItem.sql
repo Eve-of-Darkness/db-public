@@ -9,4 +9,4 @@ CREATE TABLE `CraftedItem` (
   PRIMARY KEY (`CraftedItemID`),
   UNIQUE KEY `U_CraftedItem_CraftedItem_ID` (`CraftedItem_ID`),
   KEY `I_CraftedItem_Id_nb` (`Id_nb`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

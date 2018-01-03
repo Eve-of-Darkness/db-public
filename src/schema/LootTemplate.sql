@@ -7,4 +7,4 @@ CREATE TABLE `LootTemplate` (
   `LootTemplate_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`LootTemplate_ID`),
   KEY `I_LootTemplate_TemplateName` (`TemplateName`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

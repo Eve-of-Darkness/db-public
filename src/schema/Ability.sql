@@ -9,4 +9,4 @@ CREATE TABLE `Ability` (
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`AbilityID`),
   UNIQUE KEY `U_Ability_KeyName` (`KeyName`)
-) ENGINE=InnoDB AUTO_INCREMENT=241 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=241 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

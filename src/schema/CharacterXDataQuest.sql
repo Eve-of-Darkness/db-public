@@ -7,4 +7,4 @@ CREATE TABLE `CharacterXDataQuest` (
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ID`),
   KEY `I_CharacterXDataQuest_Character_ID` (`DataQuestID`,`Character_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

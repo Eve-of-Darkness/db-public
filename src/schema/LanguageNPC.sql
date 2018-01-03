@@ -12,4 +12,4 @@ CREATE TABLE `LanguageNPC` (
   PRIMARY KEY (`LanguageNPC_ID`),
   KEY `I_LanguageNPC_TranslationId` (`TranslationId`),
   KEY `I_LanguageNPC_Language` (`Language`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

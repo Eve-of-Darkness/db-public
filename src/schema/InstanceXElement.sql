@@ -10,4 +10,4 @@ CREATE TABLE `InstanceXElement` (
   `InstanceXElement_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`InstanceXElement_ID`),
   KEY `I_InstanceXElement_InstanceID` (`InstanceID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

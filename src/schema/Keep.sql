@@ -21,4 +21,4 @@ CREATE TABLE `Keep` (
   `Keep_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`KeepID`),
   UNIQUE KEY `U_Keep_Keep_ID` (`Keep_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

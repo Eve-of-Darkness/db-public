@@ -7,4 +7,4 @@ CREATE TABLE `MobDropTemplate` (
   PRIMARY KEY (`ID`),
   KEY `I_MobDropTemplate_MobName` (`MobName`),
   KEY `I_MobDropTemplate_LootTemplateName` (`LootTemplateName`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

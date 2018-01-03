@@ -8,4 +8,4 @@ CREATE TABLE `ClassXSpecialization` (
   KEY `I_ClassXSpecialization_ClassID` (`ClassID`),
   KEY `I_ClassXSpecialization_SpecKeyName` (`SpecKeyName`),
   KEY `I_ClassXSpecialization_LevelAcquired` (`LevelAcquired`)
-) ENGINE=InnoDB AUTO_INCREMENT=538 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=538 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

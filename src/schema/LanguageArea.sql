@@ -9,4 +9,4 @@ CREATE TABLE `LanguageArea` (
   PRIMARY KEY (`LanguageArea_ID`),
   KEY `I_LanguageArea_TranslationId` (`TranslationId`),
   KEY `I_LanguageArea_Language` (`Language`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

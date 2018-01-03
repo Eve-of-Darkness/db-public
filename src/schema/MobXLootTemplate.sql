@@ -7,4 +7,4 @@ CREATE TABLE `MobXLootTemplate` (
   PRIMARY KEY (`MobXLootTemplate_ID`),
   KEY `I_MobXLootTemplate_MobName` (`MobName`),
   KEY `I_MobXLootTemplate_LootTemplateName` (`LootTemplateName`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

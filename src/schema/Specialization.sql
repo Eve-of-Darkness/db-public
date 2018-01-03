@@ -8,4 +8,4 @@ CREATE TABLE `Specialization` (
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`SpecializationID`),
   UNIQUE KEY `U_Specialization_KeyName` (`KeyName`)
-) ENGINE=InnoDB AUTO_INCREMENT=225 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=225 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

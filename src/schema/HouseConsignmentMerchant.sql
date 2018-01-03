@@ -7,4 +7,4 @@ CREATE TABLE `HouseConsignmentMerchant` (
   PRIMARY KEY (`ID`),
   KEY `I_HouseConsignmentMerchant_OwnerID` (`OwnerID`),
   KEY `I_HouseConsignmentMerchant_HouseNumber` (`HouseNumber`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
