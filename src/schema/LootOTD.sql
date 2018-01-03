@@ -7,4 +7,4 @@ CREATE TABLE `LootOTD` (
   PRIMARY KEY (`LootOTD_ID`),
   KEY `I_LootOTD_MobName` (`MobName`),
   KEY `I_LootOTD_ItemTemplateID` (`ItemTemplateID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

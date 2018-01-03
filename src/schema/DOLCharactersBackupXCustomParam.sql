@@ -7,4 +7,4 @@ CREATE TABLE `DOLCharactersBackupXCustomParam` (
   PRIMARY KEY (`CustomParamID`),
   KEY `I_DOLCharactersBackupXCustomParam_DOLCharactersObjectId` (`DOLCharactersObjectId`),
   KEY `I_DOLCharactersBackupXCustomParam_KeyName` (`KeyName`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

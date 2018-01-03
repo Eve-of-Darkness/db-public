@@ -9,4 +9,4 @@ CREATE TABLE `SpecXAbility` (
   PRIMARY KEY (`SpecXabilityID`),
   KEY `I_SpecXAbility_Spec` (`Spec`),
   KEY `I_SpecXAbility_AbilityKey` (`AbilityKey`)
-) ENGINE=InnoDB AUTO_INCREMENT=367 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=367 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

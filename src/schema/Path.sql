@@ -6,4 +6,4 @@ CREATE TABLE `Path` (
   `Path_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`Path_ID`),
   UNIQUE KEY `U_Path_PathID` (`PathID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

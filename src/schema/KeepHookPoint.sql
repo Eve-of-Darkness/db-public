@@ -11,4 +11,4 @@ CREATE TABLE `KeepHookPoint` (
   PRIMARY KEY (`KeepHookPoint_ID`),
   KEY `I_KeepHookPoint_HookPointID` (`HookPointID`),
   KEY `I_KeepHookPoint_Height` (`Height`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

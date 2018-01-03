@@ -19,4 +19,4 @@ CREATE TABLE `Zones` (
   PRIMARY KEY (`ZoneID`),
   UNIQUE KEY `U_Zones_Zones_ID` (`Zones_ID`),
   KEY `I_Zones_RegionID` (`RegionID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

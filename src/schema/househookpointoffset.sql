@@ -8,4 +8,4 @@ CREATE TABLE `househookpointoffset` (
   `Heading` int(11) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ID`)
-) ENGINE=InnoDB AUTO_INCREMENT=144 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=144 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

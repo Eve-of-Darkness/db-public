@@ -22,4 +22,4 @@ CREATE TABLE `Style` (
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`StyleID`),
   KEY `I_Style_SpecKeyName` (`SpecKeyName`)
-) ENGINE=InnoDB AUTO_INCREMENT=50014 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=50014 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

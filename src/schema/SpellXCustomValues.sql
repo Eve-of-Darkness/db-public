@@ -7,4 +7,4 @@ CREATE TABLE `SpellXCustomValues` (
   PRIMARY KEY (`CustomParamID`),
   KEY `I_SpellXCustomValues_SpellID` (`SpellID`),
   KEY `I_SpellXCustomValues_KeyName` (`KeyName`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

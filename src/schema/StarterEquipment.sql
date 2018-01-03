@@ -4,4 +4,4 @@ CREATE TABLE `StarterEquipment` (
   `TemplateID` varchar(255) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`StarterEquipmentID`)
-) ENGINE=InnoDB AUTO_INCREMENT=128 DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB AUTO_INCREMENT=128 DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -14,4 +14,4 @@ CREATE TABLE `Regions` (
   `Regions_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`RegionID`),
   UNIQUE KEY `U_Regions_Regions_ID` (`Regions_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

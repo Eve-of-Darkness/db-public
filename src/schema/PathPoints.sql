@@ -10,4 +10,4 @@ CREATE TABLE `PathPoints` (
   `PathPoints_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`PathPoints_ID`),
   KEY `I_PathPoints_PathID` (`PathID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -27,4 +27,4 @@ CREATE TABLE `Inventory` (
   KEY `I_Inventory_ITemplate_Id` (`ITemplate_Id`),
   KEY `I_Inventory_UTemplate_Id` (`UTemplate_Id`),
   KEY `I_Inventory_SlotPosition` (`SlotPosition`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

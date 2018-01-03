@@ -14,4 +14,4 @@ CREATE TABLE `DBIndoorItem` (
   `DBIndoorItem_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`DBIndoorItem_ID`),
   KEY `I_DBIndoorItem_HouseNumber` (`HouseNumber`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

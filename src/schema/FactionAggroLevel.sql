@@ -6,4 +6,4 @@ CREATE TABLE `FactionAggroLevel` (
   `FactionAggroLevel_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`FactionAggroLevel_ID`),
   KEY `I_FactionAggroLevel_CharacterID` (`CharacterID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

@@ -13,4 +13,4 @@ CREATE TABLE `PvPKillsLog` (
   `IsInstance` tinyint(1) DEFAULT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

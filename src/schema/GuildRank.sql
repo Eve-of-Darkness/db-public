@@ -24,4 +24,4 @@ CREATE TABLE `GuildRank` (
   `GuildRank_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`GuildRank_ID`),
   KEY `I_GuildRank_GuildID` (`GuildID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

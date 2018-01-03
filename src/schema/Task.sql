@@ -8,4 +8,4 @@ CREATE TABLE `Task` (
   `Task_ID` varchar(255) DEFAULT NULL,
   PRIMARY KEY (`Character_ID`),
   UNIQUE KEY `U_Task_Task_ID` (`Task_ID`)
-) ENGINE=InnoDB DEFAULT CHARSET=latin1;
+) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;
