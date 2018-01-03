@@ -18,7 +18,7 @@ func main() {
 	var buffer bytes.Buffer
 
 	for _, schemaFile := range schemaFiles {
-		file, e := ioutil.ReadFile("../schema/" + schemaFile)
+		file, e := ioutil.ReadFile("../../../schema/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
@@ -120,7 +120,7 @@ func getInsertStart(table string, columns []string) string {
 }
 
 func parseFile(fileName string) []map[string]interface{} {
-	file, e := ioutil.ReadFile("../data/" + fileName)
+	file, e := ioutil.ReadFile("../../../data/" + fileName)
 	if e != nil {
 		panic(e)
 	}

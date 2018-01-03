@@ -28,7 +28,7 @@ var Config = struct {
 }{}
 
 func main() {
-	configor.Load(&Config, "config.yml")
+	configor.Load(&Config, "../../config/config.yml")
 
 	db, err := sql.Open(
 		"mysql",
@@ -88,7 +88,7 @@ func getTables(db *sql.DB) ([]string, error) {
 }
 
 func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir("../" + dir)
+	files, err := ioutil.ReadDir("../../../" + dir)
 	if err != nil {
 		panic(err)
 	}
@@ -196,12 +196,12 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		panic(err)
 	}
 
-	if _, err := os.Stat("../data"); os.IsNotExist(err) {
-		os.MkdirAll("../data", os.ModePerm)
+	if _, err := os.Stat("../../../data"); os.IsNotExist(err) {
+		os.MkdirAll("../../../data", os.ModePerm)
 	}
 
-	if _, err := os.Stat("../data/" + fileName + ".json"); err == nil {
-		file, e := ioutil.ReadFile("../data/" + fileName + ".json")
+	if _, err := os.Stat("../../../data/" + fileName + ".json"); err == nil {
+		file, e := ioutil.ReadFile("../../../data/" + fileName + ".json")
 		if e != nil {
 			panic(e)
 		}
@@ -214,7 +214,7 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		}
 	}
 
-	err = ioutil.WriteFile("../data/"+fileName+".json", jsonData, 0644)
+	err = ioutil.WriteFile("../../../data/"+fileName+".json", jsonData, 0644)
 	if err != nil {
 		panic(err)
 	}
