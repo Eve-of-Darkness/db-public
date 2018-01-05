@@ -7,8 +7,8 @@ before_install:
   - docker run -e MYSQL_ROOT_PASSWORD=root -d -p 127.0.0.1:3307:3306 mysql:5.7
   - docker ps -a
 script:
-  - cd ./src/scripts && ./concat
+  - cd ./src/scripts/bin/linux && ./concat
   - sleep 30
   - echo "create database dol;" | mysql -h 127.0.0.1 -u root -P 3307 --password=root
   - cat public-db.sql | mysql -h 127.0.0.1 -u root -P 3307 --password=root -D dol
-  - ./test_sql_scripts.sh
+  - cd ../.. && ./test_sql_scripts.sh
