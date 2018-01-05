@@ -35,6 +35,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-05 00:41:25",
+    "PathID": "HS_Howth_MagMell",
+    "PathType": 1,
+    "Path_ID": "0203bd8b-b355-43f0-b56b-89c51f75e6c4",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_MularnArskar",
     "PathType": 1,
@@ -194,6 +201,13 @@
     "PathType": 2,
     "Path_ID": "143d04f9-3b68-41ed-8536-551b10d5b289",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 01:43:56",
+    "PathID": "HS_MagMell_ParthenonFarm",
+    "PathType": 1,
+    "Path_ID": "15a77355-6b77-4ed7-8efb-6f0f90b795bf",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-11 06:57:57",
@@ -511,6 +525,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-05 01:08:59",
+    "PathID": "HS_Howth_Ardagh",
+    "PathType": 1,
+    "Path_ID": "38c00688-4dc9-4929-b4dd-3e576b3005a0",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Cursed_ForestChuchear",
     "PathType": 1,
@@ -635,6 +656,20 @@
     "PathType": 1,
     "Path_ID": "46b632da-d2e6-4541-8b9a-21e11bde849b",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 01:03:50",
+    "PathID": "ticket_to_ArdaghPheuloc",
+    "PathType": 1,
+    "Path_ID": "46cd10a9-c6f1-4acf-8ef8-c8db911ab404",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 00:31:36",
+    "PathID": "HS_AalidFeie_Droighaid",
+    "PathType": 1,
+    "Path_ID": "47151e67-7f96-46ad-96fb-20b9a7bd7dba",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -957,13 +992,6 @@
     "PathType": 1,
     "Path_ID": "670ae08a-1bf1-4b78-b9ee-879f2c5dac86",
     "RegionID": 0
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "ticket_to_ArdaghPheuloc",
-    "PathType": 1,
-    "Path_ID": "680b5ec5-4553-481e-a0e5-a1e65e6d4266",
-    "RegionID": null
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1307,6 +1335,13 @@
     "PathType": 1,
     "Path_ID": "893664bb-f2b5-46d7-8cdc-1f5ca53d95fa",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 00:58:26",
+    "PathID": "HS_Connla_MagMell",
+    "PathType": 1,
+    "Path_ID": "8a44fe79-5116-4c61-8e38-a830b288c3ec",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2037,6 +2072,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-05 01:18:25",
+    "PathID": "HS_TirNambeo_MagMell",
+    "PathType": 1,
+    "Path_ID": "bb520c23-8eda-4678-801b-922f925053cf",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_Huginfel",
     "PathType": 1,
@@ -2175,6 +2217,13 @@
     "PathType": 1,
     "Path_ID": "cf1d2c9f-b79d-48d9-a902-13dab7a73072",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 01:49:39",
+    "PathID": "hs_magmell_tirnambeo",
+    "PathType": 1,
+    "Path_ID": "cffdc0a1-3af3-470f-8449-9092c79f6cbb",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2846,13 +2895,6 @@
     "PathID": "HS_Howth_InnisCarthaig",
     "PathType": 1,
     "Path_ID": "hib7",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Howth_MagMell",
-    "PathType": 1,
-    "Path_ID": "hib8",
     "RegionID": null
   },
   {
