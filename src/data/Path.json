@@ -2037,6 +2037,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-05 03:06:31",
+    "PathID": "HS_MagMell_TirnamBeo",
+    "PathType": 1,
+    "Path_ID": "b42eb2bc-300e-44f1-87d2-f5897f8c80c0",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_Domnann_ToA",
     "PathType": 1,
@@ -2217,13 +2224,6 @@
     "PathType": 1,
     "Path_ID": "cf1d2c9f-b79d-48d9-a902-13dab7a73072",
     "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2018-01-05 01:49:39",
-    "PathID": "hs_magmell_tirnambeo",
-    "PathType": 1,
-    "Path_ID": "cffdc0a1-3af3-470f-8449-9092c79f6cbb",
-    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
