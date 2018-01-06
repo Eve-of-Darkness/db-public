@@ -847,6 +847,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 19:24:12",
+    "PathID": "HS_GroveofAalidFeie_Necht",
+    "PathType": 1,
+    "Path_ID": "4eb8a5c8-5974-453d-bc86-eba98c546945",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_GnaFaste",
     "PathType": 1,
@@ -1684,6 +1691,13 @@
     "PathID": "HS_TirNambeo_Ardagh",
     "PathType": 1,
     "Path_ID": "a15656c7-10a0-4240-8306-c46befc04353",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 19:32:01",
+    "PathID": "HS_GroveofAalidFeie_BannDidein",
+    "PathType": 1,
+    "Path_ID": "a165949f-a76b-4bb1-9f7c-7b31fdd98a2b",
     "RegionID": 0
   },
   {
