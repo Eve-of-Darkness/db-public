@@ -1554,6 +1554,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 22:02:04",
+    "PathID": "HS_CastleSauvage_Cotswold",
+    "PathType": 1,
+    "Path_ID": "8fcf0f34-cd71-4dbb-a7e1-65fb5aabe380",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusBoreal",
     "PathType": 3,
