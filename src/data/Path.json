@@ -1750,6 +1750,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 16:24:25",
+    "PathID": "HS_Droighaid_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "a792bf31-9ed4-45d6-89dc-85416522667a",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_CruachanGorge_MidgardCoast",
     "PathType": 1,
