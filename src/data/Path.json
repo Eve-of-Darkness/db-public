@@ -246,7 +246,7 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-11 06:57:57",
-    "PathID": "hs_cotswold_cornwallstation",
+    "PathID": "HS_Cotswold_CornwallStation",
     "PathType": 1,
     "Path_ID": "15de6020-4662-4a57-8964-14face6245e0",
     "RegionID": 0
@@ -1051,7 +1051,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_caerulfwych",
+    "PathID": "HS_Cotswold_CaerUlfwych",
     "PathType": 1,
     "Path_ID": "63aa8db7-15b4-4b24-8122-cfb1f63ffc08",
     "RegionID": null
@@ -1142,7 +1142,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_westdowns",
+    "PathID": "HS_Cotswold_WestDowns",
     "PathType": 1,
     "Path_ID": "6b0faeca-4519-4b30-b5be-161a2c20c999",
     "RegionID": 0
@@ -1569,7 +1569,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_campacorentinstation",
+    "PathID": "HS_Cotswold_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "910d4b66-21fe-4839-a7f3-1b1e7aec832b",
     "RegionID": null
@@ -2241,7 +2241,7 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-11 06:10:05",
-    "PathID": "hs_cotswold_caerwitrin",
+    "PathID": "HS_Cotswold_CaerWitrin",
     "PathType": 1,
     "Path_ID": "b9b07fdc-ceaf-433a-b5de-fd0a3e8b3bbb",
     "RegionID": 0
@@ -2465,7 +2465,7 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-06 21:24:45",
-    "PathID": "hs_cotswold_castlesauvage",
+    "PathID": "HS_Cotswold_CastleSauvage",
     "PathType": 1,
     "Path_ID": "d453f90d-6ac7-49b0-b7ff-342293fd7e19",
     "RegionID": 0
@@ -2885,7 +2885,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_snowdoniastation",
+    "PathID": "HS_Cotswold_SnowdoniaStation",
     "PathType": 1,
     "Path_ID": "fd97063b-3e88-455b-bc82-045e0e67aabf",
     "RegionID": null
