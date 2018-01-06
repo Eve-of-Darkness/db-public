@@ -1386,6 +1386,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 01:54:10",
+    "PathID": "HS_TirNaNogNord_InnisCarthaig",
+    "PathType": 1,
+    "Path_ID": "8989b524-4706-4014-8435-635a2587308b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-05 00:58:26",
     "PathID": "HS_Connla_MagMell",
     "PathType": 1,
@@ -2114,6 +2121,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:17:59",
+    "PathID": "HS_TirUrphost_Ardagh",
+    "PathType": 1,
+    "Path_ID": "b77a517a-b88a-4a6f-85a5-5822915a11c1",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusNotos",
     "PathType": 3,
@@ -2766,13 +2780,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirUrphost_Ardagh",
-    "PathType": 1,
-    "Path_ID": "hib14",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_TirUrphost_Ardee",
     "PathType": 1,
     "Path_ID": "hib15",
@@ -2916,13 +2923,6 @@
     "PathID": "HS_ParthenonFarm_Ardagh",
     "PathType": 1,
     "Path_ID": "hib5",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirNaNogNord_InnisCarthaig",
-    "PathType": 1,
-    "Path_ID": "hib9",
     "RegionID": null
   }
 ]
