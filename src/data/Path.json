@@ -791,6 +791,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 14:53:43",
+    "PathID": "HS_Necht_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "4afd5f37-3635-4fd8-8ded-cc92b287cf52",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_hesperos_stygiandelta",
     "PathType": 3,
