@@ -21,6 +21,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 14:00:37",
+    "PathID": "HS_BannDidein_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "01160457-9f72-4906-b80c-c24fb397d48d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_Druim_LigenAelerogh",
     "PathType": 1,
@@ -61,6 +68,13 @@
     "PathType": 1,
     "Path_ID": "04872fa8-b3f4-47f6-9856-ec1164be627d",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 22:32:18",
+    "PathID": "HS_InnisCarthaig_Culraid",
+    "PathType": 1,
+    "Path_ID": "04a9e692-ddd2-42ee-b7ef-7ea8f4e9f403",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -119,6 +133,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:42:24",
+    "PathID": "HS_GroveofDomnann_BannDidein",
+    "PathType": 1,
+    "Path_ID": "0a1334cb-5027-431a-a04f-9a9291d4e1da",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMutilatorAxalnamPatrol1",
     "PathType": 2,
@@ -172,6 +193,13 @@
     "PathID": "wp_filidhmona",
     "PathType": 3,
     "Path_ID": "12471fa4-77d0-44c8-87c5-6d5d4db0cfc6",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 01:45:05",
+    "PathID": "HS_ParthenonFarm_DruimCain",
+    "PathType": 1,
+    "Path_ID": "12ff026b-26b2-493b-b6bc-7ee82de7dbba",
     "RegionID": 0
   },
   {
@@ -259,11 +287,25 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 00:45:38",
+    "PathID": "HS_DruimLigen_DruimCain",
+    "PathType": 1,
+    "Path_ID": "1ae08e17-0649-46ba-a740-2631f3ffd70a",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_FortAtla_Mularn",
     "PathType": 1,
     "Path_ID": "1af3c075-9b79-4ebd-9874-562badafe2e6",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 15:31:56",
+    "PathID": "HS_Droighaid_BannDidein",
+    "PathType": 1,
+    "Path_ID": "1b2e335a-1c80-42e7-aa09-a011786f1630",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -357,6 +399,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 14:10:11",
+    "PathID": "HS_BannDidein_Droighaid",
+    "PathType": 1,
+    "Path_ID": "26dbb005-496d-4eb5-8ec2-95b8265c5d4a",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_ArdaghTruichon",
     "PathType": 1,
@@ -369,6 +418,13 @@
     "PathType": 1,
     "Path_ID": "2706284d-757e-4b30-a3e8-daeaac0d04bb",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 16:16:23",
+    "PathID": "HS_Droighaid_Necht",
+    "PathType": 1,
+    "Path_ID": "2742f30b-9825-4fcf-b290-158e941178ae",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -418,6 +474,13 @@
     "PathType": 1,
     "Path_ID": "2d3474b1-8fe4-46ce-b09a-3f0397e72ffb",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 22:23:46",
+    "PathID": "HS_Howth_InnisCarthaig",
+    "PathType": 1,
+    "Path_ID": "2f3fd181-2449-4a08-bf6d-c3a9fb2b0eb4",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -539,6 +602,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 00:14:38",
+    "PathID": "HS_InnisCarthaig_TirnamBeo",
+    "PathType": 1,
+    "Path_ID": "39f27c7d-4132-461b-a9a2-3ef4611377cf",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-03 07:33:25",
     "PathID": "wp_mithra_undeadfilidh1",
     "PathType": 3,
@@ -621,6 +691,13 @@
     "PathType": 1,
     "Path_ID": "4067f3fc-715d-42a4-b0c7-8b831e248861",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 21:37:06",
+    "PathID": "HS_TirNambeo_Connla",
+    "PathType": 1,
+    "Path_ID": "40ba7ef6-ff36-4713-bd72-20368650979f",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -712,6 +789,20 @@
     "PathType": 1,
     "Path_ID": "49a349ee-febb-418b-bc13-40a2eb04e3d2",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 22:00:04",
+    "PathID": "HS_Ardagh_Connla",
+    "PathType": 1,
+    "Path_ID": "4ac51635-d054-4496-8e3b-3ed0e9bdce41",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 14:53:43",
+    "PathID": "HS_Necht_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "4afd5f37-3635-4fd8-8ded-cc92b287cf52",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -810,6 +901,13 @@
     "PathType": 1,
     "Path_ID": "556d4bbd-e7a0-4ff9-b530-745dd8f0a511",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 16:06:34",
+    "PathID": "HS_Droighaid_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "55eb4488-19de-46ac-8b3d-61480f1716a2",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1099,6 +1197,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 14:45:57",
+    "PathID": "HS_Necht_BannDidein",
+    "PathType": 1,
+    "Path_ID": "739f7d42-c8f5-433a-92a0-92af47ae0cdb",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_newavalon_finnen",
     "PathType": 1,
@@ -1337,6 +1442,20 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 01:54:10",
+    "PathID": "HS_TirNaNogNord_InnisCarthaig",
+    "PathType": 1,
+    "Path_ID": "8989b524-4706-4014-8435-635a2587308b",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 02:50:57",
+    "PathID": "HS_GroveofDomnann_Droighaid",
+    "PathType": 1,
+    "Path_ID": "89ae6ce6-dcde-4940-8bcb-1061273fb03b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-05 00:58:26",
     "PathID": "HS_Connla_MagMell",
     "PathType": 1,
@@ -1512,6 +1631,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 15:08:39",
+    "PathID": "HS_Necht_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "9ac5ee8d-7f5b-42c4-a5b6-e95d484c61c1",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusAnatole",
     "PathType": 3,
@@ -1551,6 +1677,13 @@
     "PathID": "wp_sirbarcroft",
     "PathType": 3,
     "Path_ID": "a03e4a7f-75ed-47b6-8ff9-bac103bbfc10",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 20:24:35",
+    "PathID": "HS_TirNambeo_Ardagh",
+    "PathType": 1,
+    "Path_ID": "a15656c7-10a0-4240-8306-c46befc04353",
     "RegionID": 0
   },
   {
@@ -1615,6 +1748,13 @@
     "PathType": 1,
     "Path_ID": "a76f9a67-032a-4039-88b5-7695edbd6eae",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 16:24:25",
+    "PathID": "HS_Droighaid_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "a792bf31-9ed4-45d6-89dc-85416522667a",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2058,6 +2198,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:17:59",
+    "PathID": "HS_TirUrphost_Ardagh",
+    "PathType": 1,
+    "Path_ID": "b77a517a-b88a-4a6f-85a5-5822915a11c1",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusNotos",
     "PathType": 3,
@@ -2198,6 +2345,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 13:38:29",
+    "PathID": "HS_BannDidein_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "ccfee822-70a1-4d00-802d-d29dd36f86a7",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Huginfel_GnaFaste",
     "PathType": 1,
@@ -2251,6 +2405,13 @@
     "PathID": "wp_mithra_decayingcadaver4",
     "PathType": 3,
     "Path_ID": "d2d0731d-206f-430e-9309-a5931eca144f",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-05 21:58:43",
+    "PathID": "HS_Ardagh_TirUrphost",
+    "PathType": 1,
+    "Path_ID": "d32db362-566c-4f69-8660-d28399e82843",
     "RegionID": 0
   },
   {
@@ -2345,6 +2506,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:59:51",
+    "PathID": "HS_GroveofDomnann_AalidFeie",
+    "PathType": 1,
+    "Path_ID": "ded8dbdf-aaaa-40c0-a1d3-6282923b7001",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_Breifine_MidgardCoast",
     "PathType": 1,
@@ -2357,6 +2525,13 @@
     "PathType": 1,
     "Path_ID": "dfd3f0e0-e080-42d9-9983-b32f8e2adbb5",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 14:34:06",
+    "PathID": "HS_Necht_Droighaid",
+    "PathType": 1,
+    "Path_ID": "e05d81f2-5186-4019-9a0f-59efdd406b10",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2450,6 +2625,20 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:59:59",
+    "PathID": "HS_GroveofDomnann_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "eb024736-891a-43fc-b042-c3e3d6502107",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 01:33:18",
+    "PathID": "HS_DruimCain_TirnamBeo",
+    "PathType": 1,
+    "Path_ID": "ebc74efc-ba22-475c-9455-ddd46396fa9f",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Mularn-Ft.Atla",
     "PathType": 1,
@@ -2506,10 +2695,31 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-05 21:28:08",
+    "PathID": "HS_TirnamBeo_DruimLigen",
+    "PathType": 1,
+    "Path_ID": "efcfcc2c-bb51-48ca-b9b7-990bfdc3af4d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusNotosm",
     "PathType": 3,
     "Path_ID": "f02d5a86-afaa-402c-b84a-db6acd41b229",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 14:00:13",
+    "PathID": "HS_BannDidein_AalidFeie",
+    "PathType": 1,
+    "Path_ID": "f256fdcf-bf84-4b69-9747-d54db62766f7",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 14:18:47",
+    "PathID": "HS_BannDidein_Necht",
+    "PathType": 1,
+    "Path_ID": "f25a04dd-a9c9-4327-960f-c9b769a44722",
     "RegionID": 0
   },
   {
@@ -2539,6 +2749,13 @@
     "PathType": 1,
     "Path_ID": "f3a86e3b-cb92-4ea8-ab25-f34fdc731c61",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 03:13:53",
+    "PathID": "HS_GroveofDomnann_Necht",
+    "PathType": 1,
+    "Path_ID": "f3da37b4-80ce-45a0-9a2e-afece6194dc8",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2682,23 +2899,9 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruinLigen_DruimCain",
-    "PathType": 1,
-    "Path_ID": "hib11",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruinLigen_Connla",
+    "PathID": "HS_DruimLigen_Connla",
     "PathType": 1,
     "Path_ID": "hib12",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirUrphost_Ardagh",
-    "PathType": 1,
-    "Path_ID": "hib14",
     "RegionID": null
   },
   {
@@ -2724,30 +2927,9 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirNambeo_DruinLigen",
+    "PathID": "HS_TirnamBeo_DruinLigen",
     "PathType": 1,
     "Path_ID": "hib18",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirNambeo_Connla",
-    "PathType": 1,
-    "Path_ID": "hib19",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ardagh_Connla",
-    "PathType": 1,
-    "Path_ID": "hib20",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ardagh_TirUrphost",
-    "PathType": 1,
-    "Path_ID": "hib21",
     "RegionID": null
   },
   {
@@ -2794,20 +2976,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_InnisCarthaig_TirNambeo",
-    "PathType": 1,
-    "Path_ID": "hib28",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_InnisCarthaig_Culraid",
-    "PathType": 1,
-    "Path_ID": "hib29",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_InnisCarthaig_ParthenonFarm",
     "PathType": 1,
     "Path_ID": "hib30",
@@ -2843,14 +3011,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruimCain_DruinLigen",
+    "PathID": "HS_DruimCain_DruimLigen",
     "PathType": 1,
     "Path_ID": "hib35",
     "RegionID": null
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruimCain_TirNambeo",
+    "PathID": "HS_DruimCain_TiramBeo",
     "PathType": 1,
     "Path_ID": "hib36",
     "RegionID": null
@@ -2881,27 +3049,6 @@
     "PathID": "HS_ParthenonFarm_Ardagh",
     "PathType": 1,
     "Path_ID": "hib5",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_ParthenonFarm_DruimCain",
-    "PathType": 1,
-    "Path_ID": "hib6",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Howth_InnisCarthaig",
-    "PathType": 1,
-    "Path_ID": "hib7",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_TirNaNogNord_InnisCarthaig",
-    "PathType": 1,
-    "Path_ID": "hib9",
     "RegionID": null
   }
 ]
