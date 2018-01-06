@@ -252,6 +252,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 22:19:08",
+    "PathID": "HS_NobsFarm_CamelotNoth",
+    "PathType": 1,
+    "Path_ID": "15e39c23-53f9-453f-96be-3bde450c278c",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-03 07:48:30",
     "PathID": "wp_mithra_agedbleeder",
     "PathType": 3,
@@ -2153,13 +2160,6 @@
     "PathID": "HS_GronysFarm_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "alb5",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_NobsFarm_CamelotNoth",
-    "PathType": 1,
-    "Path_ID": "alb6",
     "RegionID": null
   },
   {
