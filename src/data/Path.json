@@ -126,6 +126,20 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:42:24",
+    "PathID": "HS_GroveofDomnann_BannDidein",
+    "PathType": 1,
+    "Path_ID": "0a1334cb-5027-431a-a04f-9a9291d4e1da",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 02:43:07",
+    "PathID": "HS_Droighaid_BannDidein",
+    "PathType": 1,
+    "Path_ID": "0a2e7df5-86c7-4999-b31f-f01a68281031",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMutilatorAxalnamPatrol1",
     "PathType": 2,
@@ -1393,6 +1407,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:50:57",
+    "PathID": "HS_GroveofDomnann_Droighaid",
+    "PathType": 1,
+    "Path_ID": "89ae6ce6-dcde-4940-8bcb-1061273fb03b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-05 00:58:26",
     "PathID": "HS_Connla_MagMell",
     "PathType": 1,
@@ -2422,6 +2443,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 02:59:51",
+    "PathID": "HS_GroveofDomnann_AalidFeie",
+    "PathType": 1,
+    "Path_ID": "ded8dbdf-aaaa-40c0-a1d3-6282923b7001",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_Breifine_MidgardCoast",
     "PathType": 1,
@@ -2525,6 +2553,13 @@
     "PathType": 1,
     "Path_ID": "eabc836a-6566-4244-ae37-acee65874e25",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 02:59:59",
+    "PathID": "HS_GroveofDomnann_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "eb024736-891a-43fc-b042-c3e3d6502107",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 01:33:18",
