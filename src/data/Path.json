@@ -182,6 +182,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 01:45:05",
+    "PathID": "HS_ParthenonFarm_DruimCain",
+    "PathType": 1,
+    "Path_ID": "12ff026b-26b2-493b-b6bc-7ee82de7dbba",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_ludlow_sauvage",
     "PathType": 1,
@@ -2506,6 +2513,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 01:33:18",
+    "PathID": "HS_DruimCain_TirnamBeo",
+    "PathType": 1,
+    "Path_ID": "ebc74efc-ba22-475c-9455-ddd46396fa9f",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Mularn-Ft.Atla",
     "PathType": 1,
@@ -2864,14 +2878,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruimCain_DruinLigen",
+    "PathID": "HS_DruimCain_DruimLigen",
     "PathType": 1,
     "Path_ID": "hib35",
     "RegionID": null
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_DruimCain_TirNambeo",
+    "PathID": "HS_DruimCain_TiramBeo",
     "PathType": 1,
     "Path_ID": "hib36",
     "RegionID": null
@@ -2902,13 +2916,6 @@
     "PathID": "HS_ParthenonFarm_Ardagh",
     "PathType": 1,
     "Path_ID": "hib5",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_ParthenonFarm_DruimCain",
-    "PathType": 1,
-    "Path_ID": "hib6",
     "RegionID": null
   },
   {
