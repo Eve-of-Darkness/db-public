@@ -1155,6 +1155,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 20:34:50",
+    "PathID": "HS_Ardee_ParthenonFarm",
+    "PathType": 1,
+    "Path_ID": "6c8776bd-3d1b-49a9-a3f4-20ec28a44e10",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CaerWitrin_SnowdoniaFortress",
     "PathType": 1,
@@ -2930,13 +2937,6 @@
     "PathID": "HS_TirUrphost_Ardee",
     "PathType": 1,
     "Path_ID": "hib15",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ardee_ParthenonFarm",
-    "PathType": 1,
-    "Path_ID": "hib16",
     "RegionID": null
   },
   {
