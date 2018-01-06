@@ -420,6 +420,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 16:16:23",
+    "PathID": "HS_Droighaid_Necht",
+    "PathType": 1,
+    "Path_ID": "2742f30b-9825-4fcf-b290-158e941178ae",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_src_castlesauvage",
     "PathType": 1,
