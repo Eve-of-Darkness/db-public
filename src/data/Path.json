@@ -980,6 +980,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 22:30:09",
+    "PathID": "HS_CamelotNoth_NobsFarm",
+    "PathType": 1,
+    "Path_ID": "5b303a9b-14fd-43af-94b2-2c48204abbdf",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_ulvastad_hafheim",
     "PathType": 1,
@@ -1929,13 +1936,6 @@
     "PathID": "HS_CastleSauvage_CamelotEst",
     "PathType": 1,
     "Path_ID": "alb10",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CamelotNoth_NobsFarm",
-    "PathType": 1,
-    "Path_ID": "alb11",
     "RegionID": null
   },
   {
