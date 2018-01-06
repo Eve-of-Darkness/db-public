@@ -2667,6 +2667,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 03:13:53",
+    "PathID": "HS_GroveofDomnann_Necht",
+    "PathType": 1,
+    "Path_ID": "f3da37b4-80ce-45a0-9a2e-afece6194dc8",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "GnaFaste-Raumarik",
     "PathType": 1,
