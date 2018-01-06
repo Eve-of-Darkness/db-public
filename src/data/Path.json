@@ -1617,6 +1617,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 15:08:39",
+    "PathID": "HS_Necht_GroveofAalidFeie",
+    "PathType": 1,
+    "Path_ID": "9ac5ee8d-7f5b-42c4-a5b6-e95d484c61c1",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusAnatole",
     "PathType": 3,
