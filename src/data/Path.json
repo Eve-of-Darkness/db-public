@@ -154,6 +154,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 19:50:20",
+    "PathID": "HS_GroveofAalidFeie_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "0d2dcf57-f289-4a5b-aaa1-b6ca1bba73c2",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_riley_fintain",
     "PathType": 1,
