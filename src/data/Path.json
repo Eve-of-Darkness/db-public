@@ -1050,6 +1050,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 16:31:34",
+    "PathID": "HS_CastleSauvage_AdribardsRetreat",
+    "PathType": 1,
+    "Path_ID": "60779029-d251-4ef3-a670-359320fb77ca",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_caerulfwych_cotswold",
     "PathType": 1,
@@ -2160,13 +2167,6 @@
     "PathID": "HS_GronysFarm_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "alb5",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CastleSauvage_AdribardsRetreat",
-    "PathType": 1,
-    "Path_ID": "alb7",
     "RegionID": null
   },
   {
