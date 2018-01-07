@@ -238,6 +238,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 15:35:22",
+    "PathID": "HS_SnowdoniaFortress_WestDowns",
+    "PathType": 1,
+    "Path_ID": "14026ad2-d935-4934-866f-b2680322f00d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFRocotPatrol2",
     "PathType": 2,
@@ -2150,13 +2157,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_SnowdoniaFortress_CastleSauvage",
-    "PathType": 1,
-    "Path_ID": "alb38",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CamelotEst_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb4",
@@ -2497,6 +2497,13 @@
     "PathType": 1,
     "Path_ID": "d727f227-25a3-490f-88de-773baa385aa8",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 15:24:53",
+    "PathID": "HS_SnowdoniaFortress_CastleSauvage",
+    "PathType": 1,
+    "Path_ID": "d8fde79c-7839-444a-aa11-c10e22900f18",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-06 18:47:34",
