@@ -1386,6 +1386,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 01:23:32",
+    "PathID": "HS_Ludlow_CastleSauvage",
+    "PathType": 1,
+    "Path_ID": "7d79e379-872b-41eb-b901-90dec19a1be1",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_halgost_ulvastad",
     "PathType": 1,
@@ -1954,13 +1961,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ludlow_CastleSauvage",
-    "PathType": 1,
-    "Path_ID": "alb14",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WestDowns_AdribardsRetreat",
     "PathType": 1,
     "Path_ID": "alb15",
@@ -2423,7 +2423,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_ludlow_humberton",
+    "PathID": "HS_Ludlow_Humberton",
     "PathType": 1,
     "Path_ID": "d1ba8576-780f-45db-a6c6-c5ab0d461bf1",
     "RegionID": 0
