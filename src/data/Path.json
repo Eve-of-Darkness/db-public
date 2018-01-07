@@ -1253,6 +1253,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 14:37:08",
+    "PathID": "HS_Humberton_SnowdoniaFortress",
+    "PathType": 1,
+    "Path_ID": "74b425ee-6ee0-46c5-a86d-c723d4d45ca0",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WestSkona_GnaFaste",
     "PathType": 1,
@@ -1957,13 +1964,6 @@
     "PathID": "HS_CamelotNoth_SnowdoniaFortress",
     "PathType": 1,
     "Path_ID": "alb12",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Humberton_SnowdoniaFortress",
-    "PathType": 1,
-    "Path_ID": "alb13",
     "RegionID": null
   },
   {
