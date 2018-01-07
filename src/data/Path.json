@@ -1561,6 +1561,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 22:01:02",
+    "PathID": "HS_WestDowns_SnowdoniaFortress",
+    "PathType": 1,
+    "Path_ID": "8d6526a6-71ef-49bb-a991-7ac8d90672f5",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_holtham_finnen",
     "PathType": 1,
