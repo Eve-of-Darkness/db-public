@@ -49,6 +49,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 15:00:03",
+    "PathID": "HS_SnowdoniaFortress_Humberton",
+    "PathType": 1,
+    "Path_ID": "02482dbb-cc69-4df9-97fc-3593d931606b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_MularnArskar",
     "PathType": 1,
@@ -2146,13 +2153,6 @@
     "PathID": "HS_SnowdoniaFortress_CastleSauvage",
     "PathType": 1,
     "Path_ID": "alb38",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_SnowdoniaFortress_Humberton",
-    "PathType": 1,
-    "Path_ID": "alb39",
     "RegionID": null
   },
   {
