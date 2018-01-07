@@ -2038,13 +2038,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CaerUlfwych_CornwallStation",
-    "PathType": 1,
-    "Path_ID": "alb23",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CaerUlfwych_SnowdoniaFortress",
     "PathType": 1,
     "Path_ID": "alb24",
@@ -2538,6 +2531,13 @@
     "PathID": "HS_GroveofDomnann_AalidFeie",
     "PathType": 1,
     "Path_ID": "ded8dbdf-aaaa-40c0-a1d3-6282923b7001",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 22:22:44",
+    "PathID": "HS_CaerUlfwych_CornwallStation",
+    "PathType": 1,
+    "Path_ID": "defbfabf-19cb-475f-a798-0fbe2adef58c",
     "RegionID": 0
   },
   {
