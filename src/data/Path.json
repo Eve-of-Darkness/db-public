@@ -1197,6 +1197,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 21:13:40",
+    "PathID": "HS_AdribardsRetreat_WestDowns",
+    "PathType": 1,
+    "Path_ID": "6c9c0553-8d84-439e-b4af-494f9efffd3d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CaerWitrin_SnowdoniaFortress",
     "PathType": 1,
@@ -1982,13 +1989,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_WestDowns_AdribardsRetreat",
-    "PathType": 1,
-    "Path_ID": "alb15",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CaerWitrin_SnowdoniaStation",
     "PathType": 1,
     "Path_ID": "alb16",
@@ -1999,13 +1999,6 @@
     "PathID": "HS_CaerWitrin_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb17",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_AdribardsRetreat_WestDowns",
-    "PathType": 1,
-    "Path_ID": "alb18",
     "RegionID": null
   },
   {
@@ -2777,6 +2770,13 @@
     "PathType": 1,
     "Path_ID": "f30d1c28-96e4-426b-afc2-adab61e10971",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 20:47:44",
+    "PathID": "HS_WestDowns_AdribardsRetreat",
+    "PathType": 1,
+    "Path_ID": "f349abe9-e18c-4944-b980-c90a234dec4f",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
