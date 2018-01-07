@@ -1680,6 +1680,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 01:33:13",
+    "PathID": "HS_CastleSauvage_Ludlow",
+    "PathType": 1,
+    "Path_ID": "9971086d-f67b-47b1-9911-e1e14f510827",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-06 15:08:39",
     "PathID": "HS_Necht_GroveofAalidFeie",
     "PathType": 1,
@@ -2174,13 +2181,6 @@
     "PathID": "HS_CastleSauvage_SnowdoniaFortress",
     "PathType": 1,
     "Path_ID": "alb8",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CastleSauvage_Ludlow",
-    "PathType": 1,
-    "Path_ID": "alb9",
     "RegionID": null
   },
   {
