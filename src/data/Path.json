@@ -49,6 +49,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 15:00:03",
+    "PathID": "HS_SnowdoniaFortress_Humberton",
+    "PathType": 1,
+    "Path_ID": "02482dbb-cc69-4df9-97fc-3593d931606b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_MularnArskar",
     "PathType": 1,
@@ -154,6 +161,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 19:50:20",
+    "PathID": "HS_GroveofAalidFeie_GroveofDomnann",
+    "PathType": 1,
+    "Path_ID": "0d2dcf57-f289-4a5b-aaa1-b6ca1bba73c2",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_riley_fintain",
     "PathType": 1,
@@ -224,6 +238,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 15:35:22",
+    "PathID": "HS_SnowdoniaFortress_WestDowns",
+    "PathType": 1,
+    "Path_ID": "14026ad2-d935-4934-866f-b2680322f00d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFRocotPatrol2",
     "PathType": 2,
@@ -239,9 +260,16 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-11 06:57:57",
-    "PathID": "hs_cotswold_cornwallstation",
+    "PathID": "HS_Cotswold_CornwallStation",
     "PathType": 1,
     "Path_ID": "15de6020-4662-4a57-8964-14face6245e0",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 22:19:08",
+    "PathID": "HS_NobsFarm_CamelotNoth",
+    "PathType": 1,
+    "Path_ID": "15e39c23-53f9-453f-96be-3bde450c278c",
     "RegionID": 0
   },
   {
@@ -847,6 +875,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 19:24:12",
+    "PathID": "HS_GroveofAalidFeie_Necht",
+    "PathType": 1,
+    "Path_ID": "4eb8a5c8-5974-453d-bc86-eba98c546945",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_GnaFaste",
     "PathType": 1,
@@ -959,6 +994,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 22:30:09",
+    "PathID": "HS_CamelotNoth_NobsFarm",
+    "PathType": 1,
+    "Path_ID": "5b303a9b-14fd-43af-94b2-2c48204abbdf",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_ulvastad_hafheim",
     "PathType": 1,
@@ -1008,6 +1050,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 16:31:34",
+    "PathID": "HS_CastleSauvage_AdribardsRetreat",
+    "PathType": 1,
+    "Path_ID": "60779029-d251-4ef3-a670-359320fb77ca",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_caerulfwych_cotswold",
     "PathType": 1,
@@ -1037,7 +1086,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_caerulfwych",
+    "PathID": "HS_Cotswold_CaerUlfwych",
     "PathType": 1,
     "Path_ID": "63aa8db7-15b4-4b24-8122-cfb1f63ffc08",
     "RegionID": null
@@ -1128,7 +1177,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_westdowns",
+    "PathID": "HS_Cotswold_WestDowns",
     "PathType": 1,
     "Path_ID": "6b0faeca-4519-4b30-b5be-161a2c20c999",
     "RegionID": 0
@@ -1139,6 +1188,20 @@
     "PathType": 1,
     "Path_ID": "6c03170d-53de-4009-91a5-9cf7084f0ad3",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 20:34:50",
+    "PathID": "HS_Ardee_ParthenonFarm",
+    "PathType": 1,
+    "Path_ID": "6c8776bd-3d1b-49a9-a3f4-20ec28a44e10",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 21:13:40",
+    "PathID": "HS_AdribardsRetreat_WestDowns",
+    "PathType": 1,
+    "Path_ID": "6c9c0553-8d84-439e-b4af-494f9efffd3d",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1218,6 +1281,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 14:37:08",
+    "PathID": "HS_Humberton_SnowdoniaFortress",
+    "PathType": 1,
+    "Path_ID": "74b425ee-6ee0-46c5-a86d-c723d4d45ca0",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WestSkona_GnaFaste",
     "PathType": 1,
@@ -1243,13 +1313,6 @@
     "PathID": "wp_cotswold_charles",
     "PathType": 3,
     "Path_ID": "75b0da33-13dc-4419-856c-114c7dd9720a",
-    "RegionID": 0
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_gronyr_alis",
-    "PathType": 1,
-    "Path_ID": "75fabc5b-f339-413f-a0d0-0fb66c30075a",
     "RegionID": 0
   },
   {
@@ -1349,6 +1412,13 @@
     "PathType": 1,
     "Path_ID": "7c3661b4-784f-4639-b544-4d8693b90791",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 01:23:32",
+    "PathID": "HS_Ludlow_CastleSauvage",
+    "PathType": 1,
+    "Path_ID": "7d79e379-872b-41eb-b901-90dec19a1be1",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1491,6 +1561,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 22:01:02",
+    "PathID": "HS_WestDowns_SnowdoniaFortress",
+    "PathType": 1,
+    "Path_ID": "8d6526a6-71ef-49bb-a991-7ac8d90672f5",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_holtham_finnen",
     "PathType": 1,
@@ -1533,6 +1610,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-06 22:02:04",
+    "PathID": "HS_CastleSauvage_Cotswold",
+    "PathType": 1,
+    "Path_ID": "8fcf0f34-cd71-4dbb-a7e1-65fb5aabe380",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_OceanusHesperos_OceanusBoreal",
     "PathType": 3,
@@ -1548,7 +1632,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_campacorentinstation",
+    "PathID": "HS_Cotswold_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "910d4b66-21fe-4839-a7f3-1b1e7aec832b",
     "RegionID": null
@@ -1631,6 +1715,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 01:33:13",
+    "PathID": "HS_CastleSauvage_Ludlow",
+    "PathType": 1,
+    "Path_ID": "9971086d-f67b-47b1-9911-e1e14f510827",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-06 15:08:39",
     "PathID": "HS_Necht_GroveofAalidFeie",
     "PathType": 1,
@@ -1684,6 +1775,13 @@
     "PathID": "HS_TirNambeo_Ardagh",
     "PathType": 1,
     "Path_ID": "a15656c7-10a0-4240-8306-c46befc04353",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-06 19:32:01",
+    "PathID": "HS_GroveofAalidFeie_BannDidein",
+    "PathType": 1,
+    "Path_ID": "a165949f-a76b-4bb1-9f7c-7b31fdd98a2b",
     "RegionID": 0
   },
   {
@@ -1891,37 +1989,9 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CamelotNoth_NobsFarm",
-    "PathType": 1,
-    "Path_ID": "alb11",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CamelotNoth_SnowdoniaFortress",
     "PathType": 1,
     "Path_ID": "alb12",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Humberton_SnowdoniaFortress",
-    "PathType": 1,
-    "Path_ID": "alb13",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ludlow_CastleSauvage",
-    "PathType": 1,
-    "Path_ID": "alb14",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_WestDowns_AdribardsRetreat",
-    "PathType": 1,
-    "Path_ID": "alb15",
     "RegionID": null
   },
   {
@@ -1936,13 +2006,6 @@
     "PathID": "HS_CaerWitrin_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb17",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_AdribardsRetreat_WestDowns",
-    "PathType": 1,
-    "Path_ID": "alb18",
     "RegionID": null
   },
   {
@@ -1971,20 +2034,6 @@
     "PathID": "HS_AdribardsRetreat_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "alb21",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_LlynBarfog_SnowdoniaStation",
-    "PathType": 1,
-    "Path_ID": "alb22",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CaerUlfwych_CornwallStation",
-    "PathType": 1,
-    "Path_ID": "alb23",
     "RegionID": null
   },
   {
@@ -2094,20 +2143,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_SnowdoniaFortress_CastleSauvage",
-    "PathType": 1,
-    "Path_ID": "alb38",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_SnowdoniaFortress_Humberton",
-    "PathType": 1,
-    "Path_ID": "alb39",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CamelotEst_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb4",
@@ -2122,30 +2157,9 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_NobsFarm_CamelotNoth",
-    "PathType": 1,
-    "Path_ID": "alb6",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CastleSauvage_AdribardsRetreat",
-    "PathType": 1,
-    "Path_ID": "alb7",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CastleSauvage_SnowdoniaFortress",
     "PathType": 1,
     "Path_ID": "alb8",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CastleSauvage_Ludlow",
-    "PathType": 1,
-    "Path_ID": "alb9",
     "RegionID": null
   },
   {
@@ -2213,7 +2227,7 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-11 06:10:05",
-    "PathID": "hs_cotswold_caerwitrin",
+    "PathID": "HS_Cotswold_CaerWitrin",
     "PathType": 1,
     "Path_ID": "b9b07fdc-ceaf-433a-b5de-fd0a3e8b3bbb",
     "RegionID": 0
@@ -2388,7 +2402,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_ludlow_humberton",
+    "PathID": "HS_Ludlow_Humberton",
     "PathType": 1,
     "Path_ID": "d1ba8576-780f-45db-a6c6-c5ab0d461bf1",
     "RegionID": 0
@@ -2437,7 +2451,7 @@
   },
   {
     "LastTimeRowUpdated": "2015-02-06 21:24:45",
-    "PathID": "hs_cotswold_castlesauvage",
+    "PathID": "HS_Cotswold_CastleSauvage",
     "PathType": 1,
     "Path_ID": "d453f90d-6ac7-49b0-b7ff-342293fd7e19",
     "RegionID": 0
@@ -2462,6 +2476,13 @@
     "PathType": 1,
     "Path_ID": "d727f227-25a3-490f-88de-773baa385aa8",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 15:24:53",
+    "PathID": "HS_SnowdoniaFortress_CastleSauvage",
+    "PathType": 1,
+    "Path_ID": "d8fde79c-7839-444a-aa11-c10e22900f18",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-06 18:47:34",
@@ -2510,6 +2531,13 @@
     "PathID": "HS_GroveofDomnann_AalidFeie",
     "PathType": 1,
     "Path_ID": "ded8dbdf-aaaa-40c0-a1d3-6282923b7001",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 22:22:44",
+    "PathID": "HS_CaerUlfwych_CornwallStation",
+    "PathType": 1,
+    "Path_ID": "defbfabf-19cb-475f-a798-0fbe2adef58c",
     "RegionID": 0
   },
   {
@@ -2681,6 +2709,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 20:24:37",
+    "PathID": "HS_LlynBarfog_SnowdoniaStation",
+    "PathType": 1,
+    "Path_ID": "ee754e89-985c-46e8-bf6c-d1286e1f3846",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-03 07:15:43",
     "PathID": "wp_mithra_botchedsacrifice1",
     "PathType": 3,
@@ -2742,6 +2777,13 @@
     "PathType": 1,
     "Path_ID": "f30d1c28-96e4-426b-afc2-adab61e10971",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-07 20:47:44",
+    "PathID": "HS_WestDowns_AdribardsRetreat",
+    "PathType": 1,
+    "Path_ID": "f349abe9-e18c-4944-b980-c90a234dec4f",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2828,6 +2870,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-07 16:00:20",
+    "PathID": "HS_GronyrsFarm_CampacorentinStation",
+    "PathType": 1,
+    "Path_ID": "fb9d3415-196d-4a01-b758-989ab91782b9",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-06 20:23:12",
     "PathID": "ticket_to_West_DownsVuloch",
     "PathType": 1,
@@ -2857,7 +2906,7 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "hs_cotswold_snowdoniastation",
+    "PathID": "HS_Cotswold_SnowdoniaStation",
     "PathType": 1,
     "Path_ID": "fd97063b-3e88-455b-bc82-045e0e67aabf",
     "RegionID": null
@@ -2909,13 +2958,6 @@
     "PathID": "HS_TirUrphost_Ardee",
     "PathType": 1,
     "Path_ID": "hib15",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Ardee_ParthenonFarm",
-    "PathType": 1,
-    "Path_ID": "hib16",
     "RegionID": null
   },
   {
