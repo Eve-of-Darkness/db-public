@@ -504,6 +504,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-08 22:53:43",
+    "PathID": "HS_CornwallStation_CaerUlfwych",
+    "PathType": 1,
+    "Path_ID": "2ddb0f3f-08eb-42c5-a643-92087f33eae3",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-05 22:23:46",
     "PathID": "HS_Howth_InnisCarthaig",
     "PathType": 1,
@@ -2055,13 +2062,6 @@
     "PathID": "HS_CampacorentinStation_AdribardsRetreat",
     "PathType": 1,
     "Path_ID": "alb27",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_CornwallStation_CaerUlfwych",
-    "PathType": 1,
-    "Path_ID": "alb28",
     "RegionID": null
   },
   {
