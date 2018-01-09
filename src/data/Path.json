@@ -546,6 +546,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-09 23:00:24",
+    "PathID": "HS_CaerGothwaite_CaerDiogel",
+    "PathType": 1,
+    "Path_ID": "30df53d4-a695-4af0-900d-0d8295059008",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_ticket_to_hafheim",
     "PathType": 1,
