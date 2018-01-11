@@ -952,6 +952,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-11 00:33:17",
+    "PathID": "HS_Wearyall_CaerGothwaite",
+    "PathType": 1,
+    "Path_ID": "54701ceb-5d25-4081-9d34-91b24bc34085",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_FortVeldon_GnaFaste",
     "PathType": 1,
@@ -2538,6 +2545,13 @@
     "PathID": "HS_AdribardsRetreat_CastleSauvage",
     "PathType": 1,
     "Path_ID": "dab7136b-b77f-4d32-86e2-49dba8f3162a",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-11 00:43:11",
+    "PathID": "HS_Wearyall_FortGwyntel",
+    "PathType": 1,
+    "Path_ID": "dacb8185-2f4b-4f17-9ff8-036899103c4c",
     "RegionID": 0
   },
   {
