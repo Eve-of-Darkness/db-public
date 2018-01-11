@@ -1050,6 +1050,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-11 01:14:43",
+    "PathID": "HS_FortGwyntel_Wearyall",
+    "PathType": 1,
+    "Path_ID": "5d964dad-f0f3-4505-b58c-1fd2284f17d6",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Snowdonia_FortressUliam",
     "PathType": 1,
@@ -2665,6 +2672,13 @@
     "PathType": 1,
     "Path_ID": "e5ce3385-a261-4c04-8779-bab750288b4e",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-11 01:11:08",
+    "PathID": "HS_FortGwyntel_CaerGothwaite",
+    "PathType": 1,
+    "Path_ID": "e68b2b3c-5aa9-4ab7-8131-ba80a5c3c632",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
