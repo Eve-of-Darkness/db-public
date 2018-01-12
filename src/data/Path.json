@@ -714,6 +714,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 02:42:24",
+    "PathID": "HS_Haggerfel_Vasudheim",
+    "PathType": 1,
+    "Path_ID": "3d4ca07c-6e0b-42a8-9e80-41a0aedda491",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_HesperosOceanus_StygiaDelta",
     "PathType": 3,
