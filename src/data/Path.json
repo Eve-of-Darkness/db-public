@@ -2464,6 +2464,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 01:45:54",
+    "PathID": "HS_SvasudFaste_Mularn",
+    "PathType": 1,
+    "Path_ID": "d0a5eb43-685f-4ca9-bd82-87f3af23fe65",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_ConnlaPheuloc",
     "PathType": 1,
@@ -2616,6 +2623,13 @@
     "PathType": 1,
     "Path_ID": "ddf12889-1dc2-4f7d-b82f-455498153c85",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 01:56:35",
+    "PathID": "HS_Mularn_Nalliten",
+    "PathType": 1,
+    "Path_ID": "de42f920-87bc-4c31-ae6a-6e1f99493f0e",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 02:59:51",
