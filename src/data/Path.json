@@ -1022,6 +1022,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 22:10:49",
+    "PathID": "HS_Raumarik_Huginfel",
+    "PathType": 1,
+    "Path_ID": "56f3b190-e6bf-44ea-af0f-b64e000bd42e",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Snowdonia_StationKelin",
     "PathType": 1,
@@ -2580,6 +2587,13 @@
     "PathID": "ticket_to_LudlowVuloch",
     "PathType": 1,
     "Path_ID": "d952f95a-dff0-450c-80a1-99a17b4c8f0e",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 22:30:05",
+    "PathID": "HS_Huginfel_Raumarik",
+    "PathType": 1,
+    "Path_ID": "d9553c67-59aa-4803-8cd1-ed1731d02274",
     "RegionID": 0
   },
   {
