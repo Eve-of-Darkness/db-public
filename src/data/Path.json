@@ -161,6 +161,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 00:55:47",
+    "PathID": "HS_Vasudheim_Huginfel",
+    "PathType": 1,
+    "Path_ID": "0c667fa6-f381-4e6d-8cb6-646147709acd",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-02 18:41:42",
     "PathID": "bt_hesperos_anatole",
     "PathType": 3,
@@ -431,6 +438,13 @@
     "PathID": "BT_MountCollory_MidgardCoast",
     "PathType": 1,
     "Path_ID": "24fedbad-8399-4649-b014-df0831f8a7a8",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 00:29:12",
+    "PathID": "HS_GnaFaste_Huginfel",
+    "PathType": 1,
+    "Path_ID": "25182872-325a-4e6f-848e-9640aea694cb",
     "RegionID": 0
   },
   {
