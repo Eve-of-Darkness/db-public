@@ -63,6 +63,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 03:00:38",
+    "PathID": "HS_Vasudheim_Haggerfel",
+    "PathType": 1,
+    "Path_ID": "03038110-e640-43e3-8bb8-df4bddd0d093",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_theisle_fintain",
     "PathType": 1,
@@ -89,6 +96,13 @@
     "PathType": 1,
     "Path_ID": "06063e7f-0227-464a-994a-c66b37e34b79",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 04:08:52",
+    "PathID": "HS_Bjarken_Aegirhamm",
+    "PathType": 1,
+    "Path_ID": "063b5364-b565-40d3-8cd3-2f3626e9b3c3",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -154,6 +168,20 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 02:07:51",
+    "PathID": "HS_Aegirhamm_Knarr",
+    "PathType": 1,
+    "Path_ID": "0c4af979-898c-42af-9ad0-3ea71ef6d7d7",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 00:55:47",
+    "PathID": "HS_Vasudheim_Huginfel",
+    "PathType": 1,
+    "Path_ID": "0c667fa6-f381-4e6d-8cb6-646147709acd",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-02 18:41:42",
     "PathID": "bt_hesperos_anatole",
     "PathType": 3,
@@ -207,6 +235,13 @@
     "PathID": "wp_filidhmona",
     "PathType": 3,
     "Path_ID": "12471fa4-77d0-44c8-87c5-6d5d4db0cfc6",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 02:00:31",
+    "PathID": "HS_Aegirhamm_Dyrfjell",
+    "PathType": 1,
+    "Path_ID": "12e45696-9707-446c-9efc-b80833967bfd",
     "RegionID": 0
   },
   {
@@ -343,6 +378,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 03:50:09",
+    "PathID": "HS_Knarr_Aegirhamm",
+    "PathType": 1,
+    "Path_ID": "1bcd59e9-173f-40d9-ba1f-180339bde1cb",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Castle_SauvageFlambon",
     "PathType": 1,
@@ -427,6 +469,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 00:29:12",
+    "PathID": "HS_GnaFaste_Huginfel",
+    "PathType": 1,
+    "Path_ID": "25182872-325a-4e6f-848e-9640aea694cb",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Caer_UlfwychVuloch",
     "PathType": 1,
@@ -508,6 +557,13 @@
     "PathID": "HS_Caifelle_CaerGothwaite",
     "PathType": 1,
     "Path_ID": "2cbac8c1-a4ee-438e-960c-1ce620a35414",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:47:37",
+    "PathID": "HS_Bjarken_Knarr",
+    "PathType": 1,
+    "Path_ID": "2cd1c207-f85f-4328-bc98-0ab035efced8",
     "RegionID": 0
   },
   {
@@ -714,10 +770,24 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 02:42:24",
+    "PathID": "HS_Haggerfel_Vasudheim",
+    "PathType": 1,
+    "Path_ID": "3d4ca07c-6e0b-42a8-9e80-41a0aedda491",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_HesperosOceanus_StygiaDelta",
     "PathType": 3,
     "Path_ID": "3e6e2d9e-f4cf-47c2-a628-b341f04cc134",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:34:42",
+    "PathID": "HS_Hagall_Knarr",
+    "PathType": 1,
+    "Path_ID": "3ea07847-381e-4dfb-ae6b-37f963f31b4c",
     "RegionID": 0
   },
   {
@@ -789,6 +859,13 @@
     "PathType": 3,
     "Path_ID": "43cdb0b8-5dde-4d4e-8620-bcda4e424d68",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:42:35",
+    "PathID": "HS_Knarr_Bjarken",
+    "PathType": 1,
+    "Path_ID": "458b640f-1acc-4286-a6d9-e54b77f4e103",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -872,6 +949,13 @@
     "PathID": "bt_hesperos_stygiandelta",
     "PathType": 3,
     "Path_ID": "4b1c6188-a20d-42ac-b433-7df2b57cb543",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 02:20:17",
+    "PathID": "HS_Aegirhamm_Hagall",
+    "PathType": 1,
+    "Path_ID": "4c2b5658-0988-469d-bb6b-e7311be18d8d",
     "RegionID": 0
   },
   {
@@ -966,6 +1050,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 03:56:23",
+    "PathID": "HS_Dyrfjell_Bjarken",
+    "PathType": 1,
+    "Path_ID": "54770d7e-6bf3-41e8-97e0-119bc2353f1c",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_FortVeldon_GnaFaste",
     "PathType": 1,
@@ -1001,11 +1092,25 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 02:14:12",
+    "PathID": "HS_Aegirhamm_Bjarken",
+    "PathType": 1,
+    "Path_ID": "5661a5dd-96dd-4646-a02b-137438a19577",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Campacorentin_StationGrank",
     "PathType": 1,
     "Path_ID": "5693f219-f97e-4713-ac77-dfc5397495d5",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 22:10:49",
+    "PathID": "HS_Raumarik_Huginfel",
+    "PathType": 1,
+    "Path_ID": "56f3b190-e6bf-44ea-af0f-b64e000bd42e",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1132,6 +1237,13 @@
     "PathType": 1,
     "Path_ID": "62fafd67-3bdf-457e-8cff-8164e1fd7855",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 02:30:45",
+    "PathID": "HS_Hagall_Bjarken",
+    "PathType": 1,
+    "Path_ID": "633a51ca-f8f8-43d4-b42b-ba9facb3ce9e",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1279,6 +1391,13 @@
     "PathType": 1,
     "Path_ID": "70041488-dc64-44ae-9d4d-7b3f950e2d6f",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:24:30",
+    "PathID": "HS_Hagall_Aegirhamm",
+    "PathType": 1,
+    "Path_ID": "705bcbbb-fcca-4032-ad8d-ad65761a2f91",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1905,13 +2024,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_Vasudheim_Galplen",
-    "PathType": 1,
-    "Path_ID": "a608697c-19e4-4969-8a30-ca1be1d7f836",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_SnodoniaFortress_CastleSauvage",
     "PathType": 1,
     "Path_ID": "a76f9a67-032a-4039-88b5-7695edbd6eae",
@@ -1986,6 +2098,13 @@
     "PathType": 1,
     "Path_ID": "aa6b4e19-3d4c-43d0-afbe-943302a791f4",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:20:43",
+    "PathID": "HS_Dyrfjell_Hagall",
+    "PathType": 1,
+    "Path_ID": "aa9074b5-bb73-40e7-974d-47229f8c20f1",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2289,6 +2408,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 03:15:42",
+    "PathID": "HS_Hagall_Dyrfjell",
+    "PathType": 1,
+    "Path_ID": "baf00151-5fd9-4e90-b9a6-4a421196e89d",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "AlbMainGuardPatrol",
     "PathType": 3,
@@ -2322,6 +2448,13 @@
     "PathType": 1,
     "Path_ID": "befc29cf-62ca-4359-9d4d-c6cb19dde30f",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:31:59",
+    "PathID": "HS_Knarr_Hagall",
+    "PathType": 1,
+    "Path_ID": "bf555825-7c4a-473c-af0d-ea8ac40534e6",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2464,6 +2597,20 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 02:10:12",
+    "PathID": "HS_Nalliten_Mularn",
+    "PathType": 1,
+    "Path_ID": "cfa687a1-83ab-4719-96e5-6fe67af8834f",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 01:45:54",
+    "PathID": "HS_SvasudFaste_Mularn",
+    "PathType": 1,
+    "Path_ID": "d0a5eb43-685f-4ca9-bd82-87f3af23fe65",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_ConnlaPheuloc",
     "PathType": 1,
@@ -2562,6 +2709,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2018-01-12 22:30:05",
+    "PathID": "HS_Huginfel_Raumarik",
+    "PathType": 1,
+    "Path_ID": "d9553c67-59aa-4803-8cd1-ed1731d02274",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Cotswold_VillageFluvon",
     "PathType": 1,
@@ -2616,6 +2770,13 @@
     "PathType": 1,
     "Path_ID": "ddf12889-1dc2-4f7d-b82f-455498153c85",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 01:56:35",
+    "PathID": "HS_Mularn_Nalliten",
+    "PathType": 1,
+    "Path_ID": "de42f920-87bc-4c31-ae6a-6e1f99493f0e",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 02:59:51",
@@ -2693,6 +2854,13 @@
     "PathType": 1,
     "Path_ID": "e3a89a74-3398-4184-948d-57925bcebda6",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 03:59:46",
+    "PathID": "HS_Dyrfjell_Aegirhamm",
+    "PathType": 1,
+    "Path_ID": "e4ba8a4f-149a-465a-a406-78b2bc72e64d",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2807,6 +2975,13 @@
     "RegionID": null
   },
   {
+    "LastTimeRowUpdated": "2018-01-13 03:57:47",
+    "PathID": "HS_Bjarken_Dyrfjell",
+    "PathType": 1,
+    "Path_ID": "ec98c562-dfe7-408a-857a-6acb94b337ed",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFAvernalQuasit1",
     "PathType": 3,
@@ -2875,6 +3050,13 @@
     "PathType": 1,
     "Path_ID": "f29483c4-dc41-40b5-b792-ea74c0dcf983",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-13 02:40:42",
+    "PathID": "HS_Bjarken_Hagall",
+    "PathType": 1,
+    "Path_ID": "f2c050c1-3258-4ebc-bbf1-c3676673355c",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2952,6 +3134,13 @@
     "PathType": 1,
     "Path_ID": "f7697cbb-2b76-43a2-901d-392d5282ba0f",
     "RegionID": null
+  },
+  {
+    "LastTimeRowUpdated": "2018-01-12 03:40:11",
+    "PathID": "HS_Vasudheim_Galplen",
+    "PathType": 1,
+    "Path_ID": "f8360e23-1cc3-4ab0-8555-92ef4ab98da6",
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 07:37:47",
