@@ -28480,6 +28480,14 @@
     "TemplateName": "ursine thrall"
   },
   {
+    "Chance": 90,
+    "Count": 50,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-14 18:07:23",
+    "LootTemplate_ID": "81cc2580-8c5a-49e1-89f7-9e461d233ddf",
+    "TemplateName": "Earl Zh'alzhak"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Rangfars_Remains",
@@ -91670,6 +91678,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a81b1cd8-5228-46f2-8c4f-7642bba09271",
     "TemplateName": "glimmer kelegur"
+  },
+  {
+    "Chance": 10,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-14 18:06:35",
+    "LootTemplate_ID": "a81bdf6e-a133-47ab-96e7-6a38220c38f9",
+    "TemplateName": "Earl Zh'alzhak"
   },
   {
     "Chance": 20,

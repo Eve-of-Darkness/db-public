@@ -20182,6 +20182,13 @@
   },
   {
     "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-14 18:07:27",
+    "LootTemplateName": "Earl Zh'alzhak",
+    "MobName": "Earl Zh'alzhak",
+    "MobXLootTemplate_ID": "ebe9fa41-c227-4429-82d3-867145e85ffd"
+  },
+  {
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "speos chieftain",
     "MobName": "speos chieftain",
