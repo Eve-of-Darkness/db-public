@@ -3312,13 +3312,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "HS_InnisCarthaig_ParthenonFarm",
-    "PathType": 1,
-    "Path_ID": "hib30",
-    "RegionID": null
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_InnisCarthaig_TirNaNogNord",
     "PathType": 1,
     "Path_ID": "hib31",
