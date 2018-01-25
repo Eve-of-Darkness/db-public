@@ -13696,6 +13696,14 @@
     "TemplateName": "cave trow"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Jerkin_of_Demonic_Dreams",
+    "LastTimeRowUpdated": "2018-01-25 03:39:18",
+    "LootTemplate_ID": "3f968f3f-5181-4b06-b8c5-0402707a8e39",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ring_of_the_Waves",
@@ -25896,6 +25904,14 @@
     "TemplateName": "Fas"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Robe_of_Demonic_Means1",
+    "LastTimeRowUpdated": "2018-01-25 03:40:06",
+    "LootTemplate_ID": "7608181f-9553-419d-8a9f-54d4deaa4bab",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Flayed_Hagbui_Boots",
@@ -29502,6 +29518,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "86ae048b-196d-436a-9d3a-57797f66f988",
     "TemplateName": "boulderling"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Tunic_of_Demonic_Dreams",
+    "LastTimeRowUpdated": "2018-01-25 03:39:13",
+    "LootTemplate_ID": "86cac18b-25a8-49c1-b64f-a6ae012c19d3",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 40,
@@ -89984,6 +90008,14 @@
     "TemplateName": "wind ghoul"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Breastplate_of_Demonic_Intent",
+    "LastTimeRowUpdated": "2018-01-25 03:39:21",
+    "LootTemplate_ID": "a105a418-071e-4ad5-a93a-0d82adc85340",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Patched_Hide_Helm",
@@ -101240,6 +101272,14 @@
     "TemplateName": "rock sheerie"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Jerkin_of_Demonic_Intent1",
+    "LastTimeRowUpdated": "2018-01-25 03:41:39",
+    "LootTemplate_ID": "cca6c92c-8005-41d3-a481-9ccecbe45eb1",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Finely_Crafted_Spear",
@@ -103320,6 +103360,14 @@
     "TemplateName": "spraggon springer"
   },
   {
+    "Chance": 90,
+    "Count": 25,
+    "ItemTemplateID": "Fiery Diamond Seal",
+    "LastTimeRowUpdated": "2018-01-25 03:42:52",
+    "LootTemplate_ID": "d531a12e-6f78-4137-82cf-e733ed2ddb9e",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Scragger's_Primitive_Necklace",
@@ -104294,6 +104342,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d88ea2db-3222-47dc-9254-9260ca1eb05c",
     "TemplateName": "ghastly siabra"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Breastplate_of_Demonic_Intent",
+    "LastTimeRowUpdated": "2018-01-25 03:42:04",
+    "LootTemplate_ID": "d8912bce-4881-4772-b654-73516f2a86c0",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 20,
@@ -108606,6 +108662,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e8ade8fa-2d22-4f39-9cc3-1caf01d91071",
     "TemplateName": "legionarius"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Hauberk_of_Demonic_Dreams1",
+    "LastTimeRowUpdated": "2018-01-25 03:40:37",
+    "LootTemplate_ID": "e8af4e65-e9c4-4d20-8058-370a7400fe40",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 35,
