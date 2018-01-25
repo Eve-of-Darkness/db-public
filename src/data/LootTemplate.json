@@ -13472,6 +13472,14 @@
     "TemplateName": "disturbed presence"
   },
   {
+    "Chance": 75,
+    "Count": 5,
+    "ItemTemplateID": "Fiery Diamond Seal",
+    "LastTimeRowUpdated": "2018-01-25 03:33:42",
+    "LootTemplate_ID": "3ec728dc-07e2-4e6c-bda5-d0149adf9fc1",
+    "TemplateName": "Gatekeeper Dommel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_WildW_Cloak",
@@ -13822,6 +13830,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "404e54ff-ea09-459a-9fa3-bcd04429ec38",
     "TemplateName": "Young Poacher"
+  },
+  {
+    "Chance": 90,
+    "Count": 30,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-25 03:27:47",
+    "LootTemplate_ID": "40534888-4d15-4b96-9c8d-811a641eba8d",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 40,
@@ -18094,6 +18110,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "54bc374d-22bd-4ce7-9701-87152fe44a45",
     "TemplateName": "glowing goo"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofanarchy",
+    "LastTimeRowUpdated": "2018-01-25 03:30:54",
+    "LootTemplate_ID": "54c193dd-1b78-4feb-a6b5-388644a11c79",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 20,
@@ -28360,6 +28384,14 @@
     "TemplateName": "manes demon"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofoblivion",
+    "LastTimeRowUpdated": "2018-01-25 03:31:19",
+    "LootTemplate_ID": "817701c8-04b2-4ea1-a295-5e51d19de80b",
+    "TemplateName": "Gatekeeper Dommel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Primrose_Thorn_Necklace",
@@ -31582,6 +31614,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8f9cd5d2-ba42-4060-9616-692deab5346a",
     "TemplateName": "weeping willow"
+  },
+  {
+    "Chance": 50,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-25 03:33:12",
+    "LootTemplate_ID": "8f9f66d7-ca66-4521-b3e8-1dfe6cfe0652",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 20,
@@ -114342,6 +114382,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fe945b38-ca7b-401d-ba85-2909379a8e2c",
     "TemplateName": "lair overseer"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofbedlam",
+    "LastTimeRowUpdated": "2018-01-25 03:31:34",
+    "LootTemplate_ID": "fe9de41f-e286-44f6-9351-3dc9349be6b5",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 20,

@@ -7091,8 +7091,8 @@
     "MobXLootTemplate_ID": "3070"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-25 03:33:46",
     "LootTemplateName": "Gatekeeper Dommel",
     "MobName": "Gatekeeper Dommel",
     "MobXLootTemplate_ID": "3071"
