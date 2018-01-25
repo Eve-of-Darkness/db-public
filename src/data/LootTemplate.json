@@ -3240,14 +3240,6 @@
     "TemplateName": "barrow wight"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Worn_Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0f210c71-a924-4830-97e2-67c576e82a41",
-    "TemplateName": "spriggarn"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dusk-walker's_Leggings",
@@ -4334,14 +4326,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "135b6e34-6a62-46f4-92bf-96a05fd21e91",
     "TemplateName": "skeletal centurion"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Trapper_Bracer1",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "135b8063-7b05-4767-9496-d38854dbf18d",
-    "TemplateName": "dipplefritz"
   },
   {
     "Chance": 20,
@@ -13488,6 +13472,14 @@
     "TemplateName": "disturbed presence"
   },
   {
+    "Chance": 75,
+    "Count": 5,
+    "ItemTemplateID": "Fiery Diamond Seal",
+    "LastTimeRowUpdated": "2018-01-25 03:33:42",
+    "LootTemplate_ID": "3ec728dc-07e2-4e6c-bda5-d0149adf9fc1",
+    "TemplateName": "Gatekeeper Dommel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_WildW_Cloak",
@@ -13590,14 +13582,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3f006388-878f-420c-952f-56b4f8e710ed",
     "TemplateName": "tomte captor"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Quilted_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3f0609cb-3ad2-41ce-a0bb-de1f3be3c499",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -13710,6 +13694,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3f7fc144-d833-48cb-b4c9-d089963887da",
     "TemplateName": "cave trow"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Jerkin_of_Demonic_Dreams",
+    "LastTimeRowUpdated": "2018-01-25 03:39:18",
+    "LootTemplate_ID": "3f968f3f-5181-4b06-b8c5-0402707a8e39",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 20,
@@ -13846,6 +13838,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "404e54ff-ea09-459a-9fa3-bcd04429ec38",
     "TemplateName": "Young Poacher"
+  },
+  {
+    "Chance": 90,
+    "Count": 30,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-25 03:27:47",
+    "LootTemplate_ID": "40534888-4d15-4b96-9c8d-811a641eba8d",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 40,
@@ -18120,6 +18120,14 @@
     "TemplateName": "glowing goo"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofanarchy",
+    "LastTimeRowUpdated": "2018-01-25 03:30:54",
+    "LootTemplate_ID": "54c193dd-1b78-4feb-a6b5-388644a11c79",
+    "TemplateName": "Gatekeeper Dommel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Earth_Crafted_Molded_Boots",
@@ -18646,14 +18654,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "57bee9af-be3a-4cfa-9921-ac6ad57a1f64",
     "TemplateName": "trahern"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "RawhideTornCap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "57bf2000-83af-4a05-9971-16dfa8193f9d",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -23552,14 +23552,6 @@
     "TemplateName": "manipularis"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Worn_Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6ce4a03d-67a1-4e7c-ba11-415796e30002",
-    "TemplateName": "skeleton"
-  },
-  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Belt_of_the_Deranged",
@@ -25912,6 +25904,14 @@
     "TemplateName": "Fas"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Robe_of_Demonic_Means1",
+    "LastTimeRowUpdated": "2018-01-25 03:40:06",
+    "LootTemplate_ID": "7608181f-9553-419d-8a9f-54d4deaa4bab",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Flayed_Hagbui_Boots",
@@ -26968,14 +26968,6 @@
     "TemplateName": "megalith wight"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "SilveredBarkShield",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "7ae03196-3425-4e30-8192-f29d29c1fcb2",
-    "TemplateName": "puny skeleton"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Archaic_Granite_Rapier",
@@ -27438,14 +27430,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7d042b21-4bda-4d6e-89cc-f65e5aa54458",
     "TemplateName": "werewolf guard"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "RawhideTornVest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "7d0ea160-3a94-4f94-8ea0-f3263b38a8b8",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 40,
@@ -28050,14 +28034,6 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "BronzeTornPants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "7n3735745",
-    "TemplateName": "puny skeleton"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
     "ItemTemplateID": "Woolen_Torn_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "80015df4-23ee-4a3f-9544-3c1ee7475d2e",
@@ -28422,6 +28398,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8173b426-5027-4904-b756-306dea968068",
     "TemplateName": "manes demon"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofoblivion",
+    "LastTimeRowUpdated": "2018-01-25 03:31:19",
+    "LootTemplate_ID": "817701c8-04b2-4ea1-a295-5e51d19de80b",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 20,
@@ -29536,6 +29520,14 @@
     "TemplateName": "boulderling"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Tunic_of_Demonic_Dreams",
+    "LastTimeRowUpdated": "2018-01-25 03:39:13",
+    "LootTemplate_ID": "86cac18b-25a8-49c1-b64f-a6ae012c19d3",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "AgedLeatherBaldric",
@@ -29934,14 +29926,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8860e717-b5d2-42fb-9c6f-a2b214d5a2b3",
     "TemplateName": "svartalf arbetare"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TornVest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "88639979-ca5c-4b30-bf24-cf77fa31a990",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -31654,6 +31638,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8f9cd5d2-ba42-4060-9616-692deab5346a",
     "TemplateName": "weeping willow"
+  },
+  {
+    "Chance": 50,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-25 03:33:12",
+    "LootTemplate_ID": "8f9f66d7-ca66-4521-b3e8-1dfe6cfe0652",
+    "TemplateName": "Gatekeeper Dommel"
   },
   {
     "Chance": 20,
@@ -90016,6 +90008,14 @@
     "TemplateName": "wind ghoul"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Breastplate_of_Demonic_Intent",
+    "LastTimeRowUpdated": "2018-01-25 03:39:21",
+    "LootTemplate_ID": "a105a418-071e-4ad5-a93a-0d82adc85340",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Patched_Hide_Helm",
@@ -90680,14 +90680,6 @@
     "TemplateName": "draugr warrior"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_tattered_cured_brown_boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "a39358ea-fab9-4812-bb1a-5a9e883ee401",
-    "TemplateName": "brownie"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Vest_of_the_Risen",
@@ -90752,7 +90744,7 @@
     "TemplateName": "grave goblin whelp"
   },
   {
-    "Chance": 40,
+    "Chance": 10,
     "Count": 0,
     "ItemTemplateID": "RubyEncrustedRing",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -94896,14 +94888,6 @@
     "TemplateName": "emerald snake"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "WoolenTornPants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b2472727274",
-    "TemplateName": "puny skeleton"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Cloak_of_the_Earth",
@@ -94918,14 +94902,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b252e899-becd-4a02-b658-b61e242b1e84",
     "TemplateName": "favonius facilis"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredMoldyCollor",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b2562b53246b2461",
-    "TemplateName": "Spirit Hound"
   },
   {
     "Chance": 40,
@@ -94958,14 +94934,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b2649e49-8512-4f3b-bd1e-424e3f7d8c62",
     "TemplateName": "werewolf churl"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "WoolenTornSleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b2724747247",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 25,
@@ -95198,14 +95166,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b3213c52-1b91-43cc-a11c-27ae24651830",
     "TemplateName": "Bandit Wizard"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredWornRobe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b3276274427373",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -95518,14 +95478,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b45f8d70-9f82-41d0-b066-ebe8a7489c10",
     "TemplateName": "minor fideal"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "BronzeTornVest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b462636737",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -97336,6 +97288,14 @@
     "TemplateName": "frost giant"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rawhide_Torn_Cap_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BBS_RTCa",
+    "TemplateName": "Brittle Bone Skeleton "
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Magic_Clay",
@@ -98440,6 +98400,14 @@
     "TemplateName": "gremlin"
   },
   {
+    "Chance": 100,
+    "Count": 0,
+    "ItemTemplateID": "Bandits_Ear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BL_BE",
+    "TemplateName": "bandit lieutenant"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Bright_Miscreant's_Sleeves",
@@ -98520,6 +98488,14 @@
     "TemplateName": "gremlin"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rawhide Slightly Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_RSTP",
+    "TemplateName": "Bandit Recruiter"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Beaded_Silk_Bracelet",
@@ -98542,6 +98518,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bsg-glove-prel",
     "TemplateName": "arachite prelate"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "wolf_pelt_cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BW_WPC",
+    "TemplateName": "Black Wolf"
   },
   {
     "Chance": 20,
@@ -101288,6 +101272,14 @@
     "TemplateName": "rock sheerie"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Jerkin_of_Demonic_Intent1",
+    "LastTimeRowUpdated": "2018-01-25 03:41:39",
+    "LootTemplate_ID": "cca6c92c-8005-41d3-a481-9ccecbe45eb1",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Finely_Crafted_Spear",
@@ -103368,6 +103360,14 @@
     "TemplateName": "spraggon springer"
   },
   {
+    "Chance": 90,
+    "Count": 25,
+    "ItemTemplateID": "Fiery Diamond Seal",
+    "LastTimeRowUpdated": "2018-01-25 03:42:52",
+    "LootTemplate_ID": "d531a12e-6f78-4137-82cf-e733ed2ddb9e",
+    "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Scragger's_Primitive_Necklace",
@@ -104342,6 +104342,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d88ea2db-3222-47dc-9254-9260ca1eb05c",
     "TemplateName": "ghastly siabra"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Breastplate_of_Demonic_Intent",
+    "LastTimeRowUpdated": "2018-01-25 03:42:04",
+    "LootTemplate_ID": "d8912bce-4881-4772-b654-73516f2a86c0",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 20,
@@ -105554,7 +105562,7 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "Tattered_Worn_Robe",
+    "ItemTemplateID": "TatteredWornRobe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dc940dcd-6dcd-48cb-9da1-938229fed628",
     "TemplateName": "puny skeleton"
@@ -106254,14 +106262,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "df7a307e-54dd-4ec1-8ab7-1eab5db94597",
     "TemplateName": "danin"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Farmers_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "df881f4e-b7be-41b7-b42f-edf67169706b",
-    "TemplateName": "puny skeleton"
   },
   {
     "Chance": 20,
@@ -108256,14 +108256,6 @@
     "TemplateName": "broken jotun"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "RawhideTornPants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e6f890d9-a9d1-4482-aa02-bdef036da8c3",
-    "TemplateName": "puny skeleton"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Lustrous_Fortifying_Svarkedja_Gloves",
@@ -108670,6 +108662,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e8ade8fa-2d22-4f39-9cc3-1caf01d91071",
     "TemplateName": "legionarius"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Hauberk_of_Demonic_Dreams1",
+    "LastTimeRowUpdated": "2018-01-25 03:40:37",
+    "LootTemplate_ID": "e8af4e65-e9c4-4d20-8058-370a7400fe40",
+    "TemplateName": "Grand Chancellor Adremal"
   },
   {
     "Chance": 35,
@@ -112642,14 +112642,6 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "RawhideTornGloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "f808ca08-b376-44d9-afd8-c00af7956610",
-    "TemplateName": "puny skeleton"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
     "ItemTemplateID": "Tomte_Leather_Helm",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f8151d4e-e4c7-4b6c-92ab-e2fedc6a6ddd",
@@ -114456,6 +114448,14 @@
     "TemplateName": "lair overseer"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "gatekeeperbracerofbedlam",
+    "LastTimeRowUpdated": "2018-01-25 03:31:34",
+    "LootTemplate_ID": "fe9de41f-e286-44f6-9351-3dc9349be6b5",
+    "TemplateName": "Gatekeeper Dommel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_SWS_Boots",
@@ -114808,14 +114808,6 @@
     "TemplateName": "rattling skeleton"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Trapper_Cloak1",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ffe34731-c6f1-47ab-9dea-93d6d37d7e47",
-    "TemplateName": "dipplefritz"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Void_Rifter",
@@ -114950,6 +114942,30 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "gem-stud-sword-thief",
     "TemplateName": "red dwarf thief"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Breastplate_of_the_Depths",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_BofD",
+    "TemplateName": "Giant Frog"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Cythrian_Baldric",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_CB",
+    "TemplateName": "Giant Frog"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Shadow-slicer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_SS",
+    "TemplateName": "Giant Frog"
   },
   {
     "Chance": 20,
@@ -116928,6 +116944,14 @@
     "TemplateName": "Ashmonger"
   },
   {
+    "Chance": 100,
+    "Count": 0,
+    "ItemTemplateID": "princess_oberas_head",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "PO_POH",
+    "TemplateName": "Princess Obera"
+  },
+  {
     "Chance": 25,
     "Count": 1,
     "ItemTemplateID": "Magma_Imbued_Cloak",
@@ -117368,6 +117392,14 @@
     "TemplateName": "spectral manslayer"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Boots_Alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "spiggarnbronze_torn_boots",
+    "TemplateName": "spriggarn"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dark_Spine-breaker",
@@ -117398,6 +117430,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Stolen_Signet_Ring",
     "TemplateName": "mercenary tomb raider"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Gloves_Alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_BTGA",
+    "TemplateName": "skeleton"
   },
   {
     "Chance": 40,
@@ -118170,14 +118210,6 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "RawhideTornBoots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "v327358786",
-    "TemplateName": "puny skeleton"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
     "ItemTemplateID": "TarnishedSilverTorc",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "v42626v246",
@@ -118518,6 +118550,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Zo_gem",
     "TemplateName": "rocot"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rotting Hog Tail",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "ZS_RHT",
+    "TemplateName": "zombie sow"
   },
   {
     "Chance": 5,
