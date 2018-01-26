@@ -1560,14 +1560,6 @@
     "TemplateName": "tomb wight"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_silvered_mildewed_sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "06bd611f-c847-48f7-89c0-2980ae8fe3a4",
-    "TemplateName": "boulderling"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Archaic_Granite_Long_Sword",
@@ -10120,14 +10112,6 @@
     "TemplateName": "ellyll explorer"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Filidh_Long_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2f5aa475-bd67-4713-86c1-523d9f3741e2",
-    "TemplateName": "filidh elfenna"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Pitted_Iron_Tower_Shield",
@@ -16214,14 +16198,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4ba6a620-adff-40ce-974a-f9971c0a4e77",
     "TemplateName": "deep goblin"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_mildewed_sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "4bb93b40-8eca-4c59-bbc1-3ed180f5c5af",
-    "TemplateName": "spirit"
   },
   {
     "Chance": 20,
@@ -26734,14 +26710,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "79b504af-6f85-4358-83ee-01996bdc3960",
     "TemplateName": "deep goblin"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Gold_Stitched_Pants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "79bb61f4-7dcb-4511-a493-1d37777a4a9a",
-    "TemplateName": "faerie mischief-maker"
   },
   {
     "Chance": 20,
@@ -93496,14 +93464,6 @@
     "TemplateName": "vendo warrior"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredWoolenQuiltedCap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "af90d8bf-d6f2-4471-b758-151fdb76ab45",
-    "TemplateName": "cutpurse"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_WBR_Ring",
@@ -94302,6 +94262,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "asterite-tower-undead",
     "TemplateName": "undead retainer"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Dragonsworn Lieutenant Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "AW_DLC",
+    "TemplateName": "Arlill Weller"
   },
   {
     "Chance": 15,
@@ -97296,6 +97264,14 @@
     "TemplateName": "Brittle Bone Skeleton "
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "woolen_quilted_pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BBW_WQP",
+    "TemplateName": "Faerie Bell-Wether"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Magic_Clay",
@@ -98352,6 +98328,30 @@
     "TemplateName": "drakulv axehand"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "RomanLeatherJerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BG_RLJ",
+    "TemplateName": "bandit henchman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bandits_Ear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BH_BE",
+    "TemplateName": "bandit henchman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "RomanLeatherGloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BH_RLG",
+    "TemplateName": "bandit henchman"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Cloak_of_the_Blackheart",
@@ -98490,10 +98490,98 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Boots_Alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_BTB",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Cap_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_BTC",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Pants_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_BTP",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Sleeves_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_BTS",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Vest_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_BTV",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "Rawhide Slightly Torn Pants",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BR_RSTP",
     "TemplateName": "Bandit Recruiter"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rawhide_Torn_Gloves_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_RTG",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rawhide_Torn_Pants_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_RTP",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Rawhide_Torn_Vest_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_RTV",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Woolen_Torn_Boots_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_WTB",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Woolen_Torn_Cap_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_WTC",
+    "TemplateName": "bandit recruit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Woolen_Torn_Sleeves_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BR_WTS",
+    "TemplateName": "bandit recruit"
   },
   {
     "Chance": 20,
@@ -98522,10 +98610,34 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "Bandits_Ear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BT_BE",
+    "TemplateName": "bandit thaumaturge"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "QuiltedBoots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BT_QB",
+    "TemplateName": "bandit thaumaturge"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "wolf_pelt_cloak",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BW_WPC",
     "TemplateName": "Black Wolf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "B_SOIDO",
+    "TemplateName": "boulderling"
   },
   {
     "Chance": 20,
@@ -101528,6 +101640,14 @@
     "TemplateName": "dragonsworn warden"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bandits_Ear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "CD_BE",
+    "TemplateName": "Cyfer Difwych"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Hardened_Stone_Axe",
@@ -101998,6 +102118,166 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cyhraeth_cloak",
     "TemplateName": "cyhraeth"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "broken_dragonsworn_armors",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_BDA",
+    "TemplateName": "Callida   "
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Broken Dragonsworn Weapons",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_BDW",
+    "TemplateName": "Callida"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Dragonsworn Lieutenant Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_DLC",
+    "TemplateName": "Callida"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Faithbound_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_FBR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 9,
+    "ItemTemplateID": "Grim_Bound_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GBB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Grim_Bound_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GBR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Grim_Ward_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GWR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornCapAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornPantsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTP",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTG",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Robe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Raiders_Blade",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_RB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTG",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTP",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "TatteredWornRobe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TWR",
+    "TemplateName": "cutpurse"
   },
   {
     "Chance": 20,
@@ -102656,14 +102936,6 @@
     "TemplateName": "murkman"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Worn_Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "d2bd348d-80d1-4425-b2ae-2a83ddb7bce8",
-    "TemplateName": "cutpurse"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Faded_Silksteel_Bound_Sleeves",
@@ -102742,14 +103014,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d3158666-39a0-4a0c-9115-bbb7e89b2f19",
     "TemplateName": "Danaoin fisherman"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredWornRobe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "d3178e09-cfb5-48c9-8395-d7389f31d726",
-    "TemplateName": "cutpurse"
   },
   {
     "Chance": 20,
@@ -113776,6 +114040,22 @@
     "TemplateName": "koalinth warder"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "woolen_quilted_gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FBW_WQG",
+    "TemplateName": "Faerie Bell-Wether"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "woolen_quilted_vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FBW_WQV",
+    "TemplateName": "Faerie Bell-Wether"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Glowing_Ether_Staff_of_the_Spectre",
@@ -114816,20 +115096,28 @@
     "TemplateName": "fog wraith"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_tanned_barely_torn_cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ffef98d0-5fe0-4c08-8174-0a18ed6f4617",
-    "TemplateName": "cutpurse"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Luminous_Sable_Robes_of_Dementia",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fff2ac28-acd0-435d-9859-7cf2bbe05bf4",
     "TemplateName": "barrow wight"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "woolen_quilted_cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FMM_WQC",
+    "TemplateName": "Faerie Mischief-Maker"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "woolen_quilted_sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FMM_WQS",
+    "TemplateName": "Faerie Mischief-Maker"
   },
   {
     "Chance": 20,
@@ -116992,6 +117280,14 @@
     "TemplateName": "draugr warrior"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "P_BTG",
+    "TemplateName": "poacher "
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "rage_wolf_tooth",
@@ -117438,6 +117734,30 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "S_BTGA",
     "TemplateName": "skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Faerie Charm Necklace",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_FCN",
+    "TemplateName": "spirit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedTarnishedDagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_PTD",
+    "TemplateName": "spirit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "TatteredTannedBrownGloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_TTBG",
+    "TemplateName": "spirit"
   },
   {
     "Chance": 40,
@@ -118542,6 +118862,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Yellow_Curmudgeon_Tooth",
     "TemplateName": "Curmudgeon Scrapper"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PilferedLeatherLeggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "YP_PLL",
+    "TemplateName": "young poacher"
   },
   {
     "Chance": 20,
