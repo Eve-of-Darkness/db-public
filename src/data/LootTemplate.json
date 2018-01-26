@@ -97600,6 +97600,14 @@
     "TemplateName": "Faerie Bell-Wether"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BB_IBTB",
+    "TemplateName": "Bullyboy"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Magic_Clay",
@@ -116232,6 +116240,14 @@
     "TemplateName": "wildling"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "H_TBTG",
+    "TemplateName": "Highwayman"
+  },
+  {
     "Chance": 5,
     "Count": 1,
     "ItemTemplateID": "3_Burnished_Shanshee_Boots",
@@ -117080,6 +117096,14 @@
     "TemplateName": "cursed spirit"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedIron-strappedShield",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MC_PISS",
+    "TemplateName": "gundron mccory"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Melted_Ghoul_Flesh",
@@ -117774,6 +117798,158 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "rage_wolf_tooth",
     "TemplateName": "rage wolf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BeltOfContinualMisery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_BoCM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BroachOfSoulManifestation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_BoSM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "ElvenRing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_ER",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BrightForestRunnersBoots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_FRB",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "GemofSweetMourning",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_GoSM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Gem_Studded_Dagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_GSD",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "NetherworldBracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_NB",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "RingOfDeathlyFavor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_RoDF",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Ring_of_Longevity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_RoL",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SpiritWroughtCloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_SWC",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "UnholyBraceroftheReverent",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_UBofR",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "BandOfSoughtPainwork",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_BoSP",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "GemofSweetMourning",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_GoSM",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "Bright_Preserved_Studded_Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_PSV",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "RingOfDeathlyFavor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_RoDF",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeBroadsword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeHandAxe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBHA",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeScimitar",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeShortSword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBSS",
+    "TemplateName": "Red Dwarf"
   },
   {
     "Chance": 20,
