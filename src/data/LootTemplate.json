@@ -1560,14 +1560,6 @@
     "TemplateName": "tomb wight"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_silvered_mildewed_sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "06bd611f-c847-48f7-89c0-2980ae8fe3a4",
-    "TemplateName": "boulderling"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Archaic_Granite_Long_Sword",
@@ -10118,14 +10110,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2f3a469b-cea3-49f8-a5ea-f383c8aed31c",
     "TemplateName": "ellyll explorer"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Filidh_Long_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2f5aa475-bd67-4713-86c1-523d9f3741e2",
-    "TemplateName": "filidh elfenna"
   },
   {
     "Chance": 20,
@@ -98646,6 +98630,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BW_WPC",
     "TemplateName": "Black Wolf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "B_SOIDO",
+    "TemplateName": "boulderling"
   },
   {
     "Chance": 20,
