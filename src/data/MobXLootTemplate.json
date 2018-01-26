@@ -4179,6 +4179,13 @@
     "MobXLootTemplate_ID": "19e577a9-2b19-4322-bea4-69e1ee1663f8"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-26 22:10:39",
+    "LootTemplateName": "Chamberlain",
+    "MobName": "Chamberlain",
+    "MobXLootTemplate_ID": "19fc89d0-62c4-4405-99af-3d9e9961e832"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "outcast gnoll leader",
@@ -4674,6 +4681,13 @@
     "LootTemplateName": "Pictish Warrior",
     "MobName": "Pictish Warrior",
     "MobXLootTemplate_ID": "217"
+  },
+  {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:48:05",
+    "LootTemplateName": "Chthonic Knight Vosoes",
+    "MobName": "Chthonic Knight Vosoes",
+    "MobXLootTemplate_ID": "217329f9-285a-44a3-ae74-d4f1f20168b7"
   },
   {
     "DropCount": 2,
@@ -5572,24 +5586,24 @@
     "MobXLootTemplate_ID": "2619"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:47:54",
     "LootTemplateName": "Chthonic Knight Ukobat",
     "MobName": "Chthonic Knight Ukobat",
     "MobXLootTemplate_ID": "2620"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:40:07",
     "LootTemplateName": "Deamhaness",
-    "MobName": "Deamhaness",
+    "MobName": "deamhaness",
     "MobXLootTemplate_ID": "2622"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:33:20",
     "LootTemplateName": "Demoniac Familiar",
-    "MobName": "Demoniac Familiar",
+    "MobName": "demoniac familiar",
     "MobXLootTemplate_ID": "2623"
   },
   {
@@ -5965,9 +5979,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:36:48",
     "LootTemplateName": "Apprentice Necyomancer",
-    "MobName": "Apprentice Necyomancer",
+    "MobName": "apprentice necyomancer",
     "MobXLootTemplate_ID": "2821"
   },
   {
@@ -6272,6 +6286,13 @@
     "MobXLootTemplate_ID": "28aa739a-a3ad-49f1-8688-b122558c4d02"
   },
   {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:46:26",
+    "LootTemplateName": "Chthonic Knight Malleus",
+    "MobName": "Chthonic Knight Malleus",
+    "MobXLootTemplate_ID": "28c83b91-5e42-4b91-9d90-1be851427e5f"
+  },
+  {
     "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Giant Lizard",
@@ -6314,22 +6335,22 @@
     "MobXLootTemplate_ID": "2904"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:26:39",
     "LootTemplateName": "Inquisitor Morg",
     "MobName": "Inquisitor Morg",
     "MobXLootTemplate_ID": "2905"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:42:14",
     "LootTemplateName": "Chthonic Knight Aciel",
     "MobName": "Chthonic Knight Aciel",
     "MobXLootTemplate_ID": "2906"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:42:25",
     "LootTemplateName": "Chthonic Knight Ain",
     "MobName": "Chthonic Knight Ain",
     "MobXLootTemplate_ID": "2907"
@@ -6462,9 +6483,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:42:41",
     "LootTemplateName": "Necyomancer",
-    "MobName": "Necyomancer",
+    "MobName": "necyomancer",
     "MobXLootTemplate_ID": "2969"
   },
   {
@@ -6763,16 +6784,16 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:07:51",
     "LootTemplateName": "Beliathan",
     "MobName": "Beliathan",
     "MobXLootTemplate_ID": "3014"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:48:57",
     "LootTemplateName": "Chaosian",
-    "MobName": "Chaosian",
+    "MobName": "chaosian",
     "MobXLootTemplate_ID": "3016"
   },
   {
@@ -6783,71 +6804,71 @@
     "MobXLootTemplate_ID": "3017"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:42:01",
     "LootTemplateName": "Chthonic Knight Absax",
     "MobName": "Chthonic Knight Absax",
     "MobXLootTemplate_ID": "3019"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:43:22",
     "LootTemplateName": "Chthonic Knight Carnivon",
     "MobName": "Chthonic Knight Carnivon",
     "MobXLootTemplate_ID": "3021"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:43:29",
     "LootTemplateName": "Chthonic Knight Exal",
     "MobName": "Chthonic Knight Exal",
     "MobXLootTemplate_ID": "3022"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:43:43",
     "LootTemplateName": "Chthonic Knight Exte",
     "MobName": "Chthonic Knight Exte",
     "MobXLootTemplate_ID": "3023"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:44:50",
     "LootTemplateName": "Chthonic Knight Ezpeth",
     "MobName": "Chthonic Knight Ezpeth",
     "MobXLootTemplate_ID": "3024"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:45:01",
     "LootTemplateName": "Chthonic Knight Fonath",
     "MobName": "Chthonic Knight Fonath",
     "MobXLootTemplate_ID": "3025"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:45:13",
     "LootTemplateName": "Chthonic Knight Gaapoler",
     "MobName": "Chthonic Knight Gaapoler",
     "MobXLootTemplate_ID": "3026"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:45:53",
     "LootTemplateName": "Chthonic Knight Haag",
     "MobName": "Chthonic Knight Haag",
     "MobXLootTemplate_ID": "3027"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:46:06",
     "LootTemplateName": "Chthonic Knight Ibeko",
     "MobName": "Chthonic Knight Ibeko",
     "MobXLootTemplate_ID": "3028"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:46:34",
     "LootTemplateName": "Chthonic Knight Marbos",
     "MobName": "Chthonic Knight Marbos",
     "MobXLootTemplate_ID": "3029"
@@ -6860,8 +6881,8 @@
     "MobXLootTemplate_ID": "303"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:46:47",
     "LootTemplateName": "Chthonic Knight Obarus",
     "MobName": "Chthonic Knight Obarus",
     "MobXLootTemplate_ID": "3030"
@@ -6874,43 +6895,43 @@
     "MobXLootTemplate_ID": "3031"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:47:15",
     "LootTemplateName": "Chthonic Knight Prosel",
     "MobName": "Chthonic Knight Prosel",
     "MobXLootTemplate_ID": "3032"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:47:30",
     "LootTemplateName": "Chthonic Knight Ronoro",
     "MobName": "Chthonic Knight Ronoro",
     "MobXLootTemplate_ID": "3033"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:47:43",
     "LootTemplateName": "Chthonic Knight Tamuel",
     "MobName": "Chthonic Knight Tamuel",
     "MobXLootTemplate_ID": "3034"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:48:19",
     "LootTemplateName": "Chthonic Knight Zaeber",
     "MobName": "Chthonic Knight Zaeber",
     "MobXLootTemplate_ID": "3036"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:48:30",
     "LootTemplateName": "Chthonic Knight Zafan",
     "MobName": "Chthonic Knight Zafan",
     "MobXLootTemplate_ID": "3037"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:48:44",
     "LootTemplateName": "Chthonic Knight Zagal",
     "MobName": "Chthonic Knight Zagal",
     "MobXLootTemplate_ID": "3038"
@@ -6923,8 +6944,8 @@
     "MobXLootTemplate_ID": "3041"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:51:49",
     "LootTemplateName": "Duke Harboris",
     "MobName": "Duke Harboris",
     "MobXLootTemplate_ID": "3042"
@@ -6937,22 +6958,22 @@
     "MobXLootTemplate_ID": "3044"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:50:47",
     "LootTemplateName": "Duke Aypol",
     "MobName": "Duke Aypol",
     "MobXLootTemplate_ID": "3045"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:51:20",
     "LootTemplateName": "Duke Eligar",
     "MobName": "Duke Eligar",
     "MobXLootTemplate_ID": "3046"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:51:59",
     "LootTemplateName": "Duke Sallis",
     "MobName": "Duke Sallis",
     "MobXLootTemplate_ID": "3047"
@@ -6972,8 +6993,8 @@
     "MobXLootTemplate_ID": "3050"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:36:40",
     "LootTemplateName": "Marquis Focalleste",
     "MobName": "Marquis Focalleste",
     "MobXLootTemplate_ID": "3051"
@@ -7028,8 +7049,8 @@
     "MobXLootTemplate_ID": "3061"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:52:40",
     "LootTemplateName": "Duke Zepor",
     "MobName": "Duke Zepor",
     "MobXLootTemplate_ID": "3062"
@@ -7113,14 +7134,14 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:16:53",
     "LootTemplateName": "Inquisitor Asil",
     "MobName": "Inquisitor Asil",
     "MobXLootTemplate_ID": "3076"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:17:24",
     "LootTemplateName": "Inquisitor Bor",
     "MobName": "Inquisitor Bor",
     "MobXLootTemplate_ID": "3077"
@@ -7154,22 +7175,22 @@
     "MobXLootTemplate_ID": "3083"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:19:48",
     "LootTemplateName": "Inquisitor Haap",
     "MobName": "Inquisitor Haap",
     "MobXLootTemplate_ID": "3084"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:26:53",
     "LootTemplateName": "Inquisitor Morrian",
     "MobName": "Inquisitor Morrian",
     "MobXLootTemplate_ID": "3085"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:27:17",
     "LootTemplateName": "Inquisitor Nej",
     "MobName": "Inquisitor Nej",
     "MobXLootTemplate_ID": "3086"
@@ -7182,8 +7203,8 @@
     "MobXLootTemplate_ID": "3087"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:29:46",
     "LootTemplateName": "Inquisitor Yonzeal",
     "MobName": "Inquisitor Yonzeal",
     "MobXLootTemplate_ID": "3088"
@@ -7203,8 +7224,8 @@
     "MobXLootTemplate_ID": "3090"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:35:35",
     "LootTemplateName": "Inquisitor Zaviben",
     "MobName": "Inquisitor Zaviben",
     "MobXLootTemplate_ID": "3091"
@@ -7231,8 +7252,8 @@
     "MobXLootTemplate_ID": "3094"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:36:00",
     "LootTemplateName": "Marquis Almen",
     "MobName": "Marquis Almen",
     "MobXLootTemplate_ID": "3095"
@@ -7245,22 +7266,22 @@
     "MobXLootTemplate_ID": "3095e879-069f-41f4-b463-1cfa22b5b909"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:36:23",
     "LootTemplateName": "Marquis Dortaleon",
     "MobName": "Marquis Dortaleon",
     "MobXLootTemplate_ID": "3096"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:38:31",
     "LootTemplateName": "Marquis Scottiax",
     "MobName": "Marquis Scottiax",
     "MobXLootTemplate_ID": "3097"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:38:37",
     "LootTemplateName": "Marquis Valupa",
     "MobName": "Marquis Valupa",
     "MobXLootTemplate_ID": "3098"
@@ -7271,6 +7292,13 @@
     "LootTemplateName": "streber rengo",
     "MobName": "streber rengo",
     "MobXLootTemplate_ID": "30c114a5-692d-4fe8-a3e9-42366ff302b2"
+  },
+  {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:19:00",
+    "LootTemplateName": "Inquisitor Factol",
+    "MobName": "Inquisitor Factol",
+    "MobXLootTemplate_ID": "30c58658-0eb7-44bd-8b7e-2edddae4b251"
   },
   {
     "DropCount": 1,
@@ -7484,9 +7512,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:11:36",
     "LootTemplateName": "Soultorn Hibernian Wayfayer",
-    "MobName": "Soultorn Hibernian Wayfayer",
+    "MobName": "soultorn hibernian wayfayer",
     "MobXLootTemplate_ID": "3133"
   },
   {
@@ -7498,9 +7526,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 21:45:58",
     "LootTemplateName": "Soultorn Norse Flammen Herra",
-    "MobName": "Soultorn Norse Flammen Herra",
+    "MobName": "soultorn norse flammen herra",
     "MobXLootTemplate_ID": "3135"
   },
   {
@@ -7574,8 +7602,8 @@
     "MobXLootTemplate_ID": "3148"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:50:10",
     "LootTemplateName": "Duke Alloc",
     "MobName": "Duke Alloc",
     "MobXLootTemplate_ID": "3149"
@@ -9093,57 +9121,57 @@
     "MobXLootTemplate_ID": "356"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:17:36",
     "LootTemplateName": "Inquisitor Eciraum",
     "MobName": "Inquisitor Eciraum",
     "MobXLootTemplate_ID": "3560"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:20:14",
     "LootTemplateName": "Inquisitor Hadis",
     "MobName": "Inquisitor Hadis",
     "MobXLootTemplate_ID": "3561"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:26:24",
     "LootTemplateName": "Inquisitor Medebo",
     "MobName": "Inquisitor Medebo",
     "MobXLootTemplate_ID": "3562"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:27:00",
     "LootTemplateName": "Inquisitor Mucifen",
     "MobName": "Inquisitor Mucifen",
     "MobXLootTemplate_ID": "3563"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-26 22:27:32",
     "LootTemplateName": "Inquisitor Nifil",
     "MobName": "Inquisitor Nifil",
     "MobXLootTemplate_ID": "3564"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:27:50",
     "LootTemplateName": "Inquisitor Niloc",
     "MobName": "Inquisitor Niloc",
     "MobXLootTemplate_ID": "3565"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:36:09",
     "LootTemplateName": "Marquis Chaosmar",
     "MobName": "Marquis Chaosmar",
     "MobXLootTemplate_ID": "3568"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:37:17",
     "LootTemplateName": "Marquis Sabonach",
     "MobName": "Marquis Sabonach",
     "MobXLootTemplate_ID": "3569"
@@ -12521,6 +12549,13 @@
     "LootTemplateName": "gerkran",
     "MobName": "gerkran",
     "MobXLootTemplate_ID": "4a5ec2f5-ffbc-456a-95af-c755d46b9e8b"
+  },
+  {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:36:48",
+    "LootTemplateName": "Marquis Halphas",
+    "MobName": "Marquis Halphas",
+    "MobXLootTemplate_ID": "4b0bd3ee-c643-4d2f-88d0-fbba8be1f170"
   },
   {
     "DropCount": 2,
@@ -19901,6 +19936,13 @@
     "MobXLootTemplate_ID": "c9835e08-3851-44e9-840e-49784db5c3eb"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-01-26 22:49:05",
+    "LootTemplateName": "Chthonic Knight Zhox",
+    "MobName": "Chthonic Knight Zhox",
+    "MobXLootTemplate_ID": "c9cab675-7ff0-4e95-bea4-efbb4b6d5729"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "oswalt",
@@ -19962,6 +20004,13 @@
     "LootTemplateName": "thrawn ogre guardsman",
     "MobName": "thrawn ogre guardsman",
     "MobXLootTemplate_ID": "d114a741-c903-445f-8d04-27499dc188d1"
+  },
+  {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:28:22",
+    "LootTemplateName": "Inquisitor Ugglok",
+    "MobName": "Inquisitor Ugglok",
+    "MobXLootTemplate_ID": "d1c61eed-1654-4777-a44e-178798395285"
   },
   {
     "DropCount": 2,
@@ -20137,6 +20186,13 @@
     "LootTemplateName": "wild crouch elder",
     "MobName": "wild crouch elder",
     "MobXLootTemplate_ID": "e78c4fac-76b9-49b5-a043-c9d8e6924093"
+  },
+  {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-26 22:52:18",
+    "LootTemplateName": "Duke Satori",
+    "MobName": "Duke Satori",
+    "MobXLootTemplate_ID": "e8d16d5d-4b6d-4f24-bca6-f7b5bbdbb928"
   },
   {
     "DropCount": 2,
