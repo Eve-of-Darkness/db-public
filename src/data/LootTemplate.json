@@ -360,6 +360,14 @@
     "TemplateName": "keltoi banisher"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:43:49",
+    "LootTemplate_ID": "015fb1a8-1277-4b22-b888-72ccb5e3067e",
+    "TemplateName": "Chthonic Knight Exte"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Copper_Amethyst_Bracelet",
@@ -894,6 +902,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "038ba1e0-cb9c-4b3a-992d-9d8027db1acb",
     "TemplateName": "tylwyth teg rover"
+  },
+  {
+    "Chance": 90,
+    "Count": 5,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:32:20",
+    "LootTemplate_ID": "038e6063-97c2-44c4-b682-17e8cd1b3260",
+    "TemplateName": "Demoniac Familiar"
   },
   {
     "Chance": 20,
@@ -2184,6 +2200,14 @@
     "TemplateName": "welsh hobgoblin"
   },
   {
+    "Chance": 90,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:50:26",
+    "LootTemplate_ID": "093b27f5-1cd1-4a86-b5f3-a18201615546",
+    "TemplateName": "Duke Alloc"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Polished_Granite_Pin",
@@ -2966,6 +2990,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0d69bf00-3786-4684-b950-acf1ee7f4d30",
     "TemplateName": "pall spectre"
+  },
+  {
+    "Chance": 90,
+    "Count": 10,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:42:37",
+    "LootTemplate_ID": "0d7a52ee-dda8-4e5b-a0e0-8b5b3784adfd",
+    "TemplateName": "Necyomancer"
   },
   {
     "Chance": 35,
@@ -4968,6 +5000,14 @@
     "TemplateName": "clergyman"
   },
   {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:52:06",
+    "LootTemplate_ID": "168ac1b3-ec33-40cd-9e11-09bbed046320",
+    "TemplateName": "Duke Sallis"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Gauntlets_of_Eternal_Midnight",
@@ -5696,6 +5736,14 @@
     "TemplateName": "muire lady-in-waiting"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:20:22",
+    "LootTemplate_ID": "19c460c9-0488-4bee-8ef8-a4b40bcbf590",
+    "TemplateName": "Inquisitor Hadis"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "gemoftherebuked",
@@ -5750,6 +5798,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1a285a0d-a413-475a-86d2-49039a839922",
     "TemplateName": "tomte handler"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:35:58",
+    "LootTemplate_ID": "1a2ba5ce-d94b-4c67-b524-35def6ad2c64",
+    "TemplateName": "Marquis Almen"
   },
   {
     "Chance": 20,
@@ -6712,6 +6768,14 @@
     "TemplateName": "vendo guard"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:28:10",
+    "LootTemplate_ID": "1ecb5ee4-e497-4eaf-8da9-30cdfb970307",
+    "TemplateName": "Inquisitor Tlaw"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Swathe_Cutter's_Mantle",
@@ -6846,6 +6910,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1f6664e2-c942-46f6-82f3-1bf6959ebaf2",
     "TemplateName": "young wyvern"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:36:29",
+    "LootTemplate_ID": "1f6b773b-80fb-4086-88e4-f5d55084a86b",
+    "TemplateName": "Marquis Dortaleon"
   },
   {
     "Chance": 40,
@@ -7392,6 +7464,14 @@
     "TemplateName": "werewolf warder"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:30:06",
+    "LootTemplate_ID": "21cd7b10-41b5-40fb-99d5-f07b1e8bc4fb",
+    "TemplateName": "Inquisitor Zaviben"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Jeweled_Rigid_Helm",
@@ -7630,6 +7710,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "231c3ef4-b044-4725-9545-5e617b5bc5a5",
     "TemplateName": "walking rock"
+  },
+  {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:51:40",
+    "LootTemplate_ID": "23220edf-b411-4f0b-b628-facd75d4d24b",
+    "TemplateName": "Duke Felzhul"
   },
   {
     "Chance": 20,
@@ -9360,6 +9448,14 @@
     "TemplateName": "dragonsworn warrior"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:18:57",
+    "LootTemplate_ID": "2b486934-77d3-4cb8-b1e3-486bca14ad4d",
+    "TemplateName": "Inquisitor Factol"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Spined_Razor_Foreclaw",
@@ -10206,6 +10302,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2fa78e52-06bf-4640-bd25-272b821cd66a",
     "TemplateName": "drakulv protector"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:46:54",
+    "LootTemplate_ID": "2fb31a0f-9c85-4c44-ac68-4e4553c76bbc",
+    "TemplateName": "Chthonic Knight Obarus"
   },
   {
     "Chance": 20,
@@ -12616,6 +12720,14 @@
     "TemplateName": "spraggon springer"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:43:36",
+    "LootTemplate_ID": "3aa74cfe-e3f0-4393-b018-d135b29a27ad",
+    "TemplateName": "Chthonic Knight Exal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_bsg_Gloves",
@@ -13744,6 +13856,14 @@
     "TemplateName": "tomte jager"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:48:11",
+    "LootTemplate_ID": "3fe12939-26d5-4de4-be79-c50532322949",
+    "TemplateName": "Chthonic Knight Vosoes"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Watery_Ring",
@@ -14584,6 +14704,14 @@
     "TemplateName": "king's wight"
   },
   {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:52:48",
+    "LootTemplate_ID": "442adb9a-6383-4a84-a020-c7489677a02f",
+    "TemplateName": "Duke Zepor"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Slender_Asterite_Sorcerer_Staff",
@@ -14606,6 +14734,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "44646775-ca63-4eca-9040-287ee41dc7ad",
     "TemplateName": "muire champion"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:27:26",
+    "LootTemplate_ID": "447fd1cd-9893-4995-a03c-b19a8cdae067",
+    "TemplateName": "Inquisitor Nej"
   },
   {
     "Chance": 20,
@@ -14830,6 +14966,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4583ce3c-119d-4b36-8243-d8847de38d4c",
     "TemplateName": "skeletal centurion"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DaimondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:46:25",
+    "LootTemplate_ID": "458b1155-7f90-4f9b-91b2-e850b4980110",
+    "TemplateName": "Chthonic Knight Malleus"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:27:39",
+    "LootTemplate_ID": "459574a4-3e50-42d8-8db7-ed96126c497d",
+    "TemplateName": "Inquisitor Nifil"
   },
   {
     "Chance": 20,
@@ -16014,6 +16166,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4ae2bdbe-82cb-471d-a56d-5e0c88161cc1",
     "TemplateName": "king's wight"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:27:08",
+    "LootTemplate_ID": "4ae7f614-58af-45cd-b3c0-31696c7d9931",
+    "TemplateName": "Inquisitor Mucifen"
   },
   {
     "Chance": 40,
@@ -17720,6 +17880,14 @@
     "TemplateName": "ellyll guard"
   },
   {
+    "Chance": 2,
+    "Count": 1,
+    "ItemTemplateID": "Hardened_Wormhide_Cloak",
+    "LastTimeRowUpdated": "2018-01-26 22:07:48",
+    "LootTemplate_ID": "5325283a-ccd1-49cf-a8ed-8d3701c9e2d7",
+    "TemplateName": "Beliathan"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Abandoned_Crustacean_Boots",
@@ -17758,6 +17926,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "533fb2d8-65f9-4339-9199-1693077350a5",
     "TemplateName": "suitor spirit"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:42:39",
+    "LootTemplate_ID": "53403f66-2370-4cf8-a432-57d7c6f1a501",
+    "TemplateName": "Chthonic Knight Azea"
   },
   {
     "Chance": 20,
@@ -19056,6 +19232,14 @@
     "TemplateName": "siabra wayguard"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:17:21",
+    "LootTemplate_ID": "593448ed-2d85-4401-b0d8-4f248fe747d2",
+    "TemplateName": "Inquisitor Bor"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tomte_Studded_Gauntlets",
@@ -19214,6 +19398,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "59c125e4-b008-472e-857a-12ac93032ab8",
     "TemplateName": "suitor spirit"
+  },
+  {
+    "Chance": 100,
+    "Count": 10,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:16:49",
+    "LootTemplate_ID": "59ce1b2f-b112-48ce-b093-cb30f64e1fa8",
+    "TemplateName": "Inquisitor Asil"
   },
   {
     "Chance": 40,
@@ -20608,6 +20800,14 @@
     "TemplateName": "tomte handler"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:29:53",
+    "LootTemplate_ID": "5fdd9c65-0e9e-422f-a113-cbb1752a9f9b",
+    "TemplateName": "Inquisitor Yonzeal"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Leggings_of_the_Baleful_Dead",
@@ -20886,6 +21086,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6153426a-a5d7-499f-ad96-91510a78087f",
     "TemplateName": "yadda"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:39:31",
+    "LootTemplate_ID": "6164959b-6fa5-4e47-8325-d60f80f5d962",
+    "TemplateName": "Chthonic Knight Absax"
   },
   {
     "Chance": 20,
@@ -21694,6 +21902,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "64f0b235-a72e-4ef9-bcbb-8f493cbad863",
     "TemplateName": "abysmal"
+  },
+  {
+    "Chance": 90,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:48:56",
+    "LootTemplate_ID": "64f7ed92-5197-457f-87ee-f199fe56a838",
+    "TemplateName": "Chaosian"
   },
   {
     "Chance": 20,
@@ -22518,6 +22734,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6857c57d-1a18-4ccb-9213-b3c968057a11",
     "TemplateName": "draugr warrior"
+  },
+  {
+    "Chance": 75,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:51:11",
+    "LootTemplate_ID": "685d220f-9717-466c-9459-a0694e7d5e54",
+    "TemplateName": "Duke Bimure"
   },
   {
     "Chance": 20,
@@ -23368,6 +23592,14 @@
     "TemplateName": "deep goblin"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:47:48",
+    "LootTemplate_ID": "6c3cb529-e457-4da8-939c-2a50b06c64b8",
+    "TemplateName": "Chthonic Knight Tamuel"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Drenched_Ichor_Cap",
@@ -23790,6 +24022,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6ddfc520-0122-4193-b2a5-0592c045f486",
     "TemplateName": "silvermine badger"
+  },
+  {
+    "Chance": 90,
+    "Count": 10,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:40:05",
+    "LootTemplate_ID": "6de18c23-4533-4374-beca-40481ba05569",
+    "TemplateName": "Deamhaness"
   },
   {
     "Chance": 20,
@@ -24336,6 +24576,14 @@
     "TemplateName": "curmudgeon harvester"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:38:42",
+    "LootTemplate_ID": "6fdaf02d-1f69-4d06-b726-d196dbcd4265",
+    "TemplateName": "Marquis Valupa"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "pygmydeathbeads",
@@ -24358,6 +24606,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6Fell_Creature_Tooth",
     "TemplateName": "shadowhunter she-wolf"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:44:55",
+    "LootTemplate_ID": "70049020-ed06-4aba-9b98-bb3a84a09824",
+    "TemplateName": "Chthonic Knight Ezpeth"
   },
   {
     "Chance": 20,
@@ -26400,6 +26656,14 @@
     "TemplateName": "echo of life"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:26:12",
+    "LootTemplate_ID": "78424e9b-31d0-4dd8-a22c-8125beacdbf2",
+    "TemplateName": "Inquisitor Lokis"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
@@ -27030,6 +27294,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7b818211-05c1-46ba-892a-713ffc0d3a9d",
     "TemplateName": "curmudgeon fighter"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:47:37",
+    "LootTemplate_ID": "7b8b2fb3-b5b0-4f70-bd6e-3df36d8fbb82",
+    "TemplateName": "Chthonic Knight Ronoro"
   },
   {
     "Chance": 20,
@@ -29480,6 +29752,14 @@
     "TemplateName": "deeplurk feeder"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:27:57",
+    "LootTemplate_ID": "86a8757c-f42f-4a7f-9369-e54ca89523c4",
+    "TemplateName": "Inquisitor Niloc"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "SilveredOldIronDagger",
@@ -29822,6 +30102,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8836834f-f707-4e9b-b3f0-a1b4903d264b",
     "TemplateName": "bwgwl"
+  },
+  {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:51:23",
+    "LootTemplate_ID": "883b0899-b052-431e-b987-ed3b07adbb74",
+    "TemplateName": "Duke Eligar"
   },
   {
     "Chance": 20,
@@ -32110,6 +32398,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9195db1d-7755-46e1-b49b-685bc4b5d2c3",
     "TemplateName": "meandering spirit"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:37:09",
+    "LootTemplate_ID": "919e98c2-e667-4565-aac2-cc9cd9e8f23c",
+    "TemplateName": "Marquis Haurian"
   },
   {
     "Chance": 20,
@@ -34696,10 +34992,10 @@
     "TemplateName": "gudbrod"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:26:52",
     "LootTemplate_ID": "99951633",
     "TemplateName": "Inquisitor Morrian"
   },
@@ -36776,10 +37072,10 @@
     "TemplateName": "kiran"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:25:36",
     "LootTemplate_ID": "99951902",
     "TemplateName": "Inquisitor Hellos"
   },
@@ -37072,10 +37368,10 @@
     "TemplateName": "katri"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:26:29",
     "LootTemplate_ID": "99951944",
     "TemplateName": "Inquisitor Medebo"
   },
@@ -44424,10 +44720,10 @@
     "TemplateName": "issorden"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:47:18",
     "LootTemplate_ID": "99952959",
     "TemplateName": "Chthonic Knight Prosel"
   },
@@ -45640,10 +45936,10 @@
     "TemplateName": "draco"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:46:09",
     "LootTemplate_ID": "99953120",
     "TemplateName": "Chthonic Knight Ibeko"
   },
@@ -47104,10 +47400,10 @@
     "TemplateName": "bane of hope"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:36:39",
     "LootTemplate_ID": "99953313",
     "TemplateName": "Marquis Focalleste"
   },
@@ -52784,10 +53080,10 @@
     "TemplateName": "naxos marrow mage"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:51:05",
     "LootTemplate_ID": "99954135",
     "TemplateName": "Duke Bimure"
   },
@@ -53960,10 +54256,10 @@
     "TemplateName": "stalking sylvanshade"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:42:24",
     "LootTemplate_ID": "99954288",
     "TemplateName": "Chthonic Knight Ain"
   },
@@ -54672,10 +54968,10 @@
     "TemplateName": "runihura"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:51:47",
     "LootTemplate_ID": "99954379",
     "TemplateName": "Duke Harboris"
   },
@@ -54736,10 +55032,10 @@
     "TemplateName": "hagbui squire"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:50:41",
     "LootTemplate_ID": "99954387",
     "TemplateName": "Duke Aypol"
   },
@@ -60360,10 +60656,10 @@
     "TemplateName": "anarich treehand"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:43:20",
     "LootTemplate_ID": "99955104",
     "TemplateName": "Chthonic Knight Carnivon"
   },
@@ -63912,10 +64208,10 @@
     "TemplateName": "mesedsubastet"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:38:30",
     "LootTemplate_ID": "99955554",
     "TemplateName": "Marquis Scottiax"
   },
@@ -65441,9 +65737,9 @@
   },
   {
     "Chance": 90,
-    "Count": 0,
+    "Count": 5,
     "ItemTemplateID": "EmeraldSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:13:46",
     "LootTemplate_ID": "99955747",
     "TemplateName": "soultorn norse isen vakten"
   },
@@ -66464,10 +66760,10 @@
     "TemplateName": "militant melancholic faerie"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:42:13",
     "LootTemplate_ID": "99955879",
     "TemplateName": "Chthonic Knight Aciel"
   },
@@ -67146,14 +67442,6 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Beliathans_Ravager",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99955964",
-    "TemplateName": "beliathan"
-  },
-  {
-    "Chance": 15,
-    "Count": 0,
     "ItemTemplateID": "Reinforced_Robe_of_Darkfang",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99955965",
@@ -67416,10 +67704,10 @@
     "TemplateName": "melos blade warrior"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:51:18",
     "LootTemplate_ID": "99955998",
     "TemplateName": "Duke Eligar"
   },
@@ -69992,10 +70280,10 @@
     "TemplateName": "ixthiar creeper"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:37:20",
     "LootTemplate_ID": "99956329",
     "TemplateName": "Marquis Sabonach"
   },
@@ -71984,10 +72272,10 @@
     "TemplateName": "golnar"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:26:38",
     "LootTemplate_ID": "99956588",
     "TemplateName": "Inquisitor Morg"
   },
@@ -72096,10 +72384,10 @@
     "TemplateName": "apprentice frorik"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:52:01",
     "LootTemplate_ID": "99956603",
     "TemplateName": "Duke Sallis"
   },
@@ -78672,10 +78960,10 @@
     "TemplateName": "summoner cunovinda"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:52:44",
     "LootTemplate_ID": "99957444",
     "TemplateName": "Duke Zepor"
   },
@@ -84944,10 +85232,10 @@
     "TemplateName": "grimnar"
   },
   {
-    "Chance": 70,
-    "Count": 0,
+    "Chance": 100,
+    "Count": 5,
     "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-26 22:19:28",
     "LootTemplate_ID": "99958245",
     "TemplateName": "Inquisitor Famuel"
   },
@@ -86994,14 +87282,6 @@
   {
     "Chance": 2,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Beliathans_Perforator",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99958501",
-    "TemplateName": "Beliathan"
-  },
-  {
-    "Chance": 2,
-    "Count": 0,
     "ItemTemplateID": "Wormskin_Wrap",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99958502",
@@ -88136,6 +88416,14 @@
     "TemplateName": "rocot"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:47:08",
+    "LootTemplate_ID": "99a115ce-38ee-4cb8-9388-ff6b86f7263e",
+    "TemplateName": "Chthonic Knight Olov"
+  },
+  {
     "Chance": 15,
     "Count": 1,
     "ItemTemplateID": "bard_belt",
@@ -88824,6 +89112,14 @@
     "TemplateName": "wolfaur pragmatic"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:49:12",
+    "LootTemplate_ID": "9c01f4c2-bcae-4596-83fb-76ecb84a5d1e",
+    "TemplateName": "Chthonic Knight Zhox"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ring_of_Depravity",
@@ -89032,6 +89328,14 @@
     "TemplateName": "spraggon runner"
   },
   {
+    "Chance": 90,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:45:49",
+    "LootTemplate_ID": "9d0a4476-5278-49fc-abcc-d498f4d50e15",
+    "TemplateName": "Soultorn Norse Flammen Herra"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_VV_Leggings",
@@ -89166,6 +89470,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9d946b57-1a7f-4167-8828-598e678a8fc5",
     "TemplateName": "bloodthirsty she-wolf"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:51:36",
+    "LootTemplate_ID": "9da51fda-f81d-4f7c-8c76-5613101cfeb2",
+    "TemplateName": "Duke Felzhul"
   },
   {
     "Chance": 20,
@@ -89630,6 +89942,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9f69cce1-5c5d-4975-b201-dc4bfd699860",
     "TemplateName": "megalith wight"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:17:49",
+    "LootTemplate_ID": "9f7bae22-abbe-4405-a178-8346784a1af9",
+    "TemplateName": "Inquisitor Eciraum"
   },
   {
     "Chance": 100,
@@ -91838,14 +92158,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a8efce0e-98bb-4cfe-abcb-1c0ca5904fc3",
     "TemplateName": "trapped thrall"
-  },
-  {
-    "Chance": 100,
-    "Count": 0,
-    "ItemTemplateID": "EmeraldSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "a8f0512f-f570-4682-acd9-a029a0c09b80",
-    "TemplateName": "cursed necyomancer"
   },
   {
     "Chance": 20,
@@ -94968,6 +95280,14 @@
     "TemplateName": "danin"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:25:56",
+    "LootTemplate_ID": "b2bc35c4-c381-40e5-8a1c-a709725b6a45",
+    "TemplateName": "Inquisitor Kireasil"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_GD_Shield",
@@ -96648,6 +96968,14 @@
     "TemplateName": "tomte trainer"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:50:07",
+    "LootTemplate_ID": "b9bef561-f4ec-46cb-a99b-b6e2260e1b09",
+    "TemplateName": "Duke Alloc"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fire-forged_Leggings",
@@ -97270,6 +97598,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BBW_WQP",
     "TemplateName": "Faerie Bell-Wether"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BB_IBTB",
+    "TemplateName": "Bullyboy"
   },
   {
     "Chance": 20,
@@ -100968,6 +101304,14 @@
     "TemplateName": "pooka"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:45:59",
+    "LootTemplate_ID": "cad9a38b-943f-44a7-b7ad-8bb131875d2d",
+    "TemplateName": "Chthonic Knight Haag"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_ibb_belt",
@@ -101230,6 +101574,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cbfee13a-c4a7-4296-ab83-a5d11317a28f",
     "TemplateName": "barrow wight"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:45:07",
+    "LootTemplate_ID": "cc0a7d4e-a719-45c8-9558-1712b1dcbb99",
+    "TemplateName": "Chthonic Knight Fonath"
   },
   {
     "Chance": 20,
@@ -102320,6 +102672,14 @@
     "TemplateName": "ossuary guardian"
   },
   {
+    "Chance": 100,
+    "Count": 10,
+    "ItemTemplateID": "Fiery Diamond Seal",
+    "LastTimeRowUpdated": "2018-01-26 22:10:38",
+    "LootTemplate_ID": "d029f061-1a82-45c9-993e-5f94dcb1d7c7",
+    "TemplateName": "Chamberlain"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Leggings_of_the_Deft",
@@ -102382,6 +102742,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d05e719a-c957-4bb8-ada1-77785643a2e2",
     "TemplateName": "fury sprite"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:36:15",
+    "LootTemplate_ID": "d05e8bd6-63c3-4a05-a0d3-7b79232665aa",
+    "TemplateName": "Marquis Chaosmar"
   },
   {
     "Chance": 20,
@@ -103462,6 +103830,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d47bf947-a013-4024-bfab-48c3249addee",
     "TemplateName": "keltoi banisher"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:48:49",
+    "LootTemplate_ID": "d4832b4c-09e6-452d-bea8-5bf523da444d",
+    "TemplateName": "Chthonic Knight Zagal"
   },
   {
     "Chance": 35,
@@ -104904,6 +105280,14 @@
     "TemplateName": "dreadful cadaver"
   },
   {
+    "Chance": 90,
+    "Count": 5,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:36:51",
+    "LootTemplate_ID": "d9cad34e-673d-4c6d-bc25-1c7b280f30bb",
+    "TemplateName": "Apprentice Necyomancer"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Mariner_Gauntlets",
@@ -105616,6 +106000,14 @@
     "TemplateName": "kez"
   },
   {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:51:53",
+    "LootTemplate_ID": "db91bae1-c42c-4584-bcd5-3c2dd8ec79f5",
+    "TemplateName": "Duke Harboris"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bone-handled_Claw",
@@ -106134,6 +106526,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dde33a8f-06f4-40fd-89e2-607c3a12e587",
     "TemplateName": "werewolf elite guard"
+  },
+  {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:50:55",
+    "LootTemplate_ID": "dded816a-b5e2-4bb1-9b84-8a0b590e6c41",
+    "TemplateName": "Duke Aypol"
   },
   {
     "Chance": 20,
@@ -106950,6 +107350,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e1039dcc-b15c-49e4-b60c-0fefb2cb505d",
     "TemplateName": "tomte cutthroat"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:36:55",
+    "LootTemplate_ID": "e1175c80-1830-4835-b0a3-40891005182d",
+    "TemplateName": "Marquis Halphas"
   },
   {
     "Chance": 20,
@@ -107896,6 +108304,14 @@
     "TemplateName": "cyclops scout"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:45:20",
+    "LootTemplate_ID": "e4cb669f-9422-48d8-8b7a-d7d29db9ee7e",
+    "TemplateName": "Chthonic Knight Gaapoler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Observer's_Jerkin",
@@ -108382,6 +108798,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e67232a8-e05e-4253-91c6-bec66ecdb0d9",
     "TemplateName": "changeling"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:47:59",
+    "LootTemplate_ID": "e67e10b1-8b8a-43ba-8ffe-a0115606bb84",
+    "TemplateName": "Chthonic Knight Ukobat"
   },
   {
     "Chance": 40,
@@ -110224,6 +110648,14 @@
     "TemplateName": "cave ogre"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:19:57",
+    "LootTemplate_ID": "ee0b5d5f-ff30-4a1b-96b7-7936b40d10cc",
+    "TemplateName": "Inquisitor Haap"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "SpiritWroughtBoots",
@@ -110510,6 +110942,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ef362e65-cc2b-48c2-9186-65f5c353335f",
     "TemplateName": "siabra venator"
+  },
+  {
+    "Chance": 90,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-26 21:44:07",
+    "LootTemplate_ID": "ef3e0ac5-512d-46f6-bc4f-1edc20bb0fd7",
+    "TemplateName": "Cursed Necyomancer"
   },
   {
     "Chance": 20,
@@ -111432,6 +111872,14 @@
     "TemplateName": "granite giant stonelord"
   },
   {
+    "Chance": 80,
+    "Count": 1,
+    "ItemTemplateID": "Perfected Armor Pattern",
+    "LastTimeRowUpdated": "2018-01-26 22:52:31",
+    "LootTemplate_ID": "f24fca7b-e6d2-46b6-a598-07d6838330b0",
+    "TemplateName": "Duke Satori"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "StaffOfWinds",
@@ -111534,6 +111982,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f2bbeab9-c929-4028-abb9-cd55de3f0ee1",
     "TemplateName": "cave trow trollkarl"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:46:40",
+    "LootTemplate_ID": "f2c8efff-8f71-4f49-9c43-cf9af327ff62",
+    "TemplateName": "Chthonic Knight Marbos"
   },
   {
     "Chance": 20,
@@ -112510,6 +112966,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f646357b-d6ea-4608-a7c8-3829b18ba858",
     "TemplateName": "undead drudger"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:22:21",
+    "LootTemplate_ID": "f64e2ded-4b99-48b6-97a4-10d1ece27dad",
+    "TemplateName": "Inquisitor Haimir"
   },
   {
     "Chance": 20,
@@ -114144,6 +114608,14 @@
     "TemplateName": "Bandit Highwaymen"
   },
   {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:52:25",
+    "LootTemplate_ID": "fc7eed77-8f6a-46e0-9f57-f48109ea702e",
+    "TemplateName": "Duke Satori"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dried_Woven_Root_Cap",
@@ -114446,6 +114918,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fda8ad9a-4c23-4a1b-b228-e6f4797ec08b",
     "TemplateName": "silver-maddened werewolf"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:48:35",
+    "LootTemplate_ID": "fdae48c7-df2b-4160-a70c-238ef1b6f610",
+    "TemplateName": "Chthonic Knight Zafan"
   },
   {
     "Chance": 15,
@@ -114798,6 +115278,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fec568a2-c86a-4a06-afa7-6e1a5993f24f",
     "TemplateName": "hagbui forge tender"
+  },
+  {
+    "Chance": 100,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-26 22:48:23",
+    "LootTemplate_ID": "feda6ba9-d002-439e-a1fc-2f26bf3b8439",
+    "TemplateName": "Chthonic Knight Zaeber"
   },
   {
     "Chance": 20,
@@ -115752,6 +116240,14 @@
     "TemplateName": "wildling"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "H_TBTG",
+    "TemplateName": "Highwayman"
+  },
+  {
     "Chance": 5,
     "Count": 1,
     "ItemTemplateID": "3_Burnished_Shanshee_Boots",
@@ -116600,6 +117096,14 @@
     "TemplateName": "cursed spirit"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedIron-strappedShield",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MC_PISS",
+    "TemplateName": "gundron mccory"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Melted_Ghoul_Flesh",
@@ -117294,6 +117798,158 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "rage_wolf_tooth",
     "TemplateName": "rage wolf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BeltOfContinualMisery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_BoCM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BroachOfSoulManifestation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_BoSM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "ElvenRing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_ER",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "BrightForestRunnersBoots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_FRB",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "GemofSweetMourning",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_GoSM",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Gem_Studded_Dagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_GSD",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "NetherworldBracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_NB",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "RingOfDeathlyFavor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_RoDF",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Ring_of_Longevity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_RoL",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SpiritWroughtCloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_SWC",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "UnholyBraceroftheReverent",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDH_UBofR",
+    "TemplateName": "Red Dwarf Highwayman"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "BandOfSoughtPainwork",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_BoSP",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "GemofSweetMourning",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_GoSM",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "Bright_Preserved_Studded_Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_PSV",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "RingOfDeathlyFavor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDR_RoDF",
+    "TemplateName": "Red Dwarf Raider"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeBroadsword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeHandAxe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBHA",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeScimitar",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeShortSword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBSS",
+    "TemplateName": "Red Dwarf"
   },
   {
     "Chance": 20,
