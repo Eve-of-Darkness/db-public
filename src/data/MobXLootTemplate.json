@@ -18131,6 +18131,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-27 16:02:31",
+    "LootTemplateName": "young infernalist",
+    "MobName": "young infernalist",
+    "MobXLootTemplate_ID": "8248623b-e653-41c4-9355-fd8b77ff4462"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Skulking Ghoul",
     "MobName": "Skulking Ghoul",
