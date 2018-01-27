@@ -29120,6 +29120,14 @@
     "TemplateName": "keltoi visionary"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:02:36",
+    "LootTemplate_ID": "83fc967d-90a4-4a27-a9dc-789fde17ca43",
+    "TemplateName": "young infernalist"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Plate_of_Eternal_Midnight",
