@@ -2824,6 +2824,14 @@
     "TemplateName": "unseelie underviewer"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:09:38",
+    "LootTemplate_ID": "0c4fee8b-de22-4841-9d7f-39853abe8f5d",
+    "TemplateName": "Mutilator Marbozer"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Tribunus_Staff_of_the_Damned6",
@@ -3454,6 +3462,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0ff0e023-cd69-4261-979c-c69dd109fdb4",
     "TemplateName": "tylwyth teg rover"
+  },
+  {
+    "Chance": 70,
+    "Count": 2,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:29",
+    "LootTemplate_ID": "0ff378ad-bf50-4b30-a322-4cc9608e6350",
+    "TemplateName": "Mutilator Xagalith"
   },
   {
     "Chance": 20,
@@ -5680,6 +5696,14 @@
     "TemplateName": "ghostly hibernian invader"
   },
   {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:10",
+    "LootTemplate_ID": "198f9f27-c14e-4de9-81d0-606cc97fce99",
+    "TemplateName": "soultorn albion dragon knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shrouded_Hagbiu_Pall",
@@ -6046,6 +6070,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1b75f426-d774-4741-86fd-134a4dc05250",
     "TemplateName": "blodfelag haxa"
+  },
+  {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:44",
+    "LootTemplate_ID": "1b796d5b-a607-44fb-956e-f9d221169bf7",
+    "TemplateName": "Mutilator Taboku"
   },
   {
     "Chance": 20,
@@ -6574,6 +6606,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1e21299a-9b7f-49d4-a9a0-9aa56c28320b",
     "TemplateName": "parthanan"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:09",
+    "LootTemplate_ID": "1e23fbd7-49ad-408d-b209-8e1e2cbc3e7d",
+    "TemplateName": "Mutilator Xaabaro"
   },
   {
     "Chance": 20,
@@ -8478,6 +8518,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "26a037a1-06b2-4c77-8b2a-cc1a4f17ba28",
     "TemplateName": "arild"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:08:43",
+    "LootTemplate_ID": "26b8fd9d-ab68-4cfc-a40a-048b2cd19509",
+    "TemplateName": "Mutilator Axalnam"
   },
   {
     "Chance": 20,
@@ -10974,6 +11022,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3246f9eb-ff1c-466b-95d4-01e9f437388f",
     "TemplateName": "spraggonote"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:09:53",
+    "LootTemplate_ID": "3253aabf-31be-42a5-9c54-a9eb1fd55f5e",
+    "TemplateName": "Mutilator Novinrac"
   },
   {
     "Chance": 20,
@@ -14664,6 +14720,14 @@
     "TemplateName": "dryad blossom"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:31",
+    "LootTemplate_ID": "43e725b2-2b1e-4f66-a862-478ff1541b4f",
+    "TemplateName": "Mutilator Samiol"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Vehement_Gizzard",
@@ -14870,6 +14934,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "44f881c5-404e-4bcf-a3c5-f58f061b9fa1",
     "TemplateName": "nordic yeti"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:13",
+    "LootTemplate_ID": "44fa168a-2e9e-4015-a9e6-be64f5a47c95",
+    "TemplateName": "Mutilator Oronor"
   },
   {
     "Chance": 40,
@@ -15838,6 +15910,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "497a49cd-502c-414e-977b-ae0a16c44e3e",
     "TemplateName": "danderpaw"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 18:47:58",
+    "LootTemplate_ID": "497f99cf-14b3-48c1-8087-f464f21def32",
+    "TemplateName": "succubus"
   },
   {
     "Chance": 15,
@@ -16864,6 +16944,14 @@
     "TemplateName": "gulak"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:55",
+    "LootTemplate_ID": "4daefdaa-d686-4431-a5ca-e0787fcd343d",
+    "TemplateName": "Mutilator Yooginroth"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Jet_Bloodletter's_Sleeves",
@@ -17638,6 +17726,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "51b0601b-fd15-4f60-85f8-ba422c9099f6",
     "TemplateName": "goblin snatcher"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:07",
+    "LootTemplate_ID": "51d8f1ff-837e-46bc-8dde-e54ab0869704",
+    "TemplateName": "Mutilator Oprionach"
   },
   {
     "Chance": 20,
@@ -22272,6 +22368,14 @@
     "TemplateName": "parthanan"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:20",
+    "LootTemplate_ID": "66634229-8108-4530-b520-bc2427c11d84",
+    "TemplateName": "Mutilator Phaxazis"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Earth_Crafted_Molded_Helm",
@@ -22326,6 +22430,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6697abe9-b007-4e44-9483-f5e9ee64ecf5",
     "TemplateName": "barrow wight"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:40",
+    "LootTemplate_ID": "66a55fb6-2011-485b-9650-b4ab911d468c",
+    "TemplateName": "soultorn norse elding herra"
   },
   {
     "Chance": 20,
@@ -22782,6 +22894,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "688d2407-a32e-4ec0-abda-5c19197f1250",
     "TemplateName": "glimmer spass"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:12:03",
+    "LootTemplate_ID": "688e21fa-c2da-4157-afe8-feb6c97c65b7",
+    "TemplateName": "Mutilator Zurabo"
   },
   {
     "Chance": 20,
@@ -26768,6 +26888,14 @@
     "TemplateName": "undead drudger"
   },
   {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:28",
+    "LootTemplate_ID": "78d9b7f9-ff69-4972-be36-28932407b808",
+    "TemplateName": "Earl Amagin"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_BWAR_Staff",
@@ -27742,6 +27870,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7d345656-54ed-4085-a680-4e31443aae5d",
     "TemplateName": "gremlin"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:09",
+    "LootTemplate_ID": "7d44de2d-fc0e-44eb-a5b2-177ff1b0b2ed",
+    "TemplateName": "soultorn albion dragon knight"
   },
   {
     "Chance": 15,
@@ -29118,6 +29254,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "83d28ad6-ef54-409a-8d43-f0103309795f",
     "TemplateName": "keltoi visionary"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "EmeraldSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:02:36",
+    "LootTemplate_ID": "83fc967d-90a4-4a27-a9dc-789fde17ca43",
+    "TemplateName": "young infernalist"
   },
   {
     "Chance": 20,
@@ -33680,6 +33824,14 @@
     "TemplateName": "wildling"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:42",
+    "LootTemplate_ID": "97d6403f-de3e-4792-96f9-22ea7aefb64b",
+    "TemplateName": "Mutilator Taboku"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Learned_Magi_Pendant",
@@ -37822,14 +37974,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99952004",
     "TemplateName": "archwizard"
-  },
-  {
-    "Chance": 70,
-    "Count": 0,
-    "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99952005",
-    "TemplateName": "Earl Ipostian"
   },
   {
     "Chance": 15,
@@ -95616,6 +95760,14 @@
     "TemplateName": "goblin"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:10:01",
+    "LootTemplate_ID": "b379d823-17fd-4a6e-99fc-b35b5739f842",
+    "TemplateName": "Mutilator Okabi"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Gaudy_Silver-Lined_Bracer_LT",
@@ -96488,6 +96640,14 @@
     "TemplateName": "cliff dweller hunter"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:36",
+    "LootTemplate_ID": "b77e7086-7a56-4987-b6ee-14c58d96807b",
+    "TemplateName": "Mutilator Xakanos"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "MichaelianStaff",
@@ -96686,6 +96846,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b86ba043-d966-4a02-9441-f6dc5e26558f",
     "TemplateName": "goblin imperator"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:26",
+    "LootTemplate_ID": "b86f3a6f-6a98-4665-bdad-8ef706cbe6c6",
+    "TemplateName": "Earl Amagin"
   },
   {
     "Chance": 20,
@@ -99320,6 +99488,14 @@
     "TemplateName": "spraggonoll"
   },
   {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:12",
+    "LootTemplate_ID": "c15a3f53-bc10-4468-8e28-a30277e271f9",
+    "TemplateName": "Mutilator Xaabaro"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_LCD_Boots",
@@ -100606,6 +100782,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c7c58367-0aa0-4a87-a045-ab4c25470d4b",
     "TemplateName": "mummy hag"
+  },
+  {
+    "Chance": 70,
+    "Count": 2,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:08:46",
+    "LootTemplate_ID": "c7c58e2f-5aad-4a6f-8843-02c14601384e",
+    "TemplateName": "Mutilator Axalnam"
+  },
+  {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:25",
+    "LootTemplate_ID": "c7d2731f-dd29-4659-aea2-d8f6a6f66526",
+    "TemplateName": "Earl Amagin"
   },
   {
     "Chance": 20,
@@ -104936,6 +105128,14 @@
     "TemplateName": "siabra mireguard"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 14:20:23",
+    "LootTemplate_ID": "d86a9e30-3ae5-481a-99a3-1a808b0aaa3a",
+    "TemplateName": "Earl Ipostian"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_LRoyL_Staff",
@@ -105094,6 +105294,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d9115911-ffeb-461c-b4f4-1ce9d78e9922",
     "TemplateName": "azure coseal"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:09:46",
+    "LootTemplate_ID": "d9159bc2-393f-4c45-8785-da06c835f698",
+    "TemplateName": "Mutilator Nianax"
   },
   {
     "Chance": 20,
@@ -105608,6 +105816,14 @@
     "TemplateName": "silngorf"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:25:26",
+    "LootTemplate_ID": "dad6729c-cc26-46f0-9bc5-1fa5623061cf",
+    "TemplateName": "soultorn albion alerion knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Brilliant_Jet_Bloodletters_Gloves",
@@ -105848,6 +106064,14 @@
     "TemplateName": "weewere"
   },
   {
+    "Chance": 70,
+    "Count": 2,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:25:28",
+    "LootTemplate_ID": "db10a828-844d-4ff8-ac66-cd9ac3d6ad1d",
+    "TemplateName": "soultorn albion alerion knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Siabrian_Bandit_Helm",
@@ -105902,6 +106126,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "db232b4f-a68b-4ec6-b5bd-f2ac5e65cffb",
     "TemplateName": "siabra lookout"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:45",
+    "LootTemplate_ID": "db233811-eb0c-4213-a1a2-63e7e503fe13",
+    "TemplateName": "Mutilator Xazbalor"
   },
   {
     "Chance": 40,
@@ -108656,6 +108888,14 @@
     "TemplateName": "river spriteling"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:11:24",
+    "LootTemplate_ID": "e5fbeb1f-343b-4c9d-bb97-3f303827a930",
+    "TemplateName": "Mutilator Xagalith"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_FIE_Jewel",
@@ -108774,6 +109014,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e669b3f2-9b3d-4d4c-bbe8-e9222d014ba6",
     "TemplateName": "pit spraggon"
+  },
+  {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:12:05",
+    "LootTemplate_ID": "e66bc58a-fb2a-400c-ad6e-b5c27e0fbf02",
+    "TemplateName": "Mutilator Zurabo"
   },
   {
     "Chance": 20,
@@ -110286,6 +110534,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ec759672-ab2c-446b-8565-d89ecd863713",
     "TemplateName": "ashmonger"
+  },
+  {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:43",
+    "LootTemplate_ID": "ec7c1fb7-8b2e-432d-8ac7-638f8b4d68af",
+    "TemplateName": "soultorn norse elding herra"
   },
   {
     "Chance": 15,
@@ -113184,6 +113440,14 @@
     "TemplateName": "glimmer meldun"
   },
   {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:08",
+    "LootTemplate_ID": "f74823ff-45d6-4015-9f91-f5b975e1e04e",
+    "TemplateName": "soultorn albion dragon knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Mighty_Chainmail_Hauberk",
@@ -113358,6 +113622,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f7fa0e3b-4850-4184-9782-85c0de876a6b",
     "TemplateName": "ravenclan giant"
+  },
+  {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:44",
+    "LootTemplate_ID": "f801ebfa-14bc-4d3b-818d-5660c65b24cf",
+    "TemplateName": "soultorn norse elding herra"
   },
   {
     "Chance": 40,

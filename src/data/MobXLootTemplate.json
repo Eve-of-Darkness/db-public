@@ -3577,6 +3577,13 @@
     "MobXLootTemplate_ID": "14481e18-73dd-4298-9f8f-86e5d6f5bd74"
   },
   {
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 16:24:18",
+    "LootTemplateName": "Earl Amagin",
+    "MobName": "Earl Amagin",
+    "MobXLootTemplate_ID": "144f5ac5-fb9d-4955-90e3-1abd1ba519e9"
+  },
+  {
     "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Bwgan Hunter",
@@ -6328,8 +6335,8 @@
     "MobXLootTemplate_ID": "2903"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:49:21",
     "LootTemplateName": "High Lord Oro",
     "MobName": "High Lord Oro",
     "MobXLootTemplate_ID": "2904"
@@ -6370,14 +6377,14 @@
     "MobXLootTemplate_ID": "2910aac9-05a8-4cd4-9e41-9a3b0f16c841"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Nianax",
     "MobName": "Mutilator Nianax",
     "MobXLootTemplate_ID": "2911"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Laicanroth",
     "MobName": "Mutilator Laicanroth",
@@ -7000,7 +7007,7 @@
     "MobXLootTemplate_ID": "3051"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Uxybab",
     "MobName": "Mutilator Uxybab",
@@ -7119,15 +7126,15 @@
     "MobXLootTemplate_ID": "3071"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:48:55",
     "LootTemplateName": "High Lord Baln",
     "MobName": "High Lord Baln",
     "MobXLootTemplate_ID": "3072"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:51:10",
     "LootTemplateName": "High Lord Saeor",
     "MobName": "High Lord Saeor",
     "MobXLootTemplate_ID": "3073"
@@ -7301,120 +7308,120 @@
     "MobXLootTemplate_ID": "30c58658-0eb7-44bd-8b7e-2edddae4b251"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Axalnam",
     "MobName": "Mutilator Axalnam",
     "MobXLootTemplate_ID": "3101"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Konapher",
     "MobName": "Mutilator Konapher",
     "MobXLootTemplate_ID": "3103"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Lazorous",
     "MobName": "Mutilator Lazorous",
     "MobXLootTemplate_ID": "3104"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Marbozer",
     "MobName": "Mutilator Marbozer",
     "MobXLootTemplate_ID": "3105"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Namox",
     "MobName": "Mutilator Namox",
     "MobXLootTemplate_ID": "3106"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Okabi",
     "MobName": "Mutilator Okabi",
     "MobXLootTemplate_ID": "3107"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Novinrac",
     "MobName": "Mutilator Novinrac",
     "MobXLootTemplate_ID": "3108"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Oprionach",
     "MobName": "Mutilator Oprionach",
     "MobXLootTemplate_ID": "3109"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Phaxazis",
     "MobName": "Mutilator Phaxazis",
     "MobXLootTemplate_ID": "3110"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Samiol",
     "MobName": "Mutilator Samiol",
     "MobXLootTemplate_ID": "3111"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Vorazax",
     "MobName": "Mutilator Vorazax",
     "MobXLootTemplate_ID": "3112"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Vozoaz",
     "MobName": "Mutilator Vozoaz",
     "MobXLootTemplate_ID": "3113"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Xaabaro",
     "MobName": "Mutilator Xaabaro",
     "MobXLootTemplate_ID": "3114"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Xagalith",
     "MobName": "Mutilator Xagalith",
     "MobXLootTemplate_ID": "3115"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Xakanos",
     "MobName": "Mutilator Xakanos",
     "MobXLootTemplate_ID": "3116"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Xazbalor",
     "MobName": "Mutilator Xazbalor",
     "MobXLootTemplate_ID": "3117"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 16:12:09",
     "LootTemplateName": "Mutilator Zurabo",
     "MobName": "Mutilator Zurabo",
     "MobXLootTemplate_ID": "3118"
@@ -7553,10 +7560,10 @@
     "MobXLootTemplate_ID": "3138"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Succubus",
-    "MobName": "Succubus",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 18:49:18",
+    "LootTemplateName": "succubus",
+    "MobName": "succubus",
     "MobXLootTemplate_ID": "3139"
   },
   {
@@ -9177,21 +9184,21 @@
     "MobXLootTemplate_ID": "3569"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Oronor",
     "MobName": "Mutilator Oronor",
     "MobXLootTemplate_ID": "3570"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Taboku",
     "MobName": "Mutilator Taboku",
     "MobXLootTemplate_ID": "3571"
   },
   {
-    "DropCount": 1,
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Mutilator Yooginroth",
     "MobName": "Mutilator Yooginroth",
@@ -18131,6 +18138,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-27 16:02:31",
+    "LootTemplateName": "young infernalist",
+    "MobName": "young infernalist",
+    "MobXLootTemplate_ID": "8248623b-e653-41c4-9355-fd8b77ff4462"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Skulking Ghoul",
     "MobName": "Skulking Ghoul",
@@ -19580,6 +19594,13 @@
   },
   {
     "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 17:04:27",
+    "LootTemplateName": "soultorn norse elding herra",
+    "MobName": "soultorn norse elding herra",
+    "MobXLootTemplate_ID": "ac8ab783-3df3-4f05-b0ca-ffd80be02fec"
+  },
+  {
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "greater water elemental",
     "MobName": "greater water elemental",
@@ -19979,6 +20000,13 @@
   },
   {
     "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 16:25:44",
+    "LootTemplateName": "soultorn albion dragon knight",
+    "MobName": "soultorn albion dragon knight",
+    "MobXLootTemplate_ID": "ce5fdb0b-8364-4cad-a7ba-f944e4990956"
+  },
+  {
+    "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Celt Rebel",
     "MobName": "Celt Rebel",
@@ -20186,6 +20214,13 @@
     "LootTemplateName": "wild crouch elder",
     "MobName": "wild crouch elder",
     "MobXLootTemplate_ID": "e78c4fac-76b9-49b5-a043-c9d8e6924093"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-27 16:25:11",
+    "LootTemplateName": "soultorn albion alerion knight",
+    "MobName": "soultorn albion alerion knight",
+    "MobXLootTemplate_ID": "e7e57644-389f-49fc-9e84-75c0dc66056e"
   },
   {
     "DropCount": 2,
