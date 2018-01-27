@@ -37824,14 +37824,6 @@
     "TemplateName": "archwizard"
   },
   {
-    "Chance": 70,
-    "Count": 0,
-    "ItemTemplateID": "DiamondSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99952005",
-    "TemplateName": "Earl Ipostian"
-  },
-  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Rencan_Hide_Boots",
@@ -104934,6 +104926,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d85f5a5d-9783-4734-93d7-cec8f2b14247",
     "TemplateName": "siabra mireguard"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 14:20:23",
+    "LootTemplate_ID": "d86a9e30-3ae5-481a-99a3-1a808b0aaa3a",
+    "TemplateName": "Earl Ipostian"
   },
   {
     "Chance": 20,

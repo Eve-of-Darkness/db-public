@@ -1120,13 +1120,6 @@
     "RegionID": null
   },
   {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "PathID": "DFDirectorKobil",
-    "PathType": 1,
-    "Path_ID": "7598fb06-bcbc-48b7-a579-f015ec0a6ccf",
-    "RegionID": null
-  },
-  {
     "LastTimeRowUpdated": "2015-02-06 19:23:18",
     "PathID": "wp_cotswold_charles",
     "PathType": 3,
