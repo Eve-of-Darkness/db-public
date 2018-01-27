@@ -15912,6 +15912,14 @@
     "TemplateName": "danderpaw"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 18:47:58",
+    "LootTemplate_ID": "497f99cf-14b3-48c1-8087-f464f21def32",
+    "TemplateName": "succubus"
+  },
+  {
     "Chance": 15,
     "Count": 1,
     "ItemTemplateID": "Nightshade_Belt",

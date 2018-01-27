@@ -7560,10 +7560,10 @@
     "MobXLootTemplate_ID": "3138"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Succubus",
-    "MobName": "Succubus",
+    "DropCount": 2,
+    "LastTimeRowUpdated": "2018-01-27 18:49:18",
+    "LootTemplateName": "succubus",
+    "MobName": "succubus",
     "MobXLootTemplate_ID": "3139"
   },
   {
