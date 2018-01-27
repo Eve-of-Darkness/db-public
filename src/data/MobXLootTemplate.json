@@ -6328,8 +6328,8 @@
     "MobXLootTemplate_ID": "2903"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:49:21",
     "LootTemplateName": "High Lord Oro",
     "MobName": "High Lord Oro",
     "MobXLootTemplate_ID": "2904"
@@ -7119,15 +7119,15 @@
     "MobXLootTemplate_ID": "3071"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:48:55",
     "LootTemplateName": "High Lord Baln",
     "MobName": "High Lord Baln",
     "MobXLootTemplate_ID": "3072"
   },
   {
-    "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "DropCount": 3,
+    "LastTimeRowUpdated": "2018-01-27 13:51:10",
     "LootTemplateName": "High Lord Saeor",
     "MobName": "High Lord Saeor",
     "MobXLootTemplate_ID": "3073"
