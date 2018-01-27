@@ -5696,6 +5696,14 @@
     "TemplateName": "ghostly hibernian invader"
   },
   {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:10",
+    "LootTemplate_ID": "198f9f27-c14e-4de9-81d0-606cc97fce99",
+    "TemplateName": "soultorn albion dragon knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shrouded_Hagbiu_Pall",
@@ -22416,6 +22424,14 @@
     "TemplateName": "barrow wight"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:40",
+    "LootTemplate_ID": "66a55fb6-2011-485b-9650-b4ab911d468c",
+    "TemplateName": "soultorn norse elding herra"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "clergymansmace",
@@ -26864,6 +26880,14 @@
     "TemplateName": "undead drudger"
   },
   {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:28",
+    "LootTemplate_ID": "78d9b7f9-ff69-4972-be36-28932407b808",
+    "TemplateName": "Earl Amagin"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_BWAR_Staff",
@@ -27838,6 +27862,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7d345656-54ed-4085-a680-4e31443aae5d",
     "TemplateName": "gremlin"
+  },
+  {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:09",
+    "LootTemplate_ID": "7d44de2d-fc0e-44eb-a5b2-177ff1b0b2ed",
+    "TemplateName": "soultorn albion dragon knight"
   },
   {
     "Chance": 15,
@@ -96808,6 +96840,14 @@
     "TemplateName": "goblin imperator"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:26",
+    "LootTemplate_ID": "b86f3a6f-6a98-4665-bdad-8ef706cbe6c6",
+    "TemplateName": "Earl Amagin"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Vest_of_Walking_Dreams",
@@ -100742,6 +100782,14 @@
     "LastTimeRowUpdated": "2018-01-27 16:08:46",
     "LootTemplate_ID": "c7c58e2f-5aad-4a6f-8843-02c14601384e",
     "TemplateName": "Mutilator Axalnam"
+  },
+  {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "DiamondSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:24:25",
+    "LootTemplate_ID": "c7d2731f-dd29-4659-aea2-d8f6a6f66526",
+    "TemplateName": "Earl Amagin"
   },
   {
     "Chance": 20,
@@ -105760,6 +105808,14 @@
     "TemplateName": "silngorf"
   },
   {
+    "Chance": 70,
+    "Count": 5,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:25:26",
+    "LootTemplate_ID": "dad6729c-cc26-46f0-9bc5-1fa5623061cf",
+    "TemplateName": "soultorn albion alerion knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Brilliant_Jet_Bloodletters_Gloves",
@@ -105998,6 +106054,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "db0438b1-d88b-4327-811a-d0180a8a69ab",
     "TemplateName": "weewere"
+  },
+  {
+    "Chance": 70,
+    "Count": 2,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:25:28",
+    "LootTemplate_ID": "db10a828-844d-4ff8-ac66-cd9ac3d6ad1d",
+    "TemplateName": "soultorn albion alerion knight"
   },
   {
     "Chance": 20,
@@ -110464,6 +110528,14 @@
     "TemplateName": "ashmonger"
   },
   {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:43",
+    "LootTemplate_ID": "ec7c1fb7-8b2e-432d-8ac7-638f8b4d68af",
+    "TemplateName": "soultorn norse elding herra"
+  },
+  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Shadow_Crystal_Slicer",
@@ -113360,6 +113432,14 @@
     "TemplateName": "glimmer meldun"
   },
   {
+    "Chance": 70,
+    "Count": 10,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 16:26:08",
+    "LootTemplate_ID": "f74823ff-45d6-4015-9f91-f5b975e1e04e",
+    "TemplateName": "soultorn albion dragon knight"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Mighty_Chainmail_Hauberk",
@@ -113534,6 +113614,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f7fa0e3b-4850-4184-9782-85c0de876a6b",
     "TemplateName": "ravenclan giant"
+  },
+  {
+    "Chance": 70,
+    "Count": 1,
+    "ItemTemplateID": "SapphireSeal",
+    "LastTimeRowUpdated": "2018-01-27 17:04:44",
+    "LootTemplate_ID": "f801ebfa-14bc-4d3b-818d-5660c65b24cf",
+    "TemplateName": "soultorn norse elding herra"
   },
   {
     "Chance": 40,
