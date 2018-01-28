@@ -94728,6 +94728,14 @@
     "TemplateName": "Arlill Weller"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned_Worn_Cap_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "A_TWC",
+    "TemplateName": "Agisthil"
+  },
+  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Light_Blue_Enamel",
@@ -95302,14 +95310,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b2463bh64y-b4626",
     "TemplateName": "filidh"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "SilveredSharpSnakeFang",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b2463v6236",
-    "TemplateName": "emerald snake"
   },
   {
     "Chance": 20,
@@ -107248,6 +107248,30 @@
     "TemplateName": "deeplurk feeder"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Gem_Studded_Dagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_GSD",
+    "TemplateName": "devout filidh"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Melodic_Lute",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_MF",
+    "TemplateName": "devout filidh"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PilferedJerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_PJ",
+    "TemplateName": "devout filidh"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Enriched_Quicksilver",
@@ -108414,14 +108438,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e461304f-cb78-4132-860a-568212a7751d",
     "TemplateName": "glimmer zeit"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "ch_tattered_brocade_cloth_tunic",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e467fd6c-173d-4a93-b1a0-88c4ab57b011",
-    "TemplateName": "filidh"
   },
   {
     "Chance": 20,
@@ -111446,6 +111462,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "EllyllGuard",
     "TemplateName": "ellyll guard"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedSharpSnakeFang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "EM_PSSF",
+    "TemplateName": "emerald snake"
   },
   {
     "Chance": 20,
@@ -115904,6 +115928,54 @@
     "TemplateName": "arachite krigare"
   },
   {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "BeltOfContinualMisery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_BoCM",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "BroachOfSoulManifestation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_BoSM",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "BrightForestRunnersBoots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_FRB",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "NetherworldBracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_NB",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "Bright_Preserved_Studded_Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_PSV",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "Ring_of_Longevity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "FS_RoL",
+    "TemplateName": "filidh sacrificer"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "CloakOfTheOldDefender",
@@ -116010,10 +116082,130 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_IBTB",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornCapAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_IBTC",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornGlovesAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_IBTG",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornPantsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_IBTP",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornVestAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_IBTV",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_LBTG",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeBastardSword ",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_PBBS",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeDagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_PBD",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeScimitar",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_PBS",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PilferedLeatherLeggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_PLL",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "Shadow-slicer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "GF_SS",
     "TemplateName": "Giant Frog"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_TBTC",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_TBTG",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_TBTP",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_TBTS",
+    "TemplateName": "goblin fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GF_TBTV",
+    "TemplateName": "goblin fisherman"
   },
   {
     "Chance": 20,
@@ -116478,6 +116670,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "gslbsg-mummyhag",
     "TemplateName": "mummy hag"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
+    "ItemTemplateID": "Giril's_Pain_Working_Staff",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GS_GPWS",
+    "TemplateName": "Goblin Shaman"
   },
   {
     "Chance": 20,
@@ -117370,6 +117570,14 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "PittedSharpClaw",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MB_PSC",
+    "TemplateName": "mountain bear"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "PittedIron-strappedShield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "MC_PISS",
@@ -117430,6 +117638,46 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "mortificationhelm-decaying",
     "TemplateName": "decaying tomb raider"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornSleevesAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MS_IBTS",
+    "TemplateName": "moldy skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornVestAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MS_IBTV",
+    "TemplateName": "moldy skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Scaled_Belt",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MS_SB",
+    "TemplateName": "moldy skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MS_TBTP",
+    "TemplateName": "moldy skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "MS_TBTS",
+    "TemplateName": "moldy skeleton"
   },
   {
     "Chance": 20,
@@ -118074,6 +118322,30 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "RingOfDeathlyFavor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDB_RoDF",
+    "TemplateName": "red dwarf bandit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornGlovesAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDF_IBTG",
+    "TemplateName": "red dwarf thief"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeScimitar",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDF_PBS",
+    "TemplateName": "red dwarf thief"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "BeltOfContinualMisery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "RDH_BoCM",
@@ -118194,6 +118466,14 @@
   {
     "Chance": 40,
     "Count": 0,
+    "ItemTemplateID": "BroachOfSoulManifestation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RDT_BoSM",
+    "TemplateName": "red dwarf thief"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
     "ItemTemplateID": "PittedBronzeBroadsword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "RD_PBBS",
@@ -118294,6 +118574,38 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ring-bone-reanim",
     "TemplateName": "reanimated foe"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Faerie Charm Necklace",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RI_FCN",
+    "TemplateName": "rock imp"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Mildewed_Tunic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RI_MT",
+    "TemplateName": "rock imp"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Spined_Fish-sticker",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RI_SFS",
+    "TemplateName": "rock imp"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SignetRing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RI_SR",
+    "TemplateName": "rock imp"
   },
   {
     "Chance": 20,
@@ -118648,6 +118960,78 @@
     "TemplateName": "frore lich"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "CloakOfTheOldDefender",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_COTOD",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "GreatIronSword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_GIS",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_LBTB",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_LBTC",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_LBTP",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Raiders_Blade",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_RB",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_TBTP",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_TBTS",
+    "TemplateName": "shambling skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "SS_TBTV",
+    "TemplateName": "shambling skeleton"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Stolen_Signet_Ring",
@@ -118670,6 +119054,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "S_FCN",
     "TemplateName": "spirit"
+  },
+  {
+    "Chance": 50,
+    "Count": 0,
+    "ItemTemplateID": "PittedSharpSnakeFang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_PSSF",
+    "TemplateName": "Slith"
   },
   {
     "Chance": 40,
@@ -118856,6 +119248,14 @@
     "TemplateName": "lair patrol"
   },
   {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "TatteredWolfHideLeggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "TR_TWHL",
+    "TemplateName": "throatripper"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tomte_Studded_Helm",
@@ -118894,6 +119294,46 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "twh-tomte-cutthroat",
     "TemplateName": "tomte cutthroat"
+  },
+  {
+    "Chance": 30,
+    "Count": 0,
+    "ItemTemplateID": "Lo_gem",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UDW_LG",
+    "TemplateName": "Undead Goblin Warrior"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "ElvenRing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UGF_ER",
+    "TemplateName": "Undead Goblin Fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "NetherworldBracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UGF_NB",
+    "TemplateName": "Undead Goblin Fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UGF_SOID",
+    "TemplateName": "Undead Goblin Fisherman"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "ElvenRing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UGW_ER",
+    "TemplateName": "Undead Goblin Warrior"
   },
   {
     "Chance": 35,
@@ -119446,14 +119886,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "v277838n48",
     "TemplateName": "puny skeleton"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedOakenWoodenShield",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "v2v5-3v25636",
-    "TemplateName": "filidh"
   },
   {
     "Chance": 40,
