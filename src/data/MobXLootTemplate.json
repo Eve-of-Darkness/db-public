@@ -931,6 +931,13 @@
     "MobXLootTemplate_ID": "0a5f7b0e-a63c-4153-8aed-c3f7d982c55e"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-01-28 23:49:17",
+    "LootTemplateName": "adder",
+    "MobName": "adder",
+    "MobXLootTemplate_ID": "0a942d19-e10a-4c74-9516-cbb1fb7cc574"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "arachnite",
@@ -1723,9 +1730,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Aged Boreal Cockatrice",
-    "MobName": "Aged Boreal Cockatrice",
+    "LastTimeRowUpdated": "2018-01-29 00:12:22",
+    "LootTemplateName": "aged boreal cockatrice",
+    "MobName": "aged boreal cockatrice",
     "MobXLootTemplate_ID": "1065"
   },
   {
@@ -2675,9 +2682,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Acid Bubble",
-    "MobName": "Acid Bubble",
+    "LastTimeRowUpdated": "2018-01-28 23:04:03",
+    "LootTemplateName": "acid bubble",
+    "MobName": "acid bubble",
     "MobXLootTemplate_ID": "12218"
   },
   {
@@ -5118,9 +5125,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Welsh Hobgoblin",
-    "MobName": "Welsh Hobgoblin",
+    "LastTimeRowUpdated": "2018-01-29 00:04:43",
+    "LootTemplateName": "welsh hobgoblin",
+    "MobName": "welsh hobgoblin",
     "MobXLootTemplate_ID": "247"
   },
   {
@@ -6496,6 +6503,13 @@
     "MobXLootTemplate_ID": "2969"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-01-29 00:14:04",
+    "LootTemplateName": "Albion colt",
+    "MobName": "Albion colt",
+    "MobXLootTemplate_ID": "296e5443-aac3-4cee-acdd-00121bb5bda8"
+  },
+  {
     "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Soultorn Hibernian Cosantoir",
@@ -7694,9 +7708,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Cythraul",
-    "MobName": "Cythraul",
+    "LastTimeRowUpdated": "2018-01-29 00:05:36",
+    "LootTemplateName": "cythraul",
+    "MobName": "cythraul",
     "MobXLootTemplate_ID": "3173"
   },
   {
@@ -8149,9 +8163,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Actarius",
-    "MobName": "Actarius",
+    "LastTimeRowUpdated": "2018-01-28 23:06:09",
+    "LootTemplateName": "actarius",
+    "MobName": "actarius",
     "MobXLootTemplate_ID": "326"
   },
   {
@@ -10613,6 +10627,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-28 22:27:49",
+    "LootTemplateName": "accursed raider",
+    "MobName": "accursed raider",
+    "MobXLootTemplate_ID": "41065d90-70cb-4b4a-b7e9-118b589f484d"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Thane Dyggve",
     "MobName": "Thane Dyggve",
@@ -11222,9 +11243,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Undead Monk",
-    "MobName": "Undead Monk",
+    "LastTimeRowUpdated": "2018-01-29 00:04:02",
+    "LootTemplateName": "undead Monk",
+    "MobName": "undead Monk",
     "MobXLootTemplate_ID": "448"
   },
   {
@@ -13196,9 +13217,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Abysmal",
-    "MobName": "Abysmal",
+    "LastTimeRowUpdated": "2018-01-28 22:22:11",
+    "LootTemplateName": "abysmal",
+    "MobName": "abysmal",
     "MobXLootTemplate_ID": "512"
   },
   {
@@ -14036,9 +14057,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Afanc Hatchling",
-    "MobName": "Afanc Hatchling",
+    "LastTimeRowUpdated": "2018-01-28 23:51:11",
+    "LootTemplateName": "afanc hatchling",
+    "MobName": "afanc hatchling",
     "MobXLootTemplate_ID": "5752"
   },
   {
@@ -14474,6 +14495,13 @@
     "LootTemplateName": "boss wuggak",
     "MobName": "boss wuggak",
     "MobXLootTemplate_ID": "5b02204c-7872-447a-a4e5-25aed82379b1"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-28 23:55:09",
+    "LootTemplateName": "aged basilisk",
+    "MobName": "aged basilisk",
+    "MobXLootTemplate_ID": "5b41645b-5999-4ae7-b1ae-3e60fd3ded08"
   },
   {
     "DropCount": 1,
@@ -15092,6 +15120,13 @@
     "MobXLootTemplate_ID": "6325"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-01-28 23:52:24",
+    "LootTemplateName": "afflicted parthelonian",
+    "MobName": "afflicted parthelonian",
+    "MobXLootTemplate_ID": "632e6b74-9a46-4438-92f0-2fec1e3a369c"
+  },
+  {
     "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Giant Beetle",
@@ -15128,9 +15163,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Alp Luachra",
-    "MobName": "Alp Luachra",
+    "LastTimeRowUpdated": "2018-01-29 00:35:03",
+    "LootTemplateName": "alp luachra",
+    "MobName": "alp luachra",
     "MobXLootTemplate_ID": "641"
   },
   {
@@ -16387,6 +16422,13 @@
     "MobXLootTemplate_ID": "6c563ed0-aab1-4d85-83e9-98ab7a4258ea"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-29 00:19:46",
+    "LootTemplateName": "Albion Invader",
+    "MobName": "Albion Invader",
+    "MobXLootTemplate_ID": "6c6a5578-6b45-4a5b-bffd-e6ef1b982c45"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "thuxra",
@@ -17508,6 +17550,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-28 23:47:34",
+    "LootTemplateName": "active sercuritor",
+    "MobName": "active sercuritor",
+    "MobXLootTemplate_ID": "7812fb5c-eab6-4545-8690-01792a8d6ba5"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Zahur",
     "MobName": "Zahur",
@@ -17991,16 +18040,16 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Accursed Marauder",
-    "MobName": "Accursed Marauder",
+    "LastTimeRowUpdated": "2018-01-28 22:24:48",
+    "LootTemplateName": "accursed marauder",
+    "MobName": "accursed marauder",
     "MobXLootTemplate_ID": "8158"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Accursed Plunderer",
-    "MobName": "Accursed Plunderer",
+    "LastTimeRowUpdated": "2018-01-28 22:27:12",
+    "LootTemplateName": "accursed plunderer",
+    "MobName": "accursed plunderer",
     "MobXLootTemplate_ID": "8159"
   },
   {
@@ -18481,9 +18530,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Abominable Snowman",
-    "MobName": "Abominable Snowman",
+    "LastTimeRowUpdated": "2018-01-28 21:18:59",
+    "LootTemplateName": "abominable snowman",
+    "MobName": "abominable snowman",
     "MobXLootTemplate_ID": "866"
   },
   {
@@ -19544,6 +19593,13 @@
     "MobXLootTemplate_ID": "a7edfaa8-e10d-40b2-99d8-5f836af40664"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-28 23:05:14",
+    "LootTemplateName": "acrimonious minotaur",
+    "MobName": "acrimonious minotaur",
+    "MobXLootTemplate_ID": "a82ad6fc-800e-4e58-b4dc-ff849bd32bc3"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "apprentice grunk",
@@ -19682,6 +19738,13 @@
     "LootTemplateName": "Elinkueth",
     "MobName": "Elinkueth",
     "MobXLootTemplate_ID": "b1fd0d12-b804-4c08-8ff7-0d10125eb94a"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-29 00:13:22",
+    "LootTemplateName": "albino scorpion",
+    "MobName": "albino scorpion",
+    "MobXLootTemplate_ID": "b2fcd21d-94ca-4d23-957d-1c82cf93466c"
   },
   {
     "DropCount": 2,
@@ -20438,6 +20501,13 @@
     "LootTemplateName": "aros the spiritmater",
     "MobName": "aros the spiritmater",
     "MobXLootTemplate_ID": "fa210c0d-6fbc-4a6f-89f1-08c28bb23264"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-29 00:11:14",
+    "LootTemplateName": "aged bleeder",
+    "MobName": "aged bleeder",
+    "MobXLootTemplate_ID": "fa359b76-8e63-4e49-a650-5293d4255498"
   },
   {
     "DropCount": 1,

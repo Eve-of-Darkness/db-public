@@ -2672,7 +2672,7 @@
     "TemplateName": "deeplurk dissembler"
   },
   {
-    "Chance": 20,
+    "Chance": 5,
     "Count": 0,
     "ItemTemplateID": "ScepterOfIntellect",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -7993,6 +7993,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Despoiled_Lochaber_Axe",
+    "LastTimeRowUpdated": "2018-01-28 23:11:38",
+    "LootTemplate_ID": "24609811-5bb5-43f7-80c9-29ad9139f086",
+    "TemplateName": "actarius"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_DA_1hSword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -12369,6 +12377,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Dried_Moss_Cloak",
+    "LastTimeRowUpdated": "2018-01-29 00:26:59",
+    "LootTemplate_ID": "38bb530d-5f31-4cac-a532-7efea819b118",
+    "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Beaded_Silk_Bracelet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -12638,6 +12654,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "39f875e2-95c2-400a-98b6-da5448449696",
     "TemplateName": "Puny Skeleton"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Despoiled_Lucerne_Hammer",
+    "LastTimeRowUpdated": "2018-01-28 23:10:50",
+    "LootTemplate_ID": "39f90675-a035-499a-9e99-c9759e8ed66e",
+    "TemplateName": "actarius"
   },
   {
     "Chance": 15,
@@ -14238,6 +14262,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4138872f-99d8-49ac-be0e-82ea3d5431d4",
     "TemplateName": "bwgwl"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Lightbound_Ring",
+    "LastTimeRowUpdated": "2018-01-28 22:29:49",
+    "LootTemplate_ID": "41423de3-b43f-42a2-8b06-21574b3a0d31",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -17617,6 +17649,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Svart-alfar_Battlebracer",
+    "LastTimeRowUpdated": "2018-01-28 23:03:34",
+    "LootTemplate_ID": "51212d4d-6561-4b96-abb8-f361a9fb557e",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Slender_Asterite_Sorcerer_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -18641,6 +18681,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Serrated Bone Spear",
+    "LastTimeRowUpdated": "2018-01-28 22:30:08",
+    "LootTemplate_ID": "567d34e8-558f-4f39-850d-3c4278a1559d",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Demolishing_Wrap",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -18894,6 +18942,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "57b27652-dcd0-462f-9e1d-d7d636659e92",
     "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 10,
+    "Count": 1,
+    "ItemTemplateID": "Um_gem",
+    "LastTimeRowUpdated": "2018-01-28 21:20:46",
+    "LootTemplate_ID": "57b781f9-4c65-4c38-8213-b35e250e7f63",
+    "TemplateName": "abominable snowman"
   },
   {
     "Chance": 20,
@@ -20862,6 +20918,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5fc610c4-6ac8-469f-a03f-6e859eed4000",
     "TemplateName": "giant skeleton"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "despoiled_boots",
+    "LastTimeRowUpdated": "2018-01-28 23:10:23",
+    "LootTemplate_ID": "5fcc47ee-6db7-4ef0-bf22-74bec30db694",
+    "TemplateName": "actarius"
   },
   {
     "Chance": 20,
@@ -23328,6 +23392,14 @@
     "TemplateName": "hellhag"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Antiquated_Cloak",
+    "LastTimeRowUpdated": "2018-01-28 23:11:49",
+    "LootTemplate_ID": "6ab27e39-a383-4063-81ee-33bcc811a894",
+    "TemplateName": "actarius"
+  },
+  {
     "Chance": 25,
     "Count": 0,
     "ItemTemplateID": "broken_dragonsworn_weapons",
@@ -24200,6 +24272,14 @@
     "TemplateName": "slave master"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Shadowformed_Ring",
+    "LastTimeRowUpdated": "2018-01-28 22:30:22",
+    "LootTemplate_ID": "6e012f1b-83fc-4618-a84c-b0595aebe2c9",
+    "TemplateName": "acid bubble"
+  },
+  {
     "Chance": 25,
     "Count": 0,
     "ItemTemplateID": "broken_dragonsworn_armors",
@@ -24262,6 +24342,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6e388015-f1a2-47b9-b8f5-aeab3a8b9456",
     "TemplateName": "nordic yeti"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Rusty Tinderbox",
+    "LastTimeRowUpdated": "2018-01-29 00:21:04",
+    "LootTemplate_ID": "6e4b1412-2050-46fd-acd6-2b3e310ad2de",
+    "TemplateName": "Albion Invader"
   },
   {
     "Chance": 20,
@@ -26097,6 +26185,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Fine_Brocade_Pants",
+    "LastTimeRowUpdated": "2018-01-29 00:27:39",
+    "LootTemplate_ID": "753f1de6-93d1-488e-a760-4e175e3b6f2a",
+    "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Sinister_Alluvion_Club",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -27584,6 +27680,14 @@
     "TemplateName": "goborchend piercer"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "respec_realm",
+    "LastTimeRowUpdated": "2018-01-28 22:26:45",
+    "LootTemplate_ID": "7c53a260-5016-4352-a79b-f8b66fce04b3",
+    "TemplateName": "Accursed Plunderer"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "rusticclerkrobe",
@@ -28761,6 +28865,14 @@
   },
   {
     "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Bronze_Torn_Sleeves_alb",
+    "LastTimeRowUpdated": "2018-01-29 00:20:33",
+    "LootTemplate_ID": "8150fba4-f360-40a8-aeff-9d0bd6a39067",
+    "TemplateName": "Albion Invader"
+  },
+  {
+    "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Wolf_Fur_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -29198,6 +29310,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "838ed80f-c9f3-48bc-923b-d666dd8354f3",
     "TemplateName": "tomb raider scout"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Primrose_Thorn_Necklace",
+    "LastTimeRowUpdated": "2018-01-29 00:27:16",
+    "LootTemplate_ID": "83b3662c-be39-4b86-8e85-9ed2f667ea86",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -30376,6 +30496,14 @@
     "TemplateName": "muire lady-in-waiting"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Hardened_Stone_Axe",
+    "LastTimeRowUpdated": "2018-01-28 22:29:24",
+    "LootTemplate_ID": "8896723f-dedd-459c-8946-ef6ef4845837",
+    "TemplateName": "acid bubble"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Finely_Crafted_Spear",
@@ -30529,11 +30657,27 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Hammer_of_the_Wildcrusher",
+    "LastTimeRowUpdated": "2018-01-28 22:29:12",
+    "LootTemplate_ID": "892ebab6-9ff2-416a-9aa3-3e09fd4651bb",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Lesser_Staff_of_the_Pack",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8931dc38-6a20-4cc8-83fc-45d4d6223175",
     "TemplateName": "eiorharn"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Shining_Ragers_Axe",
+    "LastTimeRowUpdated": "2018-01-28 22:29:59",
+    "LootTemplate_ID": "8938ba68-4d32-4d93-b2f2-21486602b639",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -31734,6 +31878,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8e7bd86e-1d40-4531-9482-163ae79d99a9",
     "TemplateName": "undead drudger"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Bronze_Torn_Gloves",
+    "LastTimeRowUpdated": "2018-01-29 00:20:17",
+    "LootTemplate_ID": "8e85fadc-001e-473b-ac7b-a1d4627dab0d",
+    "TemplateName": "Albion Invader"
   },
   {
     "Chance": 20,
@@ -88816,6 +88968,14 @@
     "TemplateName": "glimmer warshade"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "respec_realm",
+    "LastTimeRowUpdated": "2018-01-28 22:24:31",
+    "LootTemplate_ID": "9a85f836-950d-4ff7-bf37-455e1f616f53",
+    "TemplateName": "Accursed Marauder"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dried_Woven_Root_Boots",
@@ -89206,6 +89366,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9bac66cc-aab6-4493-a3ae-3390d7393e80",
     "TemplateName": "azure banisher"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Svart-alfar_Forged_Sword",
+    "LastTimeRowUpdated": "2018-01-28 23:03:50",
+    "LootTemplate_ID": "9bb42e8c-cde1-4b84-8537-bcb57b07bbae",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -97657,6 +97825,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Pants_of_Waking_Dreams",
+    "LastTimeRowUpdated": "2018-01-29 00:35:00",
+    "LootTemplate_ID": "bb905ffd-1555-49f9-8bb5-a794e572a960",
+    "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Moonstrike_Mace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -101457,6 +101633,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Fine_Brocade_Vest",
+    "LastTimeRowUpdated": "2018-01-29 00:27:55",
+    "LootTemplate_ID": "cab79978-6641-472a-aa1e-63f256de5663",
+    "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fire_Hardened_Irewood_Spear",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -102784,6 +102968,14 @@
     "TemplateName": "cutpurse"
   },
   {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ring of Deathsight Intensity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_RoDI",
+    "TemplateName": "cythraul"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tanned Barely Torn Boots",
@@ -103278,6 +103470,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d1d435b2-0a00-4e72-84c3-e6d27850c04c",
     "TemplateName": "vigilant soul"
+  },
+  {
+    "Chance": 50,
+    "Count": 1,
+    "ItemTemplateID": "Icebender Gem",
+    "LastTimeRowUpdated": "2018-01-28 22:27:02",
+    "LootTemplate_ID": "d1d48ec6-af8b-4524-8f05-b5881fbc51c5",
+    "TemplateName": "Accursed Plunderer"
   },
   {
     "Chance": 20,
@@ -106798,6 +106998,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "de2796b8-95db-43a4-881f-8228396fb2f3",
     "TemplateName": "cliff crawler"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Scythe_of_the_Dark_Hand",
+    "LastTimeRowUpdated": "2018-01-29 00:28:23",
+    "LootTemplate_ID": "de2ba9cc-a653-4592-9a28-de3ad13a0570",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -110753,6 +110961,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Heartwood Branch",
+    "LastTimeRowUpdated": "2018-01-28 22:29:37",
+    "LootTemplate_ID": "ed2d93a5-affc-494d-af79-6f42c31e1067",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "shiningarawnitechaingloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -111414,6 +111630,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "efd0c280-64ef-4e57-866d-2df28480718f",
     "TemplateName": "ellyll froglord"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Trollish_Stone_Bracer",
+    "LastTimeRowUpdated": "2018-01-28 23:04:00",
+    "LootTemplate_ID": "efd67426-6c54-4fbb-963f-6847711362af",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -114062,6 +114286,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f946ff7f-4d79-48ff-a4cd-64efe1e3ce59",
     "TemplateName": "jari"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lesser_Beleaguered_Mitigation_Mythirian",
+    "LastTimeRowUpdated": "2018-01-28 23:48:33",
+    "LootTemplate_ID": "f94b64b7-eb0a-47a4-8671-16a99d54856f",
+    "TemplateName": "active sercuritor"
   },
   {
     "Chance": 20,
@@ -117394,6 +117626,14 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Malevolent_Breastplate",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "LA_MB",
+    "TemplateName": "legendary afanc"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "LBS_Legs",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "lbsl-husk",
@@ -119850,6 +120090,22 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Ghastly_Mendicant_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UM_GML",
+    "TemplateName": "undead monk"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ghastly_Mendicant_Power_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UM_GMPG",
+    "TemplateName": "undead monk"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "2_Flayed_Hagbui_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "v23525235",
@@ -120070,6 +120326,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "whriares3",
     "TemplateName": "gjalpinulva"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Bracer of Energy Suppression",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "WH_BoES",
+    "TemplateName": "welsh hobgoblin"
   },
   {
     "Chance": 20,
