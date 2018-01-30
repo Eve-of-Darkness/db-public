@@ -8,10 +8,10 @@
     "TemplateName": "peallaidh"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Elven_Gossamer_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:31",
     "LootTemplate_ID": "00009baa-02d2-4d2b-8723-30b92afe9158",
     "TemplateName": "anger sprite"
   },
@@ -214,14 +214,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "00e46c0c-8b04-4cc7-abd8-a05c5f42ff86",
     "TemplateName": "tomb creeper"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "00ef9490-7fec-4563-a4b9-609e905c5dc3",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -986,18 +978,18 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "03c63a3b-2d73-4c18-9394-602f6fab2982",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shadowformed_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "03d28c44-9a0f-4347-b62f-e1e0ed925b94",
     "TemplateName": "charred skeletal commander"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Leggings",
+    "LastTimeRowUpdated": "2018-01-30 23:00:56",
+    "LootTemplate_ID": "03d93292-fa16-42d1-a6df-46691608d0a6",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -1190,14 +1182,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "04aa7def-04a2-4860-abed-2fb8853b62b9",
     "TemplateName": "arnulv"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_FS_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "04b20ad9-9cbc-43f2-b2b7-3c114c766ecf",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 35,
@@ -1408,6 +1392,14 @@
     "TemplateName": "moor boogey"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "ld_woolen_slightly_torn_cap",
+    "LastTimeRowUpdated": "2018-01-30 19:04:59",
+    "LootTemplate_ID": "05ac7969-c3e8-4fec-b377-a944b1489076",
+    "TemplateName": "annoying lucradan"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fine_Opal_Pendant",
@@ -1462,6 +1454,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "060ab6bd-e2b1-4f9d-996c-6ff40ef2f644",
     "TemplateName": "giant skeleton"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Braided_Silksteel_Leggings",
+    "LastTimeRowUpdated": "2018-01-30 22:54:39",
+    "LootTemplate_ID": "060cf3e6-7318-47eb-88b9-e5cad7671289",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -1654,6 +1654,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "06ffece0-dda0-4892-b9bf-8d8b431c5637",
     "TemplateName": "giant lizard"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "teal_enamel",
+    "LastTimeRowUpdated": "2018-01-30 23:06:38",
+    "LootTemplate_ID": "07060920-c490-45c4-89bd-d6059e1f51b0",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -1862,14 +1870,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "07b3aaec-4d56-4080-a0ad-85c7c0423a05",
     "TemplateName": "celtic lich"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFSB_Tunic",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "07bb6818-fcae-4c92-8b30-16c8ec9769cd",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -2536,6 +2536,14 @@
     "TemplateName": "belgrik"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Fine_Brocade_Cap",
+    "LastTimeRowUpdated": "2018-01-29 01:38:11",
+    "LootTemplate_ID": "0ad34ee9-a770-40d4-98f5-8344e846fd56",
+    "TemplateName": "amadan touched"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ghastly_Mendicant_Sleeves",
@@ -2658,21 +2666,13 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LRS_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0b724c2f-a88b-481f-9ade-5b07f0c54c43",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "2_SoT_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0b729a1e-76cc-4b02-b32d-51bbcfda70da",
     "TemplateName": "deeplurk dissembler"
   },
   {
-    "Chance": 20,
+    "Chance": 5,
     "Count": 0,
     "ItemTemplateID": "ScepterOfIntellect",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -3584,6 +3584,14 @@
     "TemplateName": "rat boy"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Crafted_Darksteel_Vest",
+    "LastTimeRowUpdated": "2018-01-30 19:45:00",
+    "LootTemplate_ID": "103ad0f9-0060-414a-88d4-2966330371fe",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "restlessrobes",
@@ -3754,14 +3762,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "10ee0a3e-8161-4d60-b823-32b8ca2e560f",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Mentalist_Stone_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "10f42af9-b60a-4aa9-9e4f-7d7bb6f5db03",
@@ -3806,14 +3806,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1113ba7f-43ef-4858-bf3b-618519b663b9",
     "TemplateName": "keltoi spiritualist"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFSB_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "11159e38-2a0f-45f8-bbbb-50f1fe029478",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -3898,14 +3890,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1180a174-b9fa-4003-88b0-b4b778e27b08",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "cursedmalcontentspants",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "118ff133-3444-4662-aada-11d980c09f40",
@@ -3984,10 +3968,10 @@
     "TemplateName": "tylwyth teg rover"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Embossed_Crystal_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:35",
     "LootTemplate_ID": "11b663e3-4641-4d12-b8ab-69f6b3f814d2",
     "TemplateName": "anger sprite"
   },
@@ -3998,6 +3982,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "11c066e6-63fe-4a2b-8a37-9c718f3b0446",
     "TemplateName": "spraggon runner"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 20:22:48",
+    "LootTemplate_ID": "11c54056-d208-475a-be75-69048bceb1a6",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -4512,6 +4504,14 @@
     "TemplateName": "pelagian crab"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Vest",
+    "LastTimeRowUpdated": "2018-01-30 20:18:01",
+    "LootTemplate_ID": "14455312-d996-422d-a3f0-f484c9258228",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Cloak_of_Dried_Moss",
@@ -4590,14 +4590,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "147f0128-56b7-4912-af4b-91ce97aeb1a6",
     "TemplateName": "eriu kedger"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bss_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "148f773b-a70b-478d-850d-5659ab376da2",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -4816,6 +4808,14 @@
     "TemplateName": "hagbui shaman"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
+    "LastTimeRowUpdated": "2018-01-30 21:50:46",
+    "LootTemplate_ID": "156d75d1-5a1d-42ae-9156-99272536633c",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dark_Spine-breaker",
@@ -4974,6 +4974,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "16535d74-9b99-4757-9184-dd1d614c65f6",
     "TemplateName": "lesser banshee"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Boots",
+    "LastTimeRowUpdated": "2018-01-30 22:29:54",
+    "LootTemplate_ID": "1660013b-c4a0-41bf-9efe-2f67c4b4f5e9",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -5606,14 +5614,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "19400616-9a60-4ba7-a99f-a29d00de686d",
     "TemplateName": "coerced groover"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_KA_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1944a5be-c4d3-4c8b-b5ba-1af3af700d53",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -6480,6 +6480,14 @@
     "TemplateName": "tomb creeper"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
+    "LastTimeRowUpdated": "2018-01-30 23:06:04",
+    "LootTemplate_ID": "1db713d8-f724-45ce-85b1-048c1315a56e",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "delugedkelpgloves",
@@ -6856,6 +6864,14 @@
     "TemplateName": "ellyll guard"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "blue_cloth_dye",
+    "LastTimeRowUpdated": "2018-01-30 23:09:10",
+    "LootTemplate_ID": "1f0db2a4-7686-4f33-8f49-1bd4d8d898c7",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Eluvium_Boots",
@@ -6984,6 +7000,14 @@
     "TemplateName": "spraggon springer"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Helm",
+    "LastTimeRowUpdated": "2018-01-30 20:54:24",
+    "LootTemplate_ID": "1fa0eddb-96f8-4871-8e5b-eed2409d4d32",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Spider_Keeper's_Gloves",
@@ -7058,14 +7082,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1ff06237-6bc3-48e9-bc01-4649bcf312f7",
-    "TemplateName": "arachite greensilk"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Yellow_Curmudgeon_Tooth",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1Yellow_Curmudgeon_Tooth",
@@ -7102,6 +7118,14 @@
     "LastTimeRowUpdated": "2014-01-01 00:00:00",
     "LootTemplate_ID": "1_Directors_Ring_of_Oblivion",
     "TemplateName": "Director Kobil"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Silksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 22:07:31",
+    "LootTemplate_ID": "2015eaff-ad58-4257-8550-89183eb4e93d",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -7993,11 +8017,11 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DA_1hSword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "247ca1d4-cfb2-41b0-b521-ddb099cd562b",
-    "TemplateName": "arachite impaler"
+    "Count": 1,
+    "ItemTemplateID": "Despoiled_Lochaber_Axe",
+    "LastTimeRowUpdated": "2018-01-28 23:11:38",
+    "LootTemplate_ID": "24609811-5bb5-43f7-80c9-29ad9139f086",
+    "TemplateName": "actarius"
   },
   {
     "Chance": 40,
@@ -8224,10 +8248,18 @@
     "TemplateName": "pookha"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "blue_leather_dye4",
+    "LastTimeRowUpdated": "2018-01-30 23:09:15",
+    "LootTemplate_ID": "25ad4545-fcc6-4f71-b8e7-b71cdb35e18c",
+    "TemplateName": "arachite impaler"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Dark_Crystalized_Poison_Sac",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 19:20:11",
     "LootTemplate_ID": "25b095c2-86bb-4844-bf76-b45e7b9a8ef5",
     "TemplateName": "aqueous slug"
   },
@@ -8248,10 +8280,10 @@
     "TemplateName": "vendo snake charmer"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Etched_Crystal_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:38",
     "LootTemplate_ID": "25c2f827-ac3c-46ea-9055-748d2b99dcb0",
     "TemplateName": "anger sprite"
   },
@@ -8310,14 +8342,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "26153091-bd1f-4c04-a23c-680103344ae4",
     "TemplateName": "ellyll champion"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_TDSB_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "26167162-55de-425b-ac36-616859aab2a5",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -8446,6 +8470,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2658d322-b28c-4556-8c8c-37ae5a12a283",
     "TemplateName": "siog footpad"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Vest",
+    "LastTimeRowUpdated": "2018-01-30 22:05:27",
+    "LootTemplate_ID": "265e3240-738d-4e09-a194-c4e13b9ab42c",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -9248,14 +9280,6 @@
     "TemplateName": "barrow wight"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Sparrow_Pendant",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "29fe90c1-6f3d-4bc5-aaeb-dcb0e03360be",
-    "TemplateName": "annoying lucradan"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Jerkin_of_Ghostly_Light",
@@ -9294,14 +9318,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2a2c93bb-b30a-4876-a55d-b4d1363aca25",
     "TemplateName": "wood ogre mystic"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bsl_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2a4554e6-6540-4338-a2e4-8c546ffcfef3",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -9366,6 +9382,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2abe3298-218f-4b9d-80e2-b2bc89de3613",
     "TemplateName": "trapped thrall"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 23:02:32",
+    "LootTemplate_ID": "2ac5c594-fdcd-4183-9af7-4093d6242532",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -9560,10 +9584,10 @@
     "TemplateName": "mud golem"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
+    "LastTimeRowUpdated": "2018-01-30 21:30:46",
     "LootTemplate_ID": "2b9169d7-8531-4dba-9c54-5ed99c20d4f4",
     "TemplateName": "arachite hatchling"
   },
@@ -9574,14 +9598,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2b964aba-90c6-4902-9471-696945dc0c7b",
     "TemplateName": "haunting gloom"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2b9741c9-f944-47a8-8da1-d58ade44b1c5",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 40,
@@ -9752,12 +9768,12 @@
     "TemplateName": "koalinth guardian"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DAS_Staff",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2cbc18fa-0a3d-4bef-834c-5fe173c0a0f7",
-    "TemplateName": "arachite impaler"
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Pants",
+    "LastTimeRowUpdated": "2018-01-30 21:19:21",
+    "LootTemplate_ID": "2cc76885-95ea-4e6d-a3dc-c2f047a84fbd",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -9782,14 +9798,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2cdc776a-22ac-4d5f-99f5-471ff15960ea",
     "TemplateName": "cursed believer"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DS_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2cdccc0c-c2ad-4038-8250-5f378827ec7c",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -9846,14 +9854,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2d2e3545-a4dd-47f0-9988-1e55a19efacd",
     "TemplateName": "black mauler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "2d50160f-6b2e-4a1c-9f91-35222f11005f",
-    "TemplateName": "arachite greensilk"
   },
   {
     "Chance": 20,
@@ -10166,6 +10166,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2eb48f95-2377-46d9-b821-c62044d2a082",
     "TemplateName": "Bandit Wizard"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 22:58:17",
+    "LootTemplate_ID": "2ec0c86f-98f8-471b-a8e9-5114c6edaad2",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -10554,14 +10562,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3065e143-58a7-4609-bbee-513ce960737e",
-    "TemplateName": "arachite greensilk"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Resplendent_Mantle",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3066047b-8b8f-4689-b9af-c5ce813bed40",
@@ -10598,6 +10598,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "307c8a58-57af-47a3-9c21-0c8a5a5b6b5c",
     "TemplateName": "tuder glyne"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Jerkin",
+    "LastTimeRowUpdated": "2018-01-30 21:27:35",
+    "LootTemplate_ID": "309183f0-4a15-458f-a19c-c33e0c70ab9a",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -10702,6 +10710,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3114c1e3-e47f-428b-b44a-a2bb89cdd0b3",
     "TemplateName": "arachnite"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Pants",
+    "LastTimeRowUpdated": "2018-01-30 22:36:14",
+    "LootTemplate_ID": "3115b8f3-27c5-40c8-98cc-4b4dc5e9245f",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -10826,14 +10842,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SFSB_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "317be437-cb7e-4753-a424-fb5e475c9d79",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Scythe_of_Molten_Lava",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "318ca886-16de-49ae-803f-40495c0e198f",
@@ -10846,14 +10854,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "318d7da6-2d12-4181-b33b-20480ed08310",
     "TemplateName": "megalith wight"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "319a7051-306f-43a3-a079-c7d81560dde4",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -11146,14 +11146,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDB_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "32bcf7c0-a550-455d-8b59-ee501b296e75",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shining_Dried_Molded_Scale_Coif",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "32cea6d4-ebbc-4504-a099-943ea4cd2d08",
@@ -11192,10 +11184,10 @@
     "TemplateName": "brownie rover"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
+    "LastTimeRowUpdated": "2018-01-30 21:31:03",
     "LootTemplate_ID": "32f5e996-9338-424b-9553-52560629e609",
     "TemplateName": "arachite hatchling"
   },
@@ -11970,14 +11962,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hAxe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "363cd5bc-8bbf-489f-90ec-93617617440e",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Cursed_Spirit_Shackle",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "363fa666-88e8-40f3-be72-2a6b3421c8de",
@@ -12216,10 +12200,10 @@
     "TemplateName": "siog seeker"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Sapling_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:40",
     "LootTemplate_ID": "37e7e53c-82d9-4b63-8c41-e0fd2150de28",
     "TemplateName": "anger sprite"
   },
@@ -12270,14 +12254,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "38240266-9d12-4ed9-8c31-165b69530156",
     "TemplateName": "grove nymph"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFS_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3835aed5-0ba9-4a6e-9ed6-8e0a5c88142c",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -12369,11 +12345,27 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Dried_Moss_Cloak",
+    "LastTimeRowUpdated": "2018-01-29 00:26:59",
+    "LootTemplate_ID": "38bb530d-5f31-4cac-a532-7efea819b118",
+    "TemplateName": "alp luachra"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Beaded_Silk_Bracelet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "38bcf81d-ad9f-4049-886e-4fc31ab5b7e8",
     "TemplateName": "parthanan"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Woven_Silksteel_Pants",
+    "LastTimeRowUpdated": "2018-01-30 22:29:27",
+    "LootTemplate_ID": "38bf800d-e3f0-438e-b5f2-5dd4ff68eee1",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 40,
@@ -12454,14 +12446,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "38fcc918-f538-4f10-9b57-ad7ad5b7f24c",
     "TemplateName": "botched sacrifice"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_CD_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "390c91a3-2a8e-4f79-beb7-bf0bc59ba313",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -12560,10 +12544,10 @@
     "TemplateName": "wild crouch"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Bwcan_Colored_Beads",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:48:27",
     "LootTemplate_ID": "3975ede3-bfaf-466f-9183-1cffeac19461",
     "TemplateName": "angry bwca"
   },
@@ -12582,6 +12566,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3992655d-cdaa-432f-8732-addeacec402e",
     "TemplateName": "arachite tunnelhost"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "teal_leather_dye",
+    "LastTimeRowUpdated": "2018-01-30 23:06:47",
+    "LootTemplate_ID": "399fedd2-1631-4aaa-b69c-6885bb9c18ef",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -12638,6 +12630,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "39f875e2-95c2-400a-98b6-da5448449696",
     "TemplateName": "Puny Skeleton"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Despoiled_Lucerne_Hammer",
+    "LastTimeRowUpdated": "2018-01-28 23:10:50",
+    "LootTemplate_ID": "39f90675-a035-499a-9e99-c9759e8ed66e",
+    "TemplateName": "actarius"
   },
   {
     "Chance": 15,
@@ -12782,14 +12782,6 @@
     "LastTimeRowUpdated": "2018-01-26 22:43:36",
     "LootTemplate_ID": "3aa74cfe-e3f0-4393-b018-d135b29a27ad",
     "TemplateName": "Chthonic Knight Exal"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bsg_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3aa94e93-e38c-4f23-a8bc-91badbae2d9f",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -13008,20 +13000,28 @@
     "TemplateName": "goborchend gasher"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WD_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3ba136b6-da93-4ada-97e0-60055c9653a0",
-    "TemplateName": "arachite grymherre"
-  },
-  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Regal_Woven_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3bacd8c2-06e3-4d88-801e-500bc7493562",
     "TemplateName": "hellhag"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "blue_enamel",
+    "LastTimeRowUpdated": "2018-01-30 23:09:12",
+    "LootTemplate_ID": "3bb051ad-ac27-4dcd-af4e-f4baf995ba03",
+    "TemplateName": "arachite impaler"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Stoic_Defender",
+    "LastTimeRowUpdated": "2018-01-30 18:31:50",
+    "LootTemplate_ID": "3bca199c-d7a6-4fa6-87ef-8f34be29fc4d",
+    "TemplateName": "ancient bodachan sabhaill"
   },
   {
     "Chance": 35,
@@ -13472,6 +13472,14 @@
     "TemplateName": "Bandit Highwaymen"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Keen_Asterite_Spear",
+    "LastTimeRowUpdated": "2018-01-30 22:53:55",
+    "LootTemplate_ID": "3e5a5349-0299-4fdc-bbf3-e5770cde3e22",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "ManaweaveRing",
@@ -13682,14 +13690,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Well_Crafted_Lantern",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "3ee349a4-0e9a-48b5-80f7-4097550ba888",
-    "TemplateName": "amadan touched"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shimmering_Odyllic_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3ee3eed7-ac91-43e9-b327-31320fa22b0c",
@@ -13870,6 +13870,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3fa39355-2c59-4542-b790-fce89078a2a1",
     "TemplateName": "director botok"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 22:37:45",
+    "LootTemplate_ID": "3fa66552-9a2c-4eee-ac37-9f3dc4ab297f",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -14238,6 +14246,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4138872f-99d8-49ac-be0e-82ea3d5431d4",
     "TemplateName": "bwgwl"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Lightbound_Ring",
+    "LastTimeRowUpdated": "2018-01-28 22:29:49",
+    "LootTemplate_ID": "41423de3-b43f-42a2-8b06-21574b3a0d31",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -15112,6 +15128,14 @@
     "TemplateName": "dragonsworn wizard"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Braided_Silksteel_Leggings",
+    "LastTimeRowUpdated": "2018-01-30 22:21:14",
+    "LootTemplate_ID": "45c59fdc-55b6-4ef4-89c5-3398a1780bb1",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tanned_Worn_Sleeves_alb",
@@ -15294,6 +15318,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "46c508e3-86bb-406a-866f-c2ae854e9878",
     "TemplateName": "fallen warrior"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Large_Axe",
+    "LastTimeRowUpdated": "2018-01-30 22:49:41",
+    "LootTemplate_ID": "46c5696d-bdc2-4455-84e2-9c71805f10a2",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -15542,6 +15574,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "47c67aaf-270b-4e41-ace4-ab69d5b6f132",
     "TemplateName": "frore lich"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darkstee_Boots",
+    "LastTimeRowUpdated": "2018-01-30 21:20:41",
+    "LootTemplate_ID": "47cb41a0-622b-4966-9bbe-b0fff1347d55",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -17617,6 +17657,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Svart-alfar_Battlebracer",
+    "LastTimeRowUpdated": "2018-01-28 23:03:34",
+    "LootTemplate_ID": "51212d4d-6561-4b96-abb8-f361a9fb557e",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Slender_Asterite_Sorcerer_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -18272,10 +18320,10 @@
     "TemplateName": "gurite ambusher"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Sprite_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:44",
     "LootTemplate_ID": "54383809-d5cb-435d-a032-5bfcf6c54570",
     "TemplateName": "anger sprite"
   },
@@ -18552,6 +18600,14 @@
     "TemplateName": "deeplurk manslayer"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "red_leather_dye",
+    "LastTimeRowUpdated": "2018-01-30 23:09:26",
+    "LootTemplate_ID": "5605acc2-6176-4793-ba51-5c7c822a63ff",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Spider_Keeper's_Boots",
@@ -18641,19 +18697,19 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Serrated Bone Spear",
+    "LastTimeRowUpdated": "2018-01-28 22:30:08",
+    "LootTemplate_ID": "567d34e8-558f-4f39-850d-3c4278a1559d",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Demolishing_Wrap",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "56812876-7522-4af8-884c-7907f02f9ed8",
     "TemplateName": "nordic yeti"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Luminous_Crafted_Darksteel_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "569b5c7a-833f-47e3-9053-c67a901afc3a",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -18896,6 +18952,14 @@
     "TemplateName": "alp luachra"
   },
   {
+    "Chance": 10,
+    "Count": 1,
+    "ItemTemplateID": "Um_gem",
+    "LastTimeRowUpdated": "2018-01-28 21:20:46",
+    "LootTemplate_ID": "57b781f9-4c65-4c38-8213-b35e250e7f63",
+    "TemplateName": "abominable snowman"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Protector_of_the_Stone_Oracles",
@@ -19126,6 +19190,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "588c9bdc-6cf7-4811-a77a-b4500719c799",
     "TemplateName": "azure avenger"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 20:19:12",
+    "LootTemplate_ID": "589032f6-c950-4bba-95d3-9ba083c29c8b",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -19504,6 +19576,14 @@
     "TemplateName": "Inquisitor Asil"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Rawhide Slightly Torn Cap",
+    "LastTimeRowUpdated": "2018-01-30 19:01:47",
+    "LootTemplate_ID": "59d5504c-793f-4a6f-9af3-cd498f9216ca",
+    "TemplateName": "annoying lucradan"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Left_Bracer_of_Skill",
@@ -19534,6 +19614,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "59efd81e-5e23-4e21-82f0-5792c32e7257",
     "TemplateName": "glimmer kelegur"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Boots",
+    "LastTimeRowUpdated": "2018-01-30 21:55:58",
+    "LootTemplate_ID": "59fa2bed-da01-413e-8fed-ffcf84562575",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 40,
@@ -20480,6 +20568,14 @@
     "TemplateName": "koalinth elder"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Sparkling_Primrose_Heart",
+    "LastTimeRowUpdated": "2018-01-29 01:36:40",
+    "LootTemplate_ID": "5dbc1ab8-bf17-4ea0-bbc5-c758e890da83",
+    "TemplateName": "amadan touched"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Silvered_Khertiks_Staff",
@@ -20510,6 +20606,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5dd34c78-a430-49e3-b56f-92f8dde9c39a",
     "TemplateName": "Bandit Hopeful"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
+    "LastTimeRowUpdated": "2018-01-30 22:37:11",
+    "LootTemplate_ID": "5dd73572-723c-4a30-925a-1dee642168d3",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -20550,6 +20654,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5e44f409-475a-4f28-8d22-e56baa23d1ab",
     "TemplateName": "kalnraw"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Silksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 23:08:05",
+    "LootTemplate_ID": "5e4592d2-2149-41c9-a65a-a1be82e9adc4",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -20862,6 +20974,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5fc610c4-6ac8-469f-a03f-6e859eed4000",
     "TemplateName": "giant skeleton"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "despoiled_boots",
+    "LastTimeRowUpdated": "2018-01-28 23:10:23",
+    "LootTemplate_ID": "5fcc47ee-6db7-4ef0-bf22-74bec30db694",
+    "TemplateName": "actarius"
   },
   {
     "Chance": 20,
@@ -21334,14 +21454,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "61d5d686-ffeb-454e-8d0d-b6156efc52bc",
     "TemplateName": "last breath"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Chrome_Diopside",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "61e2d446-ac65-4f39-9cf9-5106d555d5ef",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -22328,6 +22440,14 @@
     "TemplateName": "red dwarf bandit"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Large_Hammer",
+    "LastTimeRowUpdated": "2018-01-30 21:53:14",
+    "LootTemplate_ID": "66371d44-044a-4d07-8a6d-4f94bf1b9029",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Cath_Drum",
@@ -22512,18 +22632,10 @@
     "TemplateName": "deep goblin"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WS_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "66f45303-a900-4815-bd01-aec1a46e09a7",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 21:31:16",
     "LootTemplate_ID": "66f6f9a7-9a74-402d-9696-c2685352d414",
     "TemplateName": "arachite hatchling"
   },
@@ -22728,6 +22840,14 @@
     "TemplateName": "diamondback toad"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Faded_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 21:48:55",
+    "LootTemplate_ID": "67e8c8e3-f1a8-4204-97d2-61fa4253d628",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bone-handled_Trident",
@@ -22806,14 +22926,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "683e18c1-c0c8-4ee0-9749-3c89ba4102f2",
     "TemplateName": "svartalf arbetare"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Faded_Silksteel_Bound_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "68495c23-5485-4797-9320-1090280ea5be",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -23328,6 +23440,14 @@
     "TemplateName": "hellhag"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Antiquated_Cloak",
+    "LastTimeRowUpdated": "2018-01-28 23:11:49",
+    "LootTemplate_ID": "6ab27e39-a383-4063-81ee-33bcc811a894",
+    "TemplateName": "actarius"
+  },
+  {
     "Chance": 25,
     "Count": 0,
     "ItemTemplateID": "broken_dragonsworn_weapons",
@@ -23442,18 +23562,18 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_FS_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6afba7c3-10dd-4d31-a6b7-00b5e00ed4bf",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Cave_Prowler's_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6b005198-d986-499b-b241-9a5fc19e38bd",
     "TemplateName": "vendo snake charmer"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Twisted_Darksteel_Bracer",
+    "LastTimeRowUpdated": "2018-01-30 19:42:51",
+    "LootTemplate_ID": "6b06665a-bba9-4250-8898-0d7f1b68d55c",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -24200,6 +24320,14 @@
     "TemplateName": "slave master"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Shadowformed_Ring",
+    "LastTimeRowUpdated": "2018-01-28 22:30:22",
+    "LootTemplate_ID": "6e012f1b-83fc-4618-a84c-b0595aebe2c9",
+    "TemplateName": "acid bubble"
+  },
+  {
     "Chance": 25,
     "Count": 0,
     "ItemTemplateID": "broken_dragonsworn_armors",
@@ -24262,6 +24390,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6e388015-f1a2-47b9-b8f5-aeab3a8b9456",
     "TemplateName": "nordic yeti"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Rusty Tinderbox",
+    "LastTimeRowUpdated": "2018-01-29 00:21:04",
+    "LootTemplate_ID": "6e4b1412-2050-46fd-acd6-2b3e310ad2de",
+    "TemplateName": "Albion Invader"
   },
   {
     "Chance": 20,
@@ -24352,12 +24488,12 @@
     "TemplateName": "greater boogey"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6eb0a81c-ff88-45c6-b571-f191bfe0a7f7",
-    "TemplateName": "arachite grymherre"
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Pants",
+    "LastTimeRowUpdated": "2018-01-30 23:02:41",
+    "LootTemplate_ID": "6eb3d562-da7f-4ef1-af12-273a78ab1176",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 35,
@@ -24434,14 +24570,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6f22d8ac-a66f-4246-a582-c4eb8c752c30",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Archaic_Granite_Long_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6f246044-cafd-4226-abd3-2d8643878db3",
@@ -24512,28 +24640,12 @@
     "TemplateName": "rattling skeleton"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bdg_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6f5f307a-bb51-40dc-8b75-17a514efa76f",
-    "TemplateName": "arachite grymherre"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Goblin_Cleaver",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6f674f41-f101-4228-9f7a-5dcb340db6e7",
     "TemplateName": "goblin"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LCD_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "6f6dfc80-99a3-4fa7-bfe9-25c457b3ebd2",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -24608,10 +24720,10 @@
     "TemplateName": "tomb creeper"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Silvered_Anger_Sprite_Dirk",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:47",
     "LootTemplate_ID": "6f940ec1-6f46-4454-8840-d6d9c14b5bf8",
     "TemplateName": "anger sprite"
   },
@@ -25018,14 +25130,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LWD_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "713e7b25-491d-45ed-bde0-694ef1603e6e",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Molded_Leather_Greaves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7144407d-dd94-449f-9c34-131ee74aceaa",
@@ -25190,14 +25294,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "71f963eb-b887-49a0-b5e0-4cec8d8885c0",
     "TemplateName": "koalinth envoy"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "71fde173-19f1-4cf7-9489-554b8dec3ec5",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 40,
@@ -25528,6 +25624,14 @@
     "TemplateName": "svartalf thrall"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Darksteel_Bracer",
+    "LastTimeRowUpdated": "2018-01-30 19:41:25",
+    "LootTemplate_ID": "733202ee-b13a-4dd9-986e-6b0d2b6d1d67",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Mantle_of_Resplendance",
@@ -25616,14 +25720,6 @@
     "TemplateName": "black wraith"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFSP_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "736f7542-6d9d-40fa-9f01-f14ef630874b",
-    "TemplateName": "arachite husker"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Snaebjorn's_Cursing_Staff",
@@ -25670,14 +25766,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "738fbab3-9256-48f0-be46-9c86ed15316c",
     "TemplateName": "juliy the jester"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "73907d21-caf7-4e99-a4a4-7ab52499c22c",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 15,
@@ -26094,6 +26182,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "753bd714-7ecc-4411-8cf7-d60df328d5e9",
     "TemplateName": "cave trow trollkarl"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Fine_Brocade_Pants",
+    "LastTimeRowUpdated": "2018-01-29 00:27:39",
+    "LootTemplate_ID": "753f1de6-93d1-488e-a760-4e175e3b6f2a",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -26566,14 +26662,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "775599d9-9708-4749-af35-6f216354334b",
     "TemplateName": "silvermine knocker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WD_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "775bbc33-1890-4ad7-a4b7-ac2937e097aa",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -27128,6 +27216,14 @@
     "TemplateName": "giant beetle"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Small_Silver_Laden_Box",
+    "LastTimeRowUpdated": "2018-01-29 01:39:02",
+    "LootTemplate_ID": "79cb0753-c510-4050-89aa-4819b213ad4f",
+    "TemplateName": "amadan touched"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ghastly_Mendicant_Cloak",
@@ -27506,14 +27602,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LWD_Cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "7c03d2f7-425e-4ddc-8a0c-284db062ded1",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Abandoned_Crustacean_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7c127c9f-b260-4d6f-b840-2d903d7344f1",
@@ -27534,6 +27622,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7c1a0c5c-95b9-4f9b-814f-aff97a6c4f82",
     "TemplateName": "keh"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
+    "LastTimeRowUpdated": "2018-01-30 22:16:50",
+    "LootTemplate_ID": "7c20e6b9-bc23-4939-b6e7-a60a1c42feb7",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -27582,6 +27678,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7c522e6b-f2e6-448f-8a2e-245152631f6c",
     "TemplateName": "goborchend piercer"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "respec_realm",
+    "LastTimeRowUpdated": "2018-01-28 22:26:45",
+    "LootTemplate_ID": "7c53a260-5016-4352-a79b-f8b66fce04b3",
+    "TemplateName": "accursed plunderer"
   },
   {
     "Chance": 20,
@@ -28321,6 +28425,14 @@
   },
   {
     "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 23:09:06",
+    "LootTemplate_ID": "7fb63f43-ca6f-47f6-9798-9241dbde7757",
+    "TemplateName": "arachite impaler"
+  },
+  {
+    "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Engraved_Wolf_Blade",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -28446,6 +28558,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "80339e54-d5b2-4c2f-af73-94e840b493a1",
     "TemplateName": "cursed mora"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 23:05:49",
+    "LootTemplate_ID": "8035760a-b415-4ed9-aab9-2883757af944",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -28688,6 +28808,14 @@
     "TemplateName": "vigilant soul"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Leggings",
+    "LastTimeRowUpdated": "2018-01-30 21:26:02",
+    "LootTemplate_ID": "811efbf9-569b-4794-8580-bbf47b0ecb4d",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Whirling_Cymric_Leather_Sleeves",
@@ -28758,6 +28886,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8150b85d-78b6-4481-8447-956a7ac3607a",
     "TemplateName": "moss sheerie"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Bronze_Torn_Sleeves_alb",
+    "LastTimeRowUpdated": "2018-01-29 00:20:33",
+    "LootTemplate_ID": "8150fba4-f360-40a8-aeff-9d0bd6a39067",
+    "TemplateName": "Albion Invader"
   },
   {
     "Chance": 15,
@@ -28873,6 +29009,14 @@
   },
   {
     "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 22:47:06",
+    "LootTemplate_ID": "81f27336-0ed7-4863-8b5a-519ceeabeb05",
+    "TemplateName": "arachite impaler"
+  },
+  {
+    "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Shadow_Crystal_Slicer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -28942,14 +29086,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "822bb2bf-2c5e-4562-bf57-75cec0db3486",
     "TemplateName": "dreadful cadaver"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bsc_Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8236e8bc-468b-48ab-bc85-65903c0e430e",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -29154,14 +29290,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "833e613e-3dd4-4206-b1e5-7aa7a21a87d2",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "3_Worn_Jewel_Dusted_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "83615198-ab29-464d-a07a-2d141a055d34",
@@ -29192,12 +29320,28 @@
     "TemplateName": "insidious whisper"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Rawhide Slightly Torn Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 19:02:17",
+    "LootTemplate_ID": "8374d95d-3f3c-4191-90f3-b778552e65e2",
+    "TemplateName": "annoying lucradan"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "VelvetLinedCloak",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "838ed80f-c9f3-48bc-923b-d666dd8354f3",
     "TemplateName": "tomb raider scout"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Primrose_Thorn_Necklace",
+    "LastTimeRowUpdated": "2018-01-29 00:27:16",
+    "LootTemplate_ID": "83b3662c-be39-4b86-8e85-9ed2f667ea86",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -29936,6 +30080,14 @@
     "TemplateName": "galand"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 19:46:22",
+    "LootTemplate_ID": "870629ab-b365-48b8-9297-0d30e93ebed9",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Runed_Hollow_Clay_Boots",
@@ -30086,6 +30238,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "878077c1-b749-4ca7-bdd0-0488758e5d26",
     "TemplateName": "ifor"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 23:06:14",
+    "LootTemplate_ID": "8782c1d3-b347-4a41-86c3-3970ffb8ebde",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -30376,6 +30536,14 @@
     "TemplateName": "muire lady-in-waiting"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Hardened_Stone_Axe",
+    "LastTimeRowUpdated": "2018-01-28 22:29:24",
+    "LootTemplate_ID": "8896723f-dedd-459c-8946-ef6ef4845837",
+    "TemplateName": "acid bubble"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Finely_Crafted_Spear",
@@ -30506,14 +30674,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SFSP_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "891f9298-ba53-4005-968a-2ab37d7f1773",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Earthen_Woven_Root_Pants",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8920a7ea-ec76-4701-bb79-c21998827722",
@@ -30529,11 +30689,27 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Hammer_of_the_Wildcrusher",
+    "LastTimeRowUpdated": "2018-01-28 22:29:12",
+    "LootTemplate_ID": "892ebab6-9ff2-416a-9aa3-3e09fd4651bb",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Lesser_Staff_of_the_Pack",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8931dc38-6a20-4cc8-83fc-45d4d6223175",
     "TemplateName": "eiorharn"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Shining_Ragers_Axe",
+    "LastTimeRowUpdated": "2018-01-28 22:29:59",
+    "LootTemplate_ID": "8938ba68-4d32-4d93-b2f2-21486602b639",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -30968,14 +31144,6 @@
     "TemplateName": "legionnaire defender"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WS_Pants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8b292a23-d5c8-47d2-a3ca-9805b5bd5a70",
-    "TemplateName": "arachite husker"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tomte_Chain_Boots",
@@ -31030,14 +31198,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8b7a3e9d-2f90-4055-96ab-dd3de103533a",
     "TemplateName": "soultorn albion protector"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LBD_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8b7f02df-87d7-4151-a576-fed637527539",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -31102,14 +31262,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8bab038b-9aa0-4b82-b0d5-9f19825727ec",
     "TemplateName": "granite giant herdsman"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DA_1hSword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8bbbb0f5-2664-4ec0-9e6f-60c8b5eeb09e",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -31230,6 +31382,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8c33e0af-ca45-46ef-9b27-055a3162e6c1",
     "TemplateName": "mithra initiate"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Spear",
+    "LastTimeRowUpdated": "2018-01-30 22:50:50",
+    "LootTemplate_ID": "8c3f3af7-7f3e-423a-a9c8-4d2afe332702",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -31736,6 +31896,14 @@
     "TemplateName": "undead drudger"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Bronze_Torn_Gloves",
+    "LastTimeRowUpdated": "2018-01-29 00:20:17",
+    "LootTemplate_ID": "8e85fadc-001e-473b-ac7b-a1d4627dab0d",
+    "TemplateName": "Albion Invader"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Long_Thorned_Tree_Knot",
@@ -31926,14 +32094,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8f2da9d9-c924-4207-9b62-28acac425e28",
     "TemplateName": "megalith wight"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DS_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8f3cfc4a-4f5c-4488-815d-acc18346fd8b",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -32928,12 +33088,12 @@
     "TemplateName": "lilispawn"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Luminous_Woven_Darksteel_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "934e1471-0c51-44b3-a339-bfbc222b001a",
-    "TemplateName": "arachite grymherre"
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
+    "LastTimeRowUpdated": "2018-01-30 23:06:25",
+    "LootTemplate_ID": "934cc8c9-d02d-485a-a032-96f980b2c83c",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -33198,6 +33358,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "94a6802a-bc3e-4ee7-8636-902ca7100caf",
     "TemplateName": "draugr warrior"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Sleeves_of_Might",
+    "LastTimeRowUpdated": "2018-01-30 18:44:28",
+    "LootTemplate_ID": "94b469d0-67f7-489b-ae37-af7b64e7e985",
+    "TemplateName": "anger sprite"
   },
   {
     "Chance": 20,
@@ -33718,14 +33886,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "972db32f-e95b-48f9-92d7-81334189e3e7",
     "TemplateName": "dragonsworn reaver"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LCD_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "9750a15b-bb5c-46e0-8682-dd12b7999973",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -55510,94 +55670,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99954428",
     "TemplateName": "badger cub"
-  },
-  {
-    "Chance": 15,
-    "Count": 0,
-    "ItemTemplateID": "tattered_rawhide_brea_gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954429",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 15,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954430",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 10,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Rawhide_Brea_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954431",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 10,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954432",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 10,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Worn_Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954433",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954434",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Rawhide_Brea_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954435",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Pants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954436",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954437",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "Tattered_Woolen_Woven_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954438",
-    "TemplateName": "annoying lucradan"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "onyx_gem",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "99954439",
-    "TemplateName": "annoying lucradan"
   },
   {
     "Chance": 62,
@@ -88816,6 +88888,14 @@
     "TemplateName": "glimmer warshade"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "respec_realm",
+    "LastTimeRowUpdated": "2018-01-28 22:24:31",
+    "LootTemplate_ID": "9a85f836-950d-4ff7-bf37-455e1f616f53",
+    "TemplateName": "accursed marauder"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dried_Woven_Root_Boots",
@@ -88854,6 +88934,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9a8fa198-a6b3-4d1a-9b95-7a61d4c30cc8",
     "TemplateName": "spraggon springer"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Hearthwood_Branch",
+    "LastTimeRowUpdated": "2018-01-30 19:22:03",
+    "LootTemplate_ID": "9a99b373-6f95-4db1-9434-fc0042eae01a",
+    "TemplateName": "arachite greensilk"
   },
   {
     "Chance": 20,
@@ -89030,6 +89118,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9b27c773-f9fb-4548-872a-2b885a0a5e18",
     "TemplateName": "nodin"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
+    "LastTimeRowUpdated": "2018-01-30 19:49:41",
+    "LootTemplate_ID": "9b29a85d-510a-4580-a91b-def18f37a5c7",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -89209,11 +89305,27 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Svart-alfar_Forged_Sword",
+    "LastTimeRowUpdated": "2018-01-28 23:03:50",
+    "LootTemplate_ID": "9bb42e8c-cde1-4b84-8537-bcb57b07bbae",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_TBS_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9bb76c5b-e9e3-436a-8996-31348879f183",
     "TemplateName": "djupt usling"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Silvered_Faded_Silksteel_Bound_Tunic",
+    "LastTimeRowUpdated": "2018-01-30 22:25:09",
+    "LootTemplate_ID": "9bc67bda-055a-4ce1-9eb9-f8a7a3f77309",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -89504,6 +89616,14 @@
     "TemplateName": "tomte jager"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
+    "LastTimeRowUpdated": "2018-01-30 22:49:56",
+    "LootTemplate_ID": "9d1cd3c4-788c-4695-808e-ad1ba7a6b6c6",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "celestialcailiondarvest",
@@ -89742,6 +89862,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9e05ab18-17d8-4c83-a2e6-a497b0dc9c98",
     "TemplateName": "bogman fisher"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "2_SCN_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 19:22:35",
+    "LootTemplate_ID": "9e0fe61d-710f-42cf-bd8b-fff180cb2add",
+    "TemplateName": "arachite greensilk"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 22:59:39",
+    "LootTemplate_ID": "9e12cc7f-1fda-4924-98b1-adb97cd8d44a",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -90136,14 +90272,6 @@
     "TemplateName": "grundor"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LCD_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "9fdf1389-ff66-476c-9c45-3e241716feff",
-    "TemplateName": "arachite grymherre"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Goblin_Goldminer_Boots",
@@ -90414,6 +90542,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a0d98fb4-2406-40de-b9bc-f980ab85195b",
     "TemplateName": "salisbury giant"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 22:34:48",
+    "LootTemplate_ID": "a0e03e59-15ba-4824-aaa3-3ce18eebf38b",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -90912,6 +91048,14 @@
     "TemplateName": "werewolf scruff"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Svart-alfar_Battlebracer",
+    "LastTimeRowUpdated": "2018-01-30 18:38:45",
+    "LootTemplate_ID": "a2e3de79-50de-48cb-91c3-880c9b85e30b",
+    "TemplateName": "ancient sapherd"
+  },
+  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Knifemans_Crystal_Dagger",
@@ -90990,6 +91134,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a31cdc46-3e3e-4204-9d72-7329e4bbf473",
     "TemplateName": "mad kobold"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Spirit_Staff",
+    "LastTimeRowUpdated": "2018-01-30 22:52:28",
+    "LootTemplate_ID": "a320113c-c568-400c-a393-8cdf0646aa4a",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -91880,14 +92032,6 @@
     "TemplateName": "ghoul knight"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Chrome_Diopside",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "a7115b42-fd9e-4432-b332-4d33db9ff264",
-    "TemplateName": "arachite impaler"
-  },
-  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Tanned_Worn_Sleeves_alb",
@@ -92022,14 +92166,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a7b02270-4103-4c24-9295-865686184302",
     "TemplateName": "legil"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LBD_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "a7b09932-fb9c-4150-a54f-92fa25c5161b",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -92238,6 +92374,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a8b65ee7-d2f4-4352-b732-a152065cc4cd",
     "TemplateName": "dartmoor pony"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Cap",
+    "LastTimeRowUpdated": "2018-01-30 23:02:18",
+    "LootTemplate_ID": "a8c55308-f8ce-44b8-8d58-1cd70d5c9010",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -93528,6 +93672,14 @@
     "TemplateName": "wind ghoul"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "2_SCR_Ring",
+    "LastTimeRowUpdated": "2018-01-30 19:23:01",
+    "LootTemplate_ID": "addb1cf8-95a0-4b51-9168-e0688be2a3aa",
+    "TemplateName": "arachite greensilk"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_STM_Leggings",
@@ -93590,14 +93742,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ae06d777-7a4d-4251-a290-989daadce142",
     "TemplateName": "avernal quasit"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DA_1hAxe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ae151038-12d4-4953-a461-e0547c951e19",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 35,
@@ -93728,10 +93872,10 @@
     "TemplateName": "silvermine knocker"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Silvered_Sprite_Vine_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:51",
     "LootTemplate_ID": "aebb4f25-3ce7-4fb9-ab24-3a2143e98ee2",
     "TemplateName": "anger sprite"
   },
@@ -93950,14 +94094,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "afa91a35-90af-49a7-a1dc-4494418a5c9b",
     "TemplateName": "walking rock"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_bss_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "afb0bb71-4c70-4eb1-8df6-ac61aef77aa1",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -94824,6 +94960,14 @@
     "TemplateName": "goblin imperator"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 20:31:22",
+    "LootTemplate_ID": "b06ce81d-05ea-4677-a277-f251745db683",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Spined_Spear",
@@ -95034,14 +95178,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCDC_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b1174578-727a-4c06-9fed-f3f3bb066f83",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "2_KAG_2hSword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b120c38a-35a7-4492-a687-eb635dd9a8b0",
@@ -95214,6 +95350,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b1cfc954-7e9e-4146-910f-1ba8689af2f0",
     "TemplateName": "vendo yowler"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 22:33:12",
+    "LootTemplate_ID": "b1d04dc8-16d5-4b97-853d-123713868944",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -95526,6 +95670,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b2f14686-ba7c-43f8-9604-625fa0965b6a",
     "TemplateName": "rock sprite"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Silksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 22:39:19",
+    "LootTemplate_ID": "b2f486a4-3082-4253-924f-819e6688833a",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -95872,6 +96024,14 @@
     "TemplateName": "lair guard"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Black_Silksteel_Cloak",
+    "LastTimeRowUpdated": "2018-01-30 22:12:06",
+    "LootTemplate_ID": "b3ec7807-75ba-4bbd-bb4e-ee7528a6b0b6",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fell_Day_Belt",
@@ -96158,14 +96318,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b587da9c-b4c7-4626-9ddd-045eb4be0dd6",
     "TemplateName": "charred skeletal commander"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b58b0ae3-a83a-4831-80f2-7d448d652005",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -96472,14 +96624,6 @@
     "TemplateName": "rock sprite"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LCD_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "b6ffdbe6-591d-46b6-8c61-ac569b6da4c7",
-    "TemplateName": "arachite grymherre"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "HammerOfTheOtherworld",
@@ -96624,6 +96768,14 @@
     "TemplateName": "cutpurse"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Rawhide Slightly Torn Vest",
+    "LastTimeRowUpdated": "2018-01-30 19:02:45",
+    "LootTemplate_ID": "b767a45c-fcd8-469c-bca2-43153a848b1c",
+    "TemplateName": "annoying lucradan"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Strong_Hagbui_Helm",
@@ -96742,6 +96894,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b7e1e746-018e-43dd-91ec-c2196c3cc74e",
     "TemplateName": "cornwall hunter"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Imbued_Vest",
+    "LastTimeRowUpdated": "2018-01-30 18:31:35",
+    "LootTemplate_ID": "b7ea200d-3ced-4209-8003-b32ce6581cc3",
+    "TemplateName": "ancient bodachan sabhaill"
   },
   {
     "Chance": 20,
@@ -96942,6 +97102,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b8f38bc8-e897-48f0-98b8-a2384769a065",
     "TemplateName": "centurio princeps praetorii"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Ringed_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 22:56:03",
+    "LootTemplate_ID": "b8f490d8-a4c6-474c-81e5-4f5d65c9d18f",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -97504,6 +97672,14 @@
     "TemplateName": "celtic sepulchre warrior"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "red_cloth_dye",
+    "LastTimeRowUpdated": "2018-01-30 23:09:19",
+    "LootTemplate_ID": "baede393-1baf-4c88-baf3-eac951566d87",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_GL_1hAxe",
@@ -97648,12 +97824,28 @@
     "TemplateName": "mummy hag"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 20:16:14",
+    "LootTemplate_ID": "bb82a91e-d446-4790-96f2-927bc48b3055",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Blighted_Keeper_Chain_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bb8eda61-7a3e-4311-86e8-12e36cf04cfe",
     "TemplateName": "tomb sentry"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Pants_of_Waking_Dreams",
+    "LastTimeRowUpdated": "2018-01-29 00:35:00",
+    "LootTemplate_ID": "bb905ffd-1555-49f9-8bb5-a794e572a960",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -97694,6 +97886,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bbb4abc4-39f8-4c04-b88e-8bee63d0b5db",
     "TemplateName": "grave goblin shaman"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Helm",
+    "LastTimeRowUpdated": "2018-01-30 20:24:52",
+    "LootTemplate_ID": "bbc4fa18-9bba-45a4-a2d0-b83c1a9cd7cd",
+    "TemplateName": "arachite grymherre"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Crafted_Darksteel_Gauntlets",
+    "LastTimeRowUpdated": "2018-01-30 21:10:06",
+    "LootTemplate_ID": "bbd4d89e-1774-4957-8ed1-01a5e58ee9fe",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -97814,14 +98022,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bc167fb0-f8e6-4d2c-a599-9300b546c339",
     "TemplateName": "shepherd"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFSB_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bc18eeb6-f0fb-421e-bae6-2df6f56c82be",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -98176,11 +98376,11 @@
     "TemplateName": "tomb creeper"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WDP_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bd89563c-6866-4073-90a9-4a1e52dd3117",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Crafted_Darksteel_Composite_Bow",
+    "LastTimeRowUpdated": "2018-01-30 21:15:15",
+    "LootTemplate_ID": "bd644bc0-effa-4f13-b555-98c238725838",
     "TemplateName": "arachite grymherre"
   },
   {
@@ -98318,6 +98518,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bded4276-d351-4d4b-b6d2-974ff93f502d",
     "TemplateName": "nordic dirge"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Twisted_Darksteel_Ring",
+    "LastTimeRowUpdated": "2018-01-30 19:53:48",
+    "LootTemplate_ID": "bdf2c155-da3a-4341-8e3a-8d18728befff",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -98710,6 +98918,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bf7a703c-0450-4abb-ab6b-4f54f3bdab77",
     "TemplateName": "cave trow"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Helm",
+    "LastTimeRowUpdated": "2018-01-30 22:31:17",
+    "LootTemplate_ID": "bf7d47db-c669-42f7-ad29-786664468815",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -99337,14 +99553,6 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LBD_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "c0f09833-5a89-41b8-910b-2cd316072209",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
     "Count": 1,
     "ItemTemplateID": "Dragonsworn_Stiletto",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -99968,10 +100176,10 @@
     "TemplateName": "werewolf elite guard"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Crystal-Threaded_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:54",
     "LootTemplate_ID": "c3e8ecf5-ad30-4811-877f-8d735ccc43be",
     "TemplateName": "anger sprite"
   },
@@ -100118,14 +100326,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c485db95-c6ab-4efe-8b5c-04ed8b622944",
     "TemplateName": "svartalf thrall"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DS_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "c49d4fb9-c111-4107-bf25-7353ca85b9f7",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -100310,6 +100510,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c5b56237-c3ca-413d-a6b2-989a343b5ef2",
     "TemplateName": "skeleton"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Twisted_Darksteel_Soothsayer_Bracer",
+    "LastTimeRowUpdated": "2018-01-30 19:39:51",
+    "LootTemplate_ID": "c5b7ea80-335f-4fcf-9d73-f844f9329b00",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -100528,6 +100736,14 @@
     "TemplateName": "coerced groover"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Axe",
+    "LastTimeRowUpdated": "2018-01-30 22:47:16",
+    "LootTemplate_ID": "c68ad860-6462-4743-86f5-219730655440",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Glowing_Haggerts_Bane",
@@ -100704,6 +100920,14 @@
     "TemplateName": "peallaidh"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 21:24:33",
+    "LootTemplate_ID": "c77b34e7-da11-470c-8402-ae14c903279f",
+    "TemplateName": "arachite grymherre"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dried_Moss_Cloak",
@@ -100726,6 +100950,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c790653f-d60a-49e5-9ebd-88853f92b64d",
     "TemplateName": "werewolf churl"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Silksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 22:13:49",
+    "LootTemplate_ID": "c795d7da-6746-412d-8996-87fd9f61fecd",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 20,
@@ -100766,14 +100998,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c7b31437-b29f-43c1-9909-9f0d5e097abd",
     "TemplateName": "svartalf arbetare"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Luminous_Woven_Darksteel_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "c7c336ba-d158-42de-bf24-8ed521892c17",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 35,
@@ -101296,20 +101520,20 @@
     "TemplateName": "silver-maddened werewolf"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Axe",
+    "LastTimeRowUpdated": "2018-01-30 22:15:15",
+    "LootTemplate_ID": "c9fd5e30-4cb6-409b-aa09-594e97fa91d6",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Cloak_of_the_Blackheart",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c9ff2a2c-bc66-4b81-ad46-ae57a7bc66c5",
     "TemplateName": "repentant follower"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_LBD_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ca09b9fd-f5a1-4bf0-bacd-eb366d97b078",
-    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -101454,6 +101678,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cab0c756-e9fa-4573-a6c8-bac0216165f6",
     "TemplateName": "barrow wight"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Fine_Brocade_Vest",
+    "LastTimeRowUpdated": "2018-01-29 00:27:55",
+    "LootTemplate_ID": "cab79978-6641-472a-aa1e-63f256de5663",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -102376,6 +102608,14 @@
     "TemplateName": "wildling"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "red_enamel4",
+    "LastTimeRowUpdated": "2018-01-30 23:09:22",
+    "LootTemplate_ID": "cf2b91e2-14e2-46ae-8dad-d4eae9872d21",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Studied_Eldritch_Staff",
@@ -102422,6 +102662,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cf4997ef-d29c-4674-b810-26e2ea63c487",
     "TemplateName": "wood ogre berserker"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Cap",
+    "LastTimeRowUpdated": "2018-01-30 20:20:52",
+    "LootTemplate_ID": "cf4c0e68-2f8a-4b26-8566-207b209ad593",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -102478,6 +102726,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cf96cefb-06c3-4fb1-863a-f349078d73b6",
     "TemplateName": "moheran distorter"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Fine Brocade Gloves",
+    "LastTimeRowUpdated": "2018-01-29 01:44:47",
+    "LootTemplate_ID": "cf9b662b-a61a-46d3-98e2-03f702766a34",
+    "TemplateName": "amalgamate shadow parthanan"
   },
   {
     "Chance": 40,
@@ -102782,6 +103038,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "C_RB",
     "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ring of Deathsight Intensity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_RoDI",
+    "TemplateName": "cythraul"
   },
   {
     "Chance": 40,
@@ -103184,6 +103448,14 @@
     "TemplateName": "deeplurk dissembler"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Sparrow_Pendant",
+    "LastTimeRowUpdated": "2018-01-30 19:02:59",
+    "LootTemplate_ID": "d16383f6-0495-4d19-8470-6080cfa09343",
+    "TemplateName": "annoying lucradan"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shadowsilk_Vest",
@@ -103278,6 +103550,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d1d435b2-0a00-4e72-84c3-e6d27850c04c",
     "TemplateName": "vigilant soul"
+  },
+  {
+    "Chance": 50,
+    "Count": 1,
+    "ItemTemplateID": "Icebender Gem",
+    "LastTimeRowUpdated": "2018-01-28 22:27:02",
+    "LootTemplate_ID": "d1d48ec6-af8b-4524-8f05-b5881fbc51c5",
+    "TemplateName": "accursed plunderer"
   },
   {
     "Chance": 20,
@@ -103726,6 +104006,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d39e7f34-7672-4fc8-9d1a-852ae1ee2dd5",
     "TemplateName": "alfrigg"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
+    "LastTimeRowUpdated": "2018-01-30 19:37:07",
+    "LootTemplate_ID": "d39fa167-fe00-4836-8f32-932d5378f5dc",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -105281,6 +105569,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Well_Crafted_Lantern",
+    "LastTimeRowUpdated": "2018-01-29 01:40:05",
+    "LootTemplate_ID": "d90aa5f2-3504-4ee0-8b06-e5a2154d3575",
+    "TemplateName": "amadan touched"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bright_Rejuvenating_Roman_Leather_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -105398,6 +105694,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d9664c84-6a66-4881-90eb-3b3e0639986f",
     "TemplateName": "lecherous gress"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Darksteel_Sleeves",
+    "LastTimeRowUpdated": "2018-01-30 21:12:59",
+    "LootTemplate_ID": "d975a415-0b9b-4019-b5ab-5916b1c7422b",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -105728,6 +106032,14 @@
     "TemplateName": "borwyr the cursed"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "light_purple_leather_dye",
+    "LastTimeRowUpdated": "2018-01-30 22:54:30",
+    "LootTemplate_ID": "da6f3069-1855-4bfd-81c4-8e2a3279bada",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dangerous_Tooth",
@@ -105898,14 +106210,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hAxe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "DAL2hAxe-Imp",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "2_DAL_2hHammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dal2hham-duegar",
@@ -106014,30 +106318,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "darstaff-arb",
     "TemplateName": "svartalf arbetare"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "darstaff-husk",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "darstaff-imp",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_DA_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "daspear-imp",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -106206,6 +106486,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "db7a5420-cbb1-432c-ad2c-7ecd6b54519c",
     "TemplateName": "banshee"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Hammer",
+    "LastTimeRowUpdated": "2018-01-30 22:48:25",
+    "LootTemplate_ID": "db7cb67d-ac6b-46d9-a263-3741e4f72300",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -106458,14 +106746,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Braided_Silksteel_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "dc956a42-e697-4d98-96e3-1cd2711c0e0d",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Luminous_Widows_Silk_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dca45257-3c59-497d-b4a5-dcc15bf990c5",
@@ -106570,14 +106850,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "dd20566e-1d12-4339-a522-48832b93a507",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Fanes_Shroud",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dd266f2f-bd2e-4f35-9843-f464f35d65c3",
@@ -106662,14 +106934,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dd81123c-f616-4fe7-8767-f589254a032e",
     "TemplateName": "rattling skeleton"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_SFSB_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "dd848053-07d5-4f80-b316-19d3e3e8496c",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -106798,6 +107062,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "de2796b8-95db-43a4-881f-8228396fb2f3",
     "TemplateName": "cliff crawler"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Scythe_of_the_Dark_Hand",
+    "LastTimeRowUpdated": "2018-01-29 00:28:23",
+    "LootTemplate_ID": "de2ba9cc-a653-4592-9a28-de3ad13a0570",
+    "TemplateName": "alp luachra"
   },
   {
     "Chance": 20,
@@ -107202,14 +107474,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "dfb4a962-8f10-4e37-8f0f-057d19294543",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shimmering_Ghostly_Truesilver_Cap",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dfc87300-a151-4cd7-9c5f-42212193a79d",
@@ -107432,6 +107696,14 @@
     "TemplateName": "silver-maddened werewolf"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Silksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 22:46:54",
+    "LootTemplate_ID": "e04b7208-8755-4db0-b1ad-c721a600647a",
+    "TemplateName": "arachite impaler"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fine_Bear_Pelt",
@@ -107606,6 +107878,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e1039dcc-b15c-49e4-b60c-0fefb2cb505d",
     "TemplateName": "tomte cutthroat"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dried_Moss_Ring",
+    "LastTimeRowUpdated": "2018-01-29 01:37:24",
+    "LootTemplate_ID": "e10a0003-36ed-4e3b-a8f6-ca86d7a67494",
+    "TemplateName": "amadan touched"
   },
   {
     "Chance": 100,
@@ -107914,14 +108194,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WD_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e26c1d3b-9944-4e32-8361-fbb3c3bcada7",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Earthen_Woven_Root_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e275380f-d9bb-40d4-abfd-18ff983ded0d",
@@ -108224,10 +108496,10 @@
     "TemplateName": "keltoi ritualist"
   },
   {
-    "Chance": 35,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Mentalists_Staff_of_Channeling",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:44:57",
     "LootTemplate_ID": "e397b4a8-8f61-41d3-9c9b-3100c5bf8214",
     "TemplateName": "anger sprite"
   },
@@ -109144,10 +109416,10 @@
     "TemplateName": "keltoi initiate"
   },
   {
-    "Chance": 40,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Wavy_Piercer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 19:01:28",
     "LootTemplate_ID": "e6c188f8-7351-4ffc-abab-b143bd8e4d18",
     "TemplateName": "annoying lucradan"
   },
@@ -109542,6 +109814,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e8753234-7502-4d37-b97d-8bfe9e7d5160",
     "TemplateName": "werewolf churl"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Woven_Darksteel_Gloves",
+    "LastTimeRowUpdated": "2018-01-30 21:29:01",
+    "LootTemplate_ID": "e8792c2e-26c6-4aef-a34b-55fee99088f1",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -109976,6 +110256,14 @@
     "TemplateName": "echo of life"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Keen_Asterite_Great_Sword",
+    "LastTimeRowUpdated": "2018-01-30 22:19:36",
+    "LootTemplate_ID": "ea650529-722f-4ec5-bb15-06d16dfb2a5d",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Webbed_Shadow_Jerkin",
@@ -110030,14 +110318,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ea96d5a4-bbda-4afd-abae-decce854afac",
     "TemplateName": "kez"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Braided_Silksteel_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ea9cfc9d-a3b3-4664-8521-f181e727be66",
-    "TemplateName": "arachite husker"
   },
   {
     "Chance": 40,
@@ -110753,6 +111033,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Heartwood Branch",
+    "LastTimeRowUpdated": "2018-01-28 22:29:37",
+    "LootTemplate_ID": "ed2d93a5-affc-494d-af79-6f42c31e1067",
+    "TemplateName": "acid bubble"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "shiningarawnitechaingloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -110822,6 +111110,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ed72c6ef-bb8a-4505-ad40-87a70657e7db",
     "TemplateName": "empyrean overseer"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Darksteel_Ring",
+    "LastTimeRowUpdated": "2018-01-30 20:27:34",
+    "LootTemplate_ID": "ed921e87-86d0-468d-a258-d43d6413474c",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -110998,6 +111294,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ee50c446-9de7-4fe3-9c7c-a123080d2169",
     "TemplateName": "bounty hunter"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Darksteel_Necklace",
+    "LastTimeRowUpdated": "2018-01-30 21:23:11",
+    "LootTemplate_ID": "ee547b6a-e624-4d33-b005-f8b8e9263d68",
+    "TemplateName": "arachite grymherre"
   },
   {
     "Chance": 20,
@@ -111414,6 +111718,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "efd0c280-64ef-4e57-866d-2df28480718f",
     "TemplateName": "ellyll froglord"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Trollish_Stone_Bracer",
+    "LastTimeRowUpdated": "2018-01-28 23:04:00",
+    "LootTemplate_ID": "efd67426-6c54-4fbb-963f-6847711362af",
+    "TemplateName": "acid bubble"
   },
   {
     "Chance": 20,
@@ -112016,6 +112328,14 @@
     "TemplateName": "lunantishee"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Sword",
+    "LastTimeRowUpdated": "2018-01-30 22:18:23",
+    "LootTemplate_ID": "f1c51330-ce87-4e58-be43-ec51f2174fcd",
+    "TemplateName": "arachite husker"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bone-handled_Trident",
@@ -112321,11 +112641,27 @@
   },
   {
     "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "2_SCB_Belt",
+    "LastTimeRowUpdated": "2018-01-30 19:22:19",
+    "LootTemplate_ID": "f305b2d5-537a-42ac-b00c-73596411c176",
+    "TemplateName": "arachite greensilk"
+  },
+  {
+    "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Magma_Hardened_Leather_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f312fc1d-c3e5-4733-8e47-504bff160cae",
     "TemplateName": "ruthless brigand"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Smoldering_Scale_Gloves",
+    "LastTimeRowUpdated": "2018-01-29 01:39:29",
+    "LootTemplate_ID": "f32be924-3f00-4f06-8fdb-f2c1f62b1737",
+    "TemplateName": "amadan touched"
   },
   {
     "Chance": 20,
@@ -112422,6 +112758,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f37c4ba9-9590-4f82-a7a8-fb469b5084c8",
     "TemplateName": "howling knifeman"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Braided_Silksteel_Boots",
+    "LastTimeRowUpdated": "2018-01-30 22:08:01",
+    "LootTemplate_ID": "f37ed76f-5136-4f76-8624-a1560a867540",
+    "TemplateName": "arachite husker"
   },
   {
     "Chance": 35,
@@ -113738,14 +114082,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "f847232a-05df-4498-8464-3689660ca120",
-    "TemplateName": "arachite grymherre"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "3_Worn_Jewel_Pierced_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f84b49ae-a99a-4492-846f-614da799b399",
@@ -114062,6 +114398,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f946ff7f-4d79-48ff-a4cd-64efe1e3ce59",
     "TemplateName": "jari"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Lesser_Beleaguered_Mitigation_Mythirian",
+    "LastTimeRowUpdated": "2018-01-28 23:48:33",
+    "LootTemplate_ID": "f94b64b7-eb0a-47a4-8671-16a99d54856f",
+    "TemplateName": "active sercuritor"
   },
   {
     "Chance": 20,
@@ -114406,6 +114750,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fa80d092-a01d-42d0-b2cf-61fdf8688972",
     "TemplateName": "glimmer zeit"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dull_Asterite_Sword",
+    "LastTimeRowUpdated": "2018-01-30 22:52:45",
+    "LootTemplate_ID": "fa941fd1-db30-486e-ab6a-01c239aad6b2",
+    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -115106,14 +115458,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SFSB_sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "fd42ea18-53c0-4ca0-bb24-d3f81038ba5b",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "batteredmoorgauntlets",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fd4489fc-1f82-4f02-a318-29a4a13c668a",
@@ -115402,14 +115746,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_FS_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "fe4e0f28-5d15-4cd4-908e-20934f9172a9",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "unholypantsofoblation",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fe51d49a-6d85-4c76-a5f9-2b38831e0dab",
@@ -115640,10 +115976,10 @@
     "TemplateName": "deeplurk dissembler"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Fell_Creature's_Tooth",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-01-30 18:48:30",
     "LootTemplate_ID": "Fell_Creature_Tooth",
     "TemplateName": "angry bwca"
   },
@@ -117322,14 +117658,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_KAG_2hSword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "kag2hsword-husk",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Kath_gem",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Kath_gem",
@@ -117394,10 +117722,10 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "LBS_Legs",
+    "ItemTemplateID": "Malevolent_Breastplate",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "lbsl-husk",
-    "TemplateName": "arachite husker"
+    "LootTemplate_ID": "LA_MB",
+    "TemplateName": "legendary afanc"
   },
   {
     "Chance": 20,
@@ -118740,14 +119068,6 @@
     "Count": 0,
     "ItemTemplateID": "SFSB",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "sfsb-imp",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "SFSB",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "sfsb-krig",
     "TemplateName": "arachite krigare"
   },
@@ -118772,14 +119092,6 @@
     "Count": 0,
     "ItemTemplateID": "SFSC",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "sfsc-imp",
-    "TemplateName": "arachite impaler"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "SFSC",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "sfsc-krig",
     "TemplateName": "arachite krigare"
   },
@@ -118798,22 +119110,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "sfsc-vakt",
     "TemplateName": "arachite vakt"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "SFSG",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "sfsg-husk",
-    "TemplateName": "arachite husker"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "SFSG",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "sfsg-imp",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
@@ -119850,6 +120146,22 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Ghastly_Mendicant_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UM_GML",
+    "TemplateName": "undead monk"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ghastly_Mendicant_Power_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "UM_GMPG",
+    "TemplateName": "undead monk"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "2_Flayed_Hagbui_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "v23525235",
@@ -120074,6 +120386,14 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Bracer of Energy Suppression",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "WH_BoES",
+    "TemplateName": "welsh hobgoblin"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Windchaser_Naiheras_Remains",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Windchaser_Naiheras_Remains",
@@ -120134,14 +120454,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "wsboot-tun",
     "TemplateName": "arachite tunnelhost"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_WS_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "wsgloves-imp",
-    "TemplateName": "arachite impaler"
   },
   {
     "Chance": 20,
