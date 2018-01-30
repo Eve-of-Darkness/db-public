@@ -2395,9 +2395,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Annoying Lucradan",
-    "MobName": "Annoying Lucradan",
+    "LastTimeRowUpdated": "2018-01-30 19:00:19",
+    "LootTemplateName": "annoying lucradan",
+    "MobName": "annoying lucradan",
     "MobXLootTemplate_ID": "1160"
   },
   {
@@ -2640,9 +2640,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Angry Bwca",
-    "MobName": "Angry Bwca",
+    "LastTimeRowUpdated": "2018-01-30 18:48:25",
+    "LootTemplateName": "angry bwca",
+    "MobName": "angry bwca",
     "MobXLootTemplate_ID": "122"
   },
   {
@@ -2962,9 +2962,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Ancient Sapherd",
-    "MobName": "Ancient Sapherd",
+    "LastTimeRowUpdated": "2018-01-30 18:38:28",
+    "LootTemplateName": "ancient sapherd",
+    "MobName": "ancient sapherd",
     "MobXLootTemplate_ID": "12524"
   },
   {
@@ -3340,9 +3340,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Amalgamate Shadow Parthanan",
-    "MobName": "Amalgamate Shadow Parthanan",
+    "LastTimeRowUpdated": "2018-01-30 18:16:09",
+    "LootTemplateName": "amalgamate shadow parthanan",
+    "MobName": "amalgamate shadow parthanan",
     "MobXLootTemplate_ID": "12987"
   },
   {
@@ -4109,6 +4109,13 @@
     "MobXLootTemplate_ID": "18ab2bbb-67dc-48b1-9ed9-308647964d1d"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-29 01:41:34",
+    "LootTemplateName": "amalgamate parthanan",
+    "MobName": "amalgamate parthanan",
+    "MobXLootTemplate_ID": "18ad6de3-8e7e-41c8-98ad-6ad7294c61e5"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "succube di asmoien",
@@ -4520,6 +4527,13 @@
     "LootTemplateName": "Red Dwarf Highwayman",
     "MobName": "Red Dwarf Highwayman",
     "MobXLootTemplate_ID": "1f742f70-e264-407c-aebb-5227fc2f6a9b"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:37:28",
+    "LootTemplateName": "ancient drakoran necromancer",
+    "MobName": "ancient drakoran necromancer",
+    "MobXLootTemplate_ID": "1f786110-2d94-46d5-9d93-57c109f6512d"
   },
   {
     "DropCount": 2,
@@ -8247,9 +8261,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Aqueous Slug",
-    "MobName": "Aqueous Slug",
+    "LastTimeRowUpdated": "2018-01-30 19:20:07",
+    "LootTemplateName": "aqueous slug",
+    "MobName": "aqueous slug",
     "MobXLootTemplate_ID": "3280"
   },
   {
@@ -10248,6 +10262,13 @@
     "MobXLootTemplate_ID": "3c8ca879-7886-4b51-a7c3-4f991ab8ec36"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:59:43",
+    "LootTemplateName": "animated pet",
+    "MobName": "animated pet",
+    "MobXLootTemplate_ID": "3d9265d3-9e70-4e1f-8987-518149e0e7d4"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "jarl ormarr",
@@ -11058,6 +11079,13 @@
     "LootTemplateName": "Botonid Seedling",
     "MobName": "Botonid Seedling",
     "MobXLootTemplate_ID": "4335"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:29:13",
+    "LootTemplateName": "ancient basilisk",
+    "MobName": "ancient basilisk",
+    "MobXLootTemplate_ID": "433ade14-ab38-4d83-bec6-f8ae5be13caa"
   },
   {
     "DropCount": 2,
@@ -12678,6 +12706,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-29 01:32:43",
+    "LootTemplateName": "alpine cockatrice",
+    "MobName": "alpine cockatrice",
+    "MobXLootTemplate_ID": "4ebd59e9-aa44-4ffb-a770-a4dbd9a111b7"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Bandit Hopeful",
     "MobName": "Bandit Hopeful",
@@ -13686,9 +13721,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Amadan Touched",
-    "MobName": "Amadan Touched",
+    "LastTimeRowUpdated": "2018-01-29 01:40:44",
+    "LootTemplateName": "amadan touched",
+    "MobName": "amadan touched",
     "MobXLootTemplate_ID": "558"
   },
   {
@@ -14910,6 +14945,13 @@
     "MobXLootTemplate_ID": "609226f4-a0b4-4015-8918-15cbfbcee477"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:30:09",
+    "LootTemplateName": "ancient beech",
+    "MobName": "ancient beech",
+    "MobXLootTemplate_ID": "60a1e6df-d9b4-4337-9df4-79cd885d1ce6"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "iggy",
@@ -15191,9 +15233,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Anger Sprite",
-    "MobName": "Anger Sprite",
+    "LastTimeRowUpdated": "2018-01-30 18:41:29",
+    "LootTemplateName": "anger sprite",
+    "MobName": "anger sprite",
     "MobXLootTemplate_ID": "642"
   },
   {
@@ -18355,6 +18397,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 19:18:57",
+    "LootTemplateName": "apprentice beastmaster",
+    "MobName": "apprentice beastmaster",
+    "MobXLootTemplate_ID": "83e9ac92-be0b-47e7-a185-0f736fd5b122"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Brownie",
     "MobName": "Brownie",
@@ -19209,30 +19258,30 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Greensilk",
-    "MobName": "Arachite Greensilk",
+    "LastTimeRowUpdated": "2018-01-30 19:21:43",
+    "LootTemplateName": "arachite greensilk",
+    "MobName": "arachite greensilk",
     "MobXLootTemplate_ID": "972"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Grymherre",
-    "MobName": "Arachite Grymherre",
+    "LastTimeRowUpdated": "2018-01-30 19:26:08",
+    "LootTemplateName": "arachite grymherre",
+    "MobName": "arachite grymherre",
     "MobXLootTemplate_ID": "973"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Hatchling",
-    "MobName": "Arachite Hatchling",
+    "LastTimeRowUpdated": "2018-01-30 21:30:11",
+    "LootTemplateName": "arachite hatchling",
+    "MobName": "arachite hatchling",
     "MobXLootTemplate_ID": "974"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Husker",
-    "MobName": "Arachite Husker",
+    "LastTimeRowUpdated": "2018-01-30 21:34:48",
+    "LootTemplateName": "arachite husker",
+    "MobName": "arachite husker",
     "MobXLootTemplate_ID": "975"
   },
   {
@@ -19495,6 +19544,13 @@
     "MobXLootTemplate_ID": "9c178b13-2e1a-43bb-a609-12ab278dca05"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:31:20",
+    "LootTemplateName": "ancient bodachan sabhaill",
+    "MobName": "ancient bodachan sabhaill",
+    "MobXLootTemplate_ID": "9ca57486-8d7e-48fd-8e56-d44074c8c9aa"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "echo of imsety",
@@ -19677,6 +19733,13 @@
     "MobXLootTemplate_ID": "af2583ee-2092-4a34-ad1b-2426d5654589"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:47:40",
+    "LootTemplateName": "angry bodachan sabhaill",
+    "MobName": "angry bodachan sabhaill",
+    "MobXLootTemplate_ID": "af6ca766-503b-451a-8995-dbda4f6828f3"
+  },
+  {
     "DropCount": 5,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Asiintath",
@@ -19829,6 +19892,13 @@
     "LootTemplateName": "imchath",
     "MobName": "imchath",
     "MobXLootTemplate_ID": "bb0f46e9-b71c-43cd-a25d-5cabfc67b384"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 19:13:30",
+    "LootTemplateName": "ant drone",
+    "MobName": "ant drone",
+    "MobXLootTemplate_ID": "bb38b270-83f2-4b1a-b094-ae752c9ea85c"
   },
   {
     "DropCount": 2,
@@ -20116,6 +20186,13 @@
     "LootTemplateName": "sladug",
     "MobName": "sladug",
     "MobXLootTemplate_ID": "d398c220-7e9f-4551-9019-b680ed84c88c"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:46:44",
+    "LootTemplateName": "angered hill person",
+    "MobName": "angered hill person",
+    "MobXLootTemplate_ID": "d4aede75-dbf4-48cc-9321-5618ff1d15ea"
   },
   {
     "DropCount": 2,
@@ -20482,6 +20559,13 @@
     "MobXLootTemplate_ID": "f91a57a9-e787-47b0-8664-b57a60b275b8"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:58:50",
+    "LootTemplateName": "animated corpse",
+    "MobName": "animated corpse",
+    "MobXLootTemplate_ID": "f928e323-0793-4501-bbcd-4c8d2e8932c1"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "jari",
@@ -20515,6 +20599,13 @@
     "LootTemplateName": "dragonsworn cleric",
     "MobName": "dragonsworn cleric",
     "MobXLootTemplate_ID": "fa3ecac1-7e88-474b-85ae-9133def650a1"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-01-30 18:49:59",
+    "LootTemplateName": "anguished parthelonian",
+    "MobName": "anguished parthelonian",
+    "MobXLootTemplate_ID": "fb738624-3d9b-45be-9099-e72687df7dbb"
   },
   {
     "DropCount": 2,
