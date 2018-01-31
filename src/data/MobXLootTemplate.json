@@ -19293,23 +19293,23 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Krigare",
-    "MobName": "Arachite Krigare",
+    "LastTimeRowUpdated": "2018-01-31 11:29:08",
+    "LootTemplateName": "arachite krigare",
+    "MobName": "arachite krigare",
     "MobXLootTemplate_ID": "977"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Prelate",
-    "MobName": "Arachite Prelate",
+    "LastTimeRowUpdated": "2018-01-31 11:45:58",
+    "LootTemplateName": "arachite prelate",
+    "MobName": "arachite prelate",
     "MobXLootTemplate_ID": "978"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Priest",
-    "MobName": "Arachite Priest",
+    "LastTimeRowUpdated": "2018-01-31 11:51:53",
+    "LootTemplateName": "arachite priest",
+    "MobName": "arachite priest",
     "MobXLootTemplate_ID": "979"
   },
   {
@@ -19328,16 +19328,16 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Shadowslinker",
-    "MobName": "Arachite Shadowslinker",
+    "LastTimeRowUpdated": "2018-01-31 17:13:28",
+    "LootTemplateName": "arachite shadowslinker",
+    "MobName": "arachite shadowslinker",
     "MobXLootTemplate_ID": "980"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Tunnelhost",
-    "MobName": "Arachite Tunnelhost",
+    "LastTimeRowUpdated": "2018-01-31 17:20:55",
+    "LootTemplateName": "arachite tunnelhost",
+    "MobName": "arachite tunnelhost",
     "MobXLootTemplate_ID": "981"
   },
   {
