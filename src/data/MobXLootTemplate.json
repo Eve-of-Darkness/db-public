@@ -6511,9 +6511,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Avernal Quasit",
-    "MobName": "Avernal Quasit",
+    "LastTimeRowUpdated": "2018-02-01 22:29:13",
+    "LootTemplateName": "avernal quasit",
+    "MobName": "avernal quasit",
     "MobXLootTemplate_ID": "2967"
   },
   {
@@ -9353,23 +9353,23 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Azure Avenger",
-    "MobName": "Azure Avenger",
+    "LastTimeRowUpdated": "2018-02-01 22:37:44",
+    "LootTemplateName": "azure avenger",
+    "MobName": "azure avenger",
     "MobXLootTemplate_ID": "3601"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Azure Banisher",
-    "MobName": "Azure Banisher",
+    "LastTimeRowUpdated": "2018-02-01 22:38:58",
+    "LootTemplateName": "azure banisher",
+    "MobName": "azure banisher",
     "MobXLootTemplate_ID": "3602"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Azure Cleanser",
-    "MobName": "Azure Cleanser",
+    "LastTimeRowUpdated": "2018-02-01 22:45:02",
+    "LootTemplateName": "azure cleanser",
+    "MobName": "azure cleanser",
     "MobXLootTemplate_ID": "3603"
   },
   {
@@ -12759,6 +12759,13 @@
     "LootTemplateName": "alpine cockatrice",
     "MobName": "alpine cockatrice",
     "MobXLootTemplate_ID": "4ebd59e9-aa44-4ffb-a770-a4dbd9a111b7"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 22:21:20",
+    "LootTemplateName": "aughisky colt",
+    "MobName": "aughisky colt",
+    "MobXLootTemplate_ID": "4ed4a688-b3a6-49d3-9b6a-efe3e21843d4"
   },
   {
     "DropCount": 1,
@@ -20097,6 +20104,13 @@
     "MobXLootTemplate_ID": "c210daa9-dcf7-4227-8cf5-6cfc18f9beb0"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 22:22:15",
+    "LootTemplateName": "aurora",
+    "MobName": "aurora",
+    "MobXLootTemplate_ID": "c217d9f3-4be4-498c-bbc0-c2819914b6f1"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "obeboddoklan hunter",
@@ -20690,6 +20704,13 @@
     "LootTemplateName": "jari",
     "MobName": "jari",
     "MobXLootTemplate_ID": "f946ff7f-4d79-48ff-a4cd-64efe1e3ce59"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 23:01:39",
+    "LootTemplateName": "azure idolater",
+    "MobName": "azure idolater",
+    "MobXLootTemplate_ID": "f95e0d79-4df2-41cc-a10b-9dae2163bc83"
   },
   {
     "DropCount": 2,

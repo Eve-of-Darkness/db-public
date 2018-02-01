@@ -7682,14 +7682,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Welkin_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "225e8e0b-48c5-423d-88ec-c30e17aec854",
-    "TemplateName": "azure cleanser"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Bracer_of_the_Triumvirate",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2269d560-71ad-4670-8ff0-ae96236d9831",
@@ -9336,10 +9328,10 @@
     "TemplateName": "juggernaut"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Netherworld_Flower",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 10,
+    "ItemTemplateID": "dragonscales",
+    "LastTimeRowUpdated": "2018-02-01 22:39:34",
     "LootTemplate_ID": "29d01a12-aace-4dfd-9756-6b1794ce469c",
     "TemplateName": "azure banisher"
   },
@@ -12056,10 +12048,10 @@
     "TemplateName": "silvermine knocker"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Shimmering_Shining_Sheeroe_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:39:20",
     "LootTemplate_ID": "365440eb-973b-4b92-b532-2b543d7d29b8",
     "TemplateName": "azure banisher"
   },
@@ -13494,6 +13486,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3de5ede6-9f0c-49bd-b2d5-8f637e685392",
     "TemplateName": "kor"
+  },
+  {
+    "Chance": 15,
+    "Count": 10,
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
+    "LastTimeRowUpdated": "2018-02-01 22:37:52",
+    "LootTemplate_ID": "3de7d258-8671-4dc2-bf03-be69644b3da9",
+    "TemplateName": "Azure Avenger"
   },
   {
     "Chance": 20,
@@ -16274,14 +16274,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Azure_Avenger",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "4a60a7c1-924e-4831-ab0e-4743ed5a231d",
-    "TemplateName": "azure avenger"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Great_Boar_Hide",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4a68e7fc-d628-4688-9c61-dbb3540fdef6",
@@ -16366,6 +16358,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4aac96a0-1d75-4001-b689-448737e963cc",
     "TemplateName": "stor ekyps"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Welkin_Leggings",
+    "LastTimeRowUpdated": "2018-02-01 22:55:53",
+    "LootTemplate_ID": "4ab3f89a-6864-490c-8b6e-5a2aecd08fdf",
+    "TemplateName": "azure cleanser"
   },
   {
     "Chance": 20,
@@ -18960,6 +18960,14 @@
     "TemplateName": "tomb wight"
   },
   {
+    "Chance": 15,
+    "Count": 10,
+    "ItemTemplateID": "Azure_Avenger",
+    "LastTimeRowUpdated": "2018-02-01 22:37:46",
+    "LootTemplate_ID": "570846ca-abe6-407d-8fb0-50a376781ddb",
+    "TemplateName": "Azure Avenger"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ghastly_Mendicant_Gloves",
@@ -19328,10 +19336,10 @@
     "TemplateName": "irewood greenbark"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 10,
+    "ItemTemplateID": "dragonscales",
+    "LastTimeRowUpdated": "2018-02-01 22:37:48",
     "LootTemplate_ID": "588c9bdc-6cf7-4811-a77a-b4500719c799",
     "TemplateName": "azure avenger"
   },
@@ -22122,14 +22130,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Antipodean_Club",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "642bc7a1-7ef9-4b34-986b-ef1aed57deea",
-    "TemplateName": "azure cleanser"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Warshade_Protector",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "642d8478-e9e1-45d8-992e-a3f52f5e7940",
@@ -24528,10 +24528,10 @@
     "TemplateName": "legil"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Entwined_Silken_Strand",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:57:01",
     "LootTemplate_ID": "6df5ca32-fa93-4680-b9d8-ba19113a675b",
     "TemplateName": "azure cleanser"
   },
@@ -25928,10 +25928,10 @@
     "TemplateName": "granite giant stoneshaper"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
+    "LastTimeRowUpdated": "2018-02-01 22:37:50",
     "LootTemplate_ID": "73514942-d184-4079-b967-f1dfd2d63a00",
     "TemplateName": "azure avenger"
   },
@@ -26766,6 +26766,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "76bc16a8-9d94-44d3-8ba7-5fbcdaf7105f",
     "TemplateName": "svartalf thrall"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Antipodean_Club",
+    "LastTimeRowUpdated": "2018-02-01 22:56:56",
+    "LootTemplate_ID": "76bcd850-9dc9-4bf6-83cd-1748a2481b3b",
+    "TemplateName": "azure cleanser"
   },
   {
     "Chance": 20,
@@ -28392,10 +28400,10 @@
     "TemplateName": "Bandit Hopeful"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Shimmering_Welkin_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:46:36",
     "LootTemplate_ID": "7e2cb1fb-659c-46dd-ad86-d388e3ae820a",
     "TemplateName": "azure cleanser"
   },
@@ -31096,6 +31104,14 @@
     "TemplateName": "celtic lich"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Welkin_Gauntlets",
+    "LastTimeRowUpdated": "2018-02-01 22:49:31",
+    "LootTemplate_ID": "8a1b318c-0afb-40b0-b829-28f7ef3ec77f",
+    "TemplateName": "azure cleanser"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Bone_Necklace",
@@ -32590,6 +32606,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "90407b7c-f325-4a01-bc0f-935feaabe226",
     "TemplateName": "granite giant"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Welkin_Boots",
+    "LastTimeRowUpdated": "2018-02-01 22:47:37",
+    "LootTemplate_ID": "905363e3-4162-4365-b797-283d3e9b58a5",
+    "TemplateName": "azure cleanser"
   },
   {
     "Chance": 20,
@@ -88976,6 +89000,14 @@
     "TemplateName": "Lord Gifttand"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Welkin_Vest",
+    "LastTimeRowUpdated": "2018-02-01 22:59:18",
+    "LootTemplate_ID": "99f869e6-446c-4657-b906-3fe8948efa4a",
+    "TemplateName": "azure cleanser"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Lustrous_Black_Orm_Scaled_Shield",
@@ -89520,10 +89552,10 @@
     "TemplateName": "geirolf"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Shining_Sheeroe_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:39:22",
     "LootTemplate_ID": "9bac66cc-aab6-4493-a3ae-3390d7393e80",
     "TemplateName": "azure banisher"
   },
@@ -90312,10 +90344,10 @@
     "TemplateName": "mouth"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Shimmering_Shining_Sheeroe_Hauberk",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:39:17",
     "LootTemplate_ID": "9ec3b520-471e-457c-b139-d6d63bf0abd1",
     "TemplateName": "azure banisher"
   },
@@ -93961,9 +93993,9 @@
   },
   {
     "Chance": 100,
-    "Count": 0,
+    "Count": 5,
     "ItemTemplateID": "EmeraldSeal",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:29:24",
     "LootTemplate_ID": "ae06d777-7a4d-4251-a290-989daadce142",
     "TemplateName": "avernal quasit"
   },
@@ -99720,6 +99752,14 @@
     "TemplateName": "stonecrush excavator"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Welkin_Gem",
+    "LastTimeRowUpdated": "2018-02-01 22:52:41",
+    "LootTemplate_ID": "c05e2c94-3807-40c7-8272-e3ebcd921d52",
+    "TemplateName": "azure cleanser"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Kraggon_Worm_Breastplate",
@@ -102430,6 +102470,14 @@
     "LastTimeRowUpdated": "2018-01-25 03:41:39",
     "LootTemplate_ID": "cca6c92c-8005-41d3-a481-9ccecbe45eb1",
     "TemplateName": "Grand Chancellor Adremal"
+  },
+  {
+    "Chance": 15,
+    "Count": 10,
+    "ItemTemplateID": "dragonscales",
+    "LastTimeRowUpdated": "2018-02-01 22:56:58",
+    "LootTemplate_ID": "cca9295b-76be-4c9a-8c35-73ef6649bb30",
+    "TemplateName": "azure cleanser"
   },
   {
     "Chance": 20,
@@ -108152,6 +108200,14 @@
     "TemplateName": "amadan touched"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Brilliant_Antipodean_Short_Sword",
+    "LastTimeRowUpdated": "2018-02-01 22:44:24",
+    "LootTemplate_ID": "e114dab0-5d56-4029-bb3b-3c598e2e963f",
+    "TemplateName": "azure banisher"
+  },
+  {
     "Chance": 100,
     "Count": 5,
     "ItemTemplateID": "DiamondSeal",
@@ -109082,14 +109138,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Welkin_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e4b096cc-0cf4-4fce-87f4-9bd334e9a119",
-    "TemplateName": "azure cleanser"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Eye-studded_Tunic",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e4bbd94c-c826-418d-9d9d-f15ad3ddbb3a",
@@ -109374,14 +109422,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e5c0d871-871c-4d35-a5b6-2101f58997d7",
     "TemplateName": "abysmal"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Shimmering_Welkin_Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e5c2a56a-9ddf-41bb-a981-856eea750fed",
-    "TemplateName": "azure cleanser"
   },
   {
     "Chance": 20,
@@ -113600,10 +113640,10 @@
     "TemplateName": "peallaidh"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Shimmering_Antipodean_Short_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:39:15",
     "LootTemplate_ID": "f56da487-c102-4aab-94e8-267d2f6d4365",
     "TemplateName": "azure banisher"
   },
@@ -114408,14 +114448,6 @@
     "TemplateName": "ulga"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Welkin_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "f8784ad0-d533-46d7-ad86-41246b48314a",
-    "TemplateName": "azure cleanser"
-  },
-  {
     "Chance": 15,
     "Count": 0,
     "ItemTemplateID": "Gem_Covered_Belt",
@@ -114560,10 +114592,10 @@
     "TemplateName": "siabra mireguard"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Welkin_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 22:46:43",
     "LootTemplate_ID": "f90c37d8-0e19-4646-9dda-e0b9ee8bc0ca",
     "TemplateName": "azure cleanser"
   },
