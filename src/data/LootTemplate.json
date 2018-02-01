@@ -3069,7 +3069,7 @@
     "ItemTemplateID": "Matterbender_Bracer",
     "LastTimeRowUpdated": "2018-02-01 01:26:51",
     "LootTemplate_ID": "0dc07537-332e-4176-8ae7-a9acd4364dc2",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -3165,7 +3165,7 @@
     "ItemTemplateID": "Fortifying_Flail",
     "LastTimeRowUpdated": "2018-02-01 01:25:30",
     "LootTemplate_ID": "0e51a876-f052-4e3f-b794-b8dcfcfc1acb",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -6725,7 +6725,7 @@
     "ItemTemplateID": "Bladeblocker_Bracelet",
     "LastTimeRowUpdated": "2018-02-01 01:24:28",
     "LootTemplate_ID": "1e43cd5d-42d3-4b03-97fb-d63949205a97",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -9261,7 +9261,7 @@
     "ItemTemplateID": "Mighty_Mail_Leggings",
     "LastTimeRowUpdated": "2018-02-01 01:27:38",
     "LootTemplate_ID": "29610b83-f1b5-422f-a85f-4ac04edee0cd",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -9632,10 +9632,10 @@
     "TemplateName": "pelagian alliant"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "luminousfelledarchersdagger",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Felled_Archers_Dagger",
+    "LastTimeRowUpdated": "2018-02-01 01:52:11",
     "LootTemplate_ID": "2b535a23-db11-4241-8a97-d3ebaf6a0b66",
     "TemplateName": "archer"
   },
@@ -16533,7 +16533,7 @@
     "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2018-02-01 01:28:44",
     "LootTemplate_ID": "4b836020-1cb7-4314-bc19-400efa997fc3",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -31069,7 +31069,7 @@
     "ItemTemplateID": "Tattered_Spiderweave_Leggings",
     "LastTimeRowUpdated": "2018-02-01 01:32:48",
     "LootTemplate_ID": "8a04bc40-4b16-4627-8723-5413cb8ba13c",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -90245,7 +90245,7 @@
     "ItemTemplateID": "Shining_Arawnite_Serrated_Halberd",
     "LastTimeRowUpdated": "2018-02-01 01:31:01",
     "LootTemplate_ID": "9eab4743-8ff7-4376-a705-0222908d788a",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -93792,10 +93792,10 @@
     "TemplateName": "orchard nipper"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "luminousfallenarchersgreatbow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Luminous_Fallen_Archers_Great_Bow",
+    "LastTimeRowUpdated": "2018-02-01 01:50:15",
     "LootTemplate_ID": "ad623cbd-49ec-4783-bdf5-b8c2f68e7978",
     "TemplateName": "archer"
   },
@@ -100701,7 +100701,7 @@
     "ItemTemplateID": "Painbound_Focus_Invoker_Staff",
     "LastTimeRowUpdated": "2018-02-01 01:28:46",
     "LootTemplate_ID": "c58ab727-23ed-46f5-a7fc-a0981ca387a3",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -103949,7 +103949,7 @@
     "ItemTemplateID": "Soul_Taker_Rapier",
     "LastTimeRowUpdated": "2018-02-01 01:31:55",
     "LootTemplate_ID": "d24ace68-8dc2-43a9-be70-228646394600",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -109533,7 +109533,7 @@
     "ItemTemplateID": "Tensile_Mail_Hauberk",
     "LastTimeRowUpdated": "2018-02-01 01:33:55",
     "LootTemplate_ID": "e6604c88-3f42-4ca3-91d9-2f34439cc57a",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 40,
@@ -111269,7 +111269,7 @@
     "ItemTemplateID": "Shining_Arawnite_Chain_Gloves",
     "LastTimeRowUpdated": "2018-02-01 01:29:57",
     "LootTemplate_ID": "ed38fbef-6603-4e35-a4f9-bebd0cdc5d0a",
-    "TemplateName": "arawnite warrior"
+    "TemplateName": "Arawnite Warrior"
   },
   {
     "Chance": 20,
@@ -113296,10 +113296,10 @@
     "TemplateName": "werewolf churl"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "fallenguardsmanssword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Fallen_Guardsmans_Sword",
+    "LastTimeRowUpdated": "2018-02-01 01:48:13",
     "LootTemplate_ID": "f477d943-0913-4673-a769-2555bce6b7ad",
     "TemplateName": "archer"
   },

@@ -1260,6 +1260,13 @@
     "MobXLootTemplate_ID": "0f05dd2b-5f1b-45dd-83b8-139724426822"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 01:45:53",
+    "LootTemplateName": "arboreal drakeling",
+    "MobName": "arboreal drakeling",
+    "MobXLootTemplate_ID": "0f0cca67-3f06-4311-97d7-ed883c18d8f1"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "segugio infernale",
@@ -2948,9 +2955,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arawnite Warrior",
-    "MobName": "Arawnite Warrior",
+    "LastTimeRowUpdated": "2018-02-01 01:41:00",
+    "LootTemplateName": "Arawnite warrior",
+    "MobName": "Arawnite warrior",
     "MobXLootTemplate_ID": "125"
   },
   {
@@ -7862,9 +7869,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Archer",
-    "MobName": "Archer",
+    "LastTimeRowUpdated": "2018-02-01 01:47:08",
+    "LootTemplateName": "archer",
+    "MobName": "archer",
     "MobXLootTemplate_ID": "3197"
   },
   {
