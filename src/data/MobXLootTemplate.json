@@ -3480,6 +3480,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 00:52:58",
+    "LootTemplateName": "arachnid",
+    "MobName": "arachnid",
+    "MobXLootTemplate_ID": "136147c1-d271-42c7-9468-f014c2506475"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Brownie Grassrunner",
     "MobName": "Brownie Grassrunner",
@@ -10249,6 +10256,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 00:55:31",
+    "LootTemplateName": "Arawn's Wrath",
+    "MobName": "Arawn's Wrath",
+    "MobXLootTemplate_ID": "3bd44a0b-b91c-49a0-aeeb-c7530e593d61"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Poacher",
     "MobName": "Poacher",
@@ -16422,6 +16436,13 @@
     "MobXLootTemplate_ID": "6b1a796f-efc5-4d1e-b145-586d6842901d"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 01:17:14",
+    "LootTemplateName": "Arawnite Assassin",
+    "MobName": "Arawnite Assassin",
+    "MobXLootTemplate_ID": "6bb06f14-c017-4543-8cc8-a9b34ce86fc0"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "peridas",
@@ -19342,16 +19363,16 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Vakt",
-    "MobName": "Arachite Vakt",
+    "LastTimeRowUpdated": "2018-02-01 00:47:24",
+    "LootTemplateName": "arachite vakt",
+    "MobName": "arachite vakt",
     "MobXLootTemplate_ID": "982"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Arachite Weblasher",
-    "MobName": "Arachite Weblasher",
+    "LastTimeRowUpdated": "2018-02-01 00:46:49",
+    "LootTemplateName": "arachite weblasher",
+    "MobName": "arachite weblasher",
     "MobXLootTemplate_ID": "983"
   },
   {
@@ -20270,6 +20291,13 @@
     "LootTemplateName": "sibyl hoges",
     "MobName": "sibyl hoges",
     "MobXLootTemplate_ID": "da2425a0-72ec-4013-96cb-140ce2509250"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 00:53:58",
+    "LootTemplateName": "Arakane",
+    "MobName": "Arakane",
+    "MobXLootTemplate_ID": "dc7f4078-6556-46d6-98a1-bf1ac7849d2d"
   },
   {
     "DropCount": 2,
