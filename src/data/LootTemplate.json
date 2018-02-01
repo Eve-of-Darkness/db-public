@@ -1824,10 +1824,10 @@
     "TemplateName": "tomb wight"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Aughisky_Mane",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:54:23",
     "LootTemplate_ID": "07a43162-105d-43a4-b868-6aecd4aadb9d",
     "TemplateName": "aughisky"
   },
@@ -2190,6 +2190,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0928797a-bbfc-4833-9b87-f392cafc6c70",
     "TemplateName": "townsman"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dreamwalker's_Boots",
+    "LastTimeRowUpdated": "2018-02-01 18:56:26",
+    "LootTemplate_ID": "0931324b-537f-4497-ba10-da6860e5c2bf",
+    "TemplateName": "aughisky"
   },
   {
     "Chance": 20,
@@ -7656,10 +7664,10 @@
     "TemplateName": "skeletal druid"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Lavastone_Collar",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:32:57",
     "LootTemplate_ID": "223aefe1-e3c9-4b33-bd4b-bf335b1df171",
     "TemplateName": "ashmonger"
   },
@@ -10414,6 +10422,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2f873e48-e18f-452f-9480-085e578cc52c",
     "TemplateName": "skeletal centurion"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Ashen_Spirit_Staff",
+    "LastTimeRowUpdated": "2018-02-01 18:24:20",
+    "LootTemplate_ID": "2f8a84bb-5363-4eea-8d48-e1c1f6aa72ae",
+    "TemplateName": "ashen fellwood"
   },
   {
     "Chance": 20,
@@ -21552,10 +21568,10 @@
     "TemplateName": "tylwyth teg huntress"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Prickly_Horsehair_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:33:12",
     "LootTemplate_ID": "61b360ee-8a9f-432c-9d0d-f9017fb37bcb",
     "TemplateName": "ashmonger"
   },
@@ -26000,10 +26016,10 @@
     "TemplateName": "giant skeleton"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Ash_Stained_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:27:44",
     "LootTemplate_ID": "73ae7c6d-f41d-4fd7-8a69-15bb5f165ffa",
     "TemplateName": "ashmonger"
   },
@@ -31896,10 +31912,10 @@
     "TemplateName": "king vian"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Prickly_Horsehair_Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:33:08",
     "LootTemplate_ID": "8d85c300-bec3-434d-a4a3-34c20b40dc3f",
     "TemplateName": "ashmonger"
   },
@@ -89752,14 +89768,6 @@
     "TemplateName": "broken jotun"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Ashen_Spirit_Staff",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "9cde31c8-a575-439d-9df0-6eeafc0d88d6",
-    "TemplateName": "ashen fellwood"
-  },
-  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Vendo_Bone_Ring",
@@ -90288,10 +90296,10 @@
     "TemplateName": "bjornvarg"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Band_of_Serenity",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:54:26",
     "LootTemplate_ID": "9ec151d7-7e45-4c5e-bb35-05c7027d4936",
     "TemplateName": "aughisky"
   },
@@ -90664,10 +90672,10 @@
     "TemplateName": "daewain"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Cloak_of_the_Nightwalker",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Driftwood_Staff",
+    "LastTimeRowUpdated": "2018-02-01 18:32:15",
     "LootTemplate_ID": "a089f061-f06c-424f-bba0-9e5f9cd41be5",
     "TemplateName": "ashmonger"
   },
@@ -91696,10 +91704,10 @@
     "TemplateName": "mudman"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Cinder_Encrusted_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:31:33",
     "LootTemplate_ID": "a4710f91-7242-4617-9427-b67d4cdefce5",
     "TemplateName": "ashmonger"
   },
@@ -95440,10 +95448,10 @@
     "TemplateName": "Red Dwarf Highwayman"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Blackened_Leather_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:31:31",
     "LootTemplate_ID": "b1632c20-b3c3-4ef5-8280-2327c37d6682",
     "TemplateName": "ashmonger"
   },
@@ -98872,6 +98880,14 @@
     "TemplateName": "arachite tunnelhost"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Endearment Dagger",
+    "LastTimeRowUpdated": "2018-02-01 18:24:33",
+    "LootTemplate_ID": "be486123-ac76-4898-b74a-10e02a3aea65",
+    "TemplateName": "ashen fellwood"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Ghostly_Truesilver_Cap",
@@ -100678,6 +100694,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c556ec11-bca1-46ed-8f95-629a22a8c35a",
     "TemplateName": "kor"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Bracer_of_the_Nightwalker",
+    "LastTimeRowUpdated": "2018-02-01 18:31:00",
+    "LootTemplate_ID": "c56f6944-b086-4d4f-9765-0a8f4b9c7287",
+    "TemplateName": "ashmonger"
   },
   {
     "Chance": 40,
@@ -102990,6 +103014,14 @@
     "LastTimeRowUpdated": "2018-01-29 01:44:47",
     "LootTemplate_ID": "cf9b662b-a61a-46d3-98e2-03f702766a34",
     "TemplateName": "amalgamate shadow parthanan"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Prickly Horsehair Leggings",
+    "LastTimeRowUpdated": "2018-02-01 18:32:49",
+    "LootTemplate_ID": "cf9bca25-25b7-484d-9220-816b1b5815a5",
+    "TemplateName": "ashmonger"
   },
   {
     "Chance": 40,
@@ -106808,10 +106840,10 @@
     "TemplateName": "ekyps scavenger"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Prickly_Horsehair_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:33:04",
     "LootTemplate_ID": "dbb72c8a-efc3-462f-bc90-24c95addafca",
     "TemplateName": "ashmonger"
   },
@@ -109880,10 +109912,10 @@
     "TemplateName": "dragonsworn runemaster"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Prickly_Horsehair_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:33:02",
     "LootTemplate_ID": "e7a5739b-4fac-4681-96bc-b83464923c35",
     "TemplateName": "ashmonger"
   },
@@ -111048,10 +111080,10 @@
     "TemplateName": "vigilant soul"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Prickly_Horsehair_Tunic",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:33:16",
     "LootTemplate_ID": "ec759672-ab2c-446b-8565-d89ecd863713",
     "TemplateName": "ashmonger"
   },
@@ -114600,10 +114632,10 @@
     "TemplateName": "arawnite headhunter"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Fang_of_Courage",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:32:52",
     "LootTemplate_ID": "f9337695-4ca5-41f0-8864-0862174658a9",
     "TemplateName": "ashmonger"
   },
@@ -115088,10 +115120,10 @@
     "TemplateName": "howling maiden"
   },
   {
-    "Chance": 20,
-    "Count": 0,
+    "Chance": 15,
+    "Count": 1,
     "ItemTemplateID": "Fang_of_Might",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2018-02-01 18:32:55",
     "LootTemplate_ID": "fangofmight-ashmonger",
     "TemplateName": "ashmonger"
   },
@@ -116086,6 +116118,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fea9c7f5-85e3-4aca-a658-a96ee18c4e6c",
     "TemplateName": "rock sprite"
+  },
+  {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Dreamwalker's_Boots",
+    "LastTimeRowUpdated": "2018-02-01 18:56:28",
+    "LootTemplate_ID": "feaf9d6c-ed46-4357-b17a-f2f9275e4cb3",
+    "TemplateName": "aughisky"
   },
   {
     "Chance": 20,
@@ -117240,12 +117280,28 @@
     "TemplateName": "goblin guard"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Arlek'sBeltofIntelligence",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "HCA_ABOF",
+    "TemplateName": "Hill Chief Alrek"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Worn_Helm_of_Mortification",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "helm-mort-rep",
     "TemplateName": "repentant follower"
+  },
+  {
+    "Chance": 15,
+    "Count": 0,
+    "ItemTemplateID": "KnifemansGoldDagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "HM_KGD",
+    "TemplateName": "howling maiden"
   },
   {
     "Chance": 40,
@@ -118710,14 +118766,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "plate-mort-decay",
     "TemplateName": "decaying tomb raider"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Polished_Piece_of_Obsidian",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Polished_Piece_of_Obsidian",
-    "TemplateName": "Ashmonger"
   },
   {
     "Chance": 100,

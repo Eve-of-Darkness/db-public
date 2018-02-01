@@ -6706,6 +6706,13 @@
     "MobXLootTemplate_ID": "2cdb2d85-eb26-4a9d-b467-0b1c5fabb19e"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:48:46",
+    "LootTemplateName": "askr-marr",
+    "MobName": "askr-marr",
+    "MobXLootTemplate_ID": "2d124a24-fd9b-4fd5-99af-fcde836b7694"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "ond's master",
@@ -7078,9 +7085,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Ashen Fellwood",
-    "MobName": "Ashen Fellwood",
+    "LastTimeRowUpdated": "2018-02-01 18:24:00",
+    "LootTemplateName": "ashen fellwood",
+    "MobName": "ashen fellwood",
     "MobXLootTemplate_ID": "306"
   },
   {
@@ -10276,6 +10283,13 @@
     "MobXLootTemplate_ID": "3beb452e-7817-46b9-af38-1596c3b901e1"
   },
   {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:22:53",
+    "LootTemplateName": "army ant worker",
+    "MobName": "army ant worker",
+    "MobXLootTemplate_ID": "3c33cc65-6085-4f3d-b438-16e79f4c9422"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "draugr commander",
@@ -10974,6 +10988,13 @@
     "LootTemplateName": "Apple Snatcher",
     "MobName": "Apple Snatcher",
     "MobXLootTemplate_ID": "4248"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:18:20",
+    "LootTemplateName": "Armswoman",
+    "MobName": "Armswoman",
+    "MobXLootTemplate_ID": "4248ed73-040c-4d28-8a29-f115e5f040c5"
   },
   {
     "DropCount": 1,
@@ -12654,6 +12675,13 @@
     "LootTemplateName": "lothissi",
     "MobName": "lothissi",
     "MobXLootTemplate_ID": "4b97b439-2772-4a4d-ab95-7e17f6df549b"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:20:39",
+    "LootTemplateName": "army ant soldier",
+    "MobName": "army ant soldier",
+    "MobXLootTemplate_ID": "4bc69ba9-2b5a-42f3-b4f4-ee64450b7e08"
   },
   {
     "DropCount": 2,
@@ -15268,9 +15296,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Aughisky",
-    "MobName": "Aughisky",
+    "LastTimeRowUpdated": "2018-02-01 18:54:21",
+    "LootTemplateName": "aughisky",
+    "MobName": "aughisky",
     "MobXLootTemplate_ID": "643"
   },
   {
@@ -15370,6 +15398,13 @@
     "LootTemplateName": "Changeling",
     "MobName": "Changeling",
     "MobXLootTemplate_ID": "649"
+  },
+  {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 18:15:07",
+    "LootTemplateName": "Archon Reiche",
+    "MobName": "Archon Reiche",
+    "MobXLootTemplate_ID": "64ed725e-0bf6-4112-bc44-291f2a7f5c2f"
   },
   {
     "DropCount": 1,
@@ -18642,9 +18677,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplateName": "Ashmonger",
-    "MobName": "Ashmonger",
+    "LastTimeRowUpdated": "2018-02-01 18:33:22",
+    "LootTemplateName": "ashmonger",
+    "MobName": "ashmonger",
     "MobXLootTemplate_ID": "878"
   },
   {
@@ -19209,6 +19244,13 @@
   },
   {
     "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 18:16:12",
+    "LootTemplateName": "Arcsinimpede's Drone",
+    "MobName": "Arcsinimpede's Drone",
+    "MobXLootTemplate_ID": "95ec7974-36f4-48ba-88de-71cb81f0de26"
+  },
+  {
+    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Pixie Imp",
     "MobName": "Pixie Imp",
@@ -19593,6 +19635,20 @@
     "MobXLootTemplate_ID": "9ddddff1-52a7-4d4d-b40b-3e99454e2ade"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 18:17:12",
+    "LootTemplateName": "Argur",
+    "MobName": "Argur",
+    "MobXLootTemplate_ID": "9ec3003e-1e21-4d3e-bb84-3635247a006d"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:52:08",
+    "LootTemplateName": "aspen fellwood",
+    "MobName": "aspen fellwood",
+    "MobXLootTemplate_ID": "9f4e2b29-2354-4e8b-b0db-39499867237b"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "rhodon",
@@ -19654,6 +19710,13 @@
     "LootTemplateName": "bright flame",
     "MobName": "bright flame",
     "MobXLootTemplate_ID": "a3ba05a0-a265-4fca-9dbd-f885e9c57f04"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:18:59",
+    "LootTemplateName": "army ant",
+    "MobName": "army ant",
+    "MobXLootTemplate_ID": "a4002d15-e2d9-4536-a93c-07cf1928db42"
   },
   {
     "DropCount": 2,
@@ -19836,6 +19899,13 @@
     "LootTemplateName": "albino scorpion",
     "MobName": "albino scorpion",
     "MobXLootTemplate_ID": "b2fcd21d-94ca-4d23-957d-1c82cf93466c"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:50:45",
+    "LootTemplateName": "Aspect of Uamhas",
+    "MobName": "Aspect of Uamhas",
+    "MobXLootTemplate_ID": "b495f363-04a6-41b9-9839-959031a17268"
   },
   {
     "DropCount": 2,
@@ -20160,6 +20230,13 @@
     "MobXLootTemplate_ID": "cdd22d28-dc0d-4e73-bdda-910da3f5bd88"
   },
   {
+    "DropCount": 1,
+    "LastTimeRowUpdated": "2018-02-01 18:11:33",
+    "LootTemplateName": "archipelago crab",
+    "MobName": "archipelago crab",
+    "MobXLootTemplate_ID": "ce209aad-91bf-4bae-8051-eb30844649ca"
+  },
+  {
     "DropCount": 2,
     "LastTimeRowUpdated": "2018-01-27 16:25:44",
     "LootTemplateName": "soultorn albion dragon knight",
@@ -20200,6 +20277,13 @@
     "LootTemplateName": "Inquisitor Ugglok",
     "MobName": "Inquisitor Ugglok",
     "MobXLootTemplate_ID": "d1c61eed-1654-4777-a44e-178798395285"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:18:07",
+    "LootTemplateName": "Armsman",
+    "MobName": "Armsman",
+    "MobXLootTemplate_ID": "d22ae533-3369-45dd-bbc5-c110c48323bf"
   },
   {
     "DropCount": 2,
@@ -20711,6 +20795,13 @@
     "LootTemplateName": "bryti eyvindi",
     "MobName": "bryti eyvindi",
     "MobXLootTemplate_ID": "fed06787-cd8e-4f4f-b653-d37bdb117654"
+  },
+  {
+    "DropCount": 0,
+    "LastTimeRowUpdated": "2018-02-01 18:26:12",
+    "LootTemplateName": "ashen spirit",
+    "MobName": "ashen spirit",
+    "MobXLootTemplate_ID": "ff3d1a0a-bb8f-42ea-acd1-102cc48d4c33"
   },
   {
     "DropCount": 2,
