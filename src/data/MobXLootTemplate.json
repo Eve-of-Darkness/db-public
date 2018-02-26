@@ -1856,9 +1856,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-01 23:07:24",
-    "LootTemplateName": "backwoods marodor",
-    "MobName": "backwoods marodor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Backwoods Marodor",
+    "MobName": "Backwoods Marodor",
     "MobXLootTemplate_ID": "10942"
   },
   {
@@ -3417,9 +3417,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-02 22:13:05",
-    "LootTemplateName": "bandit",
-    "MobName": "bandit",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Bandit",
+    "MobName": "Bandit",
     "MobXLootTemplate_ID": "130"
   },
   {
@@ -9829,9 +9829,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-02 22:19:46",
-    "LootTemplateName": "bandit henchman",
-    "MobName": "bandit henchman",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Bandit Henchman",
+    "MobName": "Bandit Henchman",
     "MobXLootTemplate_ID": "3819"
   },
   {
@@ -11488,9 +11488,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-01 23:09:13",
-    "LootTemplateName": "badger",
-    "MobName": "badger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Badger",
+    "MobName": "Badger",
     "MobXLootTemplate_ID": "458"
   },
   {
@@ -12769,9 +12769,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-02 22:23:33",
-    "LootTemplateName": "bandit hopeful",
-    "MobName": "bandit hopeful",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Bandit Hopeful",
+    "MobName": "Bandit Hopeful",
     "MobXLootTemplate_ID": "4f8b2107-bafe-4831-b4c3-c4e3ba81ff3f"
   },
   {
@@ -13172,13 +13172,6 @@
     "LootTemplateName": "Balorian Donogh",
     "MobName": "Balorian Donogh",
     "MobXLootTemplate_ID": "5076"
-  },
-  {
-    "DropCount": 0,
-    "LastTimeRowUpdated": "2018-02-01 23:06:22",
-    "LootTemplateName": "baby spider",
-    "MobName": "baby spider",
-    "MobXLootTemplate_ID": "5077d4ef-8d5d-4e51-b862-69a78dc6979c"
   },
   {
     "DropCount": 1,
@@ -16563,9 +16556,9 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-02 22:22:14",
-    "LootTemplateName": "bandit highwaymen",
-    "MobName": "bandit highwaymen",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Bandit Highwaymen",
+    "MobName": "Bandit Highwaymen",
     "MobXLootTemplate_ID": "6e657aad-2b4b-461f-8aae-d1d759f2a3dd"
   },
   {
@@ -16661,16 +16654,16 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-01 23:13:28",
-    "LootTemplateName": "badh",
-    "MobName": "badh",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Badh",
+    "MobName": "Badh",
     "MobXLootTemplate_ID": "704"
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-01 23:21:04",
-    "LootTemplateName": "bananach",
-    "MobName": "bananach",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplateName": "Bananach",
+    "MobName": "Bananach",
     "MobXLootTemplate_ID": "705"
   },
   {
@@ -18866,13 +18859,6 @@
   },
   {
     "DropCount": 1,
-    "LastTimeRowUpdated": "2018-02-02 22:24:31",
-    "LootTemplateName": "bandit infiltrator",
-    "MobName": "bandit infiltrator",
-    "MobXLootTemplate_ID": "8c1414e7-f4c0-464c-a8af-42340fb9d522"
-  },
-  {
-    "DropCount": 1,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplateName": "Goblin Lookout",
     "MobName": "Goblin Lookout",
@@ -19635,13 +19621,6 @@
     "MobXLootTemplate_ID": "9c178b13-2e1a-43bb-a609-12ab278dca05"
   },
   {
-    "DropCount": 0,
-    "LastTimeRowUpdated": "2018-02-02 22:17:50",
-    "LootTemplateName": "bandit abductor",
-    "MobName": "bandit abductor",
-    "MobXLootTemplate_ID": "9c1ee653-072b-49d0-9fd2-eda4d4884183"
-  },
-  {
     "DropCount": 1,
     "LastTimeRowUpdated": "2018-01-30 18:31:20",
     "LootTemplateName": "ancient bodachan sabhaill",
@@ -19682,13 +19661,6 @@
     "LootTemplateName": "rhodon",
     "MobName": "rhodon",
     "MobXLootTemplate_ID": "9f76f817-38b5-4358-b6f5-ef3e98e27a32"
-  },
-  {
-    "DropCount": 0,
-    "LastTimeRowUpdated": "2018-02-01 23:18:41",
-    "LootTemplateName": "ban-kel spider",
-    "MobName": "ban-kel spider",
-    "MobXLootTemplate_ID": "a055d214-d40e-4b38-a55a-0407f6366d01"
   },
   {
     "DropCount": 2,
@@ -20382,13 +20354,6 @@
     "LootTemplateName": "supreme iaculus",
     "MobName": "supreme iaculus",
     "MobXLootTemplate_ID": "d68082fb-d176-4e3e-bfcb-9da4d1fc7c2b"
-  },
-  {
-    "DropCount": 0,
-    "LastTimeRowUpdated": "2018-02-02 22:30:12",
-    "LootTemplateName": "bandit leader",
-    "MobName": "bandit leader",
-    "MobXLootTemplate_ID": "d736e8fd-e4ad-4eea-8806-92d5472b775f"
   },
   {
     "DropCount": 2,
