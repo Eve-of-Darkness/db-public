@@ -1,4 +1,4 @@
-go get -u github.com\jinzhu\configor
+go get -u github.com\spf13\viper
 go get -u github.com\go-sql-driver\mysql
 
 REM Compile Linux Binaries for 32-bit and 64-bit
