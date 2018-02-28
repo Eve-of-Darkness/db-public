@@ -1,7 +1,7 @@
-CREATE TABLE `ArtifactBonus` (
+CREATE TABLE IF NOT EXISTS `ArtifactBonus` (
   `ArtifactID` text NOT NULL,
-  `BonusID` int(11) NOT NULL,
-  `Level` int(11) NOT NULL,
+  `BonusID` int(11) NOT NULL DEFAULT '0',
+  `Level` int(11) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `ArtifactBonus_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`ArtifactBonus_ID`)

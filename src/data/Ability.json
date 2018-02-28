@@ -2274,7 +2274,7 @@
     "Description": "2 minute self only buff with a 3 minute recast timer which increases the amount of attackers based off the level of monster being battled.",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Call of a thousand storms",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Call of a thousand storms"
@@ -2284,7 +2284,7 @@
     "Description": "Greater Chance to Detect Stealthed Enemies for 1 minute after executing a klling blow on a realm opponent.",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Heightened Awareness",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Heightened Awareness"
@@ -2294,7 +2294,7 @@
     "Description": "Movement speed of the player in stealth is increased by 25% for 1 minute after they get a killing blow on a realm enemy.",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Bloodrage",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Bloodrage"
@@ -2304,7 +2304,7 @@
     "Description": "Turn Weapon",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Turn Weapon",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Turn Weapon"
@@ -2314,7 +2314,7 @@
     "Description": "Greater chance of remaining hidden while stealthed for 1 minute after executing a killing blow on a realm opponent.",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Subtle Kills",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Subtle Kills"
@@ -2324,7 +2324,7 @@
     "Description": "Tracker's Alacrity",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Tracker's Alacrity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Tracker's Alacrity"
@@ -2334,7 +2334,7 @@
     "Description": "Caltrops",
     "IconID": 0,
     "Implementation": null,
-    "InternalID": null,
+    "InternalID": 0,
     "KeyName": "Caltrops",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Caltrops"

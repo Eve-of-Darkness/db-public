@@ -1,5 +1,5 @@
 CREATE TABLE `SpellXCustomValues` (
-  `SpellID` int(11) NOT NULL,
+  `SpellID` int(11) NOT NULL DEFAULT '0',
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,
   `CustomParamID` int(11) NOT NULL AUTO_INCREMENT,

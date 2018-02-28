@@ -1,7 +1,7 @@
-CREATE TABLE `Appeal` (
+CREATE TABLE IF NOT EXISTS `Appeal` (
   `Name` varchar(255) NOT NULL,
   `Account` varchar(255) NOT NULL,
-  `Severity` int(11) NOT NULL,
+  `Severity` int(11) NOT NULL DEFAULT '0',
   `Status` text NOT NULL,
   `Timestamp` text NOT NULL,
   `Text` text NOT NULL,

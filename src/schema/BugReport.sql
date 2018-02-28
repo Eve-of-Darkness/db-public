@@ -1,5 +1,5 @@
 CREATE TABLE `BugReport` (
-  `ID` int(11) NOT NULL,
+  `ID` int(11) NOT NULL DEFAULT '0',
   `Message` text NOT NULL,
   `Submitter` text NOT NULL,
   `DateSubmitted` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

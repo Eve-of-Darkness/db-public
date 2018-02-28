@@ -1,6 +1,6 @@
 [
   {
-    "ClassID": null,
+    "ClassID": 0,
     "ClassXSpecializationID": 1,
     "LastTimeRowUpdated": "2014-09-21 15:34:42",
     "LevelAcquired": -65535,
@@ -3745,7 +3745,7 @@
     "SpecKeyName": "Champion Level Hibernia"
   },
   {
-    "ClassID": null,
+    "ClassID": 0,
     "ClassXSpecializationID": 537,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LevelAcquired": 1,

@@ -1,66 +1,66 @@
 [
   {
-    "AlbionDifficultyLevel": null,
+    "AlbionDifficultyLevel": 0,
     "BaseLevel": 100,
     "ClaimedGuildName": null,
     "CreateInfo": "",
     "Heading": 1988,
-    "HiberniaDifficultyLevel": null,
+    "HiberniaDifficultyLevel": 0,
     "KeepID": 1,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "CathalAPK",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
-    "MidgardDifficultyLevel": null,
+    "MidgardDifficultyLevel": 0,
     "Name": "Albion Portal Keep",
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 165,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 583575,
     "Y": 584548,
     "Z": 4896
   },
   {
-    "AlbionDifficultyLevel": null,
+    "AlbionDifficultyLevel": 0,
     "BaseLevel": 100,
     "ClaimedGuildName": null,
     "CreateInfo": "",
     "Heading": 571,
-    "HiberniaDifficultyLevel": null,
+    "HiberniaDifficultyLevel": 0,
     "KeepID": 2,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "CathalMPK",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
-    "MidgardDifficultyLevel": null,
+    "MidgardDifficultyLevel": 0,
     "Name": "Midgard Portal Keep",
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 165,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 574386,
     "Y": 538221,
     "Z": 4832
   },
   {
-    "AlbionDifficultyLevel": null,
+    "AlbionDifficultyLevel": 0,
     "BaseLevel": 100,
     "ClaimedGuildName": null,
     "CreateInfo": "",
     "Heading": 1791,
-    "HiberniaDifficultyLevel": null,
+    "HiberniaDifficultyLevel": 0,
     "KeepID": 3,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "CathalHPK",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
-    "MidgardDifficultyLevel": null,
+    "MidgardDifficultyLevel": 0,
     "Name": "Hibernia Portal Keep",
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 165,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 536186,
     "Y": 584836,
     "Z": 5800
@@ -82,7 +82,7 @@
     "OriginalRealm": 0,
     "Realm": 3,
     "Region": 165,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 585893,
     "Y": 557389,
     "Z": 5672
@@ -302,7 +302,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 640960,
     "Y": 410560,
     "Z": 8424
@@ -324,7 +324,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 601166,
     "Y": 408636,
     "Z": 8280
@@ -346,7 +346,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 609472,
     "Y": 376000,
     "Z": 8904
@@ -368,7 +368,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 639744,
     "Y": 345600,
     "Z": 8664
@@ -390,7 +390,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 685480,
     "Y": 389038,
     "Z": 8696
@@ -434,7 +434,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 444868,
     "Y": 507926,
     "Z": 8752
@@ -456,7 +456,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 475918,
     "Y": 543134,
     "Z": 8232
@@ -566,7 +566,7 @@
     "OriginalRealm": 0,
     "Realm": 3,
     "Region": 234,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 557056,
     "Y": 557056,
     "Z": 7808
@@ -588,7 +588,7 @@
     "OriginalRealm": 0,
     "Realm": 2,
     "Region": 235,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 556749,
     "Y": 556948,
     "Z": 7808
@@ -610,7 +610,7 @@
     "OriginalRealm": 0,
     "Realm": 3,
     "Region": 236,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 556693,
     "Y": 556958,
     "Z": 8272
@@ -632,7 +632,7 @@
     "OriginalRealm": 0,
     "Realm": 3,
     "Region": 238,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 549619,
     "Y": 554387,
     "Z": 4424
@@ -654,7 +654,7 @@
     "OriginalRealm": 0,
     "Realm": 3,
     "Region": 239,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 552389,
     "Y": 558136,
     "Z": 7272
@@ -676,7 +676,7 @@
     "OriginalRealm": 0,
     "Realm": 2,
     "Region": 240,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 553616,
     "Y": 557282,
     "Z": 7128
@@ -698,7 +698,7 @@
     "OriginalRealm": 0,
     "Realm": 1,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 557677,
     "Y": 551751,
     "Z": 5896
@@ -742,7 +742,7 @@
     "OriginalRealm": 0,
     "Realm": 0,
     "Region": 237,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 557067,
     "Y": 556900,
     "Z": 8768
@@ -764,7 +764,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 237,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 544726,
     "Y": 582450,
     "Z": 7700
@@ -786,7 +786,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 237,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 584841,
     "Y": 559325,
     "Z": 8288
@@ -808,7 +808,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 237,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 534997,
     "Y": 537319,
     "Z": 8000
@@ -962,7 +962,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 624880,
     "Y": 612305,
     "Z": 8576
@@ -1006,7 +1006,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 542561,
     "Y": 365013,
     "Z": 8720
@@ -1028,7 +1028,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 644686,
     "Y": 415489,
     "Z": 8424
@@ -1072,7 +1072,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 608208,
     "Y": 370356,
     "Z": 8880
@@ -1094,7 +1094,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 645001,
     "Y": 346117,
     "Z": 8664
@@ -1116,7 +1116,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 691210,
     "Y": 389821,
     "Z": 8696
@@ -1138,7 +1138,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 476996,
     "Y": 498913,
     "Z": 8776
@@ -1160,7 +1160,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 439968,
     "Y": 507154,
     "Z": 8752
@@ -1182,7 +1182,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 479448,
     "Y": 538894,
     "Z": 8404
@@ -1204,7 +1204,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 443029,
     "Y": 571813,
     "Z": 8880
@@ -1226,7 +1226,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 472143,
     "Y": 596705,
     "Z": 8368
@@ -1248,7 +1248,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 443622,
     "Y": 669781,
     "Z": 6720
@@ -1270,7 +1270,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 412822,
     "Y": 612291,
     "Z": 8496
@@ -1283,7 +1283,7 @@
     "Heading": 63,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 381,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "381",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1292,7 +1292,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 234,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 573189,
     "Y": 549387,
     "Z": 8640
@@ -1305,7 +1305,7 @@
     "Heading": 300,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 382,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "382",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1314,7 +1314,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 235,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 536467,
     "Y": 536600,
     "Z": 5056
@@ -1327,7 +1327,7 @@
     "Heading": 210,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 383,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "383",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1336,7 +1336,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 236,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 541434,
     "Y": 577799,
     "Z": 8008
@@ -1358,7 +1358,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 238,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 563575,
     "Y": 574212,
     "Z": 5408
@@ -1371,7 +1371,7 @@
     "Heading": 180,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 386,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "386",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1380,7 +1380,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 239,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 554386,
     "Y": 585243,
     "Z": 6952
@@ -1402,7 +1402,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 240,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 554521,
     "Y": 583899,
     "Z": 6952
@@ -1424,7 +1424,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 531699,
     "Y": 542006,
     "Z": 5992
@@ -1437,7 +1437,7 @@
     "Heading": 65,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 390,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "390",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1446,7 +1446,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 321868,
     "Y": 283864,
     "Z": 10128
@@ -1600,7 +1600,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 627283,
     "Y": 601923,
     "Z": 8576
@@ -1666,7 +1666,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 644758,
     "Y": 407270,
     "Z": 8424
@@ -1688,7 +1688,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 603891,
     "Y": 413189,
     "Z": 8280
@@ -1710,7 +1710,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 604770,
     "Y": 379121,
     "Z": 8882
@@ -1732,7 +1732,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 633027,
     "Y": 345499,
     "Z": 8664
@@ -1754,7 +1754,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 682244,
     "Y": 392335,
     "Z": 8696
@@ -1776,7 +1776,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 469552,
     "Y": 505233,
     "Z": 8776
@@ -1798,7 +1798,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 448344,
     "Y": 511680,
     "Z": 8760
@@ -1820,7 +1820,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 472939,
     "Y": 547426,
     "Z": 8048
@@ -1842,7 +1842,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 442924,
     "Y": 582028,
     "Z": 8544
@@ -1864,7 +1864,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 481362,
     "Y": 592480,
     "Z": 8368
@@ -1886,7 +1886,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 446075,
     "Y": 661758,
     "Z": 6720
@@ -1908,7 +1908,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 406370,
     "Y": 607136,
     "Z": 8496
@@ -1921,7 +1921,7 @@
     "Heading": 180,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 637,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "637",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1930,7 +1930,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 234,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 557159,
     "Y": 574661,
     "Z": 8640
@@ -1943,7 +1943,7 @@
     "Heading": 208,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 638,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "638",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1952,7 +1952,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 235,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 544467,
     "Y": 575832,
     "Z": 5056
@@ -1965,7 +1965,7 @@
     "Heading": 90,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 639,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "639",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1974,7 +1974,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 236,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 582626,
     "Y": 553398,
     "Z": 8008
@@ -1987,7 +1987,7 @@
     "Heading": 0,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 641,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "641",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -1996,7 +1996,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 238,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 569953,
     "Y": 540622,
     "Z": 5408
@@ -2018,7 +2018,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 239,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 582092,
     "Y": 538427,
     "Z": 6776
@@ -2040,7 +2040,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 240,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 533631,
     "Y": 535174,
     "Z": 6728
@@ -2062,7 +2062,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 550401,
     "Y": 577364,
     "Z": 5992
@@ -2084,7 +2084,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 271949,
     "Y": 272798,
     "Z": 10128
@@ -2238,7 +2238,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 638768,
     "Y": 589896,
     "Z": 8080
@@ -2282,7 +2282,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 553688,
     "Y": 367392,
     "Z": 8272
@@ -2304,7 +2304,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 656515,
     "Y": 410732,
     "Z": 8152
@@ -2370,7 +2370,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 645328,
     "Y": 330536,
     "Z": 8248
@@ -2392,7 +2392,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 671137,
     "Y": 399406,
     "Z": 8152
@@ -2414,7 +2414,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 469849,
     "Y": 520155,
     "Z": 8128
@@ -2458,7 +2458,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 469868,
     "Y": 564835,
     "Z": 8880
@@ -2480,7 +2480,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 436163,
     "Y": 550660,
     "Z": 8048
@@ -2502,7 +2502,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 480410,
     "Y": 576984,
     "Z": 8384
@@ -2524,7 +2524,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 463350,
     "Y": 659983,
     "Z": 7960
@@ -2546,7 +2546,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 427142,
     "Y": 614361,
     "Z": 8048
@@ -2559,7 +2559,7 @@
     "Heading": 295,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 893,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "893",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2568,7 +2568,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 234,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 541023,
     "Y": 549746,
     "Z": 8640
@@ -2581,7 +2581,7 @@
     "Heading": 65,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 894,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "894",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2590,7 +2590,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 235,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 579923,
     "Y": 554525,
     "Z": 5056
@@ -2603,7 +2603,7 @@
     "Heading": 315,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 895,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "895",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2612,7 +2612,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 236,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 537984,
     "Y": 539654,
     "Z": 8008
@@ -2625,7 +2625,7 @@
     "Heading": 315,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 897,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "897",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2634,7 +2634,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 238,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 533843,
     "Y": 534134,
     "Z": 5408
@@ -2647,7 +2647,7 @@
     "Heading": 300,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 898,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "898",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2656,7 +2656,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 239,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 533268,
     "Y": 533874,
     "Z": 6768
@@ -2678,7 +2678,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 240,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 580637,
     "Y": 538535,
     "Z": 6736
@@ -2700,7 +2700,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 575915,
     "Y": 543437,
     "Z": 5992
@@ -2713,7 +2713,7 @@
     "Heading": 180,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 902,
-    "KeepType": null,
+    "KeepType": 0,
     "Keep_ID": "902",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
@@ -2722,7 +2722,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 280252,
     "Y": 319625,
     "Z": 10128
@@ -2876,7 +2876,7 @@
     "OriginalRealm": 1,
     "Realm": 1,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 611195,
     "Y": 609271,
     "Z": 8720
@@ -2920,7 +2920,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 549542,
     "Y": 376261,
     "Z": 8648
@@ -2964,7 +2964,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 582585,
     "Y": 412331,
     "Z": 8680
@@ -2986,7 +2986,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 592344,
     "Y": 366145,
     "Z": 8280
@@ -3008,7 +3008,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 631736,
     "Y": 357955,
     "Z": 8088
@@ -3030,7 +3030,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 667949,
     "Y": 379778,
     "Z": 8080
@@ -3052,7 +3052,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 456558,
     "Y": 500413,
     "Z": 8880
@@ -3074,7 +3074,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 430568,
     "Y": 507741,
     "Z": 8752
@@ -3096,7 +3096,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 459442,
     "Y": 544172,
     "Z": 8102
@@ -3118,7 +3118,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 453244,
     "Y": 583546,
     "Z": 8048
@@ -3140,7 +3140,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 473894,
     "Y": 610593,
     "Z": 9072
@@ -3162,7 +3162,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 449302,
     "Y": 648544,
     "Z": 8104
@@ -3184,7 +3184,7 @@
     "OriginalRealm": 3,
     "Realm": 3,
     "Region": 163,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 393785,
     "Y": 603215,
     "Z": 8096
@@ -3206,7 +3206,7 @@
     "OriginalRealm": 1,
     "Realm": 2,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 546714,
     "Y": 549524,
     "Z": 5368
@@ -3228,7 +3228,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 282660,
     "Y": 294130,
     "Z": 10920
@@ -3250,7 +3250,7 @@
     "OriginalRealm": 2,
     "Realm": 2,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 554628,
     "Y": 564742,
     "Z": 5440
@@ -3272,7 +3272,7 @@
     "OriginalRealm": 1,
     "Realm": 2,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 302305,
     "Y": 284920,
     "Z": 11136
@@ -3294,7 +3294,7 @@
     "OriginalRealm": 3,
     "Realm": 2,
     "Region": 241,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 565590,
     "Y": 544849,
     "Z": 5368
@@ -3316,7 +3316,7 @@
     "OriginalRealm": 3,
     "Realm": 2,
     "Region": 242,
-    "SkinType": null,
+    "SkinType": 0,
     "X": 295728,
     "Y": 307441,
     "Z": 11080

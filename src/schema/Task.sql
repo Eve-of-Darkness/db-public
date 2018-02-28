@@ -2,7 +2,7 @@ CREATE TABLE `Task` (
   `Character_ID` varchar(255) NOT NULL,
   `TimeOut` datetime DEFAULT NULL,
   `TaskType` text,
-  `TasksDone` int(11) DEFAULT NULL,
+  `TasksDone` int(11) NOT NULL DEFAULT '0',
   `CustomPropertiesString` text,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Task_ID` varchar(255) DEFAULT NULL,
