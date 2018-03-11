@@ -4,21 +4,21 @@
     "PathID": "hs_fintain_altacoill",
     "PathType": 1,
     "Path_ID": "0017170b-5dd6-4c25-b0e2-cf2b070ba656",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_GnaFaste_WestSkona",
     "PathType": 1,
     "Path_ID": "00c23fa5-1c81-4fde-b229-049507c890bf",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Adribards_RetreatYaren",
     "PathType": 1,
     "Path_ID": "00dc7d6e-b087-4f06-9ec7-e61b46fd9f7a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 14:00:37",
@@ -32,14 +32,14 @@
     "PathID": "Wyvern_ticket_to_Druim_LigenAelerogh",
     "PathType": 1,
     "Path_ID": "015791f4-d473-4868-8f80-1d335b6eb620",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Ft.Atla-Mularn",
     "PathType": 1,
     "Path_ID": "01e8ede2-baed-4cef-94fd-32626fe70177",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 00:41:25",
@@ -67,14 +67,14 @@
     "PathID": "bt_theisle_fintain",
     "PathType": 1,
     "Path_ID": "03709a5f-90ad-421b-8bab-545d349ae272",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Ft.Atla-Audliten",
     "PathType": 1,
     "Path_ID": "04872fa8-b3f4-47f6-9856-ec1164be627d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 22:32:18",
@@ -95,35 +95,35 @@
     "PathID": "HS_Mularn_FortAtla",
     "PathType": 1,
     "Path_ID": "080d39d2-e209-4404-af4a-5f20a7b5f830",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Caer_UlfwychRidder",
     "PathType": 1,
     "Path_ID": "083e4242-e2ac-4236-bdb4-79a948e25168",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_Innis_CarthaigAelerogh",
     "PathType": 1,
     "Path_ID": "0931927a-1d7d-46cf-8aac-4cde555523b0",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "WestSkona-GnaFaste",
     "PathType": 1,
     "Path_ID": "0958127d-81ac-4963-9658-7057a5c582ca",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMutilatorAxalnamPatrol1",
     "PathType": 2,
     "Path_ID": "0c374080-39c4-40ce-906c-a4ec717af302",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 02:07:51",
@@ -158,14 +158,14 @@
     "PathID": "hs_riley_fintain",
     "PathType": 1,
     "Path_ID": "0e58859c-c37a-4080-b14a-cce8fc014de0",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMalochianTempter1",
     "PathType": 3,
     "Path_ID": "0f52a743-60aa-4175-972c-4e95c9053c2d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -200,14 +200,14 @@
     "PathID": "Cursed Forest",
     "PathType": 1,
     "Path_ID": "13be3fbc-933c-4038-85b9-1f003df292bf",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_Druim_CainUllios",
     "PathType": 1,
     "Path_ID": "13c40028-3b73-488f-bfba-5f1d4bba767a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 15:35:22",
@@ -221,7 +221,7 @@
     "PathID": "DFRocotPatrol2",
     "PathType": 2,
     "Path_ID": "143d04f9-3b68-41ed-8536-551b10d5b289",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 01:43:56",
@@ -256,21 +256,21 @@
     "PathID": "Culraid\"\"",
     "PathType": 1,
     "Path_ID": "184ce4b2-c1c4-4471-a3d4-7027a6a87a4d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFKnightUkobatPatrol1",
     "PathType": 2,
     "Path_ID": "1a2d0514-7810-4dcb-a89a-8b9adbb3425c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFRocotPatrol1",
     "PathType": 2,
     "Path_ID": "1a3b202f-7928-493f-9320-450d9672d28a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-09 23:47:44",
@@ -284,7 +284,7 @@
     "PathID": "HS_FortAtla_Mularn",
     "PathType": 1,
     "Path_ID": "1af3c075-9b79-4ebd-9874-562badafe2e6",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 15:31:56",
@@ -305,35 +305,35 @@
     "PathID": "Dragonfly_ticket_to_Castle_SauvageFlambon",
     "PathType": 1,
     "Path_ID": "1c8a68e9-a8d0-43a7-a852-a47e1a79cf5f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Gna-Faste-Galplen",
     "PathType": 1,
     "Path_ID": "1c9c68d4-afac-4cdc-a5a7-4f1adfdb1b47",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_GalplenHarlfug",
     "PathType": 1,
     "Path_ID": "20268dd5-587a-49f3-977c-33f928b2591b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_Uppland_AlbionCoast",
     "PathType": 1,
     "Path_ID": "20340162-d829-4b88-9b39-80ef14c97e5f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_FortAtla_Vasudhiem",
     "PathType": 1,
     "Path_ID": "20ad6553-112c-4ff7-831a-c151d5cebe78",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-05 18:54:36",
@@ -347,7 +347,7 @@
     "PathID": "Ardagh",
     "PathType": 1,
     "Path_ID": "24858dd9-ba50-410e-b170-c23cfbf4b854",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -368,7 +368,7 @@
     "PathID": "Dragonfly_ticket_to_Caer_UlfwychVuloch",
     "PathType": 1,
     "Path_ID": "262f993a-ccdd-4c3e-80e7-bbe1518669ac",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 14:10:11",
@@ -382,7 +382,7 @@
     "PathID": "Galphen-Ft.Atla",
     "PathType": 1,
     "Path_ID": "2706284d-757e-4b30-a3e8-daeaac0d04bb",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 16:16:23",
@@ -403,14 +403,14 @@
     "PathID": "Dragonfly_ticket_to_Cotswold_VillageEdarg",
     "PathType": 1,
     "Path_ID": "2a3f60b0-42d8-4e87-914c-270be188d2a8",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Galplen-Haggerfel",
     "PathType": 1,
     "Path_ID": "2b65cfd1-9b21-4933-9593-0f0ab28702b0",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-10 01:45:07",
@@ -431,7 +431,7 @@
     "PathID": "Griffon_ticket_to_Vindsaul_FastePrulgar",
     "PathType": 1,
     "Path_ID": "2d3474b1-8fe4-46ce-b09a-3f0397e72ffb",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-08 22:53:43",
@@ -452,21 +452,21 @@
     "PathID": "VindsauFaste-SvasudFaste",
     "PathType": 1,
     "Path_ID": "2ff68225-b511-4d4e-ae05-498485431ea2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "SvadsudFaste-VindsaulFaste",
     "PathType": 1,
     "Path_ID": "304af43a-723a-4f77-9995-b6ec947edb7c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_CulraidPheuloc",
     "PathType": 1,
     "Path_ID": "306daae0-1f8b-41b5-a20a-fec607588e53",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-09 23:00:24",
@@ -480,49 +480,49 @@
     "PathID": "bt_ticket_to_hafheim",
     "PathType": 1,
     "Path_ID": "30ef7a92-f4cb-4fef-9ff2-c4d16d14c045",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFInquisitorEciraum",
     "PathType": 2,
     "Path_ID": "3116710c-f3e4-4710-b78c-640cb2975a66",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_holtham_newavalon",
     "PathType": 1,
     "Path_ID": "3134950e-e06c-4165-a9cf-9026fb9c0e12",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_fintain_riley",
     "PathType": 1,
     "Path_ID": "31bbe5b5-8528-472c-b827-dab160183e52",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Adribards_RetreatRidder",
     "PathType": 1,
     "Path_ID": "34075d95-a596-44ff-b94c-bc27ae47ffe2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "GnaFaste-WestSkona",
     "PathType": 1,
     "Path_ID": "3453ebb0-4b3f-4634-8f5f-497c985badf3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Innis_CarthaigMulgraighy",
     "PathType": 1,
     "Path_ID": "35ccc2ff-3c52-44be-a67f-8f3928b4c1a3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 00:14:38",
@@ -550,7 +550,7 @@
     "PathID": "Galplen-GnaFaste]",
     "PathType": 1,
     "Path_ID": "3a6ec040-b311-41e7-b49f-6592fcfc3bab",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -564,14 +564,14 @@
     "PathID": "BT_Uppland_HibernianCoast",
     "PathType": 1,
     "Path_ID": "3c52ca70-c77d-468f-af5e-d583f84fccfc",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMalochianTempter2",
     "PathType": 3,
     "Path_ID": "3c8f75b7-8a13-4f94-ab70-96aad2e30e7c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-12 02:42:24",
@@ -599,14 +599,14 @@
     "PathID": "SvadsudFaste-Huginfel",
     "PathType": 1,
     "Path_ID": "3f34677a-5cc6-4ef4-b5cd-6050f1b2a841",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_HowthAelerogh",
     "PathType": 1,
     "Path_ID": "3f98126e-1d91-47ef-8166-3c6d94dfb36f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 21:37:06",
@@ -627,14 +627,14 @@
     "PathID": "Wyvern_ticket_to_HowthMulgraighy",
     "PathType": 1,
     "Path_ID": "418d817a-469c-46bb-ab23-413cd950da1c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Tir Urphost",
     "PathType": 1,
     "Path_ID": "41fc35d1-bbfa-4eb4-96da-279a5a53f408",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-11 02:09:52",
@@ -648,7 +648,7 @@
     "PathID": "DFLilithPatrol",
     "PathType": 3,
     "Path_ID": "43cdb0b8-5dde-4d4e-8620-bcda4e424d68",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:42:35",
@@ -662,7 +662,7 @@
     "PathID": "path_hs_finnen_newavalon",
     "PathType": 1,
     "Path_ID": "46b632da-d2e6-4541-8b9a-21e11bde849b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 00:31:36",
@@ -676,7 +676,7 @@
     "PathID": "HS_Mularn_Audliten",
     "PathType": 1,
     "Path_ID": "4982c1b5-4f93-49d5-8255-91f557a65d16",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 22:00:04",
@@ -711,7 +711,7 @@
     "PathID": "path_island_hafheim",
     "PathType": 1,
     "Path_ID": "4d9ab78c-cf95-4ef5-8c9f-fde3e77eaf9c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -739,14 +739,14 @@
     "PathID": "HS_Galplen_GnaFaste",
     "PathType": 1,
     "Path_ID": "4ede31d6-844d-4e6f-bb34-cdfc83545474",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_SvasudFaste_Huginfel",
     "PathType": 1,
     "Path_ID": "4fd1568d-3691-4bfc-8a5e-4068fabc5095",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 07:20:13",
@@ -760,14 +760,14 @@
     "PathID": "Culraid",
     "PathType": 1,
     "Path_ID": "530b2c19-89e2-40f8-974b-63137aa887f7",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_hafheim_halgost",
     "PathType": 1,
     "Path_ID": "537e68c9-0de3-4ac2-82b6-2952f4899059",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 07:04:54",
@@ -795,14 +795,14 @@
     "PathID": "HS_FortVeldon_GnaFaste",
     "PathType": 1,
     "Path_ID": "548b621b-c3c7-40f0-a9e9-d005a60a6855",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_ArdeeRumdor",
     "PathType": 1,
     "Path_ID": "556d4bbd-e7a0-4ff9-b530-745dd8f0a511",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 16:06:34",
@@ -816,7 +816,7 @@
     "PathID": "Wyvern_ticket_to_BrynachFreagus",
     "PathType": 1,
     "Path_ID": "562653f4-f969-4752-80f4-402d6405c44c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 02:14:12",
@@ -837,14 +837,14 @@
     "PathID": "DFMalochianTempter4",
     "PathType": 3,
     "Path_ID": "59e75fe1-9d2e-4cfd-9966-9c5c9544c1e2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Castle_SauvageVuloch",
     "PathType": 1,
     "Path_ID": "59ef6071-53d9-46af-a612-1861656b4c95",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -865,14 +865,14 @@
     "PathID": "path_hs_ulvastad_hafheim",
     "PathType": 1,
     "Path_ID": "5c2ca04a-aeb0-418e-bb68-e1f1e2fd97b3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_FortAtla_Galplen",
     "PathType": 1,
     "Path_ID": "5c8e71f6-85ed-4aff-9007-b393efe05657",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-11 01:14:43",
@@ -886,7 +886,7 @@
     "PathID": "Dragonfly_ticket_to_Snowdonia_FortressUliam",
     "PathType": 1,
     "Path_ID": "5e48cfad-b7d5-4207-8798-a48e763094ef",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -900,7 +900,7 @@
     "PathID": "Druim Ligen",
     "PathType": 1,
     "Path_ID": "5fafa2ed-c16f-47ba-874b-26b41ba7e893",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -914,7 +914,7 @@
     "PathID": "Dragonfly_ticket_to_Caer_UlfwychEdarg",
     "PathType": 1,
     "Path_ID": "604b11cd-d52f-42e8-b385-a4eb2d2b68c5",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 16:31:34",
@@ -935,7 +935,7 @@
     "PathID": "BT_ForestSauvage_HibernianCoast",
     "PathType": 1,
     "Path_ID": "62fafd67-3bdf-457e-8cff-8164e1fd7855",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 02:30:45",
@@ -949,14 +949,14 @@
     "PathID": "HS_GnaFaste_Galplen",
     "PathType": 1,
     "Path_ID": "65167ba8-2fa2-4224-b599-b413f432d856",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "VindsauFaste-Nalliten",
     "PathType": 1,
     "Path_ID": "658ffaa3-a5cc-40db-b003-5967ac33afca",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -970,42 +970,42 @@
     "PathID": "Nalliten-Galplen",
     "PathType": 1,
     "Path_ID": "666d965b-485b-4dfa-9294-46e6776cd821",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Audliten-GnaFaste",
     "PathType": 1,
     "Path_ID": "688a1703-4b22-40f1-a2b0-a9447008398f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_Vasudheim",
     "PathType": 1,
     "Path_ID": "69be0fae-dc69-4c08-b7b9-c9d6ef858367",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Innis Carthaig",
     "PathType": 1,
     "Path_ID": "69e8ce7a-9b76-4494-b416-e5331b4ff3eb",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_hafheim_ulvastad",
     "PathType": 1,
     "Path_ID": "6a3c42c4-e4e3-4dd3-a649-2983dc520be6",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_HowthRumdor",
     "PathType": 1,
     "Path_ID": "6ae1691c-755b-42b8-9347-3c118e05532f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 20:34:50",
@@ -1033,14 +1033,14 @@
     "PathID": "Griffon_ticket_to_MularnPrulgar",
     "PathType": 1,
     "Path_ID": "6fd806ea-807a-4a74-b1d2-c85845b98bd6",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Cotswold_VillageIdian",
     "PathType": 1,
     "Path_ID": "70041488-dc64-44ae-9d4d-7b3f950e2d6f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:24:30",
@@ -1054,14 +1054,14 @@
     "PathID": "Tir na mBeo",
     "PathType": 1,
     "Path_ID": "71206d81-6642-4393-8d9f-91b76158608c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_finnen_holtham",
     "PathType": 1,
     "Path_ID": "7153eda2-4be8-4e0f-86ef-ee0856d9cd9c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 07:45:29",
@@ -1075,7 +1075,7 @@
     "PathID": "Griffon_ticket_to_Svasud_FasteGularg",
     "PathType": 1,
     "Path_ID": "723210a4-c254-45f4-a883-49d3efcfee96",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 14:45:57",
@@ -1089,14 +1089,14 @@
     "PathID": "hs_newavalon_finnen",
     "PathType": 1,
     "Path_ID": "73cf08d6-171b-422b-9e53-7df16b344666",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_Gna_FasteEryklan",
     "PathType": 1,
     "Path_ID": "740214ab-0047-42fa-86b9-1ade5a76f67b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 14:37:08",
@@ -1110,14 +1110,14 @@
     "PathID": "HS_WestSkona_GnaFaste",
     "PathType": 1,
     "Path_ID": "74c58b80-1ede-4d95-85cc-197f4a1a9f7f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "???????????????????????????????????????????????????????????????????????????????????????????????ath_halgost_hafheim",
     "PathType": 1,
     "Path_ID": "756b31a5-35c2-44f8-9029-0570dab91704",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-06 19:23:18",
@@ -1131,49 +1131,49 @@
     "PathID": "hs_holtham_finnen",
     "PathType": 1,
     "Path_ID": "7695f7cf-cf19-4feb-b55e-b5edce87a67b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Galplen-Nalliten",
     "PathType": 1,
     "Path_ID": "7801c5f4-bc59-428e-8740-7254a32c9480",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_fintain_theisle",
     "PathType": 1,
     "Path_ID": "785fc67b-def2-4452-87d3-d4ee5ae0166c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_riley_altacoill",
     "PathType": 1,
     "Path_ID": "79c5fd46-e05d-4b34-8b73-518ef1cc434b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Howth",
     "PathType": 1,
     "Path_ID": "79ec6776-4475-45cc-92d8-b7843b547615",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Nalliten_VindsaulFaste",
     "PathType": 1,
     "Path_ID": "7a3e56ce-f3c6-41a1-a386-babe9302be4d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Huginfel-SvadsudFaste",
     "PathType": 1,
     "Path_ID": "7a4ca62f-1878-4da3-9aa7-27a2bd7428df",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 18:24:01",
@@ -1187,7 +1187,7 @@
     "PathID": "path_fintain_theisle",
     "PathType": 1,
     "Path_ID": "7b5f3e86-8143-4200-9d09-374d1ccd39f5",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 01:23:32",
@@ -1201,21 +1201,21 @@
     "PathID": "path_halgost_ulvastad",
     "PathType": 1,
     "Path_ID": "7d916dea-99f0-4bd0-b077-20cde2714322",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_GalplenEryklan",
     "PathType": 1,
     "Path_ID": "7e4b6c13-124e-4b90-ba46-9d9568863b02",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_altacoill_fintain",
     "PathType": 1,
     "Path_ID": "7f3c3681-cadb-4500-81b5-85362c8b5ceb",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1229,7 +1229,7 @@
     "PathID": "Raumarik_Scenic_LoopLarsson",
     "PathType": 1,
     "Path_ID": "80cf0369-a5ff-48ae-a336-77cae7480b8a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 07:24:32",
@@ -1243,28 +1243,28 @@
     "PathID": "Raumarik-Huginfel",
     "PathType": 1,
     "Path_ID": "8311d1f4-6b6f-4eaa-bbba-ba6861def955",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_Vasudhiem_FortAtla",
     "PathType": 1,
     "Path_ID": "83ed7dc9-6776-475c-9c00-16fce8e02a3c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Galplen-Vasudheim",
     "PathType": 1,
     "Path_ID": "874ca921-8b5e-4aba-8d02-59e7c29ae0c4",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Audliten_Mularn",
     "PathType": 1,
     "Path_ID": "87e47053-1bc2-472a-b847-c9ae4085ae3a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-10 01:51:29",
@@ -1299,14 +1299,14 @@
     "PathID": "Druim Cain",
     "PathType": 1,
     "Path_ID": "8a4cbc66-449f-4a68-9489-ca2048a8489f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_bt_holtham_isle",
     "PathType": 1,
     "Path_ID": "8ab0c8a6-9cd7-4d0d-9e60-2d311aec1a54",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-09 23:40:17",
@@ -1320,14 +1320,14 @@
     "PathID": "path_hafheim_ulvastad",
     "PathType": 1,
     "Path_ID": "8b3063de-7ca2-4e64-9e74-9ef1e48c6b77",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_riley_fintain",
     "PathType": 1,
     "Path_ID": "8d06fbec-80ba-4cbc-990e-845f9fb9a973",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 22:01:02",
@@ -1341,28 +1341,28 @@
     "PathID": "path_hs_holtham_finnen",
     "PathType": 1,
     "Path_ID": "8d90933f-3700-49be-9150-bc127bc72881",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Cotswold_VillageUliam",
     "PathType": 1,
     "Path_ID": "8dc060ea-bdf8-4ec1-96fa-74961b13e1ac",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Dragonfly_ticket_to_Castle_SauvageJhular",
     "PathType": 1,
     "Path_ID": "8de7fe34-01c0-4873-8704-054e539a274f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "FortAtla_Galplen",
     "PathType": 1,
     "Path_ID": "8e1dfbbf-b7e6-4739-a3c6-04e11c88c284",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-11 01:52:45",
@@ -1376,7 +1376,7 @@
     "PathID": "ticket_to_ConnlaMulgraighy",
     "PathType": 1,
     "Path_ID": "8fb4ef71-1a21-4068-a549-9314a148d248",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 22:02:04",
@@ -1397,14 +1397,14 @@
     "PathID": "HS_Cotswold_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "910d4b66-21fe-4839-a7f3-1b1e7aec832b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "GnaFaste-Huginfel",
     "PathType": 1,
     "Path_ID": "9169aae2-c5b7-4ed0-a90a-1f6d2fc8a7c4",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1418,35 +1418,35 @@
     "PathID": "GnaFaste-Audliten",
     "PathType": 1,
     "Path_ID": "94a6f952-14c2-4024-9735-6dd810bc33c2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_theisle_fintain",
     "PathType": 1,
     "Path_ID": "95288833-c101-4d4d-a971-7489d4def3d2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_CruachanGorge_AlbionCoast",
     "PathType": 1,
     "Path_ID": "96e0444e-6708-4eaf-9ff2-fceeb70f3b2d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Vasudheim-Galplen",
     "PathType": 1,
     "Path_ID": "9903ca7c-d294-42de-a63d-7180faf7fe85",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_CulraidAelerogh",
     "PathType": 1,
     "Path_ID": "9916b628-4646-47cd-8b52-08d51941a842",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 01:33:13",
@@ -1474,28 +1474,28 @@
     "PathID": "path_hafheim_halgost",
     "PathType": 1,
     "Path_ID": "9d46135c-37ea-4912-a300-2b871ad0a67b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_Gna_FasteVorgar",
     "PathType": 1,
     "Path_ID": "9efbd717-e485-4559-b27d-dff209bc373d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_VindsaulFaste_Nalliten",
     "PathType": 1,
     "Path_ID": "9f63f003-882e-446a-b8d5-41aac148cdd1",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_Druim_LigenRumdor",
     "PathType": 1,
     "Path_ID": "a0309171-8491-42cf-a283-38d2b202f88e",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1523,7 +1523,7 @@
     "PathID": "hs_halgost_Ulvastad",
     "PathType": 1,
     "Path_ID": "a1f56f3d-fdcf-4396-aeaa-91c1419913a8",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1537,21 +1537,21 @@
     "PathID": "bt_isle_holtham",
     "PathType": 1,
     "Path_ID": "a4395edd-d8c5-4f08-a369-e66285f4ecb9",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_bt_isle_holtham",
     "PathType": 1,
     "Path_ID": "a49fedba-ea0d-409a-bab0-d98de80eb382",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "SvasudFaste-Mularn",
     "PathType": 1,
     "Path_ID": "a5e64ca4-3b12-411c-88a1-bf81bec457c7",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 16:24:25",
@@ -1565,42 +1565,42 @@
     "PathID": "BT_CruachanGorge_MidgardCoast",
     "PathType": 1,
     "Path_ID": "a84065f9-bdf8-4ee2-8b9f-13e4a9944273",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Cursed_Forest_Scenic_LoopMelina",
     "PathType": 1,
     "Path_ID": "a88bb0c8-93fa-442a-898b-527a5ef291e0",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_newavalon_holtham",
     "PathType": 1,
     "Path_ID": "a8f8427c-b6b8-4d61-a96f-090227f8ae60",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFworm",
     "PathType": 1,
     "Path_ID": "a93ff66d-dc3f-4c7a-a0ad-878b7a060670",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_cotswold_prydwenbridge",
     "PathType": 1,
     "Path_ID": "a955f802-2b02-4a0c-874a-1c1e8745e750",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_fintain_altacoill",
     "PathType": 1,
     "Path_ID": "aa6b4e19-3d4c-43d0-afbe-943302a791f4",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:20:43",
@@ -1614,112 +1614,112 @@
     "PathID": "DFDeamhanessPatrol1",
     "PathType": 2,
     "Path_ID": "aadc9413-a659-4465-b039-be9da9945979",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_holtham_newavalon",
     "PathType": 1,
     "Path_ID": "ab4806a4-8b6f-4136-ae43-a390d4ba48cf",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Audliten_GnaFaste",
     "PathType": 1,
     "Path_ID": "ab58bffd-3d33-4a16-a3ba-8ec9bbdec308",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_altacoill_fintain",
     "PathType": 1,
     "Path_ID": "ab7ade37-72a4-4c34-a503-69f8e60929bd",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_ConnlaBreachus",
     "PathType": 1,
     "Path_ID": "abbfbf74-6f84-4329-8f6c-e940839156c3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_VindsaulFaste_SvasudFaste",
     "PathType": 1,
     "Path_ID": "ae32e0d4-f8c6-458c-9768-fa710de5f29b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "ticket_to_Ft._AtlaTruax",
     "PathType": 1,
     "Path_ID": "afb748f0-c89f-4297-a8ab-e44e325d03fd",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMalochianTempter3",
     "PathType": 3,
     "Path_ID": "afc606cf-b89f-4cd0-9f49-b8eb474bcb9d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CaerWitrin_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb17",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_AdribardsRetreat_WesternCornwall",
     "PathType": 1,
     "Path_ID": "alb19",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_AdribardsRetreat_CampacorentinStation",
     "PathType": 1,
     "Path_ID": "alb21",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WesternCornwall_AdribardsRetreat",
     "PathType": 1,
     "Path_ID": "alb29",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WesternCornwall_CaerWitrin",
     "PathType": 1,
     "Path_ID": "alb30",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_WesternCornwall_CamelotEst",
     "PathType": 1,
     "Path_ID": "alb31",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_SnowdoniaStation_LlynBarfog",
     "PathType": 1,
     "Path_ID": "alb35",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bs_magmell_tirnambeo",
     "PathType": 1,
     "Path_ID": "b006c64f-49c4-4a67-a265-1b85dadd7525",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1733,7 +1733,7 @@
     "PathID": "hs_ulvastad_halgost",
     "PathType": 1,
     "Path_ID": "b2ead430-9a47-43f7-b58f-f0e65b7872d2",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 03:06:31",
@@ -1747,7 +1747,7 @@
     "PathID": "bt_Domnann_ToA",
     "PathType": 1,
     "Path_ID": "b59ae223-fd15-4e9f-ae81-4c61371e58b3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 02:17:59",
@@ -1775,7 +1775,7 @@
     "PathID": "AlbMainGuardPatrol",
     "PathType": 3,
     "Path_ID": "bb0d9d7e-97e0-4847-b759-0ded2cb96d18",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 01:18:25",
@@ -1789,14 +1789,14 @@
     "PathID": "path_fintain_riley",
     "PathType": 1,
     "Path_ID": "bd72fa37-c613-42ee-be7b-26962a2dba3b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_Druim_LigenChuchear",
     "PathType": 1,
     "Path_ID": "befc29cf-62ca-4359-9d4d-c6cb19dde30f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:31:59",
@@ -1810,21 +1810,21 @@
     "PathID": "GnaFaste-FortVeldon",
     "PathType": 1,
     "Path_ID": "bf8d0afd-d3cb-42a8-8884-989ea4b91e9b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Wyvern_ticket_to_ConnlaUllios",
     "PathType": 1,
     "Path_ID": "bfaf0caf-14d6-4d05-9d8c-8e26a7d2a083",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Connla",
     "PathType": 1,
     "Path_ID": "c114f395-1c57-485e-ad4e-7bb3e1ddb5f9",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1838,28 +1838,28 @@
     "PathID": "HS_GnaFaste_FortVeldon",
     "PathType": 1,
     "Path_ID": "c1b367a9-db6e-4043-82a4-a84f7f383a3d",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Huginfel-GnaFaste",
     "PathType": 1,
     "Path_ID": "c2c3eda4-2610-40b2-a728-457b7468ad9a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_ForestSauvage_MidgardCoast",
     "PathType": 1,
     "Path_ID": "c3226cfa-7722-4248-9846-fecad9de36e0",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_Svasud_FasteWolgrun",
     "PathType": 1,
     "Path_ID": "c323607c-4e24-4ff4-9040-d89b6031c096",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-21 15:24:17",
@@ -1880,14 +1880,14 @@
     "PathID": "Dragonfly_ticket_to_Caer_WitrinUliam",
     "PathType": 1,
     "Path_ID": "c83ecee9-c8af-42bb-8b41-78e5b9ef7add",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_finnen_holtham",
     "PathType": 1,
     "Path_ID": "c8419287-e263-4b01-b054-8f9c5e865b8b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1908,7 +1908,7 @@
     "PathID": "hs_halgost_hafheim",
     "PathType": 1,
     "Path_ID": "c9db0785-1b68-46b2-92e5-22a8a32f48b5",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 13:38:29",
@@ -1922,14 +1922,14 @@
     "PathID": "HS_Huginfel_GnaFaste",
     "PathType": 1,
     "Path_ID": "cd3564b9-8f02-4b11-b949-1c1572f7ae3a",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_SvasudFaste_VindsaulFaste",
     "PathType": 1,
     "Path_ID": "ce13d84d-18e2-4ce8-af83-6a8f527b82cc",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-12 02:10:12",
@@ -1971,7 +1971,7 @@
     "PathID": "HS_Mularn_SvasudFaste",
     "PathType": 1,
     "Path_ID": "d3ac8641-6ce0-4c7d-a244-b77e2d26b9f7",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 19:53:55",
@@ -1999,7 +1999,7 @@
     "PathID": "ticket_to_Cotswold_VillageHaruld",
     "PathType": 1,
     "Path_ID": "d5f81727-23f9-4011-b770-d30ab8c00db7",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 15:24:53",
@@ -2041,28 +2041,28 @@
     "PathID": "Ft.Atla-Galphen",
     "PathType": 1,
     "Path_ID": "dc493b19-3d3b-4eed-8035-02a450b7d89c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_ticket_to_the_isle",
     "PathType": 1,
     "Path_ID": "dcc88d91-3141-4317-b9f8-bc56a6c711b9",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_altacoill_riley",
     "PathType": 1,
     "Path_ID": "dd2bd937-e4a5-479b-a71b-bfec9372dacd",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_FortAtla",
     "PathType": 1,
     "Path_ID": "ddf12889-1dc2-4f7d-b82f-455498153c85",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-12 01:56:35",
@@ -2083,7 +2083,7 @@
     "PathID": "BT_Breifine_MidgardCoast",
     "PathType": 1,
     "Path_ID": "df2ff20c-7476-4b29-a596-5edbe3116fc6",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-11 01:33:20",
@@ -2097,7 +2097,7 @@
     "PathID": "hs_riley_altacoill",
     "PathType": 1,
     "Path_ID": "dfd3f0e0-e080-42d9-9983-b32f8e2adbb5",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 14:34:06",
@@ -2111,21 +2111,21 @@
     "PathID": "Tri Urphost",
     "PathType": 1,
     "Path_ID": "e1d98072-f938-4352-948d-38c262e4d241",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Raumarik-GnaFaste",
     "PathType": 1,
     "Path_ID": "e3271da7-ec83-4d42-ae26-0f9bf95cebe3",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "FortAtla_Mularn",
     "PathType": 1,
     "Path_ID": "e362c556-444f-44be-a385-086272d29e0c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:59:46",
@@ -2139,14 +2139,14 @@
     "PathID": "DFInquisitorMedebo",
     "PathType": 2,
     "Path_ID": "e4c2ef66-bea8-42e9-92ca-ce9c20048bef",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Huginfel_SvasudFaste",
     "PathType": 1,
     "Path_ID": "e5ce3385-a261-4c04-8779-bab750288b4e",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-11 01:11:08",
@@ -2160,7 +2160,7 @@
     "PathID": "Dragonfly_ticket_to_Snowdonia_StationYaren",
     "PathType": 1,
     "Path_ID": "e7d54a95-b163-447a-81c5-7135133bbf5c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2015-02-03 19:40:55",
@@ -2181,7 +2181,7 @@
     "PathID": "East Lough Derg",
     "PathType": 1,
     "Path_ID": "eabc836a-6566-4244-ae37-acee65874e25",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 02:59:59",
@@ -2202,35 +2202,35 @@
     "PathID": "Mularn-Ft.Atla",
     "PathType": 1,
     "Path_ID": "ebd4ae3a-c7d1-4590-8b8b-68f00c11ec63",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "path_hs_ulvastad_halgost",
     "PathType": 1,
     "Path_ID": "ec194d78-0db2-4db8-a008-2a3f9c4db3db",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_Vindsaul_FasteVorgar",
     "PathType": 1,
     "Path_ID": "ec4d1a76-6aad-4a0e-9818-d098f8d8f74b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Griffon_ticket_to_MularnVorgar",
     "PathType": 1,
     "Path_ID": "ec73255d-2640-4f76-9670-a488af93a1bb",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_ulvastad_hafheim",
     "PathType": 1,
     "Path_ID": "ec829496-fa49-4639-9e06-e3943e408859",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 03:57:47",
@@ -2244,7 +2244,7 @@
     "PathID": "DFAvernalQuasit1",
     "PathType": 3,
     "Path_ID": "ee6b4810-4b72-4b81-805a-e48a5d6e5d82",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 20:24:37",
@@ -2265,7 +2265,7 @@
     "PathID": "bt_holtham_isle",
     "PathType": 1,
     "Path_ID": "ef2cc4d7-6c52-4f67-bf01-20eee3c8899c",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-05 21:28:08",
@@ -2300,7 +2300,7 @@
     "PathID": "Griffon_ticket_to_Svasud_FasteUlufgar",
     "PathType": 1,
     "Path_ID": "f29483c4-dc41-40b5-b792-ea74c0dcf983",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-13 02:40:42",
@@ -2314,7 +2314,7 @@
     "PathID": "hs_finnen_newavalon",
     "PathType": 1,
     "Path_ID": "f30d1c28-96e4-426b-afc2-adab61e10971",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 20:47:44",
@@ -2328,7 +2328,7 @@
     "PathID": "Mularn-Audliten",
     "PathType": 1,
     "Path_ID": "f3a86e3b-cb92-4ea8-ab25-f34fdc731c61",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-06 03:13:53",
@@ -2342,7 +2342,7 @@
     "PathID": "GnaFaste-Raumarik",
     "PathType": 1,
     "Path_ID": "f3e0d41b-2c5a-470d-82c3-ecce9eed9a50",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2356,14 +2356,14 @@
     "PathID": "HS_GnaFaste_Raumarik",
     "PathType": 1,
     "Path_ID": "f4c91727-53ca-42ea-b93e-20065f3375f9",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Raumarik_GnaFaste",
     "PathType": 1,
     "Path_ID": "f5844a99-e19d-49a6-8be6-46527db81ee4",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2391,7 +2391,7 @@
     "PathID": "Nalliten-VindsauFaste",
     "PathType": 1,
     "Path_ID": "f93334b8-daea-4ccd-845f-d23ca7a6265b",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2018-01-07 16:00:20",
@@ -2405,7 +2405,7 @@
     "PathID": "Wyvern_ticket_to_ArdeeErine",
     "PathType": 1,
     "Path_ID": "fbd829fe-bbe2-4eb2-a103-0febe5cac97f",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2419,14 +2419,14 @@
     "PathID": "HS_Cotswold_SnowdoniaStation",
     "PathType": 1,
     "Path_ID": "fd97063b-3e88-455b-bc82-045e0e67aabf",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "Audliten-Mularn",
     "PathType": 1,
     "Path_ID": "fe82f845-7387-45b6-a655-a62240d4e558",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2440,41 +2440,41 @@
     "PathID": "HS_DruimLigen_Connla",
     "PathType": 1,
     "Path_ID": "hib12",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Brynach_TirNaNogNord",
     "PathType": 1,
     "Path_ID": "hib32",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Brynach_DruimCain",
     "PathType": 1,
     "Path_ID": "hib33",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Brynach_CursedForest",
     "PathType": 1,
     "Path_ID": "hib34",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_DruimCain_Brynach",
     "PathType": 1,
     "Path_ID": "hib37",
-    "RegionID": null
+    "RegionID": 0
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_CursedForest_Brynach",
     "PathType": 1,
     "Path_ID": "hib38",
-    "RegionID": null
+    "RegionID": 0
   }
 ]

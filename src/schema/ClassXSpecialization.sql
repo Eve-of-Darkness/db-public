@@ -1,8 +1,8 @@
 CREATE TABLE `ClassXSpecialization` (
   `ClassXSpecializationID` int(11) NOT NULL AUTO_INCREMENT,
-  `ClassID` int(11) DEFAULT NULL,
+  `ClassID` int(11) NOT NULL DEFAULT '0',
   `SpecKeyName` varchar(100) NOT NULL,
-  `LevelAcquired` int(11) DEFAULT NULL,
+  `LevelAcquired` int(11) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ClassXSpecializationID`),
   KEY `I_ClassXSpecialization_ClassID` (`ClassID`),

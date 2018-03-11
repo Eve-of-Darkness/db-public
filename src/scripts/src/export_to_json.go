@@ -12,27 +12,20 @@ import (
 	"strings"
 
 	_ "github.com/go-sql-driver/mysql"
-	"github.com/jinzhu/configor"
+	"github.com/spf13/viper"
 )
 
-//Config is from config file
-var Config = struct {
-	DB struct {
-		Host     string `required:"true" default:"127.0.0.1"`
-		User     string `required:"true" default:"dolserver"`
-		Database string `required:"true" default:"dolserver"`
-		Password string `required:"true" default:"dolserver"`
-		Port     uint   `default:"3306"`
-	}
-	ExportIgnore []string
-}{}
-
 func main() {
-	configor.Load(&Config, "../../config/config.yml")
+	viper.SetConfigName("config") // name of config file (without extension)
+	viper.AddConfigPath("../../config/")   // path to look for the config file in
+	err := viper.ReadInConfig() // Find and read the config file
+	if err != nil { // Handle errors reading the config file
+		panic(fmt.Errorf("Fatal error config file: %s \n", err))
+	}
 
 	db, err := sql.Open(
 		"mysql",
-		Config.DB.User+":"+Config.DB.Password+"@tcp("+Config.DB.Host+":"+fmt.Sprint(Config.DB.Port)+")/"+Config.DB.Database)
+		viper.GetString("db.user")+":"+viper.GetString("db.password")+"@tcp("+viper.GetString("db.host")+":"+viper.GetString("db.port")+")/"+viper.GetString("db.database"))
 
 	if err != nil {
 		fmt.Printf("Failed to connect to database")
@@ -58,8 +51,7 @@ func main() {
 }
 
 func getTables(db *sql.DB) ([]string, error) {
-	configor.Load(&Config, "config.yml")
-	ignoreTables := strings.Join(Config.ExportIgnore, "|")
+	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
 
 	re := regexp.MustCompile("(?i)(" + ignoreTables + ")")
 

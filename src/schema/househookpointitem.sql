@@ -1,10 +1,10 @@
 CREATE TABLE `househookpointitem` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
-  `HouseNumber` int(11) NOT NULL,
-  `HookpointID` int(10) unsigned NOT NULL,
-  `Heading` smallint(5) unsigned DEFAULT NULL,
+  `HouseNumber` int(11) NOT NULL DEFAULT '0',
+  `HookpointID` int(10) unsigned NOT NULL DEFAULT '0',
+  `Heading` smallint(5) unsigned NOT NULL DEFAULT '0',
   `ItemTemplateID` text,
-  `Index` tinyint(3) unsigned DEFAULT NULL,
+  `Index` tinyint(3) unsigned NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ID`),
   KEY `I_househookpointitem_HouseNumber` (`HouseNumber`)

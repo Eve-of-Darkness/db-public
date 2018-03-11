@@ -1,8 +1,8 @@
 CREATE TABLE `Salvage` (
-  `ObjectType` int(11) NOT NULL,
-  `SalvageLevel` int(11) NOT NULL,
+  `ObjectType` int(11) NOT NULL DEFAULT '0',
+  `SalvageLevel` int(11) NOT NULL DEFAULT '0',
   `Id_nb` text NOT NULL,
-  `Realm` int(11) NOT NULL,
+  `Realm` int(11) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Salvage_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`Salvage_ID`),

@@ -1,6 +1,6 @@
 [
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Verdant Path Spec Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -9,7 +9,7 @@
     "SpellLineID": 1
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Spectral Force",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -18,7 +18,7 @@
     "SpellLineID": 2
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Spectral Guard",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -27,7 +27,7 @@
     "SpellLineID": 3
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Ethereal Shriek",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -36,7 +36,7 @@
     "SpellLineID": 4
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Phantasmal Wail",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -45,7 +45,7 @@
     "SpellLineID": 5
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Witchcraft",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -54,7 +54,7 @@
     "SpellLineID": 6
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Hexing",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -63,7 +63,7 @@
     "SpellLineID": 7
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Cursing",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -72,7 +72,7 @@
     "SpellLineID": 8
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Valor",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -81,7 +81,7 @@
     "SpellLineID": 9
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Deathsight Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -99,7 +99,7 @@
     "SpellLineID": 11
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Deathsight",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -108,7 +108,7 @@
     "SpellLineID": 12
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Mind Mastery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -117,7 +117,7 @@
     "SpellLineID": 13
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "SappLifeDrain",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -126,7 +126,7 @@
     "SpellLineID": 14
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Odin's Will",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -144,7 +144,7 @@
     "SpellLineID": 16
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Arboreal Path",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -171,7 +171,7 @@
     "SpellLineID": 19
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "UnderhillCompanionDD",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -180,7 +180,7 @@
     "SpellLineID": 20
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Reserved Spells",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -189,7 +189,7 @@
     "SpellLineID": 21
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Bone Army",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -198,7 +198,7 @@
     "SpellLineID": 22
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Potions",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -207,7 +207,7 @@
     "SpellLineID": 23
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Subterranean Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -225,7 +225,7 @@
     "SpellLineID": 25
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Mending",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -234,7 +234,7 @@
     "SpellLineID": 26
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Void Mastery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -243,7 +243,7 @@
     "SpellLineID": 27
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Mob Spells",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -252,7 +252,7 @@
     "SpellLineID": 28
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Pacification Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -261,7 +261,7 @@
     "SpellLineID": 29
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Mind Twisting",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -288,7 +288,7 @@
     "SpellLineID": 32
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Death Servant Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -297,7 +297,7 @@
     "SpellLineID": 33
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Domination",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -306,7 +306,7 @@
     "SpellLineID": 34
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Chants",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -315,7 +315,7 @@
     "SpellLineID": 35
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Battlesongs",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -324,7 +324,7 @@
     "SpellLineID": 36
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "UnderhillZealotDD",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -342,7 +342,7 @@
     "SpellLineID": 38
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Beastcraft",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -360,7 +360,7 @@
     "SpellLineID": 40
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Path of Ice",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -387,7 +387,7 @@
     "SpellLineID": 43
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Runecarving",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -396,7 +396,7 @@
     "SpellLineID": 44
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Rejuvenation",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -405,7 +405,7 @@
     "SpellLineID": 45
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Spirit Enhancement",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -414,7 +414,7 @@
     "SpellLineID": 46
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Abilities Spells",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -423,7 +423,7 @@
     "SpellLineID": 47
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Arboreal Mastery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -432,7 +432,7 @@
     "SpellLineID": 48
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "SpiritBladeturn",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -441,7 +441,7 @@
     "SpellLineID": 49
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Enchantment Mastery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -450,7 +450,7 @@
     "SpellLineID": 50
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Mentalism",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -459,7 +459,7 @@
     "SpellLineID": 51
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Druid Nature Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -468,7 +468,7 @@
     "SpellLineID": 52
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Terrible Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -477,7 +477,7 @@
     "SpellLineID": 53
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Arboreal Path Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -486,7 +486,7 @@
     "SpellLineID": 54
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "IceElementalDD",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -504,7 +504,7 @@
     "SpellLineID": 56
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Pathfinding",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -513,7 +513,7 @@
     "SpellLineID": 57
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Character Abilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -540,7 +540,7 @@
     "SpellLineID": 60
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Vivification",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -549,7 +549,7 @@
     "SpellLineID": 61
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Arboreal Path Spec Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -558,7 +558,7 @@
     "SpellLineID": 62
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Enchantment",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -567,7 +567,7 @@
     "SpellLineID": 63
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Soulrending",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -576,7 +576,7 @@
     "SpellLineID": 64
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "PetBuff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -594,7 +594,7 @@
     "SpellLineID": 66
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "DefensiveProc",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -612,7 +612,7 @@
     "SpellLineID": 68
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Bard Music Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -621,7 +621,7 @@
     "SpellLineID": 69
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Druid Nature Magic",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -639,7 +639,7 @@
     "SpellLineID": 71
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Way of the Eclipse",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -648,7 +648,7 @@
     "SpellLineID": 72
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "OffensiveProc",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -657,7 +657,7 @@
     "SpellLineID": 73
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Verdant Path",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -666,7 +666,7 @@
     "SpellLineID": 74
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Creeping Path",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -693,7 +693,7 @@
     "SpellLineID": 77
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "UnderhillAllyHeal",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -711,7 +711,7 @@
     "SpellLineID": 79
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Instruments",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -729,7 +729,7 @@
     "SpellLineID": 81
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Death Servant",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -747,7 +747,7 @@
     "SpellLineID": 83
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "AllyHealOverTime",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -756,7 +756,7 @@
     "SpellLineID": 84
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Pyromancy",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -765,7 +765,7 @@
     "SpellLineID": 85
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Path of Earth",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -783,7 +783,7 @@
     "SpellLineID": 87
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Creeping Path Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -801,7 +801,7 @@
     "SpellLineID": 89
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Runes of Destruction",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -810,7 +810,7 @@
     "SpellLineID": 90
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Enhancement",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -819,7 +819,7 @@
     "SpellLineID": 91
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Item Effects",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -828,7 +828,7 @@
     "SpellLineID": 92
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Verdant Path Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -846,7 +846,7 @@
     "SpellLineID": 94
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Mundane Poisons",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -855,7 +855,7 @@
     "SpellLineID": 95
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Augmentation",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -864,7 +864,7 @@
     "SpellLineID": 96
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Suppression",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -882,7 +882,7 @@
     "SpellLineID": 98
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Stormcalling",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -891,7 +891,7 @@
     "SpellLineID": 99
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Regrowth",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -909,7 +909,7 @@
     "SpellLineID": 101
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Pacification",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -927,7 +927,7 @@
     "SpellLineID": 103
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Vampiiric Embrace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -936,7 +936,7 @@
     "SpellLineID": 104
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Dementia",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -945,7 +945,7 @@
     "SpellLineID": 105
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Painworking Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -954,7 +954,7 @@
     "SpellLineID": 106
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Smiting",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -990,7 +990,7 @@
     "SpellLineID": 110
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Spirit Animation",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1008,7 +1008,7 @@
     "SpellLineID": 112
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Champion Abilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1026,7 +1026,7 @@
     "SpellLineID": 114
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Shadow Mastery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1035,7 +1035,7 @@
     "SpellLineID": 115
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Matter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1044,7 +1044,7 @@
     "SpellLineID": 116
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Bone Warriors",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1053,7 +1053,7 @@
     "SpellLineID": 117
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Creeping Path Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1071,7 +1071,7 @@
     "SpellLineID": 119
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Summoning",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1080,7 +1080,7 @@
     "SpellLineID": 120
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Path of Air",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1098,7 +1098,7 @@
     "SpellLineID": 122
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Painworking",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1107,7 +1107,7 @@
     "SpellLineID": 123
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Dragon Magic",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1125,7 +1125,7 @@
     "SpellLineID": 125
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Path of Fire",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1134,7 +1134,7 @@
     "SpellLineID": 126
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Subterranean Incantations",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1152,7 +1152,7 @@
     "SpellLineID": 128
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Creeping Path Spec Pet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1161,7 +1161,7 @@
     "SpellLineID": 129
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Way of the Sun",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1170,7 +1170,7 @@
     "SpellLineID": 130
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Body Destruction",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1179,7 +1179,7 @@
     "SpellLineID": 131
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Darkness",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1188,7 +1188,7 @@
     "SpellLineID": 132
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Savagery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1206,7 +1206,7 @@
     "SpellLineID": 134
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Combat Style Effects",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1215,7 +1215,7 @@
     "SpellLineID": 135
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Way of the Moon",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1224,7 +1224,7 @@
     "SpellLineID": 136
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Vapormancy",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1233,7 +1233,7 @@
     "SpellLineID": 137
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Bard Music",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1242,7 +1242,7 @@
     "SpellLineID": 138
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Player poisons",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1251,7 +1251,7 @@
     "SpellLineID": 139
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Verdant Path Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1260,7 +1260,7 @@
     "SpellLineID": 140
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "AirElementalStun",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1269,7 +1269,7 @@
     "SpellLineID": 141
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Nurture",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1287,7 +1287,7 @@
     "SpellLineID": 143
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Fulltank Abilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1296,7 +1296,7 @@
     "SpellLineID": 144
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Cursing Spec",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1314,7 +1314,7 @@
     "SpellLineID": 146
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Aura Manipulation",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1323,7 +1323,7 @@
     "SpellLineID": 147
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Magnetism",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1332,7 +1332,7 @@
     "SpellLineID": 148
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Power Strikes",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1341,7 +1341,7 @@
     "SpellLineID": 149
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1350,7 +1350,7 @@
     "SpellLineID": 150
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1359,7 +1359,7 @@
     "SpellLineID": 161
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1368,7 +1368,7 @@
     "SpellLineID": 172
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1377,7 +1377,7 @@
     "SpellLineID": 183
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1386,7 +1386,7 @@
     "SpellLineID": 194
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1395,7 +1395,7 @@
     "SpellLineID": 205
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1404,7 +1404,7 @@
     "SpellLineID": 216
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1413,7 +1413,7 @@
     "SpellLineID": 227
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Necro Pet Insta Spells",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1422,7 +1422,7 @@
     "SpellLineID": 238
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Archery",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1431,7 +1431,7 @@
     "SpellLineID": 239
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Sorts des dieux",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1440,7 +1440,7 @@
     "SpellLineID": 240
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "InfiltratorAbilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1449,7 +1449,7 @@
     "SpellLineID": 241
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ShadowbladeAbilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1458,7 +1458,7 @@
     "SpellLineID": 242
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "NightshadeAbilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1476,7 +1476,7 @@
     "SpellLineID": 244
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Wintry",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1485,7 +1485,7 @@
     "SpellLineID": 245
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "Item Spells",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -1494,7 +1494,7 @@
     "SpellLineID": 246
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Acolyte 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1503,7 +1503,7 @@
     "SpellLineID": 247
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Acolyte 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1512,7 +1512,7 @@
     "SpellLineID": 248
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Acolyte 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1521,7 +1521,7 @@
     "SpellLineID": 249
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Acolyte 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1530,7 +1530,7 @@
     "SpellLineID": 250
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Albion Rogue 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1539,7 +1539,7 @@
     "SpellLineID": 251
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Albion Rogue 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1548,7 +1548,7 @@
     "SpellLineID": 252
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Albion Rogue 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1557,7 +1557,7 @@
     "SpellLineID": 253
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Albion Rogue 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1566,7 +1566,7 @@
     "SpellLineID": 254
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Disciple 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1575,7 +1575,7 @@
     "SpellLineID": 255
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Disciple 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1584,7 +1584,7 @@
     "SpellLineID": 256
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Disciple 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1593,7 +1593,7 @@
     "SpellLineID": 257
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Disciple 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1602,7 +1602,7 @@
     "SpellLineID": 258
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Elementalist 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1611,7 +1611,7 @@
     "SpellLineID": 259
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Elementalist 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1620,7 +1620,7 @@
     "SpellLineID": 260
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Elementalist 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1629,7 +1629,7 @@
     "SpellLineID": 261
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Elementalist 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1638,7 +1638,7 @@
     "SpellLineID": 262
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Fighter 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1647,7 +1647,7 @@
     "SpellLineID": 263
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Fighter 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1656,7 +1656,7 @@
     "SpellLineID": 264
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Fighter 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1665,7 +1665,7 @@
     "SpellLineID": 265
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Fighter 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1674,7 +1674,7 @@
     "SpellLineID": 266
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Forester 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1683,7 +1683,7 @@
     "SpellLineID": 267
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Forester 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1692,7 +1692,7 @@
     "SpellLineID": 268
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Forester 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1701,7 +1701,7 @@
     "SpellLineID": 269
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Forester 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1710,7 +1710,7 @@
     "SpellLineID": 270
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Guardian 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1719,7 +1719,7 @@
     "SpellLineID": 271
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Guardian 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1728,7 +1728,7 @@
     "SpellLineID": 272
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Guardian 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1737,7 +1737,7 @@
     "SpellLineID": 273
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Guardian 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1746,7 +1746,7 @@
     "SpellLineID": 274
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mage 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1755,7 +1755,7 @@
     "SpellLineID": 275
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mage 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1764,7 +1764,7 @@
     "SpellLineID": 276
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mage 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1773,7 +1773,7 @@
     "SpellLineID": 277
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mage 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1782,7 +1782,7 @@
     "SpellLineID": 278
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Magician 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1791,7 +1791,7 @@
     "SpellLineID": 279
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Magician 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1800,7 +1800,7 @@
     "SpellLineID": 280
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Magician 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1809,7 +1809,7 @@
     "SpellLineID": 281
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Magician 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1818,7 +1818,7 @@
     "SpellLineID": 282
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Magician 5",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1827,7 +1827,7 @@
     "SpellLineID": 283
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Midgard Rogue 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1836,7 +1836,7 @@
     "SpellLineID": 284
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Midgard Rogue 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1845,7 +1845,7 @@
     "SpellLineID": 285
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Midgard Rogue 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1854,7 +1854,7 @@
     "SpellLineID": 286
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Midgard Rogue 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1863,7 +1863,7 @@
     "SpellLineID": 287
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mystic 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1872,7 +1872,7 @@
     "SpellLineID": 288
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mystic 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1881,7 +1881,7 @@
     "SpellLineID": 289
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mystic 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1890,7 +1890,7 @@
     "SpellLineID": 290
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mystic 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1899,7 +1899,7 @@
     "SpellLineID": 291
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Mystic 5",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1908,7 +1908,7 @@
     "SpellLineID": 292
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Naturalist 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1917,7 +1917,7 @@
     "SpellLineID": 293
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Naturalist 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1926,7 +1926,7 @@
     "SpellLineID": 294
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Naturalist 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1935,7 +1935,7 @@
     "SpellLineID": 295
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Naturalist 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1944,7 +1944,7 @@
     "SpellLineID": 296
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Seer 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1953,7 +1953,7 @@
     "SpellLineID": 297
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Seer 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1962,7 +1962,7 @@
     "SpellLineID": 298
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Seer 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1971,7 +1971,7 @@
     "SpellLineID": 299
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Seer 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1980,7 +1980,7 @@
     "SpellLineID": 300
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Seer 5",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1989,7 +1989,7 @@
     "SpellLineID": 301
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Stalker 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -1998,7 +1998,7 @@
     "SpellLineID": 302
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Stalker 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2007,7 +2007,7 @@
     "SpellLineID": 303
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Stalker 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2016,7 +2016,7 @@
     "SpellLineID": 304
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Stalker 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2025,7 +2025,7 @@
     "SpellLineID": 305
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Viking 1",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2034,7 +2034,7 @@
     "SpellLineID": 306
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Viking 2",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2043,7 +2043,7 @@
     "SpellLineID": 307
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Viking 3",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2052,7 +2052,7 @@
     "SpellLineID": 308
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Viking 4",
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
@@ -2061,7 +2061,7 @@
     "SpellLineID": 309
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Abilities Hibernia",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2070,7 +2070,7 @@
     "SpellLineID": 310
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Abilities Midgard",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2079,7 +2079,7 @@
     "SpellLineID": 311
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Champion Abilities Albion",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2088,7 +2088,7 @@
     "SpellLineID": 312
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 0,
     "KeyName": "Realm Abilities",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2097,7 +2097,7 @@
     "SpellLineID": 313
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2106,7 +2106,7 @@
     "SpellLineID": 1376
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2115,7 +2115,7 @@
     "SpellLineID": 1377
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2124,7 +2124,7 @@
     "SpellLineID": 1378
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2133,7 +2133,7 @@
     "SpellLineID": 1379
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2142,7 +2142,7 @@
     "SpellLineID": 1380
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2151,7 +2151,7 @@
     "SpellLineID": 1381
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2160,7 +2160,7 @@
     "SpellLineID": 1382
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2169,7 +2169,7 @@
     "SpellLineID": 1383
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2178,7 +2178,7 @@
     "SpellLineID": 1384
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Banelord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2187,7 +2187,7 @@
     "SpellLineID": 1385
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2196,7 +2196,7 @@
     "SpellLineID": 1387
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2205,7 +2205,7 @@
     "SpellLineID": 1388
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2214,7 +2214,7 @@
     "SpellLineID": 1389
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2223,7 +2223,7 @@
     "SpellLineID": 1390
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2232,7 +2232,7 @@
     "SpellLineID": 1391
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2241,7 +2241,7 @@
     "SpellLineID": 1392
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2250,7 +2250,7 @@
     "SpellLineID": 1393
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2259,7 +2259,7 @@
     "SpellLineID": 1394
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2268,7 +2268,7 @@
     "SpellLineID": 1395
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Battlemaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2277,7 +2277,7 @@
     "SpellLineID": 1396
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2286,7 +2286,7 @@
     "SpellLineID": 1398
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2295,7 +2295,7 @@
     "SpellLineID": 1399
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2304,7 +2304,7 @@
     "SpellLineID": 1400
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2313,7 +2313,7 @@
     "SpellLineID": 1401
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2322,7 +2322,7 @@
     "SpellLineID": 1402
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2331,7 +2331,7 @@
     "SpellLineID": 1403
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2340,7 +2340,7 @@
     "SpellLineID": 1404
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2349,7 +2349,7 @@
     "SpellLineID": 1405
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2358,7 +2358,7 @@
     "SpellLineID": 1406
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Convoker",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2367,7 +2367,7 @@
     "SpellLineID": 1407
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2376,7 +2376,7 @@
     "SpellLineID": 1409
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2385,7 +2385,7 @@
     "SpellLineID": 1410
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2394,7 +2394,7 @@
     "SpellLineID": 1411
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2403,7 +2403,7 @@
     "SpellLineID": 1412
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2412,7 +2412,7 @@
     "SpellLineID": 1413
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2421,7 +2421,7 @@
     "SpellLineID": 1414
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2430,7 +2430,7 @@
     "SpellLineID": 1415
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2439,7 +2439,7 @@
     "SpellLineID": 1416
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2448,7 +2448,7 @@
     "SpellLineID": 1417
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Perfecter",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2457,7 +2457,7 @@
     "SpellLineID": 1418
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2466,7 +2466,7 @@
     "SpellLineID": 1420
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2475,7 +2475,7 @@
     "SpellLineID": 1421
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2484,7 +2484,7 @@
     "SpellLineID": 1422
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2493,7 +2493,7 @@
     "SpellLineID": 1423
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2502,7 +2502,7 @@
     "SpellLineID": 1424
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2511,7 +2511,7 @@
     "SpellLineID": 1425
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2520,7 +2520,7 @@
     "SpellLineID": 1426
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2529,7 +2529,7 @@
     "SpellLineID": 1427
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2538,7 +2538,7 @@
     "SpellLineID": 1428
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Sojourner",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2547,7 +2547,7 @@
     "SpellLineID": 1429
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2556,7 +2556,7 @@
     "SpellLineID": 1431
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2565,7 +2565,7 @@
     "SpellLineID": 1432
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2574,7 +2574,7 @@
     "SpellLineID": 1433
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2583,7 +2583,7 @@
     "SpellLineID": 1434
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2592,7 +2592,7 @@
     "SpellLineID": 1435
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2601,7 +2601,7 @@
     "SpellLineID": 1436
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2610,7 +2610,7 @@
     "SpellLineID": 1437
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2619,7 +2619,7 @@
     "SpellLineID": 1438
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2628,7 +2628,7 @@
     "SpellLineID": 1439
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Spymaster",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2637,7 +2637,7 @@
     "SpellLineID": 1440
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2646,7 +2646,7 @@
     "SpellLineID": 1442
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2655,7 +2655,7 @@
     "SpellLineID": 1443
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2664,7 +2664,7 @@
     "SpellLineID": 1444
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2673,7 +2673,7 @@
     "SpellLineID": 1445
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2682,7 +2682,7 @@
     "SpellLineID": 1446
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2691,7 +2691,7 @@
     "SpellLineID": 1447
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2700,7 +2700,7 @@
     "SpellLineID": 1448
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2709,7 +2709,7 @@
     "SpellLineID": 1449
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2718,7 +2718,7 @@
     "SpellLineID": 1450
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Stormlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2727,7 +2727,7 @@
     "SpellLineID": 1451
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML1 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2736,7 +2736,7 @@
     "SpellLineID": 1453
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML10 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2745,7 +2745,7 @@
     "SpellLineID": 1454
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML2 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2754,7 +2754,7 @@
     "SpellLineID": 1455
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML3 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2763,7 +2763,7 @@
     "SpellLineID": 1456
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML4 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2772,7 +2772,7 @@
     "SpellLineID": 1457
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML5 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2781,7 +2781,7 @@
     "SpellLineID": 1458
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML6 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2790,7 +2790,7 @@
     "SpellLineID": 1459
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML7 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2799,7 +2799,7 @@
     "SpellLineID": 1460
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML8 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -2808,7 +2808,7 @@
     "SpellLineID": 1461
   },
   {
-    "ClassIDHint": null,
+    "ClassIDHint": 0,
     "IsBaseLine": 1,
     "KeyName": "ML9 Warlord",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",

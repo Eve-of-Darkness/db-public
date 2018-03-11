@@ -7,10 +7,10 @@ CREATE TABLE `PvPKillsLog` (
   `KilledIP` text NOT NULL,
   `KilledRealm` text NOT NULL,
   `KillerRealm` text NOT NULL,
-  `RPReward` int(11) NOT NULL,
-  `SameIP` tinyint(3) unsigned NOT NULL,
+  `RPReward` int(11) NOT NULL DEFAULT '0',
+  `SameIP` tinyint(3) unsigned NOT NULL DEFAULT '0',
   `RegionName` text,
-  `IsInstance` tinyint(1) DEFAULT NULL,
+  `IsInstance` tinyint(1) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   PRIMARY KEY (`ID`)
 ) ENGINE=InnoDB DEFAULT CHARSET utf8 COLLATE utf8_general_ci;

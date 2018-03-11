@@ -1,9 +1,9 @@
 CREATE TABLE `MobXAmbientBehaviour` (
   `Source` varchar(255) NOT NULL,
   `Trigger` text NOT NULL,
-  `Emote` smallint(5) unsigned DEFAULT NULL,
+  `Emote` smallint(5) unsigned NOT NULL DEFAULT '0',
   `Text` text NOT NULL,
-  `Chance` smallint(5) unsigned NOT NULL,
+  `Chance` smallint(5) unsigned NOT NULL DEFAULT '0',
   `Voice` text,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `MobXAmbientBehaviour_ID` varchar(255) NOT NULL,

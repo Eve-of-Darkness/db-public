@@ -1,6 +1,6 @@
 CREATE TABLE `Quest` (
   `Name` text NOT NULL,
-  `Step` int(11) NOT NULL,
+  `Step` int(11) NOT NULL DEFAULT '0',
   `Character_ID` varchar(255) NOT NULL,
   `CustomPropertiesString` text,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

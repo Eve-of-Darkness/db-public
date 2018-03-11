@@ -7,9 +7,9 @@ CREATE TABLE `PlayerInfo` (
   `Alive` text,
   `Realm` text,
   `Region` text,
-  `Level` int(11) DEFAULT NULL,
-  `X` int(11) DEFAULT NULL,
-  `Y` int(11) DEFAULT NULL,
+  `Level` int(11) NOT NULL DEFAULT '0',
+  `X` int(11) NOT NULL DEFAULT '0',
+  `Y` int(11) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `PlayerInfo_ID` varchar(255) NOT NULL,
   PRIMARY KEY (`PlayerInfo_ID`)
