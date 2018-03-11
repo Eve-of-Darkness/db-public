@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `StarterEquipment`;
+
 CREATE TABLE `StarterEquipment` (
   `StarterEquipmentID` int(11) NOT NULL AUTO_INCREMENT,
   `Class` text NOT NULL,

@@ -1,4 +1,4 @@
-CREATE TABLE `AccountXCustomParam` (
+CREATE TABLE IF NOT EXISTS `AccountXCustomParam` (
   `Name` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

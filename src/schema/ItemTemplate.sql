@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `ItemTempalte`;
+
 CREATE TABLE `ItemTemplate` (
   `Id_nb` varchar(255) NOT NULL,
   `TranslationId` text,

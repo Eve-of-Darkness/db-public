@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `KeepPosition`;
+
 CREATE TABLE `KeepPosition` (
   `ComponentSkin` int(11) NOT NULL DEFAULT '0',
   `ComponentRotation` int(11) NOT NULL DEFAULT '0',

@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Race`;
+
 CREATE TABLE `Race` (
   `ID` int(11) NOT NULL DEFAULT '0',
   `Name` varchar(255) NOT NULL,

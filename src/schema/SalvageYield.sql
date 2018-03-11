@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `SalvageYield`;
+
 CREATE TABLE `SalvageYield` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `ObjectType` int(11) NOT NULL DEFAULT '0',

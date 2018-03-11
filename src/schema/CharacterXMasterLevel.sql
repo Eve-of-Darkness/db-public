@@ -1,4 +1,4 @@
-CREATE TABLE `CharacterXMasterLevel` (
+CREATE TABLE IF NOT EXISTS `CharacterXMasterLevel` (
   `Character_ID` varchar(255) NOT NULL,
   `MLLevel` int(11) NOT NULL DEFAULT '0',
   `MLStep` int(11) NOT NULL DEFAULT '0',

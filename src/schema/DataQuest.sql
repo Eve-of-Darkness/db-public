@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `DataQuest`;
+
 CREATE TABLE `DataQuest` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Name` varchar(255) NOT NULL,

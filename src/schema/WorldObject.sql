@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `WorldObject`;
+
 CREATE TABLE `WorldObject` (
   `ClassType` text,
   `TranslationId` text,

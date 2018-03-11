@@ -17,6 +17,8 @@ exportignore:
     - GuildAlliance
     - HouseConsignmentMerchant
     - KeepCaptureLog
+    - KeepComponent
+    - KeepHookPointItem
     - News
     - PlayerXEffect
     - PvPKillsLog
@@ -26,10 +28,10 @@ exportignore:
     - SinglePermission
     - Task
     - Account
-    - Characterxdataquest
-    - characterxmasterlevel
-    - characterxonetimedrop
-    - inventory
+    - CharacterXDataQuest
+    - CharacterXMasterLevel
+    - CharacterXOneTimeDrop
+    - Inventory
     - playerboats
     - playerinfo
     - BugReport
@@ -41,3 +43,6 @@ exportignore:
     - DBHousepermissions
     - DBHousecharxperms
     - DBHouse
+    - Relic
+    - SpellXCustomValues
+    - Task

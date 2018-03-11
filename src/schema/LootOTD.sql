@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `LootOTD`;
+
 CREATE TABLE `LootOTD` (
   `MobName` varchar(100) NOT NULL,
   `ItemTemplateID` varchar(100) NOT NULL,

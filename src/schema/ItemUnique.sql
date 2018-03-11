@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `ItemUnique`;
+
 CREATE TABLE `ItemUnique` (
   `Id_nb` varchar(255) NOT NULL,
   `TranslationId` text,

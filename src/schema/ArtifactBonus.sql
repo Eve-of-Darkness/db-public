@@ -1,4 +1,6 @@
-CREATE TABLE IF NOT EXISTS `ArtifactBonus` (
+DROP TABLE IF EXISTS `ArtifactBonus`;
+
+CREATE TABLE `ArtifactBonus` (
   `ArtifactID` text NOT NULL,
   `BonusID` int(11) NOT NULL DEFAULT '0',
   `Level` int(11) NOT NULL DEFAULT '0',

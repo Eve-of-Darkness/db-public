@@ -1,4 +1,4 @@
-CREATE TABLE `HouseConsignmentMerchant` (
+CREATE TABLE IF NOT EXISTS `HouseConsignmentMerchant` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `OwnerID` varchar(128) NOT NULL,
   `HouseNumber` int(11) NOT NULL DEFAULT '0',

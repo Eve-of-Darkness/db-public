@@ -1,4 +1,4 @@
-CREATE TABLE `Ban` (
+CREATE TABLE IF NOT EXISTS `Ban` (
   `Author` text NOT NULL,
   `Type` varchar(255) NOT NULL,
   `Ip` varchar(255) NOT NULL,

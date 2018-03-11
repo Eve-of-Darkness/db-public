@@ -1,4 +1,4 @@
-CREATE TABLE `Inventory` (
+CREATE TABLE IF NOT EXISTS `Inventory` (
   `OwnerID` varchar(255) NOT NULL,
   `OwnerLot` smallint(5) unsigned NOT NULL DEFAULT '0',
   `ITemplate_Id` varchar(255) DEFAULT NULL,

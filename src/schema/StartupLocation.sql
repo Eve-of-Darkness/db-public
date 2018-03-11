@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `StartupLocation`;
+
 CREATE TABLE `StartupLocation` (
   `StartupLoc_ID` int(11) NOT NULL AUTO_INCREMENT,
   `XPos` int(11) NOT NULL DEFAULT '0',

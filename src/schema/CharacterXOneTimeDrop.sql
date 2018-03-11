@@ -1,4 +1,4 @@
-CREATE TABLE `CharacterXOneTimeDrop` (
+CREATE TABLE IF NOT EXISTS `CharacterXOneTimeDrop` (
   `CharacterID` varchar(100) NOT NULL,
   `ItemTemplateID` varchar(100) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

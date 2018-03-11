@@ -1,4 +1,4 @@
-CREATE TABLE `PlayerInfo` (
+CREATE TABLE IF NOT EXISTS `PlayerInfo` (
   `Name` text,
   `LastName` text,
   `Guild` text,

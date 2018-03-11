@@ -1,4 +1,4 @@
-CREATE TABLE `SpellXCustomValues` (
+CREATE TABLE IF NOT EXISTS `SpellXCustomValues` (
   `SpellID` int(11) NOT NULL DEFAULT '0',
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

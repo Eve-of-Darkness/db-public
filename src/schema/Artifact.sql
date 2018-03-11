@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Artifact`;
+
 CREATE TABLE `Artifact` (
   `ArtifactID` text NOT NULL,
   `EncounterID` text NOT NULL,

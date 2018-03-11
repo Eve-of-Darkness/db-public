@@ -1,4 +1,4 @@
-CREATE TABLE `SinglePermission` (
+CREATE TABLE IF NOT EXISTS `SinglePermission` (
   `PlayerID` varchar(255) NOT NULL,
   `Command` varchar(255) NOT NULL,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
