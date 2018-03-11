@@ -1,4 +1,4 @@
-DROP TABLE `StyleXSpell`;
+DROP TABLE IF EXISTS `StyleXSpell`;
 
 CREATE TABLE `StyleXSpell` (
   `SpellID` int(11) NOT NULL DEFAULT '0',
