@@ -1,4 +1,4 @@
-DROP TABLE `CraftedItem`;
+DROP TABLE IF EXISTS `CraftedItem`;
 
 CREATE TABLE `CraftedItem` (
   `CraftedItemID` varchar(255) NOT NULL,
