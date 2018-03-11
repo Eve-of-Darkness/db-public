@@ -1,4 +1,4 @@
-CREATE TABLE `DBHousePermissions` (
+CREATE TABLE IF NOT EXISTS `DBHousePermissions` (
   `PermissionLevel` int(11) NOT NULL DEFAULT '0',
   `HouseNumber` int(11) NOT NULL DEFAULT '0',
   `CanEnterHouse` tinyint(1) NOT NULL DEFAULT '0',

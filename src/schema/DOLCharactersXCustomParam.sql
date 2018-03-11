@@ -1,4 +1,4 @@
-CREATE TABLE `DOLCharactersXCustomParam` (
+CREATE TABLE IF NOT EXISTS `DOLCharactersXCustomParam` (
   `DOLCharactersObjectId` varchar(255) NOT NULL,
   `KeyName` varchar(100) NOT NULL,
   `Value` varchar(255) DEFAULT NULL,

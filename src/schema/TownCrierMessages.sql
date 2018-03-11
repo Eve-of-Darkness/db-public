@@ -1,4 +1,6 @@
-CREATE TABLE `TownCrierMessages` (
+DROP TABLE `TownCrierMessages`;
+
+CREATE TABLE IF NOT EXISTS `TownCrierMessages` (
   `TownCrierID` varchar(255) NOT NULL,
   `Message` text,
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Regions`;
+
 CREATE TABLE `Regions` (
   `RegionID` smallint(5) unsigned NOT NULL DEFAULT '0',
   `Name` text NOT NULL,

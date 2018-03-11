@@ -1,3 +1,5 @@
+DROP TABLE `StyleXSpell`;
+
 CREATE TABLE `StyleXSpell` (
   `SpellID` int(11) NOT NULL DEFAULT '0',
   `ClassID` int(11) NOT NULL DEFAULT '0',

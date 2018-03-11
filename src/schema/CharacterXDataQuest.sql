@@ -1,4 +1,4 @@
-CREATE TABLE `CharacterXDataQuest` (
+CREATE TABLE IF NOT EXISTS `CharacterXDataQuest` (
   `ID` int(11) NOT NULL AUTO_INCREMENT,
   `Character_ID` varchar(100) NOT NULL,
   `DataQuestID` int(11) NOT NULL DEFAULT '0',

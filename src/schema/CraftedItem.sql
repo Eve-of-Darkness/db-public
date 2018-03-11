@@ -1,3 +1,5 @@
+DROP TABLE `CraftedItem`;
+
 CREATE TABLE `CraftedItem` (
   `CraftedItemID` varchar(255) NOT NULL,
   `Id_nb` varchar(255) NOT NULL,

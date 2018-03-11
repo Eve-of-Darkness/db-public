@@ -1,4 +1,4 @@
-CREATE TABLE `ServerProperty` (
+CREATE TABLE IF NOT EXISTS `ServerProperty` (
   `Category` text NOT NULL,
   `Key` varchar(255) NOT NULL,
   `Description` text NOT NULL,

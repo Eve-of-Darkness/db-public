@@ -1,4 +1,4 @@
-CREATE TABLE `GuildRank` (
+CREATE TABLE IF NOT EXISTS `GuildRank` (
   `GuildID` varchar(255) DEFAULT NULL,
   `Title` text,
   `RankLevel` tinyint(3) unsigned NOT NULL DEFAULT '0',

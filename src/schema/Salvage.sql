@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Salvage`;
+
 CREATE TABLE `Salvage` (
   `ObjectType` int(11) NOT NULL DEFAULT '0',
   `SalvageLevel` int(11) NOT NULL DEFAULT '0',

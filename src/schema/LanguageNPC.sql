@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `LanguageNPC`;
+
 CREATE TABLE `LanguageNPC` (
   `Name` text,
   `Suffix` text,

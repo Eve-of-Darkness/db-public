@@ -1,4 +1,4 @@
-CREATE TABLE `PlayerXEffect` (
+CREATE TABLE IF NOT EXISTS `PlayerXEffect` (
   `IsHandler` tinyint(1) NOT NULL DEFAULT '0',
   `Var6` int(11) NOT NULL DEFAULT '0',
   `Var5` int(11) NOT NULL DEFAULT '0',

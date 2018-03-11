@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `ClassXRealmAbility`;
+
 CREATE TABLE `ClassXRealmAbility` (
   `CharClass` int(11) NOT NULL DEFAULT '0',
   `AbilityKey` text NOT NULL,

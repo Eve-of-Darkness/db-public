@@ -1,4 +1,4 @@
-CREATE TABLE `ServerInfo` (
+CREATE TABLE IF NOT EXISTS `ServerInfo` (
   `Time` text,
   `ServerName` text,
   `AAC` text,

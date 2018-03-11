@@ -1,4 +1,6 @@
-CREATE TABLE IF NOT EXISTS `Area` (
+DROP TABLE IF EXISTS `Area`;
+
+CREATE TABLE `Area` (
   `TranslationId` text,
   `Description` text NOT NULL,
   `X` int(11) NOT NULL DEFAULT '0',

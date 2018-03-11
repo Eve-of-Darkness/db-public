@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `MobDropTemplate`;
+
 CREATE TABLE `MobDropTemplate` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `MobName` varchar(255) NOT NULL,

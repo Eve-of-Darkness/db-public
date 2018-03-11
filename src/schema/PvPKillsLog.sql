@@ -1,4 +1,4 @@
-CREATE TABLE `PvPKillsLog` (
+CREATE TABLE IF NOT EXISTS `PvPKillsLog` (
   `ID` bigint(20) NOT NULL AUTO_INCREMENT,
   `DateKilled` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `KilledName` text NOT NULL,
