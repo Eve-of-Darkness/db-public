@@ -1,4 +1,4 @@
-CREATE TABLE `serverproperty_category` (
+CREATE TABLE IF NOT EXISTS `serverproperty_category` (
   `BaseCategory` text NOT NULL,
   `ParentCategory` text,
   `DisplayName` text NOT NULL,

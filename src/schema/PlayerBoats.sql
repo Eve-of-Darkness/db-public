@@ -1,4 +1,4 @@
-CREATE TABLE `PlayerBoats` (
+CREATE TABLE IF NOT EXISTS `PlayerBoats` (
   `BoatID` text NOT NULL,
   `BoatOwner` text NOT NULL,
   `BoatName` varchar(255) NOT NULL,

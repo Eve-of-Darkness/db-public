@@ -1,4 +1,4 @@
-CREATE TABLE `Task` (
+CREATE TABLE IF NOT EXISTS `Task` (
   `Character_ID` varchar(255) NOT NULL,
   `TimeOut` datetime DEFAULT NULL,
   `TaskType` text,

@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Faction`;
+
 CREATE TABLE `Faction` (
   `ID` int(11) NOT NULL DEFAULT '0',
   `Name` text,

@@ -1,4 +1,4 @@
-CREATE TABLE `BugReport` (
+CREATE TABLE IF NOT EXISTS `BugReport` (
   `ID` int(11) NOT NULL DEFAULT '0',
   `Message` text NOT NULL,
   `Submitter` text NOT NULL,

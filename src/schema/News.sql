@@ -1,4 +1,4 @@
-CREATE TABLE `News` (
+CREATE TABLE IF NOT EXISTS `News` (
   `CreationDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Type` tinyint(3) unsigned NOT NULL DEFAULT '0',
   `Realm` tinyint(3) unsigned NOT NULL DEFAULT '0',

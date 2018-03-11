@@ -1,4 +1,4 @@
-CREATE TABLE `serverstats` (
+CREATE TABLE IF NOT EXISTS `serverstats` (
   `StatDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `Clients` int(11) NOT NULL DEFAULT '0',
   `CPU` double NOT NULL,

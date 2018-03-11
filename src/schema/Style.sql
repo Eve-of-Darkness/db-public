@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `Style`;
+
 CREATE TABLE `Style` (
   `StyleID` int(11) NOT NULL AUTO_INCREMENT,
   `ID` int(11) NOT NULL DEFAULT '0',

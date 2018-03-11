@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `InstanceXElement`;
+
 CREATE TABLE `InstanceXElement` (
   `InstanceID` varchar(255) NOT NULL,
   `ClassType` text,

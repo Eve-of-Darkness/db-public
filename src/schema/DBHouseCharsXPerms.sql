@@ -1,4 +1,4 @@
-CREATE TABLE `DBHouseCharsXPerms` (
+CREATE TABLE IF NOT EXISTS `DBHouseCharsXPerms` (
   `HouseNumber` int(11) NOT NULL DEFAULT '0',
   `PermissionType` int(11) NOT NULL DEFAULT '0',
   `TargetName` text NOT NULL,

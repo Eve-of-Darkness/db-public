@@ -1,4 +1,4 @@
-CREATE TABLE `KeepHookPoint` (
+CREATE TABLE IF NOT EXISTS `KeepHookPoint` (
   `HookPointID` int(11) NOT NULL DEFAULT '0',
   `KeepComponentSkinID` int(11) NOT NULL DEFAULT '0',
   `Z` int(11) NOT NULL DEFAULT '0',

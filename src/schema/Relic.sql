@@ -1,4 +1,4 @@
-CREATE TABLE `Relic` (
+CREATE TABLE IF NOT EXISTS `Relic` (
   `RelicID` int(11) NOT NULL DEFAULT '0',
   `Region` int(11) NOT NULL DEFAULT '0',
   `X` int(11) NOT NULL DEFAULT '0',

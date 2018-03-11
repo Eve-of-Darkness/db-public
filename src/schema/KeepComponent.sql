@@ -1,4 +1,4 @@
-CREATE TABLE `KeepComponent` (
+CREATE TABLE IF NOT EXISTS `KeepComponent` (
   `X` int(11) NOT NULL DEFAULT '0',
   `Y` int(11) NOT NULL DEFAULT '0',
   `Heading` int(11) NOT NULL DEFAULT '0',

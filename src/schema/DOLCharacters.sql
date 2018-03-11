@@ -1,4 +1,4 @@
-CREATE TABLE `DOLCharacters` (
+CREATE TABLE IF NOT EXISTS `DOLCharacters` (
   `HasGravestone` tinyint(1) NOT NULL DEFAULT '0',
   `GravestoneRegion` int(11) NOT NULL DEFAULT '0',
   `Constitution` int(11) NOT NULL DEFAULT '0',

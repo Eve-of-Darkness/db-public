@@ -1,4 +1,4 @@
-CREATE TABLE `Account` (
+CREATE TABLE IF NOT EXISTS `Account` (
   `Name` varchar(255) NOT NULL,
   `Password` text NOT NULL,
   `CreationDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

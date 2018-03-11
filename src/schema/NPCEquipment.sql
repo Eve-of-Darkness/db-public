@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `NPCEquipment`;
+
 CREATE TABLE `NPCEquipment` (
   `TemplateID` varchar(255) NOT NULL,
   `Slot` int(11) NOT NULL DEFAULT '0',

@@ -1,4 +1,4 @@
-CREATE TABLE `GuildAlliance` (
+CREATE TABLE IF NOT EXISTS `GuildAlliance` (
   `AllianceName` text,
   `Motd` text,
   `LeaderGuildID` varchar(255) DEFAULT NULL,

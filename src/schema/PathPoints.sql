@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `PathPoints`;
+
 CREATE TABLE `PathPoints` (
   `PathID` varchar(255) NOT NULL,
   `Step` int(11) NOT NULL DEFAULT '0',

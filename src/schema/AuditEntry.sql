@@ -1,4 +1,4 @@
-CREATE TABLE `AuditEntry` (
+CREATE TABLE IF NOT EXISTS `AuditEntry` (
   `AuditTime` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `AccountID` text,
   `RemoteHost` text,

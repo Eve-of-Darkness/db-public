@@ -1,3 +1,5 @@
+DROP TABLE IF EXISTS `MerchantItem`;
+
 CREATE TABLE `MerchantItem` (
   `ItemListID` varchar(255) NOT NULL,
   `ItemTemplateID` text NOT NULL,

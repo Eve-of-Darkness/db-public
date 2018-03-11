@@ -1,4 +1,4 @@
-CREATE TABLE `DOLCharactersBackup` (
+CREATE TABLE IF NOT EXISTS `DOLCharactersBackup` (
   `DOLCharacters_ID` varchar(255) NOT NULL,
   `Name` varchar(255) NOT NULL,
   `DeleteDate` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',

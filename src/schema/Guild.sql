@@ -1,4 +1,4 @@
-CREATE TABLE `Guild` (
+CREATE TABLE IF NOT EXISTS `Guild` (
   `GuildID` varchar(255) DEFAULT NULL,
   `GuildName` varchar(255) DEFAULT NULL,
   `Realm` tinyint(3) unsigned NOT NULL DEFAULT '0',
