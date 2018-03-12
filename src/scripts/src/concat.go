@@ -8,16 +8,37 @@ import (
 	"sort"
 	"strconv"
 	"strings"
+	"flag"
+	"regexp"
 
 	_ "github.com/go-sql-driver/mysql"
+	"github.com/spf13/viper"
 )
 
 func main() {
+
+	viper.SetConfigName("config") // name of config file (without extension)
+	viper.AddConfigPath("../../config/")   // path to look for the config file in
+	err := viper.ReadInConfig() // Find and read the config file
+	if err != nil { // Handle errors reading the config file
+		panic(fmt.Errorf("Fatal error config file: %s \n", err))
+	}
+
+	updateonlyPtr := flag.Bool("update-only", false, "Perorm Update to DB Only")
+	flag.Parse()
 	schemaFiles := getFiles("schema")
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
+	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
+	re := regexp.MustCompile("(?i)(" + ignoreTables + ").sql")
 
 	for _, schemaFile := range schemaFiles {
+		if *updateonlyPtr == true {
+			if re.MatchString(schemaFile) {
+				fmt.Println("Found ignored table:", schemaFile)
+				continue
+			}
+	  }
 		file, e := ioutil.ReadFile("../../../schema/" + schemaFile)
 		if e != nil {
 			panic(e)
@@ -35,7 +56,7 @@ func main() {
 		}
 	}
 
-	err := ioutil.WriteFile("public-db.sql", buffer.Bytes(), 0644)
+	err = ioutil.WriteFile("public-db.sql", buffer.Bytes(), 0644)
 	if err != nil {
 		panic(err)
 	}

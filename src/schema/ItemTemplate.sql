@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS `ItemTempalte`;
+DROP TABLE IF EXISTS `ItemTemplate`;
 
 CREATE TABLE `ItemTemplate` (
   `Id_nb` varchar(255) NOT NULL,

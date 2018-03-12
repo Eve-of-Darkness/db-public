@@ -6,6 +6,7 @@ db:
     port:     3306
 exportignore:
     - Appeal
+    - AutoXMLUpdate
     - AuditEntry
     - Ban
     - DBHouseCharsXPerms
@@ -18,6 +19,7 @@ exportignore:
     - HouseConsignmentMerchant
     - KeepCaptureLog
     - KeepComponent
+    - KeepHookPoint
     - KeepHookPointItem
     - News
     - PlayerXEffect
