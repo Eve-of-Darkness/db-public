@@ -8,7 +8,7 @@ To provide the DOL community with means to spin up a new server on a solid data 
 To use this database download and run concat.exe in Windows or concat in Linux. This will combine the json files into a single script that you can run against an already made database.
 
 ## Update Existing database
-To update an existing data without loosing any characters, accounts or server settings run the following use concat.exe for your respective platform with the '--update-only' flag.
+To update an existing database without loosing any characters, accounts or server settings run the following use concat.exe for your respective platform with the '--update-only' flag.
 Example:
 ```
 concat --update-only
