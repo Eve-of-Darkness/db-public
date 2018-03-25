@@ -1,4 +1,4 @@
-DROP TABLE IF EXISTS `languageSystem`;
+DROP TABLE IF EXISTS `LanguageSystem`;
 
 CREATE TABLE `LanguageSystem` (
   `Text` text NOT NULL,
