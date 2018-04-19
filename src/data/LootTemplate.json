@@ -1138,7 +1138,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "tatteredspiderweavejerkin",
+    "ItemTemplateID": "Tattered_Spiderweave_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "049f6af6-4160-4249-a7b0-1939c9ae28c8",
     "TemplateName": "cornwall hunter"
@@ -2578,7 +2578,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LRS_Sleeves",
+    "ItemTemplateID": "Lustrous_Ringed_Silksteel_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0ade0c5c-19ee-4255-9688-f7267e944193",
     "TemplateName": "svartalf thrall"
@@ -3426,7 +3426,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WA_1hHammer",
+    "ItemTemplateID": "Weighted_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0fbc16cc-a0ed-41f0-bf73-1a425babb99e",
     "TemplateName": "svartalf thrall"
@@ -7266,7 +7266,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "20537946-ab53-440f-ace4-b76bb500f9de",
     "TemplateName": "bwgwl"
@@ -7386,7 +7386,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
+    "ItemTemplateID": "Dull_Asterite_Large_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "20bbba5b-9822-46b3-9de1-4f463850d7c5",
     "TemplateName": "svartalf thrall"
@@ -7474,7 +7474,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "210d2031-4a9b-4f90-801c-89fa45351dfb",
     "TemplateName": "moor boogey"
@@ -8042,7 +8042,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
+    "ItemTemplateID": "Dull_Asterite_Large_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "23f02707-53eb-43f1-b28b-1ddb116943d8",
     "TemplateName": "svartalf arbetare"
@@ -9202,7 +9202,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "tatteredspiderweaveLeggings",
+    "ItemTemplateID": "Tattered_Spiderweave_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "290ca75f-230f-4631-aec8-ddcffca0b68a",
     "TemplateName": "skeletal centurion"
@@ -9738,7 +9738,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_bsc_Cloak",
+    "ItemTemplateID": "Black_Silksteel_Cloak",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2bbfb3be-358a-4c9f-b9df-f3bbe73d2e86",
     "TemplateName": "svartalf arbetare"
@@ -9754,7 +9754,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
+    "ItemTemplateID": "Dull_Asterite_Large_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2bfa52bd-adf7-4185-8778-401e8d3bcb95",
     "TemplateName": "svartalf foreman"
@@ -9794,7 +9794,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAS_Staff",
+    "ItemTemplateID": "Dull_Asterite_Spirit_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2c316d27-481b-479c-8f6d-a85c646c88b6",
     "TemplateName": "svartalf thrall"
@@ -10274,7 +10274,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Gloves",
+    "ItemTemplateID": "Woven_Silksteel_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2ec529d0-fd69-4f32-9df8-4ec48dd8309a",
     "TemplateName": "Vixitr"
@@ -10346,7 +10346,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hSword",
+    "ItemTemplateID": "Dull_Asterite_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2f15ad13-e4d2-4fb0-8586-855f0390a166",
     "TemplateName": "svartalf arbetare"
@@ -11362,7 +11362,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
+    "ItemTemplateID": "Dull_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "335a32e5-4f9e-45ec-8581-05dd0ffe4499",
     "TemplateName": "svartalf thrall"
@@ -11578,7 +11578,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3454e846-c92d-49cd-ba5a-52b6ed87cbcf",
     "TemplateName": "ghoul footman"
@@ -11882,7 +11882,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Luminous_Crafted_Darksteel_Vest",
+    "ItemTemplateID": "Crafted_Darksteel_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "35858f53-6bd7-4021-a347-7d272e92dc34",
     "TemplateName": "ekyps gunstling"
@@ -11954,7 +11954,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_CD_Vest",
+    "ItemTemplateID": "Crafted_Darksteel_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "35d13194-9afb-42ee-b421-3e782a9ec4e2",
     "TemplateName": "ekyps scavenger"
@@ -12130,7 +12130,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Ring",
+    "ItemTemplateID": "Darksteel_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "36c772ce-8949-4e3e-9583-fa846fa2fb85",
     "TemplateName": "ekyps scavenger"
@@ -12226,7 +12226,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_Spear",
+    "ItemTemplateID": "Dull_Asterite_Spear",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "37796df4-c693-4bb0-8473-c55e30f0e661",
     "TemplateName": "svartalf arbetare"
@@ -12602,7 +12602,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Boots",
+    "ItemTemplateID": "Braided_Darkstee_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "394b71aa-4108-4723-a1ea-8205452acda0",
     "TemplateName": "ekyps scavenger"
@@ -13474,7 +13474,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Gauntlets",
+    "ItemTemplateID": "Crafted_Darksteel_Gauntlets",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3d9c2a92-51b5-48cb-9b01-c0f8ea123688",
     "TemplateName": "ekyps scavenger"
@@ -13714,7 +13714,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hAxe",
+    "ItemTemplateID": "Dull_Asterite_Large_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3e9165c6-2b7b-4434-a145-ab0e8b127afc",
     "TemplateName": "duegarhunter"
@@ -14210,7 +14210,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "40863bf4-b359-4c2d-bfac-f5b7c56f465b",
     "TemplateName": "ghoul knight"
@@ -15186,7 +15186,7 @@
   {
     "Chance": 100,
     "Count": 5,
-    "ItemTemplateID": "DaimondSeal",
+    "ItemTemplateID": "DiamondSeal",
     "LastTimeRowUpdated": "2018-01-26 22:46:25",
     "LootTemplate_ID": "458b1155-7f90-4f9b-91b2-e850b4980110",
     "TemplateName": "Chthonic Knight Malleus"
@@ -15770,7 +15770,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "tatteredspiderweaveLeggings",
+    "ItemTemplateID": "Tattered_Spiderweave_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "48662d7a-3a25-411d-82f8-4c9e15343e5d",
     "TemplateName": "cornwall hunter"
@@ -15882,7 +15882,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_CD_Vest",
+    "ItemTemplateID": "Crafted_Darksteel_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "48dcc351-29da-4d12-9523-62fad5e8feba",
     "TemplateName": "ekyps gunstling"
@@ -15922,7 +15922,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDSB_Bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Soothsayer_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4901cc59-88f4-47cd-aec1-bd2a421c1405",
     "TemplateName": "ekyps scavenger"
@@ -16194,7 +16194,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_KA_Spear",
+    "ItemTemplateID": "Keen_Asterite_Spear",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "49eec31a-3e8a-4a07-a85e-9b2ee8aecb39",
     "TemplateName": "svartalf thrall"
@@ -16618,7 +16618,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Boots",
+    "ItemTemplateID": "Woven_Silksteel_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4bc5f857-0495-4a65-a4d0-5de041a07532",
     "TemplateName": "lost hagbui"
@@ -16666,7 +16666,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "4c0f7c38-daf1-4bf0-b31a-f81ed5797c8e",
     "TemplateName": "bwgwl"
@@ -17954,7 +17954,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "52141514-be58-43f4-bd5f-0eb9bc3f01bc",
     "TemplateName": "meurig"
@@ -18530,7 +18530,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDB_Bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "54ad50ac-3556-41f6-b3a9-abd530f2ecc0",
     "TemplateName": "mad kobold"
@@ -18906,7 +18906,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCDC_Bow",
+    "ItemTemplateID": "Crafted_Darksteel_Composite_Bow",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "56d1abb2-08f7-4d60-9918-cfe20c21be14",
     "TemplateName": "ekyps gunstling"
@@ -18938,7 +18938,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Ring",
+    "ItemTemplateID": "Darksteel_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "56e44cc1-9fff-4e91-9201-4ed0ed4135f0",
     "TemplateName": "ekyps gunstling"
@@ -19858,7 +19858,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_bsl_Leggings",
+    "ItemTemplateID": "Braided_Silksteel_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5a46b9cd-fd28-4475-aa70-165b1ba34fbd",
     "TemplateName": "vixitr"
@@ -20266,7 +20266,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "fallenguardsmanssword",
+    "ItemTemplateID": "Fallen_Guardsmans_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5bee7f66-641c-4ef3-9513-e219daf0ed78",
     "TemplateName": "guardsman"
@@ -21362,7 +21362,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "soultakerrapier",
+    "ItemTemplateID": "Soul_Taker_Rapier",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6086dfeb-1910-4a4d-ae75-f3b24b0fc0fd",
     "TemplateName": "tylwyth teg rover"
@@ -22642,7 +22642,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCDC_Bow",
+    "ItemTemplateID": "Crafted_Darksteel_Composite_Bow",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "662764d6-ace9-420c-8e98-ad1ac8ed2948",
     "TemplateName": "yleg"
@@ -22874,7 +22874,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Jerkin",
+    "ItemTemplateID": "Braided_Darksteel_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "66fadc22-c185-4d30-aa2b-438ed1a99ca8",
     "TemplateName": "lost hagbui"
@@ -23218,7 +23218,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Necklace",
+    "ItemTemplateID": "Darksteel_Necklace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "686a8a8f-321a-4aaf-91c9-d93a88983353",
     "TemplateName": "ekyps gunstling"
@@ -23226,7 +23226,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "soultakerrapier",
+    "ItemTemplateID": "Soul_Taker_Rapier",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "68754911-c084-4ab9-9f9b-7241b5339928",
     "TemplateName": "tylwyth teg ranger"
@@ -24114,7 +24114,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Bracer",
+    "ItemTemplateID": "Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "6c5c779d-f752-4f9a-8d4b-3924effbd566",
     "TemplateName": "ekyps gunstling"
@@ -25770,7 +25770,7 @@
   {
     "Chance": 35,
     "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "72d70aa2-3bf3-4f45-9d0e-21368ed2dea5",
     "TemplateName": "arachneida"
@@ -25882,7 +25882,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LAG_2hSword",
+    "ItemTemplateID": "Lusterless_Asterite_Great_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "73279ba9-1ce5-497a-a9a1-038b38218b02",
     "TemplateName": "svartalf thrall"
@@ -26194,7 +26194,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Boots",
+    "ItemTemplateID": "Crafted_Darksteel_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "746a3aca-0b00-4555-968b-28698abd9edb",
     "TemplateName": "ekyps scavenger"
@@ -26418,7 +26418,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SCB_Bracer",
+    "ItemTemplateID": "Svartalf_Crafted_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "751862a6-a596-4456-9b17-e910ee6c8eb4",
     "TemplateName": "Vixitr"
@@ -27098,7 +27098,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SFSB_Leggings",
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "782252c3-4499-4c56-bc89-92a118a0fedc",
     "TemplateName": "svartalf thrall"
@@ -27418,7 +27418,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LWD_Vest",
+    "ItemTemplateID": "Woven_Darksteel_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "799340d2-b392-47b6-a9cf-5e0f7d8e8798",
     "TemplateName": "ekyps gunstling"
@@ -27530,7 +27530,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_bsc_Cloak",
+    "ItemTemplateID": "Black_Silksteel_Cloak",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7a0ff6d9-4e0b-440b-a1e9-281cb9c71ab5",
     "TemplateName": "svartalf thrall"
@@ -27794,7 +27794,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7b8bc26d-e102-4719-8958-60bad96231d8",
     "TemplateName": "cornwall hunter"
@@ -27914,7 +27914,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7c3b913d-1635-47fc-aed3-2426bb447000",
     "TemplateName": "howling maiden"
@@ -28026,7 +28026,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDR_Ring",
+    "ItemTemplateID": "Twisted_Darksteel_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7c9f10d9-9e6b-43c4-82a9-f194ddd0dd25",
     "TemplateName": "ekyps scavenger"
@@ -28282,7 +28282,7 @@
   {
     "Chance": 35,
     "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7d8de95c-b2db-4fa1-97c0-edca7733b1d6",
     "TemplateName": "arachneida"
@@ -28458,7 +28458,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Necklace",
+    "ItemTemplateID": "Darksteel_Necklace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7e40ccd4-3596-47ba-aeb4-a85a7a451ff3",
     "TemplateName": "ekyps scavenger"
@@ -29722,7 +29722,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Necklace",
+    "ItemTemplateID": "Darksteel_Necklace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "84350ab5-6fa8-4695-9615-a46eb8c7e80c",
     "TemplateName": "yleg"
@@ -30290,7 +30290,7 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "SilveredOldIronDagger",
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "86ae048b-196d-436a-9d3a-57797f66f988",
     "TemplateName": "boulderling"
@@ -30730,7 +30730,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WA_1hHammer",
+    "ItemTemplateID": "Weighted_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8860e717-b5d2-42fb-9c6f-a2b214d5a2b3",
     "TemplateName": "svartalf arbetare"
@@ -31250,7 +31250,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_Spear",
+    "ItemTemplateID": "Dull_Asterite_Spear",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8aa02a91-5223-4469-a47a-86f5bba215ec",
     "TemplateName": "svartalf thrall"
@@ -31674,7 +31674,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8c645590-8539-4270-aea5-d8fd3e834166",
     "TemplateName": "svartalf thrall"
@@ -31722,7 +31722,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Sleeves",
+    "ItemTemplateID": "Braided_Darksteel_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8c8e166a-8638-459f-89e8-6e942b5bbf98",
     "TemplateName": "ekyps scavenger"
@@ -32362,7 +32362,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8f459885-797a-4b6c-9752-19e6565b4770",
     "TemplateName": "moor boogey"
@@ -34306,7 +34306,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hAxe",
+    "ItemTemplateID": "Dull_Asterite_Large_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "982b04f1-8d38-4238-a121-a4bf891a3c9a",
     "TemplateName": "svartalf thrall"
@@ -34490,7 +34490,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDB_Bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99133b35-9567-4981-82d0-c8380afd7e6a",
     "TemplateName": "ekyps scavenger"
@@ -40218,7 +40218,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_SCR_Ring",
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99952240",
     "TemplateName": "sprawling arachnid"
@@ -43890,7 +43890,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99952764",
     "TemplateName": "sprawling arachnid"
@@ -51954,7 +51954,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DAS_Staff",
+    "ItemTemplateID": "Dull_Asterite_Spirit_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99953917",
     "TemplateName": "te'bui"
@@ -63330,7 +63330,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99955382",
     "TemplateName": "te'bui"
@@ -64738,7 +64738,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "painboundfocusinvokerstaff",
+    "ItemTemplateID": "Painbound_Focus_Invoker_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99955559",
     "TemplateName": "corpse candle"
@@ -67922,7 +67922,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
+    "ItemTemplateID": "Dull_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99955963",
     "TemplateName": "Te?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????"
@@ -71458,7 +71458,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_SCN_Necklace",
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99956416",
     "TemplateName": "sprawling arachnid"
@@ -72018,7 +72018,7 @@
   {
     "Chance": 25,
     "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99956491",
     "TemplateName": "Cuuldurach the Glimmer King"
@@ -72250,7 +72250,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Gloves",
+    "ItemTemplateID": "Woven_Silksteel_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99956522",
     "TemplateName": "cursed thulian"
@@ -72330,7 +72330,7 @@
   {
     "Chance": 25,
     "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99956534",
     "TemplateName": "Cuuldurach the Glimmer King"
@@ -72970,7 +72970,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99956615",
     "TemplateName": "Te?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????"
@@ -78898,7 +78898,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DAS_Staff",
+    "ItemTemplateID": "Dull_Asterite_Spirit_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99957374",
     "TemplateName": "Te?????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????????"
@@ -81938,7 +81938,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Gloves",
+    "ItemTemplateID": "Woven_Silksteel_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99957763",
     "TemplateName": "cave trow"
@@ -83762,7 +83762,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Gloves",
+    "ItemTemplateID": "Woven_Silksteel_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99957996",
     "TemplateName": "cave trow trollkarl"
@@ -86530,7 +86530,7 @@
   {
     "Chance": 15,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
+    "ItemTemplateID": "Dull_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "99958346",
     "TemplateName": "te'bui"
@@ -89418,7 +89418,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Sleeves",
+    "ItemTemplateID": "Braided_Darksteel_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9b34829d-056a-4d7d-8bbd-4aafb39eff55",
     "TemplateName": "lost hagbui"
@@ -89610,7 +89610,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9bd8d54b-a910-484e-9e2d-310d0f49bc60",
     "TemplateName": "wicked cythraul"
@@ -90130,7 +90130,7 @@
   {
     "Chance": 15,
     "Count": 1,
-    "ItemTemplateID": "2_SCN_Necklace",
+    "ItemTemplateID": "Svartalf_Crafted_Necklace",
     "LastTimeRowUpdated": "2018-01-30 19:22:35",
     "LootTemplate_ID": "9e0fe61d-710f-42cf-bd8b-fff180cb2add",
     "TemplateName": "arachite greensilk"
@@ -90370,7 +90370,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Luminous_Crafted_Darksteel_Vest",
+    "ItemTemplateID": "Crafted_Darksteel_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9ec6221a-e2bb-43ac-a9d7-ed7e6b1e02f2",
     "TemplateName": "ekyps scavenger"
@@ -91402,7 +91402,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDSB_Bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Soothsayer_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a31cdc46-3e3e-4204-9d72-7329e4bbf473",
     "TemplateName": "mad kobold"
@@ -93754,7 +93754,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hAxe",
+    "ItemTemplateID": "Dull_Asterite_Large_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "acf80e7e-0b37-471b-a62a-83b37de5f276",
     "TemplateName": "svartalf arbetare"
@@ -93962,7 +93962,7 @@
   {
     "Chance": 15,
     "Count": 1,
-    "ItemTemplateID": "2_SCR_Ring",
+    "ItemTemplateID": "Svartalf_Crafted_Ring",
     "LastTimeRowUpdated": "2018-01-30 19:23:01",
     "LootTemplate_ID": "addb1cf8-95a0-4b51-9168-e0688be2a3aa",
     "TemplateName": "arachite greensilk"
@@ -94570,7 +94570,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Asiintath_3_Gossamer_Seolc_Gloves",
     "TemplateName": "Asiintath"
@@ -94578,7 +94578,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Asiintath_3_Gossamer_Seolc_Robe",
     "TemplateName": "Asiintath"
@@ -95178,7 +95178,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_bdg_Gloves",
+    "ItemTemplateID": "Braided_Darksteel_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b03878c2-4a0d-4202-950d-b71bfd1ecf09",
     "TemplateName": "ekyps scavenger"
@@ -95466,7 +95466,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_KAG_2hSword",
+    "ItemTemplateID": "Keen_Asterite_Great_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b120c38a-35a7-4492-a687-eb635dd9a8b0",
     "TemplateName": "svartalf thrall"
@@ -97610,7 +97610,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hAxe",
+    "ItemTemplateID": "Dull_Asterite_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "b9b3caf8-a1af-4c22-90fb-48388510cf8b",
     "TemplateName": "svartalf thrall"
@@ -97810,7 +97810,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Ring",
+    "ItemTemplateID": "Darksteel_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ba5a054d-694f-4e0f-953c-6a1de82a3984",
     "TemplateName": "mad kobold"
@@ -98530,7 +98530,7 @@
   {
     "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "SilveredOldIronDagger",
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bcccc372-c8c6-4402-beb0-8aba9fae49fd",
     "TemplateName": "large skeleton"
@@ -99250,7 +99250,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Sleeves",
+    "ItemTemplateID": "Woven_Silksteel_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bf7a703c-0450-4abb-ab6b-4f54f3bdab77",
     "TemplateName": "cave trow"
@@ -99938,7 +99938,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c11b1c5a-0780-4120-bf99-d911fd8e16b1",
     "TemplateName": "ghoul footman"
@@ -100026,7 +100026,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Boots",
+    "ItemTemplateID": "Crafted_Darksteel_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c166e8d6-c0b7-42ce-8d11-4351c7533c68",
     "TemplateName": "ekyps gunstling"
@@ -100082,7 +100082,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_SFSB_Leggings",
+    "ItemTemplateID": "Silvered_Faded_Silksteel_Bound_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c18f093e-fa5b-4e0e-8cd8-8fc190ab375e",
     "TemplateName": "svartalf arbetare"
@@ -100146,7 +100146,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Helm",
+    "ItemTemplateID": "Crafted_Darksteel_Helm",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c1c1bb2f-f802-4ace-8e35-814843125a0f",
     "TemplateName": "ekyps gunstling"
@@ -100666,7 +100666,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c49de890-6efc-4230-9c88-220b60115725",
     "TemplateName": "azure thror"
@@ -100954,7 +100954,7 @@
   {
     "Chance": 35,
     "Count": 0,
-    "ItemTemplateID": "2_SCB_Belt",
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c6079bb4-a1b6-481f-ad75-758b73735de0",
     "TemplateName": "arachneida"
@@ -101338,7 +101338,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
+    "ItemTemplateID": "Dull_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c7b31437-b29f-43c1-9909-9f0d5e097abd",
     "TemplateName": "svartalf arbetare"
@@ -103658,7 +103658,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Leggings",
+    "ItemTemplateID": "Braided_Darksteel_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d0cd347a-f06d-48b6-8222-597f008c68a3",
     "TemplateName": "ekyps gunstling"
@@ -105290,7 +105290,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDR_Ring",
+    "ItemTemplateID": "Twisted_Darksteel_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d6d959bf-40b4-44ac-b68b-f971cdb752be",
     "TemplateName": "ekyps gunstling"
@@ -106266,7 +106266,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hHammer",
+    "ItemTemplateID": "Dull_Asterite_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "da1hham-duegar",
     "TemplateName": "duegarhunter"
@@ -106274,7 +106274,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hSword",
+    "ItemTemplateID": "Dull_Asterite_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "da1hsword-thrall",
     "TemplateName": "svartalf thrall"
@@ -106538,7 +106538,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAG_2Hsword",
+    "ItemTemplateID": "Dull_Asterite_Great_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dag-sword2h-thrall",
     "TemplateName": "svartalf thrall"
@@ -106546,7 +106546,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAL_2hHammer",
+    "ItemTemplateID": "Dull_Asterite_Large_Hammer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dal2hham-duegar",
     "TemplateName": "duegar tjuv"
@@ -106634,7 +106634,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAR_Staff",
+    "ItemTemplateID": "Dull_Asterite_Runed_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "darstaff-arb",
     "TemplateName": "svartalf arbetare"
@@ -106642,7 +106642,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DAS_Staff",
+    "ItemTemplateID": "Dull_Asterite_Spirit_Staff",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dasstaff-arb",
     "TemplateName": "svartalf arbetare"
@@ -106794,7 +106794,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCDC_Bow",
+    "ItemTemplateID": "Crafted_Darksteel_Composite_Bow",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "db64aaa7-c56b-4a0b-9223-a0c117ec2df1",
     "TemplateName": "lost hagbui"
@@ -109034,7 +109034,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_TDB_Bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e460e534-0418-4ced-bb61-09bb90d1c839",
     "TemplateName": "icestrider frostweaver"
@@ -109378,7 +109378,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_BKA_1hSword",
+    "ItemTemplateID": "Keen_Asterite_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e58a816d-641f-4eb7-afd9-174725fb96b5",
     "TemplateName": "mad kobold"
@@ -109906,7 +109906,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LBD_Jerkin",
+    "ItemTemplateID": "Braided_Darksteel_Jerkin",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e75a8698-6eaf-4ab9-a867-153382598160",
     "TemplateName": "yleg"
@@ -110522,7 +110522,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "gauntletsofcelerity",
+    "ItemTemplateID": "Gauntlets_of_Celerity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ea143fb0-4863-4d92-a1ce-0519b0453d3a",
     "TemplateName": "giant skeleton"
@@ -111674,7 +111674,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Bracer",
+    "ItemTemplateID": "Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ee86a562-9db3-4ce4-bbcf-42a66480f5df",
     "TemplateName": "ekyps scavenger"
@@ -111946,7 +111946,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DS_Bracer",
+    "ItemTemplateID": "Darksteel_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ef9757fe-be3b-4ef1-ba4f-65214cebda71",
     "TemplateName": "mad kobold"
@@ -112538,7 +112538,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f15b16b9-80c0-4b9a-952d-e4b359ccfc8f",
     "TemplateName": "cornwall hunter"
@@ -112842,7 +112842,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_tdsb_bracer",
+    "ItemTemplateID": "Twisted_Darksteel_Soothsayer_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f2944947-e940-46b5-92c2-1ed9814a5849",
     "TemplateName": "icestrider frostweaver"
@@ -112938,7 +112938,7 @@
   {
     "Chance": 15,
     "Count": 1,
-    "ItemTemplateID": "2_SCB_Belt",
+    "ItemTemplateID": "Svartalf_Crafted_Belt",
     "LastTimeRowUpdated": "2018-01-30 19:22:19",
     "LootTemplate_ID": "f305b2d5-537a-42ac-b00c-73596411c176",
     "TemplateName": "arachite greensilk"
@@ -114618,7 +114618,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_WS_Sleeves",
+    "ItemTemplateID": "Woven_Silksteel_Sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f9112e17-73ab-44fd-baa5-478bc55cb1a0",
     "TemplateName": "cave trow trollkarl"
@@ -114626,7 +114626,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_DA_1hAxe",
+    "ItemTemplateID": "Dull_Asterite_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f915b25b-a0b3-4a10-8999-d75f89b9136d",
     "TemplateName": "svartalf arbetare"
@@ -114634,7 +114634,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_BKA_1hSword",
+    "ItemTemplateID": "Keen_Asterite_Sword",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f91795ab-7b8e-48fd-a95c-bc5889386174",
     "TemplateName": "svartalf thrall"
@@ -114946,7 +114946,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "lionfacedshield",
+    "ItemTemplateID": "Lion_Faced_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fa19a043-eb95-443e-b85e-ee411ceca37f",
     "TemplateName": "renegade guard"
@@ -115418,7 +115418,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fbdd1cc4-7cbe-4646-a133-4160c90ac4d7",
     "TemplateName": "azure coseal"
@@ -116242,7 +116242,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "2_LCD_Gauntlets",
+    "ItemTemplateID": "Crafted_Darksteel_Gauntlets",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fee8c4c8-97b2-40e6-91ad-f7d6006bce14",
     "TemplateName": "ekyps gunstling"
@@ -116914,7 +116914,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Ghorvensath_3_Gossamer_Seolc_Gloves",
     "TemplateName": "Ghorvensath"
@@ -116922,7 +116922,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Ghorvensath_3_Gossamer_Seolc_Robe",
     "TemplateName": "Ghorvensath"
@@ -117426,7 +117426,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "iasentinth_3_Gossamer_Seolc_Gloves",
     "TemplateName": "iasentinth"
@@ -117434,7 +117434,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "iasentinth_3_Gossamer_Seolc_Robe",
     "TemplateName": "iasentinth"
@@ -118042,7 +118042,7 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "LBS_Legs",
+    "ItemTemplateID": "Lustrous_Braided_Silksteel_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "lbsl-vix",
     "TemplateName": "Vixitr"
@@ -118346,7 +118346,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Gloves",
+    "ItemTemplateID": "Gossamer_Seolc_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Neureksath_3_Gossamer_Seolc_Gloves",
     "TemplateName": "Neureksath"
@@ -118354,7 +118354,7 @@
   {
     "Chance": 5,
     "Count": 1,
-    "ItemTemplateID": "3_Gossamer_Seolc_Robe",
+    "ItemTemplateID": "Gossamer_Seolc_Robe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Neureksath_3_Gossamer_Seolc_Robe",
     "TemplateName": "Neureksath"
