@@ -6,6 +6,7 @@ To provide the DOL community with means to spin up a new server on a solid data 
 
 ## Installing
 To use this database download and run concat.exe in Windows or concat in Linux. This will combine the json files into a single script that you can run against an already made database.
+Windows users: Find concat.exe in src\scripts\bin\windows - Run as Administrator. A blank DOS window should appear for a period of time. When it closes, the database file is created as 'public-db.sql'. If the file is not created, goto src\scripts\config - rename 'config.example.yml' to 'config.yml'. Run the concat.exe again to create the DB file.
 
 ## Update Existing database
 To update an existing database without loosing any characters, accounts or server settings run the concat.exe for your respective platform with the '--update-only' flag.
