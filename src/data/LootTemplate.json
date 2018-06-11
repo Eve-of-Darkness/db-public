@@ -103714,14 +103714,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Kraggon_Worm_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "d0fc1abc-f591-443b-9892-48c3a4a9d9da",
-    "TemplateName": "ellyll champion"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shimmering_Twilight_Doombringer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d0fcce55-e5eb-4481-8896-81fd77a81e1e",
@@ -112078,14 +112070,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Elinkueth",
     "TemplateName": "Elinkueth"
-  },
-  {
-    "Chance": 15,
-    "Count": 2,
-    "ItemTemplateID": "Ancient_Pure_Mercury",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ellyllchampion",
-    "TemplateName": "ellyll champion"
   },
   {
     "Chance": 15,
