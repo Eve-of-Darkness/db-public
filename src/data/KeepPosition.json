@@ -70,7 +70,7 @@
 "HOff":778,
 "ClassType":"DOL.GS.Keeps.FrontiersPortalStone",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"044fd136-819f-433e-be8b-3159d762bfa1"
 },
@@ -85,7 +85,7 @@
 "HOff":-7,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"067f5720fd56-bbe9-4d04-5a5f-e43b8451"
 },
@@ -100,7 +100,7 @@
 "HOff":985,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"086d2055-4058-419c-bd22-d6ef5aac7166"
 },
@@ -115,7 +115,7 @@
 "HOff":439,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"0bb6zz5a0e12-0a18-5054-6313-30b42857"
 },
@@ -130,7 +130,7 @@
 "HOff":-977,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"0bff3711-0ca6-4086-9d67-cbed6eafba7a"
 },
@@ -145,7 +145,7 @@
 "HOff":1025,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"0bff3rts-0ca6-4086-9d67-cuid6eafba7a"
 },
@@ -160,7 +160,7 @@
 "HOff":538,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"0f1000dd-8059-49ea-b124-91a22a9c4966"
 },
@@ -175,7 +175,7 @@
 "HOff":76,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1046446b5292-951b-3ed4-b733-1976cd9d"
 },
@@ -205,7 +205,7 @@
 "HOff":-2541,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1102d09c-c701-4532-ad7b-b2e580412106"
 },
@@ -220,7 +220,7 @@
 "HOff":1016,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"11ba9ae8-863d-4884-95dc-c383768d3067"
 },
@@ -235,7 +235,7 @@
 "HOff":-2074,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1468575e-74ce-4475-817f-bab429ae0900"
 },
@@ -250,7 +250,7 @@
 "HOff":-2074,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1468575e-74ce-4475-817f-bab429ae090c"
 },
@@ -265,7 +265,7 @@
 "HOff":-7,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1548b34e-f5a5-40d4-9ebb-65df0275f950"
 },
@@ -280,7 +280,7 @@
 "HOff":642,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"154zzd89ded7-6318-b024-736d-1abe3e8d"
 },
@@ -295,7 +295,7 @@
 "HOff":-2058,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"15b8c5aa-aa66-406d-bb38-6ba8749a5bd9"
 },
@@ -310,7 +310,7 @@
 "HOff":42,
 "ClassType":"DOL.GS.Keeps.FrontierHastener",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"183f16fa-ff6c-4d66-9404-93583a51f3df"
 },
@@ -340,7 +340,7 @@
 "HOff":-10,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"1a73579d-85fb-4aa4-b4bf-341b3b179092"
 },
@@ -355,7 +355,7 @@
 "HOff":-2040,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"21814fed-d272-4e44-b341-b73d45c12d08"
 },
@@ -385,7 +385,7 @@
 "HOff":564,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"22a480ba-4f8f-41a0-8055-b8bfbe89939c"
 },
@@ -400,7 +400,7 @@
 "HOff":-2095,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"231b4a56-dfa1-4988-82d4-2bca0fc4e8fe"
 },
@@ -415,7 +415,7 @@
 "HOff":-3061,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":6,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"24662de3-d58d-4237-b613-c2c7a7c9a259"
 },
@@ -430,7 +430,7 @@
 "HOff":526,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"24zzbc1d7640-1cea-b2d4-945c-0ad1d28e"
 },
@@ -460,7 +460,7 @@
 "HOff":589,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"2c8815a9-1347-4f01-b771-a472890e80f7"
 },
@@ -520,7 +520,7 @@
 "HOff":588,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"2zzaf8ebcd95-29f8-53b4-3e80-e54d622f"
 },
@@ -565,7 +565,7 @@
 "HOff":-10,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"3364530e-0543-49bb-9c2e-15a9320cc7fb"
 },
@@ -595,7 +595,7 @@
 "HOff":2486,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"350f4fd2-933f-485c-86b6-3732e819b907"
 },
@@ -610,7 +610,7 @@
 "HOff":625,
 "ClassType":"DOL.GS.Keeps.FrontiersPortalStone",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"3603701c-8e59-412b-b98d-3d24029f78fa"
 },
@@ -625,7 +625,7 @@
 "HOff":593,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"3b46zzca6798-b37b-8f84-6b3a-a62e4517"
 },
@@ -640,7 +640,7 @@
 "HOff":-1494,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"3cb8a46c-7ac0-4511-a8e9-a782ad79fe41"
 },
@@ -670,7 +670,7 @@
 "HOff":13,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"3ede3538-9e0c-43a1-b7c0-f5565d0fed70"
 },
@@ -685,7 +685,7 @@
 "HOff":-3088,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"4187fbd2-abe4-47be-aeae-0dca418f5fbb"
 },
@@ -700,7 +700,7 @@
 "HOff":1003,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"4535879c-f187-40c5-be4e-bc0e7e0d2b67"
 },
@@ -715,7 +715,7 @@
 "HOff":56,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"4544de0d28c7-13b9-aa34-6913-b67e18d7"
 },
@@ -745,7 +745,7 @@
 "HOff":-15,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"46cc441fbcc7-b859-f674-edbf-99c2cfa8"
 },
@@ -760,7 +760,7 @@
 "HOff":2050,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"46tz6903-cc29-42a9-8cd5-0210b78c00b9"
 },
@@ -790,7 +790,7 @@
 "HOff":489,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"49b1d410-d905-4736-ada5-cc7639a8008e"
 },
@@ -805,7 +805,7 @@
 "HOff":-2143,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"4a47441131b4-24fb-1d94-db1a-f4a7fb5e"
 },
@@ -820,7 +820,7 @@
 "HOff":-1177,
 "ClassType":"DOL.GS.Keeps.FrontiersPortalStone",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"4c414e19-efae-47d7-ab97-65d434f72676"
 },
@@ -850,7 +850,7 @@
 "HOff":15,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"5586aa75-5931-4f58-b548-1cdfc21e17f4"
 },
@@ -865,7 +865,7 @@
 "HOff":486,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"58bc8d16be8f-e7ba-1604-d501-22df7a2c"
 },
@@ -880,7 +880,7 @@
 "HOff":425,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"59e2150b-1e2a-43db-baea-a906dfef73a6"
 },
@@ -895,7 +895,7 @@
 "HOff":-2487,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"5d431a6c-cea2-4743-b833-e16bf4b3c3e9"
 },
@@ -910,7 +910,7 @@
 "HOff":-1038,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6156a72e-ec1a-4c9f-b748-45e29aff896e"
 },
@@ -925,7 +925,7 @@
 "HOff":-763,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"61rrc62d-e107-4371-b382-2309a44591ba"
 },
@@ -940,7 +940,7 @@
 "HOff":-1021,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"61rt44b1-703c-4774-9a21-472b96b617b0"
 },
@@ -985,7 +985,7 @@
 "HOff":505,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"64595df3-b90a-4018-a901-926a40c8c07c"
 },
@@ -1000,7 +1000,7 @@
 "HOff":16,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"66c6458d-2844-4fbd-af46-461fc19f9100"
 },
@@ -1015,7 +1015,7 @@
 "HOff":2057,
 "ClassType":"DOL.GS.Keeps.GuardStealther",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"68e9be20-da5f-427c-a73f-0bfe79cb0cd2"
 },
@@ -1030,7 +1030,7 @@
 "HOff":538,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6b4b0637-db5c-4374-a26c-f214406527b9"
 },
@@ -1045,7 +1045,7 @@
 "HOff":3133,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6bda85c8-3536-48a6-b882-63c2324e1943"
 },
@@ -1060,7 +1060,7 @@
 "HOff":-1033,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":3,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6f244dce-3bc9-4d39-952d-bb98407b8c0d"
 },
@@ -1075,7 +1075,7 @@
 "HOff":2983,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6f594b81-8d89-4ba7-8b44-249e0b213847"
 },
@@ -1090,7 +1090,7 @@
 "HOff":0,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"6zz7caa5fe6d-22db-c914-8504-5502d680"
 },
@@ -1105,7 +1105,7 @@
 "HOff":593,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"7154e26a-a3b6-48f8-b73b-8976ac7f64b3"
 },
@@ -1120,7 +1120,7 @@
 "HOff":-2080,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"72bb7489-2657-4f14-af9e-27cbdccc1ee2"
 },
@@ -1135,7 +1135,7 @@
 "HOff":2050,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"7483zzb0e942-44b8-7ab4-98d8-18b495f6"
 },
@@ -1150,7 +1150,7 @@
 "HOff":439,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"75824b03-3136-4505-81a0-21e0a5006bb0"
 },
@@ -1165,7 +1165,7 @@
 "HOff":31,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"79344d75-0835-4a8b-bc7d-b4bb961ccedc"
 },
@@ -1180,7 +1180,7 @@
 "HOff":19,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"7adc3ceb-13fd-435d-baba-30b6b0fb14fd"
 },
@@ -1195,7 +1195,7 @@
 "HOff":56,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"7d81e76b-3196-43aa-9b31-7c82d0ed2054"
 },
@@ -1210,7 +1210,7 @@
 "HOff":589,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"7f0zze098274a-177b-10f4-7431-9a5188c2"
 },
@@ -1225,7 +1225,7 @@
 "HOff":19,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"82e438e2-1621-4ecc-bf57-57d749ecac4f"
 },
@@ -1240,7 +1240,7 @@
 "HOff":-124,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"8336e12f-b7df-4e90-a9ca-a874e1716612"
 },
@@ -1270,7 +1270,7 @@
 "HOff":0,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"891399c5-b057-49ff-97f3-803257cc2612"
 },
@@ -1285,7 +1285,7 @@
 "HOff":2049,
 "ClassType":"DOL.GS.Keeps.GuardArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"8d4f3f71-902f-484d-9d68-a2bd88e08a2c"
 },
@@ -1300,7 +1300,7 @@
 "HOff":-2080,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"8fd3cc13-1cca-44d6-a66b-943db024c65c"
 },
@@ -1315,7 +1315,7 @@
 "HOff":1012,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":3,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"919b1f42-4146-4050-9989-9f15538d8569"
 },
@@ -1330,7 +1330,7 @@
 "HOff":15,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"95ec51a2-d1da-4516-b180-274dc58611b3"
 },
@@ -1345,7 +1345,7 @@
 "HOff":2102,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"96642551-a326-4597-8898-fb483796bf6e"
 },
@@ -1375,7 +1375,7 @@
 "HOff":-2391,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"97483d3e-b02a-481f-8430-ba2ea5c08468"
 },
@@ -1390,7 +1390,7 @@
 "HOff":56,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"97a1443dfea4-62f9-d134-12f8-866b4e2a"
 },
@@ -1405,7 +1405,7 @@
 "HOff":-2275,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"9830ba40-8869-4773-8280-dcf5ce713a9b"
 },
@@ -1435,7 +1435,7 @@
 "HOff":-989,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"9c4751e4-dc3e-45b8-a90f-26fb26c70785"
 },
@@ -1450,7 +1450,7 @@
 "HOff":-2058,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"9db5aqw78ab6-83bb-d604-66aa-aa5c8b51"
 },
@@ -1465,7 +1465,7 @@
 "HOff":504,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"9e52108d-ba78-4076-98c9-a079d15cfef6"
 },
@@ -1525,7 +1525,7 @@
 "HOff":18,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"a1er22b1-6559-4ef2-a7b3-ec3eddfb3e7c"
 },
@@ -1540,7 +1540,7 @@
 "HOff":56,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"a2e4b668-8f21-431d-9f26-4aefd3671a79"
 },
@@ -1555,7 +1555,7 @@
 "HOff":2009,
 "ClassType":"DOL.GS.Keeps.Patrol",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"a7724359-8ea2-4e00-908a-ba7626b1f85a"
 },
@@ -1570,7 +1570,7 @@
 "HOff":-977,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"a7azzae6debc-76d9-6804-6ac0-1173ffb0"
 },
@@ -1585,7 +1585,7 @@
 "HOff":-25,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"aa1dd9c3-acec-4684-b3a1-aa98dee4928c"
 },
@@ -1600,7 +1600,7 @@
 "HOff":-1049,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ac887c19-2a89-40ba-83ec-17eed92770c2"
 },
@@ -1615,7 +1615,7 @@
 "HOff":3072,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ad65f06b-a7ba-44be-8790-8e99a0409c7d"
 },
@@ -1630,7 +1630,7 @@
 "HOff":-3061,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":5,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"afer38ea-f469-4286-8b1d-78bb5b9adc93"
 },
@@ -1660,7 +1660,7 @@
 "HOff":-1020,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":4,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"azzb66ef-5143-4fcd-a78a-a0a9d712e87b"
 },
@@ -1675,7 +1675,7 @@
 "HOff":-31,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"b0f280ec-768a-46df-9366-f113ef212fea"
 },
@@ -1690,7 +1690,7 @@
 "HOff":-2120,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"b2924d0d-66ab-4271-afcd-b0a077d815ef"
 },
@@ -1705,7 +1705,7 @@
 "HOff":-2275,
 "ClassType":"DOL.GS.Keeps.GuardLord",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"b9a777ec5fcd-0828-3774-9688-04ab0389"
 },
@@ -1720,7 +1720,7 @@
 "HOff":-2047,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"bderb0b090d9-30fa-fc24-1c7a-93f14ce8"
 },
@@ -1735,7 +1735,7 @@
 "HOff":-2074,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c0iiea924bab-f718-5744-ec47-e5758641"
 },
@@ -1750,7 +1750,7 @@
 "HOff":3019,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":3,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c1b022c9-cf9b-49f7-8c52-3a322fac9159"
 },
@@ -1765,7 +1765,7 @@
 "HOff":486,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c2a7fd22-105d-4061-ab7e-f8eb61d8cb85"
 },
@@ -1780,7 +1780,7 @@
 "HOff":-2080,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c5er420bd349-b66a-6d44-acc1-31cc3df8"
 },
@@ -1825,7 +1825,7 @@
 "HOff":-1049,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c885223a-4129-4913-8e9c-b40ad97d4e0e"
 },
@@ -1855,7 +1855,7 @@
 "HOff":2050,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"c94751e4-dc3e-45b8-a90f-26fb26c70785"
 },
@@ -1885,7 +1885,7 @@
 "HOff":24,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ce4ddd85-fbb3-4a35-b98f-da9abd152d01"
 },
@@ -1900,7 +1900,7 @@
 "HOff":3117,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":2,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"cedf2077-6d4c-4211-a4ba-3020070e2344"
 },
@@ -1930,7 +1930,7 @@
 "HOff":518,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"d12bzz460bb9-bc6a-7d84-b7ff-9c8bf51d"
 },
@@ -1945,7 +1945,7 @@
 "HOff":518,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"d15fb8c9-ff7b-48d7-a6cb-9bb064bbb21d"
 },
@@ -1975,7 +1975,7 @@
 "HOff":2102,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"d5e23bf6-ffbf-42ff-a208-8e467d5d4448"
 },
@@ -1990,7 +1990,7 @@
 "HOff":642,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"d8e3eba1-d637-420b-8136-7ded98dc7451"
 },
@@ -2005,7 +2005,7 @@
 "HOff":76,
 "ClassType":"DOL.GS.Keeps.GameKeepBanner",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"d9dc6791-337b-4de3-b159-2925b6526401"
 },
@@ -2020,7 +2020,7 @@
 "HOff":-1364,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"de0be124-0a20-4ef6-9493-98fc621fdef2"
 },
@@ -2065,7 +2065,7 @@
 "HOff":691,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e05638c1-7dbc-4719-aff2-14f5286a5e46"
 },
@@ -2080,7 +2080,7 @@
 "HOff":500,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e5121183-2bb9-47fa-9f23-bb5e06beca4e"
 },
@@ -2095,7 +2095,7 @@
 "HOff":-2143,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e5bf7a4f-a1bd-49d1-bf42-4b13116574a4"
 },
@@ -2125,7 +2125,7 @@
 "HOff":2050,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e698fzz92e54-847b-f9c4-a1ce-e27a6516"
 },
@@ -2140,7 +2140,7 @@
 "HOff":526,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e82d1da0-c549-4d2b-aec1-0467d1cb6a42"
 },
@@ -2155,7 +2155,7 @@
 "HOff":-2022,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"e8f64085-f57b-4b6d-bf3b-c2aed68e711e"
 },
@@ -2185,7 +2185,7 @@
 "HOff":123,
 "ClassType":"DOL.GS.Keeps.FrontiersPortalStone",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ed6ad576-4859-43ce-9423-3affd722d90c"
 },
@@ -2200,7 +2200,7 @@
 "HOff":1908,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ed997082-fcd7-4377-91c5-3d5d410d69f2"
 },
@@ -2215,7 +2215,7 @@
 "HOff":-2095,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ef8r5cf0acb2-4d28-8894-1afd-65a4b132"
 },
@@ -2230,7 +2230,7 @@
 "HOff":-1049,
 "ClassType":"DOL.GS.Keeps.GuardHealer",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"ezz4d79da04b-c9e8-3194-9214-a322588c"
 },
@@ -2245,7 +2245,7 @@
 "HOff":-998,
 "ClassType":"DOL.GS.Keeps.MissionMaster",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f035c8f3-253e-4ba3-94d3-10313f942fbf"
 },
@@ -2260,7 +2260,7 @@
 "HOff":7,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f0778ab3-44cf-44dd-b357-e418ed2d67c8"
 },
@@ -2275,7 +2275,7 @@
 "HOff":2042,
 "ClassType":"DOL.GS.Keeps.GuardArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f098b343-d361-4943-85cb-b916fc0d8ada"
 },
@@ -2290,7 +2290,7 @@
 "HOff":588,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f226d45e-08e3-4b35-8f92-59dcbe8fab42"
 },
@@ -2305,7 +2305,7 @@
 "HOff":2050,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f36rr359-88b0-43ef-a3f2-2411bc806578"
 },
@@ -2320,7 +2320,7 @@
 "HOff":481,
 "ClassType":"DOL.GS.Keeps.GuardStaticArcher",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f43a3ebe-ca07-4d85-aab6-3a78b43bb63e"
 },
@@ -2335,7 +2335,7 @@
 "HOff":1011,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f50cd8dd-1d99-40f5-8eaf-a64d79f7a2b6"
 },
@@ -2350,7 +2350,7 @@
 "HOff":-1050,
 "ClassType":"DOL.GS.Keeps.GameKeepDoor",
 "TemplateType":1,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"f75afecc-9256-48a6-ac95-7b070eb0c531"
 },
@@ -2395,7 +2395,7 @@
 "HOff":42,
 "ClassType":"DOL.GS.Keeps.FrontierHastener",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"fd3f15a38539-4049-66d4-c6ff-af61f381"
 },
@@ -2410,7 +2410,7 @@
 "HOff":-2120,
 "ClassType":"DOL.GS.Keeps.GuardFighter",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"fe518d770a0b-dcfa-1724-ba66-d0d4292b"
 },
@@ -2425,7 +2425,7 @@
 "HOff":998,
 "ClassType":"DOL.GS.Keeps.MissionMaster",
 "TemplateType":0,
-"KeepType":null,
+"KeepType":0,
 "LastTimeRowUpdated":"2000-01-01 00:00:00",
 "KeepPosition_ID":"feb7f484-3a44-49fb-8235-95a862789cb7"
 },
