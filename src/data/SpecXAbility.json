@@ -1,3260 +1,3187 @@
-[
-  {
-    "AbilityKey": "Climb Walls",
-    "AbilityLevel": 0,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 25,
-    "SpecXabilityID": 1
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 5,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 50,
-    "SpecXabilityID": 2
-  },
-  {
-    "AbilityKey": "Detect Hidden",
-    "AbilityLevel": 0,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 16,
-    "SpecXabilityID": 3
-  },
-  {
-    "AbilityKey": "Guard",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Shields",
-    "SpecLevel": 10,
-    "SpecXabilityID": 4
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 10,
-    "SpecXabilityID": 5
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 5,
-    "SpecXabilityID": 6
-  },
-  {
-    "AbilityKey": "Guard",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Shields",
-    "SpecLevel": 15,
-    "SpecXabilityID": 7
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 40,
-    "SpecXabilityID": 8
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 20,
-    "SpecXabilityID": 9
-  },
-  {
-    "AbilityKey": "Guard",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Shields",
-    "SpecLevel": 5,
-    "SpecXabilityID": 10
-  },
-  {
-    "AbilityKey": "Engage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Shields",
-    "SpecLevel": 7,
-    "SpecXabilityID": 11
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 3,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 30,
-    "SpecXabilityID": 12
-  },
-  {
-    "AbilityKey": "Danger Sense",
-    "AbilityLevel": 0,
-    "ClassId": 9,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 8,
-    "SpecXabilityID": 13
-  },
-  {
-    "AbilityKey": "Snapshot",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Crossbows",
-    "SpecLevel": 25,
-    "SpecXabilityID": 14
-  },
-  {
-    "AbilityKey": "Sprint",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "CharacterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 15
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerMidCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 16
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerAlbCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 17
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerHibCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 18
-  },
-  {
-    "AbilityKey": "Defensive Combat Power Regeneration",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 19
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 20
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 7,
-    "SpecXabilityID": 21
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 13,
-    "SpecXabilityID": 22
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 18,
-    "SpecXabilityID": 23
-  },
-  {
-    "AbilityKey": "Tireless",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "CharacterStyleUserCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 24
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 25
-  },
-  {
-    "AbilityKey": "Weaponry: Mauler Staff",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 26
-  },
-  {
-    "AbilityKey": "Weaponry: Fist Wraps",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MaulerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 27
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 28
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 29
-  },
-  {
-    "AbilityKey": "Weaponry: Axes",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 30
-  },
-  {
-    "AbilityKey": "Weaponry: Hammers",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 31
-  },
-  {
-    "AbilityKey": "Weaponry: Swords",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 32
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VikingCareer",
-    "SpecLevel": 2,
-    "SpecXabilityID": 33
-  },
-  {
-    "AbilityKey": "Berserk",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 34
-  },
-  {
-    "AbilityKey": "Berserk",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 35
-  },
-  {
-    "AbilityKey": "Berserk",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 36
-  },
-  {
-    "AbilityKey": "Berserk",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 37
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 38
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 39
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 40
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BerserkerCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 41
-  },
-  {
-    "AbilityKey": "Snapshot",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Crossbows",
-    "SpecLevel": 25,
-    "SpecXabilityID": 42
-  },
-  {
-    "AbilityKey": "Climbing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 25,
-    "SpecXabilityID": 43
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 50,
-    "SpecXabilityID": 44
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SavageCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 45
-  },
-  {
-    "AbilityKey": "Guard",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Shields",
-    "SpecLevel": 10,
-    "SpecXabilityID": 46
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SavageCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 47
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 5,
-    "SpecXabilityID": 48
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SavageCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 49
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 40,
-    "SpecXabilityID": 50
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 20,
-    "SpecXabilityID": 51
-  },
-  {
-    "AbilityKey": "Weaponry: Hand to Hand",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SavageCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 52
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SavageCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 53
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SkaldCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 54
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SkaldCareer",
-    "SpecLevel": 19,
-    "SpecXabilityID": 55
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SkaldCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 56
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SkaldCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 57
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SkaldCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 58
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 59
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 60
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 61
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 62
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 63
-  },
-  {
-    "AbilityKey": "Call of a thousand storms",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ThaneCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 64
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 65
-  },
-  {
-    "AbilityKey": "Weaponry: Swords",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 66
-  },
-  {
-    "AbilityKey": "Weaponry: Spears",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 67
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 68
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 69
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 70
-  },
-  {
-    "AbilityKey": "Call of a thousand storms",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValkyrieCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 71
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 72
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 73
-  },
-  {
-    "AbilityKey": "Weaponry: Thrown",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 74
-  },
-  {
-    "AbilityKey": "Siege Resist",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 5,
-    "SpecXabilityID": 75
-  },
-  {
-    "AbilityKey": "Taunting Shout",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 5,
-    "SpecXabilityID": 76
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 7,
-    "SpecXabilityID": 77
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 78
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 13,
-    "SpecXabilityID": 79
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 80
-  },
-  {
-    "AbilityKey": "Metal Guard",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 81
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WarriorCareer",
-    "SpecLevel": 18,
-    "SpecXabilityID": 82
-  },
-  {
-    "AbilityKey": "Bolstering Roar",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 83
-  },
-  {
-    "AbilityKey": "Climbing Spikes",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 84
-  },
-  {
-    "AbilityKey": "Stoicism",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 85
-  },
-  {
-    "AbilityKey": "Rampage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 86
-  },
-  {
-    "AbilityKey": "Fury",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 87
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 41,
-    "SpecXabilityID": 88
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 42,
-    "SpecXabilityID": 89
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 43,
-    "SpecXabilityID": 90
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 44,
-    "SpecXabilityID": 91
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 92
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 6,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 46,
-    "SpecXabilityID": 93
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 7,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 47,
-    "SpecXabilityID": 94
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 8,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 48,
-    "SpecXabilityID": 95
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 9,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 49,
-    "SpecXabilityID": 96
-  },
-  {
-    "AbilityKey": "Memories of War",
-    "AbilityLevel": 10,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 97
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 41,
-    "SpecXabilityID": 98
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 42,
-    "SpecXabilityID": 99
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 43,
-    "SpecXabilityID": 100
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 44,
-    "SpecXabilityID": 101
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 102
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 6,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 46,
-    "SpecXabilityID": 103
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 7,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 47,
-    "SpecXabilityID": 104
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 8,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 48,
-    "SpecXabilityID": 105
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 9,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 49,
-    "SpecXabilityID": 106
-  },
-  {
-    "AbilityKey": "Scars of Battle",
-    "AbilityLevel": 10,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PureTankCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 107
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AcolyteCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 108
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AcolyteCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 109
-  },
-  {
-    "AbilityKey": "Weaponry: Crushing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AcolyteCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 110
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AcolyteCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 111
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ClericCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 112
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ClericCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 113
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ClericCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 114
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FriarCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 115
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FriarCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 116
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FriarCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 117
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FriarCareer",
-    "SpecLevel": 22,
-    "SpecXabilityID": 118
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FriarCareer",
-    "SpecLevel": 33,
-    "SpecXabilityID": 119
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HereticCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 120
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HereticCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 121
-  },
-  {
-    "AbilityKey": "Weaponry: Flexible",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HereticCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 122
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HereticCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 123
-  },
-  {
-    "AbilityKey": "Weaponry: Crushing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HereticCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 124
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 125
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 126
-  },
-  {
-    "AbilityKey": "Weaponry: Slashing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 127
-  },
-  {
-    "AbilityKey": "Weaponry: Thrusting",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 128
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 129
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 130
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 131
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 5,
-    "SpecXabilityID": 132
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 133
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 134
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 135
-  },
-  {
-    "AbilityKey": "Caltrops",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 136
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 6,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 137
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 7,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 138
-  },
-  {
-    "AbilityKey": "Remedy",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 139
-  },
-  {
-    "AbilityKey": "Heightened Awareness",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "InfiltratorCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 140
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MinstrelCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 141
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MinstrelCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 142
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 143
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 144
-  },
-  {
-    "AbilityKey": "Weaponry: Archery",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 145
-  },
-  {
-    "AbilityKey": "Weaponry: Longbows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 146
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 147
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 148
-  },
-  {
-    "AbilityKey": "Camouflage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 149
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AssassinCareer",
-    "SpecLevel": 5,
-    "SpecXabilityID": 150
-  },
-  {
-    "AbilityKey": "QuickCast",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "CharacterQuickcastUserCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 151
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AlbClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 152
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 153
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HibClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 154
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "AlbClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 155
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 156
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HibClothCasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 157
-  },
-  {
-    "AbilityKey": "Weaponry: Scythe",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 158
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 159
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 160
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 161
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 19,
-    "SpecXabilityID": 162
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 163
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 23,
-    "SpecXabilityID": 164
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 165
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ValewalkerCareer",
-    "SpecLevel": 32,
-    "SpecXabilityID": 166
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidgardRogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 167
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidgardRogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 168
-  },
-  {
-    "AbilityKey": "Weaponry: Swords",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidgardRogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 169
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MidgardRogueCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 170
-  },
-  {
-    "AbilityKey": "Weaponry: Axes",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 171
-  },
-  {
-    "AbilityKey": "Weaponry: Thrown",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 172
-  },
-  {
-    "AbilityKey": "Weaponry: Left Axes",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 173
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 174
-  },
-  {
-    "AbilityKey": "Bloodrage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 175
-  },
-  {
-    "AbilityKey": "Turn Weapon",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ShadowbladeCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 176
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "StalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 177
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "StalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 178
-  },
-  {
-    "AbilityKey": "Weaponry: Blades",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "StalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 179
-  },
-  {
-    "AbilityKey": "Weaponry: Piercing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "StalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 180
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "StalkerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 181
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NightshadeCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 182
-  },
-  {
-    "AbilityKey": "Subtle Kills",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NightshadeCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 183
-  },
-  {
-    "AbilityKey": "Weaponry: Recurved Bows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 184
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 185
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 186
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 187
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 188
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 189
-  },
-  {
-    "AbilityKey": "Camouflage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 190
-  },
-  {
-    "AbilityKey": "Tracker's Alacrity",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 191
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 192
-  },
-  {
-    "AbilityKey": "Weaponry: Piercing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 193
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 194
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 195
-  },
-  {
-    "AbilityKey": "Climb Walls",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 196
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 197
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 198
-  },
-  {
-    "AbilityKey": "Vampiir Constitution",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 6,
-    "SpecXabilityID": 199
-  },
-  {
-    "AbilityKey": "Vampiir Dexterity",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 6,
-    "SpecXabilityID": 200
-  },
-  {
-    "AbilityKey": "Vampiir Quickness",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 6,
-    "SpecXabilityID": 201
-  },
-  {
-    "AbilityKey": "Vampiir Strength",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 6,
-    "SpecXabilityID": 202
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 203
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 204
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 205
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 206
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 207
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 40,
-    "SpecXabilityID": 208
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 6,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 209
-  },
-  {
-    "AbilityKey": "Vampiir Bolt",
-    "AbilityLevel": 7,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "VampiirCareer",
-    "SpecLevel": 50,
-    "SpecXabilityID": 210
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 211
-  },
-  {
-    "AbilityKey": "Weaponry: Spears",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 212
-  },
-  {
-    "AbilityKey": "Weaponry: Archery",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 213
-  },
-  {
-    "AbilityKey": "Weaponry: Composite Bows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 214
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 215
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 216
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 217
-  },
-  {
-    "AbilityKey": "Camouflage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HunterCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 218
-  },
-  {
-    "AbilityKey": "Weaponry: Archery",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "RangerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 219
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ScoutCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 220
-  },
-  {
-    "AbilityKey": "MidArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SeerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 221
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SeerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 222
-  },
-  {
-    "AbilityKey": "Weaponry: Hammers",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SeerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 223
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SeerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 224
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "SeerCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 225
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 226
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 227
-  },
-  {
-    "AbilityKey": "Weaponry: Blunt",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 228
-  },
-  {
-    "AbilityKey": "Weaponry: Blades",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 229
-  },
-  {
-    "AbilityKey": "Weaponry: Piercing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 230
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 231
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "GuardianCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 232
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 233
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 234
-  },
-  {
-    "AbilityKey": "Weaponry: Large Weapons",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 235
-  },
-  {
-    "AbilityKey": "Weaponry: Celtic Spears",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 236
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 11,
-    "SpecXabilityID": 237
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 238
-  },
-  {
-    "AbilityKey": "Stag",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 239
-  },
-  {
-    "AbilityKey": "Weaponry: Shortbows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 240
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 241
-  },
-  {
-    "AbilityKey": "Stag",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 242
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 27,
-    "SpecXabilityID": 243
-  },
-  {
-    "AbilityKey": "Stag",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 244
-  },
-  {
-    "AbilityKey": "Stag",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "HeroCareer",
-    "SpecLevel": 45,
-    "SpecXabilityID": 245
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 246
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 247
-  },
-  {
-    "AbilityKey": "Weaponry: Large Weapons",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 248
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 249
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 18,
-    "SpecXabilityID": 250
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ChampionCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 251
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 252
-  },
-  {
-    "AbilityKey": "Weaponry: Shortbows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 253
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 254
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 255
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 19,
-    "SpecXabilityID": 256
-  },
-  {
-    "AbilityKey": "Triple Wield",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 257
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 23,
-    "SpecXabilityID": 258
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 260
-  },
-  {
-    "AbilityKey": "Flurry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 261
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BlademasterCareer",
-    "SpecLevel": 32,
-    "SpecXabilityID": 262
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 265
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 266
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 267
-  },
-  {
-    "AbilityKey": "Weaponry: Slashing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 268
-  },
-  {
-    "AbilityKey": "Weaponry: Thrusting",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 269
-  },
-  {
-    "AbilityKey": "Weaponry: Crushing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "FighterCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 270
-  },
-  {
-    "AbilityKey": "Weaponry: Two Handed",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 271
-  },
-  {
-    "AbilityKey": "Weaponry: Polearms",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 272
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 273
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 274
-  },
-  {
-    "AbilityKey": "Weaponry: Crossbow",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 275
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 11,
-    "SpecXabilityID": 276
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 12,
-    "SpecXabilityID": 277
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 278
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ArmsmanCareer",
-    "SpecLevel": 27,
-    "SpecXabilityID": 279
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 5,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 280
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 281
-  },
-  {
-    "AbilityKey": "Weaponry: Two Handed",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 282
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 9,
-    "SpecXabilityID": 283
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 284
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 14,
-    "SpecXabilityID": 285
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "PaladinCareer",
-    "SpecLevel": 19,
-    "SpecXabilityID": 286
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 287
-  },
-  {
-    "AbilityKey": "Weaponry: Shortbows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 288
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 289
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 290
-  },
-  {
-    "AbilityKey": "Intercept",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 19,
-    "SpecXabilityID": 291
-  },
-  {
-    "AbilityKey": "Dirty Tricks",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 292
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 23,
-    "SpecXabilityID": 293
-  },
-  {
-    "AbilityKey": "Flurry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 294
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "MercenaryCareer",
-    "SpecLevel": 32,
-    "SpecXabilityID": 295
-  },
-  {
-    "AbilityKey": "Prevent Flight",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "LightTankCareer",
-    "SpecLevel": 24,
-    "SpecXabilityID": 298
-  },
-  {
-    "AbilityKey": "Enhanced Evade",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "LightTankCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 299
-  },
-  {
-    "AbilityKey": "Stoicism",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "LightTankCareer",
-    "SpecLevel": 35,
-    "SpecXabilityID": 300
-  },
-  {
-    "AbilityKey": "AlbArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 301
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 302
-  },
-  {
-    "AbilityKey": "Weaponry: Flexible",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 303
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 9,
-    "SpecXabilityID": 304
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 15,
-    "SpecXabilityID": 305
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 20,
-    "SpecXabilityID": 306
-  },
-  {
-    "AbilityKey": "Protect",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "ReaverCareer",
-    "SpecLevel": 30,
-    "SpecXabilityID": 307
-  },
-  {
-    "AbilityKey": "Weaponry: Crossbow",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "InfiltratorCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 308
-  },
-  {
-    "AbilityKey": "Weaponry: Staves",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NaturalistCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 309
-  },
-  {
-    "AbilityKey": "Weaponry: Blunt",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NaturalistCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 310
-  },
-  {
-    "AbilityKey": "Weaponry: Blades",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NaturalistCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 311
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NaturalistCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 312
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "NaturalistCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 313
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "DruidCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 314
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "DruidCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 315
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WardenCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 316
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 4,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WardenCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 317
-  },
-  {
-    "AbilityKey": "Weaponry: Shortbows",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "WardenCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 318
-  },
-  {
-    "AbilityKey": "HibArmor",
-    "AbilityLevel": 3,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BardCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 319
-  },
-  {
-    "AbilityKey": "Parry",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BardCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 320
-  },
-  {
-    "AbilityKey": "Weaponry: Instruments",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BardCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 321
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BardCareer",
-    "SpecLevel": 10,
-    "SpecXabilityID": 322
-  },
-  {
-    "AbilityKey": "Evade",
-    "AbilityLevel": 2,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "BardCareer",
-    "SpecLevel": 25,
-    "SpecXabilityID": 323
-  },
-  {
-    "AbilityKey": "Siege Master",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Warlord",
-    "SpecLevel": 1,
-    "SpecXabilityID": 324
-  },
-  {
-    "AbilityKey": "Pickpocket",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Spymaster",
-    "SpecLevel": 1,
-    "SpecXabilityID": 325
-  },
-  {
-    "AbilityKey": "Enduring Poison",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Spymaster",
-    "SpecLevel": 3,
-    "SpecXabilityID": 326
-  },
-  {
-    "AbilityKey": "Sabotage",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Spymaster",
-    "SpecLevel": 4,
-    "SpecXabilityID": 327
-  },
-  {
-    "AbilityKey": "Lookout",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Spymaster",
-    "SpecLevel": 7,
-    "SpecXabilityID": 328
-  },
-  {
-    "AbilityKey": "Unburdened Warrior",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Sojourner",
-    "SpecLevel": 1,
-    "SpecXabilityID": 329
-  },
-  {
-    "AbilityKey": "Greatness",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Perfecter",
-    "SpecLevel": 4,
-    "SpecXabilityID": 330
-  },
-  {
-    "AbilityKey": "Bodyguard",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Battlemaster",
-    "SpecLevel": 8,
-    "SpecXabilityID": 331
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 5,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 50,
-    "SpecXabilityID": 332
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 5,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 50,
-    "SpecXabilityID": 333
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 40,
-    "SpecXabilityID": 334
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 40,
-    "SpecXabilityID": 335
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 20,
-    "SpecXabilityID": 336
-  },
-  {
-    "AbilityKey": "Detect Hidden",
-    "AbilityLevel": 0,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 16,
-    "SpecXabilityID": 337
-  },
-  {
-    "AbilityKey": "Detect Hidden",
-    "AbilityLevel": 0,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 16,
-    "SpecXabilityID": 338
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 20,
-    "SpecXabilityID": 339
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 3,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 30,
-    "SpecXabilityID": 340
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 3,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 30,
-    "SpecXabilityID": 341
-  },
-  {
-    "AbilityKey": "Weaponry: Thrusting",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Albion",
-    "SpecLevel": 3,
-    "SpecXabilityID": 342
-  },
-  {
-    "AbilityKey": "Weaponry: Slashing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Albion",
-    "SpecLevel": 3,
-    "SpecXabilityID": 343
-  },
-  {
-    "AbilityKey": "Weaponry: Crushing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Albion",
-    "SpecLevel": 3,
-    "SpecXabilityID": 344
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Albion",
-    "SpecLevel": 3,
-    "SpecXabilityID": 345
-  },
-  {
-    "AbilityKey": "Weaponry: Axes",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Midgard",
-    "SpecLevel": 3,
-    "SpecXabilityID": 346
-  },
-  {
-    "AbilityKey": "Weaponry: Hammers",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Midgard",
-    "SpecLevel": 3,
-    "SpecXabilityID": 347
-  },
-  {
-    "AbilityKey": "Weaponry: Swords",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Midgard",
-    "SpecLevel": 3,
-    "SpecXabilityID": 348
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Midgard",
-    "SpecLevel": 3,
-    "SpecXabilityID": 349
-  },
-  {
-    "AbilityKey": "Weaponry: Blades",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Hibernia",
-    "SpecLevel": 3,
-    "SpecXabilityID": 350
-  },
-  {
-    "AbilityKey": "Weaponry: Blunt",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Hibernia",
-    "SpecLevel": 3,
-    "SpecXabilityID": 351
-  },
-  {
-    "AbilityKey": "Weaponry: Piercing",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Hibernia",
-    "SpecLevel": 3,
-    "SpecXabilityID": 352
-  },
-  {
-    "AbilityKey": "Shield",
-    "AbilityLevel": 1,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Champion Level Hibernia",
-    "SpecLevel": 3,
-    "SpecXabilityID": 353
-  },
-  {
-    "AbilityKey": "Danger Sense",
-    "AbilityLevel": 0,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 8,
-    "SpecXabilityID": 354
-  },
-  {
-    "AbilityKey": "Danger Sense",
-    "AbilityLevel": 0,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 8,
-    "SpecXabilityID": 355
-  },
-  {
-    "AbilityKey": "Danger Sense",
-    "AbilityLevel": 0,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 8,
-    "SpecXabilityID": 356
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 5,
-    "SpecXabilityID": 357
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 5,
-    "SpecXabilityID": 358
-  },
-  {
-    "AbilityKey": "Distraction",
-    "AbilityLevel": 0,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 5,
-    "SpecXabilityID": 359
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 5,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 50,
-    "SpecXabilityID": 360
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 4,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 40,
-    "SpecXabilityID": 361
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 3,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 30,
-    "SpecXabilityID": 362
-  },
-  {
-    "AbilityKey": "Safe Fall",
-    "AbilityLevel": 2,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 20,
-    "SpecXabilityID": 363
-  },
-  {
-    "AbilityKey": "Climb Walls",
-    "AbilityLevel": 0,
-    "ClassId": 23,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 25,
-    "SpecXabilityID": 364
-  },
-  {
-    "AbilityKey": "Climb Walls",
-    "AbilityLevel": 0,
-    "ClassId": 49,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 25,
-    "SpecXabilityID": 365
-  },
-  {
-    "AbilityKey": "Climb Walls",
-    "AbilityLevel": 0,
-    "ClassId": 4,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Spec": "Stealth",
-    "SpecLevel": 25,
-    "SpecXabilityID": 366
-  },
-  {
-    "AbilityKey": "Weaponry: Instruments",
-    "AbilityLevel": 0,
-    "ClassId": 0,
-    "LastTimeRowUpdated": "2016-05-30 14:12:00",
-    "Spec": "MinstrelCareer",
-    "SpecLevel": 1,
-    "SpecXabilityID": 367
-  }
-]
+[ 
+{ 
+"SpecXabilityID":1,
+"Spec":"Stealth",
+"SpecLevel":25,
+"AbilityKey":"Climb Walls",
+"AbilityLevel":0,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":2,
+"Spec":"Stealth",
+"SpecLevel":50,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":5,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":3,
+"Spec":"Stealth",
+"SpecLevel":16,
+"AbilityKey":"Detect Hidden",
+"AbilityLevel":0,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":4,
+"Spec":"Shields",
+"SpecLevel":10,
+"AbilityKey":"Guard",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":5,
+"Spec":"Stealth",
+"SpecLevel":10,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":6,
+"Spec":"Stealth",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":7,
+"Spec":"Shields",
+"SpecLevel":15,
+"AbilityKey":"Guard",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":8,
+"Spec":"Stealth",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":9,
+"Spec":"Stealth",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":10,
+"Spec":"Shields",
+"SpecLevel":5,
+"AbilityKey":"Guard",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":11,
+"Spec":"Shields",
+"SpecLevel":7,
+"AbilityKey":"Engage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":12,
+"Spec":"Stealth",
+"SpecLevel":30,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":3,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":13,
+"Spec":"Stealth",
+"SpecLevel":8,
+"AbilityKey":"Danger Sense",
+"AbilityLevel":0,
+"ClassId":9,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":14,
+"Spec":"Crossbows",
+"SpecLevel":25,
+"AbilityKey":"Snapshot",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":15,
+"Spec":"CharacterCareer",
+"SpecLevel":1,
+"AbilityKey":"Sprint",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":16,
+"Spec":"MaulerMidCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":17,
+"Spec":"MaulerAlbCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":18,
+"Spec":"MaulerHibCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":19,
+"Spec":"MaulerCareer",
+"SpecLevel":1,
+"AbilityKey":"Defensive Combat Power Regeneration",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":20,
+"Spec":"MaulerCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":21,
+"Spec":"MaulerCareer",
+"SpecLevel":7,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":22,
+"Spec":"MaulerCareer",
+"SpecLevel":13,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":23,
+"Spec":"MaulerCareer",
+"SpecLevel":18,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":24,
+"Spec":"CharacterStyleUserCareer",
+"SpecLevel":1,
+"AbilityKey":"Tireless",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":25,
+"Spec":"MaulerCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":26,
+"Spec":"MaulerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Mauler Staff",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":27,
+"Spec":"MaulerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Fist Wraps",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":28,
+"Spec":"VikingCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":29,
+"Spec":"VikingCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":30,
+"Spec":"VikingCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Axes",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":31,
+"Spec":"VikingCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Hammers",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":32,
+"Spec":"VikingCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Swords",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":33,
+"Spec":"VikingCareer",
+"SpecLevel":2,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":34,
+"Spec":"BerserkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Berserk",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":35,
+"Spec":"BerserkerCareer",
+"SpecLevel":10,
+"AbilityKey":"Berserk",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":36,
+"Spec":"BerserkerCareer",
+"SpecLevel":15,
+"AbilityKey":"Berserk",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":37,
+"Spec":"BerserkerCareer",
+"SpecLevel":20,
+"AbilityKey":"Berserk",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":38,
+"Spec":"BerserkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":39,
+"Spec":"BerserkerCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":40,
+"Spec":"BerserkerCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":41,
+"Spec":"BerserkerCareer",
+"SpecLevel":10,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":42,
+"Spec":"Crossbows",
+"SpecLevel":25,
+"AbilityKey":"Snapshot",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":43,
+"Spec":"Stealth",
+"SpecLevel":25,
+"AbilityKey":"Climbing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":44,
+"Spec":"Stealth",
+"SpecLevel":50,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":45,
+"Spec":"SavageCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":46,
+"Spec":"Shields",
+"SpecLevel":10,
+"AbilityKey":"Guard",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":47,
+"Spec":"SavageCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":48,
+"Spec":"Stealth",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":49,
+"Spec":"SavageCareer",
+"SpecLevel":30,
+"AbilityKey":"Evade",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":50,
+"Spec":"Stealth",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":51,
+"Spec":"Stealth",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":52,
+"Spec":"SavageCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Hand to Hand",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":53,
+"Spec":"SavageCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":54,
+"Spec":"SkaldCareer",
+"SpecLevel":12,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":55,
+"Spec":"SkaldCareer",
+"SpecLevel":19,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":56,
+"Spec":"SkaldCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":57,
+"Spec":"SkaldCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":58,
+"Spec":"SkaldCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":59,
+"Spec":"ThaneCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":60,
+"Spec":"ThaneCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":61,
+"Spec":"ThaneCareer",
+"SpecLevel":10,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":62,
+"Spec":"ThaneCareer",
+"SpecLevel":15,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":63,
+"Spec":"ThaneCareer",
+"SpecLevel":20,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":64,
+"Spec":"ThaneCareer",
+"SpecLevel":40,
+"AbilityKey":"Call of a thousand storms",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":65,
+"Spec":"ValkyrieCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":66,
+"Spec":"ValkyrieCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Swords",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":67,
+"Spec":"ValkyrieCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Spears",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":68,
+"Spec":"ValkyrieCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":69,
+"Spec":"ValkyrieCareer",
+"SpecLevel":10,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":70,
+"Spec":"ValkyrieCareer",
+"SpecLevel":20,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":71,
+"Spec":"ValkyrieCareer",
+"SpecLevel":40,
+"AbilityKey":"Call of a thousand storms",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":72,
+"Spec":"WarriorCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":73,
+"Spec":"WarriorCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":74,
+"Spec":"WarriorCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Thrown",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":75,
+"Spec":"PureTankCareer",
+"SpecLevel":5,
+"AbilityKey":"Siege Resist",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":76,
+"Spec":"PureTankCareer",
+"SpecLevel":5,
+"AbilityKey":"Taunting Shout",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":77,
+"Spec":"WarriorCareer",
+"SpecLevel":7,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":78,
+"Spec":"WarriorCareer",
+"SpecLevel":12,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":79,
+"Spec":"WarriorCareer",
+"SpecLevel":13,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":80,
+"Spec":"WarriorCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":81,
+"Spec":"PureTankCareer",
+"SpecLevel":15,
+"AbilityKey":"Metal Guard",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":82,
+"Spec":"WarriorCareer",
+"SpecLevel":18,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":83,
+"Spec":"PureTankCareer",
+"SpecLevel":30,
+"AbilityKey":"Bolstering Roar",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":84,
+"Spec":"PureTankCareer",
+"SpecLevel":35,
+"AbilityKey":"Climbing Spikes",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":85,
+"Spec":"PureTankCareer",
+"SpecLevel":35,
+"AbilityKey":"Stoicism",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":86,
+"Spec":"PureTankCareer",
+"SpecLevel":40,
+"AbilityKey":"Rampage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":87,
+"Spec":"PureTankCareer",
+"SpecLevel":50,
+"AbilityKey":"Fury",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":88,
+"Spec":"PureTankCareer",
+"SpecLevel":41,
+"AbilityKey":"Memories of War",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":89,
+"Spec":"PureTankCareer",
+"SpecLevel":42,
+"AbilityKey":"Memories of War",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":90,
+"Spec":"PureTankCareer",
+"SpecLevel":43,
+"AbilityKey":"Memories of War",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":91,
+"Spec":"PureTankCareer",
+"SpecLevel":44,
+"AbilityKey":"Memories of War",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":92,
+"Spec":"PureTankCareer",
+"SpecLevel":45,
+"AbilityKey":"Memories of War",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":93,
+"Spec":"PureTankCareer",
+"SpecLevel":46,
+"AbilityKey":"Memories of War",
+"AbilityLevel":6,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":94,
+"Spec":"PureTankCareer",
+"SpecLevel":47,
+"AbilityKey":"Memories of War",
+"AbilityLevel":7,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":95,
+"Spec":"PureTankCareer",
+"SpecLevel":48,
+"AbilityKey":"Memories of War",
+"AbilityLevel":8,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":96,
+"Spec":"PureTankCareer",
+"SpecLevel":49,
+"AbilityKey":"Memories of War",
+"AbilityLevel":9,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":97,
+"Spec":"PureTankCareer",
+"SpecLevel":50,
+"AbilityKey":"Memories of War",
+"AbilityLevel":10,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":98,
+"Spec":"PureTankCareer",
+"SpecLevel":41,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":99,
+"Spec":"PureTankCareer",
+"SpecLevel":42,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":100,
+"Spec":"PureTankCareer",
+"SpecLevel":43,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":101,
+"Spec":"PureTankCareer",
+"SpecLevel":44,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":102,
+"Spec":"PureTankCareer",
+"SpecLevel":45,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":103,
+"Spec":"PureTankCareer",
+"SpecLevel":46,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":6,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":104,
+"Spec":"PureTankCareer",
+"SpecLevel":47,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":7,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":105,
+"Spec":"PureTankCareer",
+"SpecLevel":48,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":8,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":106,
+"Spec":"PureTankCareer",
+"SpecLevel":49,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":9,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":107,
+"Spec":"PureTankCareer",
+"SpecLevel":50,
+"AbilityKey":"Scars of Battle",
+"AbilityLevel":10,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":108,
+"Spec":"AcolyteCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":109,
+"Spec":"AcolyteCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":110,
+"Spec":"AcolyteCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Crushing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":111,
+"Spec":"AcolyteCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":112,
+"Spec":"ClericCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":113,
+"Spec":"ClericCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":115,
+"Spec":"FriarCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":116,
+"Spec":"FriarCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":117,
+"Spec":"FriarCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":118,
+"Spec":"FriarCareer",
+"SpecLevel":22,
+"AbilityKey":"Evade",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":119,
+"Spec":"FriarCareer",
+"SpecLevel":33,
+"AbilityKey":"Evade",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":120,
+"Spec":"HereticCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":121,
+"Spec":"HereticCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":122,
+"Spec":"HereticCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Flexible",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":123,
+"Spec":"HereticCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":124,
+"Spec":"HereticCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Crushing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":125,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":126,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":127,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Slashing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":128,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Thrusting",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":129,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":130,
+"Spec":"RogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":132,
+"Spec":"AssassinCareer",
+"SpecLevel":5,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":133,
+"Spec":"AssassinCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":134,
+"Spec":"AssassinCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":135,
+"Spec":"AssassinCareer",
+"SpecLevel":30,
+"AbilityKey":"Evade",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":136,
+"Spec":"AssassinCareer",
+"SpecLevel":35,
+"AbilityKey":"Caltrops",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":137,
+"Spec":"AssassinCareer",
+"SpecLevel":40,
+"AbilityKey":"Evade",
+"AbilityLevel":6,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":138,
+"Spec":"AssassinCareer",
+"SpecLevel":50,
+"AbilityKey":"Evade",
+"AbilityLevel":7,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":139,
+"Spec":"AssassinCareer",
+"SpecLevel":50,
+"AbilityKey":"Remedy",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":140,
+"Spec":"InfiltratorCareer",
+"SpecLevel":45,
+"AbilityKey":"Heightened Awareness",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":141,
+"Spec":"MinstrelCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":142,
+"Spec":"MinstrelCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":143,
+"Spec":"ScoutCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":144,
+"Spec":"ScoutCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":145,
+"Spec":"ScoutCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Archery",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":146,
+"Spec":"ScoutCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Longbows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":147,
+"Spec":"ScoutCareer",
+"SpecLevel":12,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":148,
+"Spec":"ScoutCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":149,
+"Spec":"ScoutCareer",
+"SpecLevel":30,
+"AbilityKey":"Camouflage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":150,
+"Spec":"AssassinCareer",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":151,
+"Spec":"CharacterQuickcastUserCareer",
+"SpecLevel":1,
+"AbilityKey":"QuickCast",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":152,
+"Spec":"AlbClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":153,
+"Spec":"MidClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":154,
+"Spec":"HibClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":155,
+"Spec":"AlbClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":156,
+"Spec":"MidClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":157,
+"Spec":"HibClothCasterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":158,
+"Spec":"ValewalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Scythe",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":159,
+"Spec":"ValewalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":160,
+"Spec":"ValewalkerCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":161,
+"Spec":"ValewalkerCareer",
+"SpecLevel":15,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":162,
+"Spec":"ValewalkerCareer",
+"SpecLevel":19,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":163,
+"Spec":"ValewalkerCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":164,
+"Spec":"ValewalkerCareer",
+"SpecLevel":23,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":165,
+"Spec":"ValewalkerCareer",
+"SpecLevel":30,
+"AbilityKey":"Evade",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":166,
+"Spec":"ValewalkerCareer",
+"SpecLevel":32,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":167,
+"Spec":"MidgardRogueCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":168,
+"Spec":"MidgardRogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":169,
+"Spec":"MidgardRogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Swords",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":170,
+"Spec":"MidgardRogueCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":171,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Axes",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":172,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Thrown",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":173,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Left Axes",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":174,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":175,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":45,
+"AbilityKey":"Bloodrage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":176,
+"Spec":"ShadowbladeCareer",
+"SpecLevel":10,
+"AbilityKey":"Turn Weapon",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":177,
+"Spec":"StalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":178,
+"Spec":"StalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":179,
+"Spec":"StalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Blades",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":180,
+"Spec":"StalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Piercing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":181,
+"Spec":"StalkerCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":182,
+"Spec":"NightshadeCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":183,
+"Spec":"NightshadeCareer",
+"SpecLevel":45,
+"AbilityKey":"Subtle Kills",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":184,
+"Spec":"RangerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Recurved Bows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":185,
+"Spec":"RangerCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":186,
+"Spec":"RangerCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":188,
+"Spec":"RangerCareer",
+"SpecLevel":12,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":189,
+"Spec":"RangerCareer",
+"SpecLevel":25,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":190,
+"Spec":"RangerCareer",
+"SpecLevel":30,
+"AbilityKey":"Camouflage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":191,
+"Spec":"RangerCareer",
+"SpecLevel":35,
+"AbilityKey":"Tracker's Alacrity",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":192,
+"Spec":"VampiirCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":193,
+"Spec":"VampiirCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Piercing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":194,
+"Spec":"VampiirCareer",
+"SpecLevel":10,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":195,
+"Spec":"VampiirCareer",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":196,
+"Spec":"VampiirCareer",
+"SpecLevel":25,
+"AbilityKey":"Climb Walls",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":197,
+"Spec":"VampiirCareer",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":198,
+"Spec":"VampiirCareer",
+"SpecLevel":45,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":199,
+"Spec":"VampiirCareer",
+"SpecLevel":6,
+"AbilityKey":"Vampiir Constitution",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":200,
+"Spec":"VampiirCareer",
+"SpecLevel":6,
+"AbilityKey":"Vampiir Dexterity",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":201,
+"Spec":"VampiirCareer",
+"SpecLevel":6,
+"AbilityKey":"Vampiir Quickness",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":202,
+"Spec":"VampiirCareer",
+"SpecLevel":6,
+"AbilityKey":"Vampiir Strength",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":203,
+"Spec":"VampiirCareer",
+"SpecLevel":1,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":204,
+"Spec":"VampiirCareer",
+"SpecLevel":10,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":205,
+"Spec":"VampiirCareer",
+"SpecLevel":20,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":206,
+"Spec":"VampiirCareer",
+"SpecLevel":30,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":207,
+"Spec":"VampiirCareer",
+"SpecLevel":35,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":208,
+"Spec":"VampiirCareer",
+"SpecLevel":40,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":209,
+"Spec":"VampiirCareer",
+"SpecLevel":45,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":6,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":210,
+"Spec":"VampiirCareer",
+"SpecLevel":50,
+"AbilityKey":"Vampiir Bolt",
+"AbilityLevel":7,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":211,
+"Spec":"HunterCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":212,
+"Spec":"HunterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Spears",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":213,
+"Spec":"HunterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Archery",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":214,
+"Spec":"HunterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Composite Bows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":216,
+"Spec":"HunterCareer",
+"SpecLevel":20,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":217,
+"Spec":"HunterCareer",
+"SpecLevel":30,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":218,
+"Spec":"HunterCareer",
+"SpecLevel":30,
+"AbilityKey":"Camouflage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":219,
+"Spec":"RangerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Archery",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":221,
+"Spec":"SeerCareer",
+"SpecLevel":1,
+"AbilityKey":"MidArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":222,
+"Spec":"SeerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":223,
+"Spec":"SeerCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Hammers",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":224,
+"Spec":"SeerCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":226,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":227,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":228,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Blunt",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":229,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Blades",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":230,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Piercing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":231,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":232,
+"Spec":"GuardianCareer",
+"SpecLevel":1,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":233,
+"Spec":"HeroCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":234,
+"Spec":"HeroCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":235,
+"Spec":"HeroCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Large Weapons",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":236,
+"Spec":"HeroCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Celtic Spears",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":237,
+"Spec":"HeroCareer",
+"SpecLevel":11,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":238,
+"Spec":"HeroCareer",
+"SpecLevel":12,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":239,
+"Spec":"HeroCareer",
+"SpecLevel":15,
+"AbilityKey":"Stag",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":240,
+"Spec":"HeroCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Shortbows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":241,
+"Spec":"HeroCareer",
+"SpecLevel":20,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":242,
+"Spec":"HeroCareer",
+"SpecLevel":25,
+"AbilityKey":"Stag",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":243,
+"Spec":"HeroCareer",
+"SpecLevel":27,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":244,
+"Spec":"HeroCareer",
+"SpecLevel":35,
+"AbilityKey":"Stag",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":245,
+"Spec":"HeroCareer",
+"SpecLevel":45,
+"AbilityKey":"Stag",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":246,
+"Spec":"ChampionCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":247,
+"Spec":"ChampionCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":248,
+"Spec":"ChampionCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Large Weapons",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":249,
+"Spec":"ChampionCareer",
+"SpecLevel":15,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":250,
+"Spec":"ChampionCareer",
+"SpecLevel":18,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":251,
+"Spec":"ChampionCareer",
+"SpecLevel":25,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":252,
+"Spec":"BlademasterCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":253,
+"Spec":"BlademasterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Shortbows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":254,
+"Spec":"BlademasterCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":255,
+"Spec":"BlademasterCareer",
+"SpecLevel":15,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":256,
+"Spec":"BlademasterCareer",
+"SpecLevel":19,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":257,
+"Spec":"BlademasterCareer",
+"SpecLevel":20,
+"AbilityKey":"Triple Wield",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":258,
+"Spec":"BlademasterCareer",
+"SpecLevel":23,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":260,
+"Spec":"BlademasterCareer",
+"SpecLevel":25,
+"AbilityKey":"Evade",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":261,
+"Spec":"BlademasterCareer",
+"SpecLevel":30,
+"AbilityKey":"Flurry",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":262,
+"Spec":"BlademasterCareer",
+"SpecLevel":32,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":265,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":266,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":267,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":268,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Slashing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":269,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Thrusting",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":270,
+"Spec":"FighterCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Crushing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":271,
+"Spec":"ArmsmanCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Two Handed",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":272,
+"Spec":"ArmsmanCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Polearms",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":273,
+"Spec":"ArmsmanCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":274,
+"Spec":"ArmsmanCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":275,
+"Spec":"ArmsmanCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Crossbow",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":276,
+"Spec":"ArmsmanCareer",
+"SpecLevel":11,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":277,
+"Spec":"ArmsmanCareer",
+"SpecLevel":12,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":278,
+"Spec":"ArmsmanCareer",
+"SpecLevel":20,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":279,
+"Spec":"ArmsmanCareer",
+"SpecLevel":27,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":280,
+"Spec":"PaladinCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":5,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":281,
+"Spec":"PaladinCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":282,
+"Spec":"PaladinCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Two Handed",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":283,
+"Spec":"PaladinCareer",
+"SpecLevel":9,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":284,
+"Spec":"PaladinCareer",
+"SpecLevel":10,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":285,
+"Spec":"PaladinCareer",
+"SpecLevel":14,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":286,
+"Spec":"PaladinCareer",
+"SpecLevel":19,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":287,
+"Spec":"MercenaryCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":288,
+"Spec":"MercenaryCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Shortbows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":289,
+"Spec":"MercenaryCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":290,
+"Spec":"MercenaryCareer",
+"SpecLevel":15,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":291,
+"Spec":"MercenaryCareer",
+"SpecLevel":19,
+"AbilityKey":"Intercept",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":292,
+"Spec":"MercenaryCareer",
+"SpecLevel":20,
+"AbilityKey":"Dirty Tricks",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":293,
+"Spec":"MercenaryCareer",
+"SpecLevel":23,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":294,
+"Spec":"MercenaryCareer",
+"SpecLevel":30,
+"AbilityKey":"Flurry",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":295,
+"Spec":"MercenaryCareer",
+"SpecLevel":32,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":298,
+"Spec":"LightTankCareer",
+"SpecLevel":24,
+"AbilityKey":"Prevent Flight",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":299,
+"Spec":"LightTankCareer",
+"SpecLevel":35,
+"AbilityKey":"Enhanced Evade",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":300,
+"Spec":"LightTankCareer",
+"SpecLevel":35,
+"AbilityKey":"Stoicism",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":301,
+"Spec":"ReaverCareer",
+"SpecLevel":1,
+"AbilityKey":"AlbArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":302,
+"Spec":"ReaverCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":303,
+"Spec":"ReaverCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Flexible",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":304,
+"Spec":"ReaverCareer",
+"SpecLevel":9,
+"AbilityKey":"Protect",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":305,
+"Spec":"ReaverCareer",
+"SpecLevel":15,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":306,
+"Spec":"ReaverCareer",
+"SpecLevel":20,
+"AbilityKey":"Protect",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":307,
+"Spec":"ReaverCareer",
+"SpecLevel":30,
+"AbilityKey":"Protect",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":308,
+"Spec":"InfiltratorCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Crossbow",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":309,
+"Spec":"NaturalistCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Staves",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":310,
+"Spec":"NaturalistCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Blunt",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":311,
+"Spec":"NaturalistCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Blades",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":312,
+"Spec":"NaturalistCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":313,
+"Spec":"NaturalistCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":314,
+"Spec":"DruidCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":316,
+"Spec":"WardenCareer",
+"SpecLevel":1,
+"AbilityKey":"Shield",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":317,
+"Spec":"WardenCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":4,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":318,
+"Spec":"WardenCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Shortbows",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":319,
+"Spec":"BardCareer",
+"SpecLevel":1,
+"AbilityKey":"HibArmor",
+"AbilityLevel":3,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":321,
+"Spec":"BardCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Instruments",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":322,
+"Spec":"BardCareer",
+"SpecLevel":10,
+"AbilityKey":"Evade",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":323,
+"Spec":"BardCareer",
+"SpecLevel":25,
+"AbilityKey":"Evade",
+"AbilityLevel":2,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":324,
+"Spec":"Warlord",
+"SpecLevel":1,
+"AbilityKey":"Siege Master",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":325,
+"Spec":"Spymaster",
+"SpecLevel":1,
+"AbilityKey":"Pickpocket",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":326,
+"Spec":"Spymaster",
+"SpecLevel":3,
+"AbilityKey":"Enduring Poison",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":327,
+"Spec":"Spymaster",
+"SpecLevel":4,
+"AbilityKey":"Sabotage",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":328,
+"Spec":"Spymaster",
+"SpecLevel":7,
+"AbilityKey":"Lookout",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":329,
+"Spec":"Sojourner",
+"SpecLevel":1,
+"AbilityKey":"Unburdened Warrior",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":330,
+"Spec":"Perfecter",
+"SpecLevel":4,
+"AbilityKey":"Greatness",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":331,
+"Spec":"Battlemaster",
+"SpecLevel":8,
+"AbilityKey":"Bodyguard",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":332,
+"Spec":"Stealth",
+"SpecLevel":50,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":5,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":333,
+"Spec":"Stealth",
+"SpecLevel":50,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":5,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":334,
+"Spec":"Stealth",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":335,
+"Spec":"Stealth",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":336,
+"Spec":"Stealth",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":337,
+"Spec":"Stealth",
+"SpecLevel":16,
+"AbilityKey":"Detect Hidden",
+"AbilityLevel":0,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":338,
+"Spec":"Stealth",
+"SpecLevel":16,
+"AbilityKey":"Detect Hidden",
+"AbilityLevel":0,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":339,
+"Spec":"Stealth",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":340,
+"Spec":"Stealth",
+"SpecLevel":30,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":3,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":341,
+"Spec":"Stealth",
+"SpecLevel":30,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":3,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":342,
+"Spec":"Champion Level Albion",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Thrusting",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":343,
+"Spec":"Champion Level Albion",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Slashing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":344,
+"Spec":"Champion Level Albion",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Crushing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":345,
+"Spec":"Champion Level Albion",
+"SpecLevel":3,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":346,
+"Spec":"Champion Level Midgard",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Axes",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":347,
+"Spec":"Champion Level Midgard",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Hammers",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":348,
+"Spec":"Champion Level Midgard",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Swords",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":349,
+"Spec":"Champion Level Midgard",
+"SpecLevel":3,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":350,
+"Spec":"Champion Level Hibernia",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Blades",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":351,
+"Spec":"Champion Level Hibernia",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Blunt",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":352,
+"Spec":"Champion Level Hibernia",
+"SpecLevel":3,
+"AbilityKey":"Weaponry: Piercing",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":353,
+"Spec":"Champion Level Hibernia",
+"SpecLevel":3,
+"AbilityKey":"Shield",
+"AbilityLevel":1,
+"ClassId":0,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":354,
+"Spec":"Stealth",
+"SpecLevel":8,
+"AbilityKey":"Danger Sense",
+"AbilityLevel":0,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":355,
+"Spec":"Stealth",
+"SpecLevel":8,
+"AbilityKey":"Danger Sense",
+"AbilityLevel":0,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":356,
+"Spec":"Stealth",
+"SpecLevel":8,
+"AbilityKey":"Danger Sense",
+"AbilityLevel":0,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":357,
+"Spec":"Stealth",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":358,
+"Spec":"Stealth",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":359,
+"Spec":"Stealth",
+"SpecLevel":5,
+"AbilityKey":"Distraction",
+"AbilityLevel":0,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":360,
+"Spec":"Stealth",
+"SpecLevel":50,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":5,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":361,
+"Spec":"Stealth",
+"SpecLevel":40,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":4,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":362,
+"Spec":"Stealth",
+"SpecLevel":30,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":3,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":363,
+"Spec":"Stealth",
+"SpecLevel":20,
+"AbilityKey":"Safe Fall",
+"AbilityLevel":2,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":364,
+"Spec":"Stealth",
+"SpecLevel":25,
+"AbilityKey":"Climb Walls",
+"AbilityLevel":0,
+"ClassId":23,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":365,
+"Spec":"Stealth",
+"SpecLevel":25,
+"AbilityKey":"Climb Walls",
+"AbilityLevel":0,
+"ClassId":49,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":366,
+"Spec":"Stealth",
+"SpecLevel":25,
+"AbilityKey":"Climb Walls",
+"AbilityLevel":0,
+"ClassId":4,
+"LastTimeRowUpdated":"2000-01-01 00:00:00"
+},
+{ 
+"SpecXabilityID":367,
+"Spec":"MinstrelCareer",
+"SpecLevel":1,
+"AbilityKey":"Weaponry: Instruments",
+"AbilityLevel":0,
+"ClassId":0,
+"LastTimeRowUpdated":"2016-05-30 14:12:00"
+}]
