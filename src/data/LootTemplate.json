@@ -497,6 +497,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Knotted_Dryroot_Band",
+    "LastTimeRowUpdated": "2019-04-15 07:34:26",
+    "LootTemplate_ID": "02174711-c952-44b2-8c1c-c043fe289788",
+    "TemplateName": "Hamadryad"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Resplendent_Mantle",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -8664,6 +8672,14 @@
     "TemplateName": "Fragile Ghoul"
   },
   {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Twined_Twig_Necklace",
+    "LastTimeRowUpdated": "2019-04-15 07:36:16",
+    "LootTemplate_ID": "26cc67af-df99-48a3-b720-ecadbf8b102e",
+    "TemplateName": "Hamadryad"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Riven_Silk_Gloves",
@@ -8870,6 +8886,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "27be222c-bd8d-4d15-b8a4-4a59a79f4a89",
     "TemplateName": "haunting gloom"
+  },
+  {
+    "Chance": 35,
+    "Count": 1,
+    "ItemTemplateID": "Silvered_Hammer_of_Smiting",
+    "LastTimeRowUpdated": "2019-04-12 21:58:29",
+    "LootTemplate_ID": "27d09e58-5cee-423c-8261-744a41b0da1a",
+    "TemplateName": "Sacrificed Slave"
   },
   {
     "Chance": 40,
@@ -9318,6 +9342,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "29954ab7-45b0-47c0-9507-712ff22cef6c",
     "TemplateName": "rainbow sprite"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Knotted_Hamadryad_Staff",
+    "LastTimeRowUpdated": "2019-04-15 07:34:33",
+    "LootTemplate_ID": "29ac7efb-8048-4a8c-ae71-29ed56edc8eb",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 20,
@@ -10472,6 +10504,14 @@
     "TemplateName": "Chthonic Knight Obarus"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Old_Lucerne_Hammer",
+    "LastTimeRowUpdated": "2019-04-12 21:32:17",
+    "LootTemplate_ID": "2fb88221-f499-4e1f-a914-afa553c51f38",
+    "TemplateName": "Decaying Spirit"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bright_Deamhan_Circlet_of_Agility",
@@ -11465,9 +11505,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "crystallineleafgem",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-15 07:48:19",
     "LootTemplate_ID": "33b96368-fce2-4ead-9c0d-517df1e65e7b",
     "TemplateName": "hamadryad"
   },
@@ -12030,6 +12070,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "36223896-a937-487b-a459-d127caee9de6",
     "TemplateName": "ellyll guard"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Sleeves",
+    "LastTimeRowUpdated": "2019-04-15 07:36:08",
+    "LootTemplate_ID": "36244766-f2e2-4983-b68f-3d8ec6bf438d",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 20,
@@ -13481,9 +13529,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "bandedcoralboots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-15 08:38:32",
     "LootTemplate_ID": "3dbc1d01-22e0-4409-a8e6-b7bc0f01b689",
     "TemplateName": "pygmy goblin"
   },
@@ -13966,6 +14014,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "3f6cf5ad-e8d8-4c1b-88ea-6f2ac6f98541",
     "TemplateName": "roaming thrall"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Cloak",
+    "LastTimeRowUpdated": "2019-04-15 07:35:25",
+    "LootTemplate_ID": "3f7878de-aee0-4bdf-a8aa-ebe27dc1a17c",
+    "TemplateName": "Hamadryad"
+  },
+  {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Ornamental_Rapier",
+    "LastTimeRowUpdated": "2019-04-12 21:20:39",
+    "LootTemplate_ID": "3f7f4d82-235e-458b-8976-d5c2331eb4af",
+    "TemplateName": "Mithra Initiate"
   },
   {
     "Chance": 20,
@@ -15438,6 +15502,14 @@
     "LastTimeRowUpdated": "2018-01-30 22:49:41",
     "LootTemplate_ID": "46c5696d-bdc2-4455-84e2-9c71805f10a2",
     "TemplateName": "arachite impaler"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Gloves",
+    "LastTimeRowUpdated": "2019-04-15 07:35:42",
+    "LootTemplate_ID": "46e997cd-9312-4b12-99c3-91c5e52d7669",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 20,
@@ -25168,6 +25240,14 @@
     "TemplateName": "megalith wight"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Old Headsman`s Axe",
+    "LastTimeRowUpdated": "2019-04-12 21:44:25",
+    "LootTemplate_ID": "708e7fc7-bfa7-4e9d-8780-0aa220e26261",
+    "TemplateName": "Haunting Gloom"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Mist_Necklace",
@@ -26600,6 +26680,14 @@
     "TemplateName": "cluricaun"
   },
   {
+    "Chance": 35,
+    "Count": 1,
+    "ItemTemplateID": "OldSledge",
+    "LastTimeRowUpdated": "2019-04-12 21:58:06",
+    "LootTemplate_ID": "75e2b27e-50a7-4cc2-8bc5-218acf90721e",
+    "TemplateName": "Sacrificed Slave"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Balanced_Asterite_Dirk",
@@ -27705,6 +27793,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Helmet",
+    "LastTimeRowUpdated": "2019-04-15 07:35:51",
+    "LootTemplate_ID": "7af90abc-b578-42e7-9774-2813620761d8",
+    "TemplateName": "Hamadryad"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Regal_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -28278,6 +28374,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7d82160a-77d3-408a-87e8-b6e827320c2b",
     "TemplateName": "skeletal rowdy"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Leggings",
+    "LastTimeRowUpdated": "2019-04-15 07:35:59",
+    "LootTemplate_ID": "7d8394e8-dc18-4fa5-a592-dc6b6dd7eda3",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 35,
@@ -30032,6 +30136,14 @@
     "TemplateName": "arachite tunnelhost"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Old Headsman`s Axe",
+    "LastTimeRowUpdated": "2019-04-12 21:26:38",
+    "LootTemplate_ID": "858ca688-fb1a-46e1-8ada-3061da7f84d1",
+    "TemplateName": "Mithra Initiate"
+  },
+  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "Jagged_Bone_Leggings",
@@ -31129,9 +31241,9 @@
   },
   {
     "Chance": 40,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Bone_Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-12 21:41:45",
     "LootTemplate_ID": "8a3260a6-f601-497d-96dc-786381f85c2e",
     "TemplateName": "decaying spirit"
   },
@@ -32017,9 +32129,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "coldringoftherebuked",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-15 09:53:53",
     "LootTemplate_ID": "8df312cd-52d2-46f4-84dc-b7b2e19b13a7",
     "TemplateName": "pygmy goblin tangler"
   },
@@ -32030,6 +32142,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8dfff406-42df-4978-8ae9-569c9b425b96",
     "TemplateName": "ellyll champion"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Frock",
+    "LastTimeRowUpdated": "2019-04-15 07:35:35",
+    "LootTemplate_ID": "8e101d2d-6e74-4fb2-9f72-5794b5010d65",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 20,
@@ -33718,6 +33838,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "951a84a0-6692-4842-9255-0620d42a79e1",
     "TemplateName": "pit spraggon"
+  },
+  {
+    "Chance": 35,
+    "Count": 1,
+    "ItemTemplateID": "Cracked_Leather_Leggings",
+    "LastTimeRowUpdated": "2019-04-12 21:57:56",
+    "LootTemplate_ID": "951c42bd-a106-492c-8225-bd9b4b91052b",
+    "TemplateName": "Sacrificed Slave"
   },
   {
     "Chance": 15,
@@ -89640,6 +89768,14 @@
     "TemplateName": "wolfaur pragmatic"
   },
   {
+    "Chance": 35,
+    "Count": 1,
+    "ItemTemplateID": "Ceremonial_Scimitar",
+    "LastTimeRowUpdated": "2019-04-12 21:59:18",
+    "LootTemplate_ID": "9c00dd36-2d57-4d5e-9dbc-66d26b7aeb0c",
+    "TemplateName": "Sacrificed Slave"
+  },
+  {
     "Chance": 100,
     "Count": 5,
     "ItemTemplateID": "DiamondSeal",
@@ -89929,6 +90065,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "luminouspygmyneedlemace",
+    "LastTimeRowUpdated": "2019-04-15 08:21:38",
+    "LootTemplate_ID": "9d3a27f6-786c-41d9-8eb3-ca3b4345255e",
+    "TemplateName": "Pygmy Goblin"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ghastly_Mendicant_Bracer",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -89974,6 +90118,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "9d753f9d-ea3a-4842-8e75-74092e7651f3",
     "TemplateName": "tomte apprentice"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "LuminousBandedCoralBoots",
+    "LastTimeRowUpdated": "2019-04-15 08:20:46",
+    "LootTemplate_ID": "9d91a0be-dc7a-4f0d-8805-c6d91f20d8cd",
+    "TemplateName": "Pygmy Goblin"
   },
   {
     "Chance": 20,
@@ -90464,6 +90616,14 @@
     "TemplateName": "barrow wight"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Old_Lucerne_Hammer",
+    "LastTimeRowUpdated": "2019-04-12 21:44:34",
+    "LootTemplate_ID": "9f368951-1d8e-4920-ac86-a2355d0c578b",
+    "TemplateName": "Haunting Gloom"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Ancient_Dragon_Etched_Coif",
@@ -90926,6 +91086,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a16c0cb3-8883-4716-987d-2d81c11ccd53",
     "TemplateName": "keltoi spiritualist"
+  },
+  {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "OldSledge",
+    "LastTimeRowUpdated": "2019-04-12 21:49:38",
+    "LootTemplate_ID": "a16cf2a1-1a5b-4016-b2db-e2a706e9eba5",
+    "TemplateName": "Haunting Gloom"
   },
   {
     "Chance": 20,
@@ -93520,6 +93688,14 @@
     "TemplateName": "hagbui swordbearer"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Worn_Studded_Helm",
+    "LastTimeRowUpdated": "2019-04-13 18:50:24",
+    "LootTemplate_ID": "abf392c5-6803-412a-9dd0-4a362edeed73",
+    "TemplateName": "Unfortunate Pragmatic"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "rusticcap",
@@ -95857,6 +96033,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Bracer",
+    "LastTimeRowUpdated": "2019-04-15 07:34:59",
+    "LootTemplate_ID": "b2956c7c-beb3-497d-9275-b4f11fb79be7",
+    "TemplateName": "Hamadryad"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_SFCS_Boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -96889,9 +97073,9 @@
   },
   {
     "Chance": 40,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Cracked_Leather_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-13 18:50:25",
     "LootTemplate_ID": "b6d2982f-8cb0-4154-af83-c5fc13bca28d",
     "TemplateName": "unfortunate pragmatic"
   },
@@ -101593,9 +101777,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "PulsingRuby",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-12 21:31:17",
     "LootTemplate_ID": "c88a9123-5af9-48ba-99cd-17eee9d6c241",
     "TemplateName": "mindless minion"
   },
@@ -103209,9 +103393,9 @@
   },
   {
     "Chance": 40,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "1_Aged_Mithrian_Cloth_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-04-12 21:49:39",
     "LootTemplate_ID": "cl-sl-haunt",
     "TemplateName": "haunting gloom"
   },
@@ -105888,6 +106072,14 @@
     "TemplateName": "deeplurk manslayer"
   },
   {
+    "Chance": 49,
+    "Count": 1,
+    "ItemTemplateID": "light_blue_cloth_dye",
+    "LastTimeRowUpdated": "2019-04-13 18:42:42",
+    "LootTemplate_ID": "d9007eac-ab05-45d2-a934-d0f5b7202d46",
+    "TemplateName": "menacing presense"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Golden_Alloy_Axe",
@@ -106206,6 +106398,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "d9f413cb-782a-41b6-813e-e9fd8f9d98e7",
     "TemplateName": "svartalf foister"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Softened_Bark_Boots",
+    "LastTimeRowUpdated": "2019-04-15 07:34:49",
+    "LootTemplate_ID": "d9f4fb3b-219d-42fb-a2f8-cb455f3c2b85",
+    "TemplateName": "Hamadryad"
   },
   {
     "Chance": 20,
@@ -110278,6 +110478,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e906b265-6fb3-45af-965d-b397fb2c121e",
     "TemplateName": "drakulv protector"
+  },
+  {
+    "Chance": 35,
+    "Count": 1,
+    "ItemTemplateID": "SilveredMelodicLute",
+    "LastTimeRowUpdated": "2019-04-12 21:58:44",
+    "LootTemplate_ID": "e906d809-d947-41e7-b937-01263caf8048",
+    "TemplateName": "Sacrificed Slave"
   },
   {
     "Chance": 20,
