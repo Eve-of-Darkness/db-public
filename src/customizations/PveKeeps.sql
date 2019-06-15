@@ -1,11 +1,11 @@
 # Set keeps to PvE
-UPDATE `keep` SET `Realm`=0, `OriginalRealm`=0 WHERE `Name` LIKE "%Caer%" OR `Name` LIKE "%Faste%" OR `Name` LIKE "%Dun%";
+UPDATE `Keep` SET `Realm`=0, `OriginalRealm`=0 WHERE `Name` LIKE "%Caer%" OR `Name` LIKE "%Faste%" OR `Name` LIKE "%Dun%";
 
 # Set difficulties to keeps
-UPDATE `keep` SET `Level`=3 WHERE `Name` LIKE "%Renaris%" OR
+UPDATE `Keep` SET `Level`=3 WHERE `Name` LIKE "%Renaris%" OR
 `Name` LIKE "%Arvakr%" OR
 `Name` LIKE "%Ailinne%";
-UPDATE `keep` SET `Level`=5 WHERE `Name` LIKE "%Berkstead%" OR
+UPDATE `Keep` SET `Level`=5 WHERE `Name` LIKE "%Berkstead%" OR
 `Name` LIKE "%Erasleigh%" OR
 `Name` LIKE "%Hurbury%" OR
 `Name` LIKE "%Sursbrooke%" OR
@@ -17,7 +17,7 @@ UPDATE `keep` SET `Level`=5 WHERE `Name` LIKE "%Berkstead%" OR
 `Name` LIKE "%Crimthainn%" OR
 `Name` LIKE "%Bolg%" OR
 `Name` LIKE "%Da Behnn%";
-UPDATE `keep` SET `Level`=8 WHERE `Name` LIKE "%Benowyc%" OR
+UPDATE `Keep` SET `Level`=8 WHERE `Name` LIKE "%Benowyc%" OR
 `Name` LIKE "%Boldiam%" OR
 `Name` LIKE "%Glenlock%" OR
 `Name` LIKE "%Bledmeer%" OR
