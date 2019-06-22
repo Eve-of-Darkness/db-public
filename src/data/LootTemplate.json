@@ -608,6 +608,14 @@
     "TemplateName": "ruckus"
   },
   {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinnightwatcherhelm",
+    "LastTimeRowUpdated": "2019-06-19 18:46:30",
+    "LootTemplate_ID": "02b2a1bb-fb96-4b64-a154-780f45b467d2",
+    "TemplateName": "Danaoin Soldier"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Tanned_Worn_Pants_alb",
@@ -4585,6 +4593,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "shimmeringcursedmalcontentsboots",
+    "LastTimeRowUpdated": "2019-06-19 19:02:05",
+    "LootTemplate_ID": "145d9d54-93c5-430e-9a52-db0278a8473f",
+    "TemplateName": "Bean-Nighe"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Water_Opal_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -5534,6 +5550,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "18641377-dc9f-4b2d-9096-d339d570a55a",
     "TemplateName": "undead guardsman"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "agelesstelamonhelm",
+    "LastTimeRowUpdated": "2019-06-19 18:29:37",
+    "LootTemplate_ID": "186e044b-027c-4bb6-8589-e0fd4ae40505",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 20,
@@ -6838,6 +6862,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1e7e5f1d-1a02-4361-bc7c-c68636eae07a",
     "TemplateName": "spiritual advisor"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "Enriched_Quicksilver",
+    "LastTimeRowUpdated": "2019-06-19 18:47:29",
+    "LootTemplate_ID": "1e80e5ca-3fdd-4624-9d21-dfa140204be8",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -8801,6 +8833,14 @@
   },
   {
     "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinnightwatchersleeves",
+    "LastTimeRowUpdated": "2019-06-19 18:46:55",
+    "LootTemplate_ID": "2754e170-6ed3-480f-8269-f7ec9415ae6d",
+    "TemplateName": "Danaoin Soldier"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shimmering_Boots_of_the_Baleful_Dead",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -9070,6 +9110,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2881faa0-491f-46cf-b934-9cae85821b63",
     "TemplateName": "siabra raider"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaointwo-handedsword",
+    "LastTimeRowUpdated": "2019-06-19 18:47:11",
+    "LootTemplate_ID": "2884ff58-86b4-456f-90a7-4427172021f3",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -9510,6 +9558,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "2abe3298-218f-4b9d-80e2-b2bc89de3613",
     "TemplateName": "trapped thrall"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "agelesstelamongauntlets",
+    "LastTimeRowUpdated": "2019-06-19 18:29:27",
+    "LootTemplate_ID": "2ac3624a-3d81-445c-b5d9-ff6479c73586",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 15,
@@ -11345,9 +11401,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "bracerofeternalscreams",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-06-19 19:04:47",
     "LootTemplate_ID": "32fb2bcd-4723-4f40-a79c-14467a2e6ecf",
     "TemplateName": "bean-nighe"
   },
@@ -15870,6 +15926,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "487de7e8-0eae-41e7-8dea-e95f285c78bb",
     "TemplateName": "villainous youth"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "agelesstelamonboots",
+    "LastTimeRowUpdated": "2019-06-19 18:29:37",
+    "LootTemplate_ID": "4886e73a-003e-44b6-bdf5-b786d7b7d76f",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 20,
@@ -22096,6 +22160,14 @@
     "TemplateName": "keltoi spiritualist"
   },
   {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Pitted_Battlesword_of_Cornwall",
+    "LastTimeRowUpdated": "2019-06-19 15:32:08",
+    "LootTemplate_ID": "63441166-a7f4-4ace-b626-9180bca301b7",
+    "TemplateName": "Brown Bear"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Fire-forged_Pike",
@@ -22406,6 +22478,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "64d43971-5924-4a31-a1be-71eada1701f2",
     "TemplateName": "glimmer ardent"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "shimmeringagelesstelamonleggings",
+    "LastTimeRowUpdated": "2019-06-19 18:31:36",
+    "LootTemplate_ID": "64e727b9-fc77-44aa-bf5a-4d4abffcfd1f",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 20,
@@ -27574,6 +27654,14 @@
     "LastTimeRowUpdated": "2018-01-29 01:39:02",
     "LootTemplate_ID": "79cb0753-c510-4050-89aa-4819b213ad4f",
     "TemplateName": "amadan touched"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "danaoinbladeblocker",
+    "LastTimeRowUpdated": "2019-06-19 18:45:52",
+    "LootTemplate_ID": "79d8b119-d277-43b9-8b94-e080465262ac",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -33126,6 +33214,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "91ac390b-dc7a-4d0e-be67-9c1c384f9706",
     "TemplateName": "glimmer arios"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinlightwatchershauberk",
+    "LastTimeRowUpdated": "2019-06-19 18:46:00",
+    "LootTemplate_ID": "91b28463-1acf-482b-9c8e-1e8d3aaff0f1",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -91441,6 +91537,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "hollowtelamonhead",
+    "LastTimeRowUpdated": "2019-06-19 18:30:46",
+    "LootTemplate_ID": "a2add73f-0034-4525-85fc-a5f9de659292",
+    "TemplateName": "Greater Telamon"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Shining_Dried_Molded_Scale_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -93800,6 +93904,14 @@
     "TemplateName": "king vian"
   },
   {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinnightwatcherboots",
+    "LastTimeRowUpdated": "2019-06-19 18:46:22",
+    "LootTemplate_ID": "ac70d0c7-167d-4810-ba1c-38d65d99ce11",
+    "TemplateName": "Danaoin Soldier"
+  },
+  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Thickened_Cloth_Pants",
@@ -93822,6 +93934,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ac875d55-ebd1-48d4-8fba-33ece7ae42ca",
     "TemplateName": "tomte thug"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "1_Ageless_Telamon_Sleeves",
+    "LastTimeRowUpdated": "2019-06-19 18:45:14",
+    "LootTemplate_ID": "ac95a645-13e6-40ba-b32b-ff4cda70692b",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 20,
@@ -98281,6 +98401,14 @@
   },
   {
     "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "Ancient_Troll_Blood",
+    "LastTimeRowUpdated": "2019-06-19 18:45:37",
+    "LootTemplate_ID": "bb041b8a-8832-4a51-b493-e7af12a20782",
+    "TemplateName": "Danaoin Soldier"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "helmoflethean",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -100406,6 +100534,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c21d91d7-5c10-4b78-9521-b26d9c11a8eb",
     "TemplateName": "fire flower"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinwarpick",
+    "LastTimeRowUpdated": "2019-06-19 18:47:20",
+    "LootTemplate_ID": "c2232b05-0373-47f2-9e73-5a367c9705c8",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -105665,6 +105801,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "cursedmalcontentsgloves",
+    "LastTimeRowUpdated": "2019-06-19 19:04:47",
+    "LootTemplate_ID": "d78574b7-a6dc-47b9-a6c2-a873b19731b6",
+    "TemplateName": "Bean-Nighe"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Red_Crystal_Eye",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -106945,6 +107089,14 @@
   },
   {
     "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinnightwatcherjerkin",
+    "LastTimeRowUpdated": "2019-06-19 18:46:38",
+    "LootTemplate_ID": "db311bab-96fc-4e49-a90c-7f67bb2f8a4f",
+    "TemplateName": "Danaoin Soldier"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Dusk-Walker's_Coif",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -107427,7 +107579,7 @@
     "Chance": 20,
     "Count": 2,
     "ItemTemplateID": "Ancient_Crushed_Focus_Stone",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-06-19 18:56:49",
     "LootTemplate_ID": "dd5ad1e7-7c2a-4b2b-9e78-309343bdcb52",
     "TemplateName": "danaoin soldier"
   },
@@ -109745,9 +109897,9 @@
   },
   {
     "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Pitted_Battlesword_of_Cornwall",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Count": 1,
+    "ItemTemplateID": "PittedSharpClaw",
+    "LastTimeRowUpdated": "2019-06-19 15:27:03",
     "LootTemplate_ID": "e637cbca-371f-4be5-8882-19d148017c28",
     "TemplateName": "brown bear"
   },
@@ -110939,7 +111091,7 @@
     "Chance": 20,
     "Count": 2,
     "ItemTemplateID": "Ancient_Giant_Blood",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2019-06-19 18:59:18",
     "LootTemplate_ID": "eafa4d63-c055-4dd0-a312-d9606b7c2ee5",
     "TemplateName": "danaoin commander"
   },
@@ -112296,14 +112448,6 @@
     "TemplateName": "emerald snake"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Enriched_Quicksilver",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Enriched_Quicksilver2_danaoin_soldier",
-    "TemplateName": "danaoin soldier"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Eldritch_Staff_of_Channeling",
@@ -112886,6 +113030,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f1e50ad1-3139-4f3c-ab52-fde4c431a8e6",
     "TemplateName": "skeletal centurion"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "danaoinnightwatcherleggings",
+    "LastTimeRowUpdated": "2019-06-19 18:46:46",
+    "LootTemplate_ID": "f1f88091-79ff-4fbc-9b70-37e0bafbc372",
+    "TemplateName": "Danaoin Soldier"
   },
   {
     "Chance": 20,
@@ -114758,6 +114910,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "f8d7a000-99be-488b-9b93-ae40b402516a",
     "TemplateName": "spraggonix"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "greatertelamonscimitar",
+    "LastTimeRowUpdated": "2019-06-19 18:30:31",
+    "LootTemplate_ID": "f8d80454-faa0-4d31-abc4-9eb4db43cb78",
+    "TemplateName": "Greater Telamon"
   },
   {
     "Chance": 20,
