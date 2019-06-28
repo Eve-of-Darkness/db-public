@@ -106456,10 +106456,10 @@
     "TemplateName": "dreadful cadaver"
   },
   {
-    "Chance": 90,
-    "Count": 5,
+    "Chance": 60,
+    "Count": 1,
     "ItemTemplateID": "EmeraldSeal",
-    "LastTimeRowUpdated": "2018-01-26 21:36:51",
+    "LastTimeRowUpdated": "2019-06-25 19:27:05",
     "LootTemplate_ID": "d9cad34e-673d-4c6d-bc25-1c7b280f30bb",
     "TemplateName": "Apprentice Necyomancer"
   },
