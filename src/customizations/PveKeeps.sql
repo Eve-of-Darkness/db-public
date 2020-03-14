@@ -1,3 +1,6 @@
+# Set max keep level to 10
+UPDATE `ServerProperty` SET `Value`="10" WHERE `Key`="max_keep_level";
+
 # Set keeps to PvE
 UPDATE `Keep` SET `Realm`=0, `OriginalRealm`=0 WHERE `Name` LIKE "%Caer%" OR `Name` LIKE "%Faste%" OR `Name` LIKE "%Dun%";
 
