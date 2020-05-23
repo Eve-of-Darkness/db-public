@@ -3876,6 +3876,23 @@
     "Z": 200
   },
   {
+    "ClassType": "DOL.GS.GameStaticItem",
+    "Emblem": 0,
+    "ExamineArticle": "",
+    "Heading": 4062,
+    "LastTimeRowUpdated": "2019-12-28 21:13:13",
+    "Model": 2656,
+    "Name": "campire1",
+    "Realm": 0,
+    "Region": 200,
+    "RespawnInterval": 0,
+    "TranslationId": "",
+    "WorldObject_ID": "44a89c0c-2ee3-46af-9c32-a392b5735551",
+    "X": 346107,
+    "Y": 495799,
+    "Z": 5130
+  },
+  {
     "ClassType": "DOL.GS.StormWorldDataQuestItem",
     "Emblem": 0,
     "ExamineArticle": null,

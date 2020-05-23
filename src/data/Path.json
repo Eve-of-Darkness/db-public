@@ -525,6 +525,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2019-12-27 14:16:23",
+    "PathID": "Armirin_magmell",
+    "PathType": 3,
+    "Path_ID": "365c631e-a7ec-410e-afda-995bde110899",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-06 00:14:38",
     "PathID": "HS_InnisCarthaig_TirnamBeo",
     "PathType": 1,
@@ -746,6 +753,13 @@
     "PathID": "HS_SvasudFaste_Huginfel",
     "PathType": 1,
     "Path_ID": "4fd1568d-3691-4bfc-8a5e-4068fabc5095",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2019-12-27 14:23:44",
+    "PathID": "Snake_magmell",
+    "PathType": 3,
+    "Path_ID": "5043f30c-cfbd-4a4a-a0a7-fe59aee24ccf",
     "RegionID": 0
   },
   {

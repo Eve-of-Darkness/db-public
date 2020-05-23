@@ -60,6 +60,42 @@
     "Z": 8088
   },
   {
+    "Heading": 1036,
+    "LastTimeRowUpdated": "2020-03-19 19:56:11",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Fort Veldon",
+    "Teleport_ID": "0a892814-6893-47fc-aa5e-6e662bdd72a1",
+    "Type": "",
+    "X": 801046,
+    "Y": 678588,
+    "Z": 5299
+  },
+  {
+    "Heading": 2058,
+    "LastTimeRowUpdated": "2020-03-19 20:16:42",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Fort Atla",
+    "Teleport_ID": "0b09c2d6-af87-466d-8efd-5e94a77387be",
+    "Type": "",
+    "X": 749218,
+    "Y": 817547,
+    "Z": 4408
+  },
+  {
+    "Heading": 95,
+    "LastTimeRowUpdated": "2020-03-19 17:30:38",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Campacorentin Station",
+    "Teleport_ID": "0d1c1c6b-a610-4eb3-b9a7-778a7bb859ff",
+    "Type": "",
+    "X": 493679,
+    "Y": 591770,
+    "Z": 1819
+  },
+  {
     "Heading": 1803,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -70,6 +106,18 @@
     "X": 94940,
     "Y": 91818,
     "Z": 5024
+  },
+  {
+    "Heading": 651,
+    "LastTimeRowUpdated": "2020-03-19 20:31:32",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Malmohus",
+    "Teleport_ID": "1380edad-8f88-480f-aeab-ab1a2f55172f",
+    "Type": "",
+    "X": 730233,
+    "Y": 971212,
+    "Z": 4476
   },
   {
     "Heading": 697,
@@ -96,6 +144,30 @@
     "Z": 8002
   },
   {
+    "Heading": 5,
+    "LastTimeRowUpdated": "2020-03-19 19:33:08",
+    "Realm": 3,
+    "RegionID": 190,
+    "TeleportID": "Tur Suil",
+    "Teleport_ID": "1dca37af-f46f-4dfa-bdc3-e647fab7152c",
+    "Type": "",
+    "X": 38037,
+    "Y": 27698,
+    "Z": 13247
+  },
+  {
+    "Heading": 1043,
+    "LastTimeRowUpdated": "2020-03-19 20:28:57",
+    "Realm": 2,
+    "RegionID": 127,
+    "TeleportID": "Varulvhamn",
+    "Teleport_ID": "23d8729a-3380-4233-afde-0805444cfba7",
+    "Type": "",
+    "X": 35267,
+    "Y": 30852,
+    "Z": 14995
+  },
+  {
     "Heading": 1671,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 2,
@@ -106,6 +178,30 @@
     "X": 765518,
     "Y": 673661,
     "Z": 5736
+  },
+  {
+    "Heading": 2343,
+    "LastTimeRowUpdated": "2020-03-19 19:01:21",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Connla",
+    "Teleport_ID": "24ed730c-471b-4c90-a591-c36d8934b746",
+    "Type": "",
+    "X": 295765,
+    "Y": 642599,
+    "Z": 4849
+  },
+  {
+    "Heading": 1106,
+    "LastTimeRowUpdated": "2020-03-19 17:56:38",
+    "Realm": 1,
+    "RegionID": 51,
+    "TeleportID": "Caer Diogel",
+    "Teleport_ID": "264d8f8d-0081-4ad1-bdbf-dd579524eefd",
+    "Type": "",
+    "X": 403748,
+    "Y": 503110,
+    "Z": 4680
   },
   {
     "Heading": 47,
@@ -120,6 +216,30 @@
     "Z": 7969
   },
   {
+    "Heading": 3075,
+    "LastTimeRowUpdated": "2020-03-19 20:34:45",
+    "Realm": 2,
+    "RegionID": 150,
+    "TeleportID": "Trollheim",
+    "Teleport_ID": "315e108c-6e8c-425f-8110-5578e341639d",
+    "Type": "",
+    "X": 28325,
+    "Y": 47589,
+    "Z": 15999
+  },
+  {
+    "Heading": 1339,
+    "LastTimeRowUpdated": "2020-03-19 18:58:03",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Howth",
+    "Teleport_ID": "34881127-6f96-4477-b697-a27abbaea1bc",
+    "Type": "",
+    "X": 343184,
+    "Y": 592636,
+    "Z": 5456
+  },
+  {
     "Heading": 719,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -130,6 +250,30 @@
     "X": 373944,
     "Y": 572847,
     "Z": 8040
+  },
+  {
+    "Heading": 1937,
+    "LastTimeRowUpdated": "2020-03-19 17:35:38",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Cornwall Station",
+    "Teleport_ID": "39523611-0a1c-4ee2-bc5f-4e49001f6fc9",
+    "Type": "",
+    "X": 408907,
+    "Y": 652791,
+    "Z": 4944
+  },
+  {
+    "Heading": 3076,
+    "LastTimeRowUpdated": "2020-03-19 17:02:45",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Darkness Falls",
+    "Teleport_ID": "3aeadea5-67b0-4444-a561-580f939404dc",
+    "Type": "",
+    "X": 599451,
+    "Y": 536187,
+    "Z": 2960
   },
   {
     "Heading": 17,
@@ -144,6 +288,54 @@
     "Z": 15901
   },
   {
+    "Heading": 42,
+    "LastTimeRowUpdated": "2020-03-19 20:05:21",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Audliten",
+    "Teleport_ID": "3ea2ae01-f247-40f0-b9aa-b56369adb583",
+    "Type": "",
+    "X": 729152,
+    "Y": 760225,
+    "Z": 4573
+  },
+  {
+    "Heading": 947,
+    "LastTimeRowUpdated": "2020-03-19 20:12:29",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Raumarik",
+    "Teleport_ID": "48e077bf-8260-4646-9439-0eb67603d731",
+    "Type": "",
+    "X": 660618,
+    "Y": 764955,
+    "Z": 4613
+  },
+  {
+    "Heading": 957,
+    "LastTimeRowUpdated": "2020-03-19 17:43:01",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Lyonesse",
+    "Teleport_ID": "49800e92-f205-4240-8276-7a6954c47f9f",
+    "Type": "",
+    "X": 348239,
+    "Y": 667789,
+    "Z": 5865
+  },
+  {
+    "Heading": 3067,
+    "LastTimeRowUpdated": "2020-03-19 20:20:45",
+    "Realm": 2,
+    "RegionID": 125,
+    "TeleportID": "Spindelhalla",
+    "Teleport_ID": "4b08f775-945c-4fb2-a3f7-10e0b38933c5",
+    "Type": "",
+    "X": 32151,
+    "Y": 31813,
+    "Z": 16371
+  },
+  {
     "Heading": 3325,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -154,6 +346,18 @@
     "X": 515959,
     "Y": 372539,
     "Z": 8208
+  },
+  {
+    "Heading": 3102,
+    "LastTimeRowUpdated": "2020-03-19 17:27:00",
+    "Realm": 1,
+    "RegionID": 22,
+    "TeleportID": "Keltoi Fogou",
+    "Teleport_ID": "5261a88b-a126-4e28-bbd0-5b2f285971ce",
+    "Type": "",
+    "X": 30120,
+    "Y": 31216,
+    "Z": 16521
   },
   {
     "Heading": 2068,
@@ -204,6 +408,30 @@
     "Z": 1824
   },
   {
+    "Heading": 3629,
+    "LastTimeRowUpdated": "2020-03-19 19:18:07",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Darkness Falls",
+    "Teleport_ID": "5d8fbc63-bbf3-49fc-97d6-1adadd9f16b7",
+    "Type": "",
+    "X": 325044,
+    "Y": 433663,
+    "Z": 6315
+  },
+  {
+    "Heading": 4055,
+    "LastTimeRowUpdated": "2020-03-19 19:16:23",
+    "Realm": 3,
+    "RegionID": 221,
+    "TeleportID": "Muire Tomb",
+    "Teleport_ID": "614830a0-101e-4db3-96ba-f2336d39e397",
+    "Type": "",
+    "X": 31055,
+    "Y": 29865,
+    "Z": 16239
+  },
+  {
     "Heading": 3,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 2,
@@ -228,6 +456,18 @@
     "Z": 5056
   },
   {
+    "Heading": 4084,
+    "LastTimeRowUpdated": "2020-03-19 18:03:13",
+    "Realm": 1,
+    "RegionID": 60,
+    "TeleportID": "Caer Sidi",
+    "Teleport_ID": "758ccc1f-2dd8-44dd-badf-75e8f7aabea1",
+    "Type": "",
+    "X": 31666,
+    "Y": 35986,
+    "Z": 18639
+  },
+  {
     "Heading": 3049,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -238,6 +478,66 @@
     "X": 32242,
     "Y": 32604,
     "Z": 7998
+  },
+  {
+    "Heading": 3120,
+    "LastTimeRowUpdated": "2020-03-19 20:09:44",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Huginfell",
+    "Teleport_ID": "7c37ac8e-6111-4224-9513-8fe57f608eed",
+    "Type": "",
+    "X": 712192,
+    "Y": 783970,
+    "Z": 4672
+  },
+  {
+    "Heading": 3076,
+    "LastTimeRowUpdated": "2020-03-19 19:14:04",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Cursed Forest",
+    "Teleport_ID": "7cab93e9-a691-4ad0-aaeb-5baa5de70aae",
+    "Type": "",
+    "X": 446983,
+    "Y": 525356,
+    "Z": 6448
+  },
+  {
+    "Heading": 550,
+    "LastTimeRowUpdated": "2020-03-19 19:25:13",
+    "Realm": 3,
+    "RegionID": 180,
+    "TeleportID": "Fomor",
+    "Teleport_ID": "7cd34ef5-71c3-4e7d-9c28-3e3b99ade5cb",
+    "Type": "",
+    "X": 33745,
+    "Y": 24206,
+    "Z": 16073
+  },
+  {
+    "Heading": 1027,
+    "LastTimeRowUpdated": "2020-03-19 19:10:56",
+    "Realm": 3,
+    "RegionID": 220,
+    "TeleportID": "Coruscating Mine",
+    "Teleport_ID": "7daa7cda-1b04-4ac2-8951-71a9e2d617dd",
+    "Type": "",
+    "X": 33502,
+    "Y": 33658,
+    "Z": 16046
+  },
+  {
+    "Heading": 1295,
+    "LastTimeRowUpdated": "2020-03-19 17:55:06",
+    "Realm": 1,
+    "RegionID": 51,
+    "TeleportID": "Fort Gwyntell",
+    "Teleport_ID": "812db316-e203-4db5-b3cb-9df593d4fc1d",
+    "Type": "",
+    "X": 426851,
+    "Y": 416460,
+    "Z": 5712
   },
   {
     "Heading": 244,
@@ -252,6 +552,30 @@
     "Z": 8800
   },
   {
+    "Heading": 517,
+    "LastTimeRowUpdated": "2020-03-19 20:22:37",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Gna Faste",
+    "Teleport_ID": "881a4671-a24d-41ab-b3cd-df43fc0231bb",
+    "Type": "",
+    "X": 787729,
+    "Y": 903903,
+    "Z": 4744
+  },
+  {
+    "Heading": 2794,
+    "LastTimeRowUpdated": "2020-03-19 18:54:47",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Ardagh",
+    "Teleport_ID": "8ef350ad-6231-42a1-bded-639781a2431b",
+    "Type": "",
+    "X": 350446,
+    "Y": 553634,
+    "Z": 5120
+  },
+  {
     "Heading": 1845,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 2,
@@ -262,6 +586,18 @@
     "X": 704110,
     "Y": 738883,
     "Z": 5704
+  },
+  {
+    "Heading": 2026,
+    "LastTimeRowUpdated": "2020-03-19 17:47:30",
+    "Realm": 1,
+    "RegionID": 50,
+    "TeleportID": "Avalon City",
+    "Teleport_ID": "941818b8-93ca-4a30-9129-3031a74df2a0",
+    "Type": "",
+    "X": 31138,
+    "Y": 47311,
+    "Z": 8313
   },
   {
     "Heading": 1894,
@@ -288,6 +624,18 @@
     "Z": 9825
   },
   {
+    "Heading": 2000,
+    "LastTimeRowUpdated": "2020-03-19 19:07:59",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Sheeroe Hills",
+    "Teleport_ID": "983439f9-82bd-458a-9bb2-b9e472a40a12",
+    "Type": "",
+    "X": 358460,
+    "Y": 710997,
+    "Z": 4912
+  },
+  {
     "Heading": 3217,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -300,6 +648,66 @@
     "Z": 2184
   },
   {
+    "Heading": 3607,
+    "LastTimeRowUpdated": "2020-03-19 17:28:44",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Caer Ulfwych",
+    "Teleport_ID": "9ca83a04-3e39-4a4f-9e50-e4bf6a94b3a3",
+    "Type": "",
+    "X": 521253,
+    "Y": 616481,
+    "Z": 1785
+  },
+  {
+    "Heading": 3068,
+    "LastTimeRowUpdated": "2020-03-19 20:18:53",
+    "Realm": 2,
+    "RegionID": 128,
+    "TeleportID": "Cursed Tomb",
+    "Teleport_ID": "9ff787d4-9a94-42ff-87c9-5877551bb902",
+    "Type": "",
+    "X": 30156,
+    "Y": 31233,
+    "Z": 16517
+  },
+  {
+    "Heading": 2182,
+    "LastTimeRowUpdated": "2020-03-19 17:11:49",
+    "Realm": 1,
+    "RegionID": 24,
+    "TeleportID": "Tepok's Mine",
+    "Teleport_ID": "a17bac06-9e09-401e-9434-1128b8299b3f",
+    "Type": "",
+    "X": 32588,
+    "Y": 34776,
+    "Z": 15179
+  },
+  {
+    "Heading": 2024,
+    "LastTimeRowUpdated": "2020-03-19 19:57:23",
+    "Realm": 2,
+    "RegionID": 126,
+    "TeleportID": "Vendo Caverns",
+    "Teleport_ID": "a260f42e-1b28-4fb1-aa56-32a305706dcb",
+    "Type": "",
+    "X": 32776,
+    "Y": 33062,
+    "Z": 16618
+  },
+  {
+    "Heading": 2043,
+    "LastTimeRowUpdated": "2020-03-19 17:00:46",
+    "Realm": 1,
+    "RegionID": 21,
+    "TeleportID": "Tomb of Mithra",
+    "Teleport_ID": "a3ed6ae4-739a-4343-b26e-94d32c3909a0",
+    "Type": "",
+    "X": 33149,
+    "Y": 32721,
+    "Z": 16480
+  },
+  {
     "Heading": 1020,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 2,
@@ -310,6 +718,78 @@
     "X": 651761,
     "Y": 313723,
     "Z": 9432
+  },
+  {
+    "Heading": 3014,
+    "LastTimeRowUpdated": "2020-03-19 20:01:16",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Muspelheim",
+    "Teleport_ID": "a8360b28-d9e5-4b8c-ab1a-5a734b8fa233",
+    "Type": "",
+    "X": 820138,
+    "Y": 680164,
+    "Z": 6415
+  },
+  {
+    "Heading": 57,
+    "LastTimeRowUpdated": "2020-03-19 19:30:13",
+    "Realm": 3,
+    "RegionID": 191,
+    "TeleportID": "Galladoria",
+    "Teleport_ID": "aa35c71b-6dc6-4f28-b9e1-729d9340c43b",
+    "Type": "",
+    "X": 32068,
+    "Y": 29565,
+    "Z": 17042
+  },
+  {
+    "Heading": 2659,
+    "LastTimeRowUpdated": "2020-03-19 19:54:03",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Mularn",
+    "Teleport_ID": "ae5d8722-9dca-4612-ab81-1e695416c06d",
+    "Type": "",
+    "X": 803612,
+    "Y": 726671,
+    "Z": 4743
+  },
+  {
+    "Heading": 3471,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Realm": 1,
+    "RegionID": 163,
+    "TeleportID": "Agramon",
+    "Teleport_ID": "AgramonAlb",
+    "Type": "",
+    "X": 546877,
+    "Y": 480723,
+    "Z": 9272
+  },
+  {
+    "Heading": 3946,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Realm": 3,
+    "RegionID": 163,
+    "TeleportID": "Agramon",
+    "Teleport_ID": "AgramonHib",
+    "Type": "",
+    "X": 505864,
+    "Y": 478304,
+    "Z": 9135
+  },
+  {
+    "Heading": 1662,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Realm": 2,
+    "RegionID": 163,
+    "TeleportID": "Agramon",
+    "Teleport_ID": "AgramonMid",
+    "Type": "",
+    "X": 525422,
+    "Y": 439601,
+    "Z": 9253
   },
   {
     "Heading": 1769,
@@ -516,6 +996,66 @@
     "Z": 3088
   },
   {
+    "Heading": 1019,
+    "LastTimeRowUpdated": "2020-03-19 20:07:17",
+    "Realm": 2,
+    "RegionID": 129,
+    "TeleportID": "Nisse's Lair",
+    "Teleport_ID": "b0bf2dd4-71cf-410f-95a3-a5e6d1f62c18",
+    "Type": "",
+    "X": 34693,
+    "Y": 33173,
+    "Z": 16467
+  },
+  {
+    "Heading": 1712,
+    "LastTimeRowUpdated": "2020-03-19 19:06:26",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Innis Carthaig",
+    "Teleport_ID": "b0d9cdf5-66a6-4aa3-8c4c-11e253caf34e",
+    "Type": "",
+    "X": 334622,
+    "Y": 720123,
+    "Z": 4296
+  },
+  {
+    "Heading": 1933,
+    "LastTimeRowUpdated": "2020-03-19 18:56:36",
+    "Realm": 3,
+    "RegionID": 222,
+    "TeleportID": "Spraggon Den",
+    "Teleport_ID": "b13f6460-aaac-4ba4-a4fc-5533997a3164",
+    "Type": "",
+    "X": 32722,
+    "Y": 34761,
+    "Z": 15179
+  },
+  {
+    "Heading": 3064,
+    "LastTimeRowUpdated": "2020-03-19 19:21:33",
+    "Realm": 3,
+    "RegionID": 223,
+    "TeleportID": "Koalinth Caverns",
+    "Teleport_ID": "b3669ef1-e936-42f4-a40f-171294a692e4",
+    "Type": "",
+    "X": 27336,
+    "Y": 32266,
+    "Z": 17266
+  },
+  {
+    "Heading": 2500,
+    "LastTimeRowUpdated": "2020-03-19 17:32:46",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Adribard's Retreat",
+    "Teleport_ID": "b3d93899-0a00-4492-8506-9ca203a7acde",
+    "Type": "",
+    "X": 472348,
+    "Y": 629103,
+    "Z": 1724
+  },
+  {
     "Heading": 6,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -540,6 +1080,18 @@
     "Z": 8008
   },
   {
+    "Heading": 3048,
+    "LastTimeRowUpdated": "2020-03-19 17:37:21",
+    "Realm": 1,
+    "RegionID": 23,
+    "TeleportID": "Catacombs of Cardova",
+    "Teleport_ID": "ba454c9d-b8e9-44b2-b838-8484e613f1bd",
+    "Type": "",
+    "X": 31121,
+    "Y": 29955,
+    "Z": 16239
+  },
+  {
     "Heading": 1024,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -550,6 +1102,18 @@
     "X": 95644,
     "Y": 101313,
     "Z": 5340
+  },
+  {
+    "Heading": 3039,
+    "LastTimeRowUpdated": "2020-03-19 17:19:53",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Llyn Barfog",
+    "Teleport_ID": "bccad0a5-c00c-4f37-9620-08eb1b7dcddd",
+    "Type": "",
+    "X": 451995,
+    "Y": 400132,
+    "Z": 1896
   },
   {
     "Heading": 3080,
@@ -576,6 +1140,30 @@
     "Z": 8008
   },
   {
+    "Heading": 3398,
+    "LastTimeRowUpdated": "2020-03-19 03:12:00",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Cotswold Village",
+    "Teleport_ID": "c4fb3caf-909f-4abd-9208-1665c287a4b9",
+    "Type": "",
+    "X": 560467,
+    "Y": 511652,
+    "Z": 2344
+  },
+  {
+    "Heading": 2043,
+    "LastTimeRowUpdated": "2020-03-19 20:39:12",
+    "Realm": 2,
+    "RegionID": 161,
+    "TeleportID": "Iarnvidiur's Lair",
+    "Teleport_ID": "ca70b673-1b6c-44c3-874c-d8ab8cc4516c",
+    "Type": "",
+    "X": 34797,
+    "Y": 37123,
+    "Z": 17043
+  },
+  {
     "Heading": 1606,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -586,6 +1174,18 @@
     "X": 597563,
     "Y": 304676,
     "Z": 8088
+  },
+  {
+    "Heading": 1043,
+    "LastTimeRowUpdated": "2020-03-19 17:52:42",
+    "Realm": 1,
+    "RegionID": 51,
+    "TeleportID": "Wearyall Village",
+    "Teleport_ID": "ceabd830-64e0-42b2-9963-f13e3d55e647",
+    "Type": "",
+    "X": 434585,
+    "Y": 493128,
+    "Z": 3088
   },
   {
     "Heading": 1482,
@@ -600,6 +1200,30 @@
     "Z": 8447
   },
   {
+    "Heading": 4076,
+    "LastTimeRowUpdated": "2020-03-19 16:58:34",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Prydwen Keep",
+    "Teleport_ID": "da03c8b4-3f31-4706-b7b5-5d3f8c41a960",
+    "Type": "",
+    "X": 574199,
+    "Y": 528948,
+    "Z": 2863
+  },
+  {
+    "Heading": 1065,
+    "LastTimeRowUpdated": "2020-03-19 19:04:17",
+    "Realm": 3,
+    "RegionID": 224,
+    "TeleportID": "Treibh Caillte",
+    "Teleport_ID": "dcaf93a5-7400-4d2b-b173-5829d87e2134",
+    "Type": "",
+    "X": 35267,
+    "Y": 30879,
+    "Z": 14999
+  },
+  {
     "Heading": 2189,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 3,
@@ -612,6 +1236,42 @@
     "Z": 8040
   },
   {
+    "Heading": 1080,
+    "LastTimeRowUpdated": "2020-03-19 17:15:43",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Swanton Keep",
+    "Teleport_ID": "dcf7933c-a170-4c0f-b481-63945b1824ab",
+    "Type": "",
+    "X": 512118,
+    "Y": 381746,
+    "Z": 7992
+  },
+  {
+    "Heading": 50,
+    "LastTimeRowUpdated": "2020-03-19 18:50:36",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Mag Mell",
+    "Teleport_ID": "e0a1ff64-ce80-41aa-9c24-4572d91711aa",
+    "Type": "",
+    "X": 347811,
+    "Y": 490351,
+    "Z": 5210
+  },
+  {
+    "Heading": 1619,
+    "LastTimeRowUpdated": "2020-03-19 19:58:52",
+    "Realm": 2,
+    "RegionID": 100,
+    "TeleportID": "Darkness Falls",
+    "Teleport_ID": "e10f072b-f1a9-471b-940f-e0ab609c5c22",
+    "Type": "",
+    "X": 760784,
+    "Y": 700729,
+    "Z": 6271
+  },
+  {
     "Heading": 284,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 2,
@@ -622,6 +1282,42 @@
     "X": 715347,
     "Y": 364830,
     "Z": 9432
+  },
+  {
+    "Heading": 2059,
+    "LastTimeRowUpdated": "2020-03-19 17:23:25",
+    "Realm": 1,
+    "RegionID": 20,
+    "TeleportID": "Stonehenge Barrows",
+    "Teleport_ID": "e6ce33f3-c8c1-4430-9b1d-cbeade26eca6",
+    "Type": "",
+    "X": 31215,
+    "Y": 34298,
+    "Z": 16495
+  },
+  {
+    "Heading": 37,
+    "LastTimeRowUpdated": "2020-03-19 17:45:12",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Dartmoor",
+    "Teleport_ID": "e8f4092c-fb8b-4a82-9d20-02f73c79bb6e",
+    "Type": "",
+    "X": 388710,
+    "Y": 699379,
+    "Z": 3280
+  },
+  {
+    "Heading": 1017,
+    "LastTimeRowUpdated": "2020-03-19 17:50:18",
+    "Realm": 1,
+    "RegionID": 61,
+    "TeleportID": "Krondon",
+    "Teleport_ID": "e9498c42-0e54-4f2a-949e-1b3514732da1",
+    "Type": "",
+    "X": 32772,
+    "Y": 31379,
+    "Z": 15725
   },
   {
     "Heading": 2218,
@@ -682,6 +1378,42 @@
     "X": 32633,
     "Y": 24324,
     "Z": 8447
+  },
+  {
+    "Heading": 1263,
+    "LastTimeRowUpdated": "2020-03-19 20:45:05",
+    "Realm": 2,
+    "RegionID": 160,
+    "TeleportID": "Tuscaren Glacier",
+    "Teleport_ID": "f732c6c8-8834-4915-a5a9-f0deed537eae",
+    "Type": "",
+    "X": 34860,
+    "Y": 17945,
+    "Z": 18826
+  },
+  {
+    "Heading": 905,
+    "LastTimeRowUpdated": "2020-03-19 18:52:57",
+    "Realm": 3,
+    "RegionID": 200,
+    "TeleportID": "Tir na mBeo",
+    "Teleport_ID": "fac2d7c8-a96d-4441-9a67-353067d24486",
+    "Type": "",
+    "X": 345698,
+    "Y": 528897,
+    "Z": 5448
+  },
+  {
+    "Heading": 463,
+    "LastTimeRowUpdated": "2020-03-19 17:53:54",
+    "Realm": 1,
+    "RegionID": 51,
+    "TeleportID": "Caer Gothwaite",
+    "Teleport_ID": "fd9894ac-c650-4dac-a90f-5fa9bf7f594a",
+    "Type": "",
+    "X": 535158,
+    "Y": 548589,
+    "Z": 4800
   },
   {
     "Heading": 747,
