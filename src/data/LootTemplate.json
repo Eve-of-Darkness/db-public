@@ -12353,9 +12353,9 @@
   },
   {
     "Chance": 40,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Woolen_Torn_Cap_alb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-24 13:18:10",
     "LootTemplate_ID": "37b1b71c-949e-49c6-bbf3-0b3682804dd4",
     "TemplateName": "Hibernian Invader"
   },
@@ -19230,6 +19230,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "57885e7f-e5fb-409a-b688-5bde37e09c51",
     "TemplateName": "icestrider chiller"
+  },
+  {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Invaders_Medallion",
+    "LastTimeRowUpdated": "2020-05-24 13:29:03",
+    "LootTemplate_ID": "57900644-7abc-4e35-ac4e-287bce00a419",
+    "TemplateName": "Hibernian Invader"
   },
   {
     "Chance": 5,
@@ -32934,6 +32942,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "90ac4b19-0a1c-4b22-848a-9af5de86cc6c",
     "TemplateName": "bodachan sabhaill"
+  },
+  {
+    "Chance": 40,
+    "Count": 1,
+    "ItemTemplateID": "Invaders_Lucky_Charm",
+    "LastTimeRowUpdated": "2020-05-24 13:29:20",
+    "LootTemplate_ID": "90be2225-4321-42c6-8d4d-27e8f5ac6294",
+    "TemplateName": "Hibernian Invader"
   },
   {
     "Chance": 20,

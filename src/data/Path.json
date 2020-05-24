@@ -119,6 +119,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 20:09:19",
+    "PathID": "holtham_guard_8",
+    "PathType": 1,
+    "Path_ID": "09bc6d68-ef46-48a6-a987-17a2270e0b15",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFMutilatorAxalnamPatrol1",
     "PathType": 2,
@@ -532,6 +539,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 19:04:42",
+    "PathID": "holtham_guard_7",
+    "PathType": 1,
+    "Path_ID": "37efdb3a-9f43-4c2d-9df9-9f102e0955ae",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-06 00:14:38",
     "PathID": "HS_InnisCarthaig_TirnamBeo",
     "PathType": 1,
@@ -704,6 +718,13 @@
     "PathID": "bt_hesperos_stygiandelta",
     "PathType": 3,
     "Path_ID": "4b1c6188-a20d-42ac-b433-7df2b57cb543",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 13:41:05",
+    "PathID": "Holtham_Jack",
+    "PathType": 1,
+    "Path_ID": "4bb627ee-2194-4eab-8926-572cedffc942",
     "RegionID": 0
   },
   {
@@ -994,6 +1015,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 20:27:14",
+    "PathID": "holtham_guard_11",
+    "PathType": 1,
+    "Path_ID": "68c22a46-d170-48c2-aad9-789f28a01d0b",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Galplen_Vasudheim",
     "PathType": 1,
@@ -1190,6 +1218,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 08:24:17",
+    "PathID": "holtham_guard_1",
+    "PathType": 1,
+    "Path_ID": "7a51ff8a-a5f0-41d3-a2f4-12f767a5e2b9",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2015-02-03 18:24:01",
     "PathID": "wp_camelot_sirbeckham",
     "PathType": 3,
@@ -1215,6 +1250,13 @@
     "PathID": "path_halgost_ulvastad",
     "PathType": 1,
     "Path_ID": "7d916dea-99f0-4bd0-b077-20cde2714322",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 11:05:33",
+    "PathID": "holtham_guard_3",
+    "PathType": 1,
+    "Path_ID": "7deef95c-6e82-4024-bcf5-167d74db7b6d",
     "RegionID": 0
   },
   {
@@ -1257,6 +1299,13 @@
     "PathID": "Raumarik-Huginfel",
     "PathType": 1,
     "Path_ID": "8311d1f4-6b6f-4eaa-bbba-ba6861def955",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 13:01:20",
+    "PathID": "holtham_guard_4",
+    "PathType": 1,
+    "Path_ID": "83875051-c62f-4c3a-bd2b-03df45f2d64e",
     "RegionID": 0
   },
   {
@@ -1425,6 +1474,13 @@
     "PathID": "BT_OceanusHesperos_OceanusAnatolem",
     "PathType": 3,
     "Path_ID": "933d9360-b9c7-4f87-9776-21d6cd9f6deb",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 17:19:08",
+    "PathID": "Holtham_Barmaid",
+    "PathType": 1,
+    "Path_ID": "93b6cf04-f623-4827-9d77-6bb2ad16fd6e",
     "RegionID": 0
   },
   {
@@ -1757,6 +1813,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 13:03:53",
+    "PathID": "holtham_guard_2",
+    "PathType": 1,
+    "Path_ID": "b568ec5f-618f-4389-a461-9001e5b22f4a",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "bt_Domnann_ToA",
     "PathType": 1,
@@ -1904,6 +1967,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 21:37:39",
+    "PathID": "holtham_guard_6",
+    "PathType": 1,
+    "Path_ID": "c8cef609-d00f-4b18-b7c6-ae457f5d6466",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "BT_HadriansWall_HibernianCoast",
     "PathType": 1,
@@ -1985,6 +2055,13 @@
     "PathID": "HS_Mularn_SvasudFaste",
     "PathType": 1,
     "Path_ID": "d3ac8641-6ce0-4c7d-a244-b77e2d26b9f7",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 13:42:55",
+    "PathID": "Holtham_Jimmy",
+    "PathType": 1,
+    "Path_ID": "d3e372a5-df3c-460e-9825-d7aa76083b8d",
     "RegionID": 0
   },
   {
@@ -2254,6 +2331,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 21:39:40",
+    "PathID": "holtham_guard_9",
+    "PathType": 1,
+    "Path_ID": "ecce50d8-72a9-4c4d-a3b5-3c2e905eca50",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFAvernalQuasit1",
     "PathType": 3,
@@ -2317,6 +2401,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-24 21:14:02",
+    "PathID": "holtham_guard_5",
+    "PathType": 1,
+    "Path_ID": "f2b892dd-b5bc-42bd-93fa-9be120ff764f",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2018-01-13 02:40:42",
     "PathID": "HS_Bjarken_Hagall",
     "PathType": 1,
@@ -2335,6 +2426,13 @@
     "PathID": "HS_WestDowns_AdribardsRetreat",
     "PathType": 1,
     "Path_ID": "f349abe9-e18c-4944-b980-c90a234dec4f",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-24 21:00:48",
+    "PathID": "holtham_guard_12",
+    "PathType": 1,
+    "Path_ID": "f3a51457-b66d-4180-9289-d5eab0de86c5",
     "RegionID": 0
   },
   {
