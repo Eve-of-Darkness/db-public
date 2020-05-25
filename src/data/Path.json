@@ -224,6 +224,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-25 18:41:21",
+    "PathID": "cotswold_guard_3",
+    "PathType": 1,
+    "Path_ID": "142e81cb-6ed5-494a-a7d1-c1c5cd964370",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "DFRocotPatrol2",
     "PathType": 2,
@@ -399,6 +406,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-25 20:03:21",
+    "PathID": "cotswold_renjun",
+    "PathType": 1,
+    "Path_ID": "28c5da8d-0ea6-4196-b24b-2351335f6f86",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "hs_src_castlesauvage",
     "PathType": 1,
@@ -452,6 +466,13 @@
     "PathID": "HS_Howth_InnisCarthaig",
     "PathType": 1,
     "Path_ID": "2f3fd181-2449-4a08-bf6d-c3a9fb2b0eb4",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-25 08:32:56",
+    "PathID": "cotswold_madissair",
+    "PathType": 1,
+    "Path_ID": "2f666008-acd5-4113-aa62-c082a1176394",
     "RegionID": 0
   },
   {
@@ -669,6 +690,13 @@
     "PathID": "DFLilithPatrol",
     "PathType": 3,
     "Path_ID": "43cdb0b8-5dde-4d4e-8620-bcda4e424d68",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-25 18:44:37",
+    "PathID": "cotswold_guard_4",
+    "PathType": 1,
+    "Path_ID": "43e53328-af3c-4a85-977d-1fdd547241ee",
     "RegionID": 0
   },
   {
@@ -1456,6 +1484,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-25 18:32:40",
+    "PathID": "cotswold_guard_1",
+    "PathType": 1,
+    "Path_ID": "9042e7b8-ebb0-43c6-92e8-e4425006d7c8",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "PathID": "HS_Cotswold_CampacorentinStation",
     "PathType": 1,
@@ -1813,6 +1848,13 @@
     "RegionID": 0
   },
   {
+    "LastTimeRowUpdated": "2020-05-25 18:38:45",
+    "PathID": "cotswold_guard_2",
+    "PathType": 1,
+    "Path_ID": "b555b522-7c29-4890-820e-7e6dc1542bd0",
+    "RegionID": 0
+  },
+  {
     "LastTimeRowUpdated": "2020-05-24 13:03:53",
     "PathID": "holtham_guard_2",
     "PathType": 1,
@@ -1824,6 +1866,13 @@
     "PathID": "bt_Domnann_ToA",
     "PathType": 1,
     "Path_ID": "b59ae223-fd15-4e9f-ae81-4c61371e58b3",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2020-05-25 18:45:55",
+    "PathID": "cotswold_guard_5",
+    "PathType": 1,
+    "Path_ID": "b6db1bb8-8168-4fb9-b109-2527ec5ae2ef",
     "RegionID": 0
   },
   {
