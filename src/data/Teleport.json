@@ -36,6 +36,18 @@
     "Z": 5184
   },
   {
+    "Heading": 3435,
+    "LastTimeRowUpdated": "2020-05-25 09:52:57",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Tomb of Mithra",
+    "Teleport_ID": "04fdbffd-e8c8-4ba1-8e15-380d20f97dc6",
+    "Type": "Dungeon Researcher",
+    "X": 599978,
+    "Y": 522172,
+    "Z": 2580
+  },
+  {
     "Heading": 3822,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Realm": 1,
@@ -46,6 +58,18 @@
     "X": 677193,
     "Y": 568367,
     "Z": 8088
+  },
+  {
+    "Heading": 498,
+    "LastTimeRowUpdated": "2020-05-25 09:53:53",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Keltoi Fogou",
+    "Teleport_ID": "076ce07d-da00-49a7-bbf1-bb8f0ffc9560",
+    "Type": "Dungeon Researcher",
+    "X": 543335,
+    "Y": 636336,
+    "Z": 1814
   },
   {
     "Heading": 184,
@@ -228,6 +252,18 @@
     "Z": 15999
   },
   {
+    "Heading": 266,
+    "LastTimeRowUpdated": "2020-05-25 09:55:45",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Catacombs of Cordova",
+    "Teleport_ID": "33af4b5e-920e-4b5d-9308-bf5d0ddb83b7",
+    "Type": "Dungeon Researcher",
+    "X": 386281,
+    "Y": 677881,
+    "Z": 6661
+  },
+  {
     "Heading": 1339,
     "LastTimeRowUpdated": "2020-03-19 18:58:03",
     "Realm": 3,
@@ -310,6 +346,18 @@
     "X": 660618,
     "Y": 764955,
     "Z": 4613
+  },
+  {
+    "Heading": 373,
+    "LastTimeRowUpdated": "2020-05-25 09:46:36",
+    "Realm": 2,
+    "RegionID": 1,
+    "TeleportID": "Tomb",
+    "Teleport_ID": "48f674c3-b4b8-464b-a468-96cf2178a7f9",
+    "Type": "of",
+    "X": 560798,
+    "Y": 511639,
+    "Z": 2344
   },
   {
     "Heading": 957,
@@ -588,6 +636,18 @@
     "Z": 5704
   },
   {
+    "Heading": 973,
+    "LastTimeRowUpdated": "2020-05-25 09:56:01",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Stonehenge Barrows",
+    "Teleport_ID": "926cb250-2a49-41ee-985e-14c49db6a852",
+    "Type": "Dungeon Researcher",
+    "X": 587011,
+    "Y": 585081,
+    "Z": 2100
+  },
+  {
     "Heading": 2026,
     "LastTimeRowUpdated": "2020-03-19 17:47:30",
     "Realm": 1,
@@ -660,6 +720,18 @@
     "Z": 1785
   },
   {
+    "Heading": 363,
+    "LastTimeRowUpdated": "2020-05-25 19:38:51",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Tomb of Mithra",
+    "Teleport_ID": "9db28854-b1e3-477e-bbe8-57b0039854a7",
+    "Type": "",
+    "X": 560777,
+    "Y": 511628,
+    "Z": 2344
+  },
+  {
     "Heading": 3068,
     "LastTimeRowUpdated": "2020-03-19 20:18:53",
     "Realm": 2,
@@ -694,18 +766,6 @@
     "X": 32776,
     "Y": 33062,
     "Z": 16618
-  },
-  {
-    "Heading": 2043,
-    "LastTimeRowUpdated": "2020-03-19 17:00:46",
-    "Realm": 1,
-    "RegionID": 21,
-    "TeleportID": "Tomb of Mithra",
-    "Teleport_ID": "a3ed6ae4-739a-4343-b26e-94d32c3909a0",
-    "Type": "",
-    "X": 33149,
-    "Y": 32721,
-    "Z": 16480
   },
   {
     "Heading": 1020,
@@ -1150,6 +1210,18 @@
     "X": 560467,
     "Y": 511652,
     "Z": 2344
+  },
+  {
+    "Heading": 2384,
+    "LastTimeRowUpdated": "2020-05-25 09:55:16",
+    "Realm": 1,
+    "RegionID": 1,
+    "TeleportID": "Tepok's Mine",
+    "Teleport_ID": "ca2a0465-b4a9-498a-96b6-bacf362f3f14",
+    "Type": "Dungeon Researcher",
+    "X": 489413,
+    "Y": 437962,
+    "Z": 5119
   },
   {
     "Heading": 2043,
