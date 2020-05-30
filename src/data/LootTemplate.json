@@ -5626,14 +5626,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Melodic_Rapier",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "18d749be-d5ee-4567-8c56-20a9c2a6f777",
-    "TemplateName": "ellyll guard"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Ring_of_Earth",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "18ee3b14-b987-4085-8275-ef55f1f79d45",
@@ -6354,14 +6346,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Gladius_of_the_Battlelord",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1c5f956a-fe6e-4222-a040-d5a1255ac96a",
-    "TemplateName": "ellyll guard"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Runed_Hollow_Clay_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1c610af8-582f-4ae7-896a-5569db3a370b",
@@ -6982,14 +6966,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1efb1f11-4a63-406d-ae3e-28c7dfb7546b",
     "TemplateName": "gwern"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Tensile_Hooded_Mantle",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1efca488-4d91-4c2e-b526-81fb69a66179",
-    "TemplateName": "ellyll guard"
   },
   {
     "Chance": 5,
@@ -8329,9 +8305,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Bottle_of_Ellyll_Wine",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-26 21:54:24",
     "LootTemplate_ID": "25938692-32d5-4595-9014-28f870b68a32",
     "TemplateName": "ellyll windchaser"
   },
@@ -10441,9 +10417,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Bottle_of_Ellyll_Wine",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-27 19:44:16",
     "LootTemplate_ID": "2f3a469b-cea3-49f8-a5ea-f383c8aed31c",
     "TemplateName": "ellyll explorer"
   },
@@ -20488,14 +20464,6 @@
     "TemplateName": "glimmer zanllvi"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Battering_Quilted_Crown",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "5c3faedd-9687-49af-b226-dfa41869cc12",
-    "TemplateName": "ellyll guard"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Rawhide_Torn_Gloves_alb",
@@ -21054,6 +21022,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "5e9732d6-2011-4f0b-834e-186ac7fd7db6",
     "TemplateName": "eques"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Everspark_Tinderbox",
+    "LastTimeRowUpdated": "2020-05-27 19:44:04",
+    "LootTemplate_ID": "5ea302f6-c842-4700-8443-66f51d2d29ce",
+    "TemplateName": "Ellyll Explorer"
   },
   {
     "Chance": 20,
@@ -21865,6 +21841,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Pain Delved Helm",
+    "LastTimeRowUpdated": "2020-05-26 20:49:31",
+    "LootTemplate_ID": "62199c38-f403-4e4f-8701-dc1ed351cdf5",
+    "TemplateName": "Bwgan Fisherman"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "2_FP_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -22174,6 +22158,14 @@
     "LastTimeRowUpdated": "2019-06-19 15:32:08",
     "LootTemplate_ID": "63441166-a7f4-4ace-b626-9180bca301b7",
     "TemplateName": "Brown Bear"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Enchanted_Tinderbox",
+    "LastTimeRowUpdated": "2020-05-26 21:31:49",
+    "LootTemplate_ID": "6346e941-0c60-46ca-9b66-90a65734c080",
+    "TemplateName": "Ellyll Froglord"
   },
   {
     "Chance": 20,
@@ -23066,14 +23058,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Gladius_of_the_Battlelord",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "67102792-d3b2-4290-b983-b5866b744c78",
-    "TemplateName": "ellyll champion"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Shimmering_Reinforced_Truemail_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "671477c3-704c-4e3b-bd2c-75d9fcb12cb5",
@@ -23222,6 +23206,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "67c0167c-9748-432e-b16c-0941ccace4e9",
     "TemplateName": "svartalf arbetare"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Enchanted_Tinderbox",
+    "LastTimeRowUpdated": "2020-05-26 21:54:23",
+    "LootTemplate_ID": "67cc4044-5961-4ea4-baa2-9b4aecd48ea3",
+    "TemplateName": "Ellyll Windchaser"
   },
   {
     "Chance": 20,
@@ -27094,14 +27086,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "7724eb76-0a31-4ae7-a5de-7a37301c64b8",
     "TemplateName": "deamhan aeir"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Energybender_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "77308602-f32f-498e-b2fa-96852560ec5f",
-    "TemplateName": "ellyll guard"
   },
   {
     "Chance": 20,
@@ -32342,14 +32326,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "8e65c4c2-2e4f-40f0-b631-640d6403bdf9",
     "TemplateName": "siabra mireguard"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Shimmering_Rejuvenating_Cymric_Leather_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "8e75c67c-6340-4b4a-9017-77856f4bf955",
-    "TemplateName": "ellyll guard"
   },
   {
     "Chance": 20,
@@ -48601,9 +48577,9 @@
   },
   {
     "Chance": 15,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Ancient_Mirror",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-27 20:02:46",
     "LootTemplate_ID": "99953365",
     "TemplateName": "ellyll champion"
   },
@@ -91042,14 +91018,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Gnawed_Staff",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "a0bb21fb-b588-4470-9daa-d78e8232913b",
-    "TemplateName": "needletooth devourer"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Brilliant_Silk_Gatherer's_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "a0bdc182-d8ad-4496-9cf7-c57213075969",
@@ -97208,6 +97176,14 @@
     "TemplateName": "Eraliwyr"
   },
   {
+    "Chance": 15,
+    "Count": 1,
+    "ItemTemplateID": "Kraggon_Worm_Boots",
+    "LastTimeRowUpdated": "2020-05-27 20:02:45",
+    "LootTemplate_ID": "b6d1b352-97fd-4387-bbf9-c50c35c74984",
+    "TemplateName": "Ellyll Champion"
+  },
+  {
     "Chance": 40,
     "Count": 1,
     "ItemTemplateID": "Cracked_Leather_Boots",
@@ -99153,9 +99129,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Breastplate_of_the_Depths",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-26 20:49:55",
     "LootTemplate_ID": "bddf2f9a-326b-4363-88e9-71da31b7591a",
     "TemplateName": "bwgan fisherman"
   },
@@ -100401,6 +100377,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Pain Delved Gloves",
+    "LastTimeRowUpdated": "2020-05-26 20:38:58",
+    "LootTemplate_ID": "c187189c-0e1f-4a1e-a748-160eba68a9e5",
+    "TemplateName": "Bwgan Fisherman"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "3_Worn_Jewel_Pierced_Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -100726,6 +100710,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "c324bacf-bb61-4eab-8da1-120ed0a3c955",
     "TemplateName": "pall spectre"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Pain Delved Sleeves",
+    "LastTimeRowUpdated": "2020-05-26 20:49:54",
+    "LootTemplate_ID": "c33f0ccb-1a4f-40ca-9bf3-423d02c309ed",
+    "TemplateName": "Bwgan Fisherman"
   },
   {
     "Chance": 20,
@@ -106033,6 +106025,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Ellyll_Rapier",
+    "LastTimeRowUpdated": "2020-05-26 21:54:02",
+    "LootTemplate_ID": "d81c4387-aca3-4a63-8a57-1061d6f28928",
+    "TemplateName": "Ellyll Windchaser"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Worn_Asterite_War_Axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -110674,14 +110674,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "Shimmering_Thrustbender_Gladius",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "e912b2c9-7e27-40b4-86b8-5b141c4ba461",
-    "TemplateName": "ellyll guard"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Burrs_Troll-Carver",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "e91397f9-a31f-499d-b023-608e1d2b8495",
@@ -113857,6 +113849,14 @@
   },
   {
     "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Gnawed_Staff",
+    "LastTimeRowUpdated": "2020-05-26 20:17:43",
+    "LootTemplate_ID": "f4acbd87-9288-4997-9f12-9da63369403e",
+    "TemplateName": "Needletooth Devourer"
+  },
+  {
+    "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Luminous_Stonepin_Woven_Vest",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -114793,9 +114793,9 @@
   },
   {
     "Chance": 20,
-    "Count": 0,
+    "Count": 1,
     "ItemTemplateID": "Afanc_Hatchling_Tongue",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LastTimeRowUpdated": "2020-05-26 20:59:25",
     "LootTemplate_ID": "f866e5d4-6499-448d-ba6e-b1a52d21dbb5",
     "TemplateName": "afanc hatchling"
   },
@@ -115294,6 +115294,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "fa0173d2-9d36-41da-b7ff-d6f2b967b7cc",
     "TemplateName": "goblin warrior"
+  },
+  {
+    "Chance": 20,
+    "Count": 1,
+    "ItemTemplateID": "Defender`s Crossbow",
+    "LastTimeRowUpdated": "2020-05-26 21:53:45",
+    "LootTemplate_ID": "fa06df85-bedc-4578-9a65-ec77401f901f",
+    "TemplateName": "Ellyll Windchaser"
   },
   {
     "Chance": 40,
