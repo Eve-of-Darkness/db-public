@@ -172,6 +172,16 @@
   {
     "ExclusivePriority": 0,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootGeneratorClass": "DOL.GS.LootGeneratorChest",
+    "LootGenerator_ID": "chest",
+    "MobFaction": null,
+    "MobGuild": null,
+    "MobName": null,
+    "RegionID": 0
+  },
+  {
+    "ExclusivePriority": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootGeneratorClass": "DOL.GS.LootGeneratorDragonscales",
     "LootGenerator_ID": "crystalcave_dragonscales",
     "MobFaction": null,
