@@ -1,6 +1,7 @@
 ### Adds Dreaded Seal content, including the seals themselves, crafting recipes, and collectors.
 
 # Add Dreaded Seal Collectors to mob
+DELETE FROM `Mob` WHERE `Name` IN ('Lady Nina','Fiana','Relena');
 REPLACE INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`OwnerID`,`VisibleWeaponSlots`,`HouseNumber`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
 	VALUES ('Lady Nina','DOL.GS.DreadedSealCollector','Dreaded Seal Collector',33505,22668,8479,0,0,0,0,0,0,0,0,0,0,0,0,0,1035,10,283,49,30,'LadyNina','DreadedSeal',1,'Dreaded_Seal_Lady_Nina');
 REPLACE INTO `Mob` (`Name`,`ClassType`,`Guild`,`X`,`Y`,`Z`,`Speed`,`Strength`,`Constitution`,`Dexterity`,`Quickness`,`Intelligence`,`Piety`,`Empathy`,`Charisma`,`RespawnInterval`,`OwnerID`,`VisibleWeaponSlots`,`HouseNumber`,`Heading`,`Region`,`Model`,`Size`,`Level`,`EquipmentTemplateID`,`PackageID`,`Realm`,`Mob_ID`)
