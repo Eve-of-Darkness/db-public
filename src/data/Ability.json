@@ -654,7 +654,7 @@
     "Description": "Increases primary casting stat by the listed amount per level.",
     "IconID": 0,
     "Implementation": "DOL.GS.RealmAbilities.RAAcuityEnhancer",
-    "InternalID": 194,
+    "InternalID": 205,
     "KeyName": "Augmented Acuity",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Augmented Acuity"
@@ -764,7 +764,7 @@
     "Description": "30 second group damage add that stacks with all other damage adds \u0026 ignores caps. DPS bonus as listed.",
     "IconID": 3022,
     "Implementation": "DOL.GS.RealmAbilities.AngerOfTheGodsAbility",
-    "InternalID": 205,
+    "InternalID": 194,
     "KeyName": "Anger of the Gods",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Anger of the Gods"
@@ -1113,7 +1113,7 @@
     "AbilityID": 112,
     "Description": "The Assassin selects a target within a 750-unit range and spends 15 seconds, without moving, preparing the assassination attempt. The attempt will fail if the assassin takes any action during those 15 seconds, or if the target moves more than 750 units away from the target and the recast timer is not refunded. Once prepared, the next attack on that target by the assassin will not break stealth.",
     "IconID": 3043,
-    "Implementation": "DOL.GS.RealmAbilities.AssasinateAbility",
+    "Implementation": "DOL.GS.RealmAbilities.AssassinateAbility",
     "InternalID": 240,
     "KeyName": "Assassinate",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",

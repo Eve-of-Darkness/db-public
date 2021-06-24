@@ -723,7 +723,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 6,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "057059b7-2564-413f-8791-634c19ed942d",
+    "LineXSpell_ID": "lessercallgleipnir",
     "PackageID": "Hunter",
     "SpellID": 3552
   },
@@ -8339,7 +8339,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 15,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "3a21dd2c-3dc9-4d4a-9e56-68080f28717a",
+    "LineXSpell_ID": "charminsect",
     "PackageID": "Hunter",
     "SpellID": 3578
   },
@@ -10219,7 +10219,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 20,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "4b7a4d9e-1cf4-4d22-b5b7-e9da22af5a75",
+    "LineXSpell_ID": "greatercallgleipnir",
     "PackageID": "Hunter",
     "SpellID": 3554
   },
@@ -11947,7 +11947,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "59012237-d85c-4a40-95b0-da300de2a436",
+    "LineXSpell_ID": "minorcallgleipnir",
     "PackageID": "Hunter",
     "SpellID": 3551
   },
@@ -12683,7 +12683,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 3,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "5f8b948b-f74f-44f4-a62d-0f04b1a6c8b7",
+    "LineXSpell_ID": "influenceinsect",
     "PackageID": "Hunter",
     "SpellID": 3576
   },
@@ -15555,7 +15555,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 9,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "7776c5f6-2e13-49b0-bf9f-24cb0e747c1e",
+    "LineXSpell_ID": "compelinsect",
     "PackageID": "Hunter",
     "SpellID": 3577
   },
@@ -29852,7 +29852,7 @@
     "Level": 14,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "CharmReptile",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3593
   },
   {
@@ -30004,7 +30004,7 @@
     "Level": 8,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "CompelReptile",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3598
   },
   {
@@ -32156,7 +32156,7 @@
     "Level": 34,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "DominateReptile",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3595
   },
   {
@@ -33003,7 +33003,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 22,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "e674e871-3c40-41a3-beb1-8cb526aaaa50",
+    "LineXSpell_ID": "controlinsect",
     "PackageID": "Hunter",
     "SpellID": 3579
   },
@@ -34939,7 +34939,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 32,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "f4e55b86-4850-4d1c-91ff-633e39453e65",
+    "LineXSpell_ID": "superiorcallgleipnir",
     "PackageID": "Hunter",
     "SpellID": 3555
   },
@@ -35187,7 +35187,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 35,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "f6b9590f-44eb-4511-9b80-0dacfd9c6f6c",
+    "LineXSpell_ID": "dominateinsect",
     "PackageID": "Hunter",
     "SpellID": 3580
   },
@@ -35779,7 +35779,7 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 13,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "fc524a7a-440f-4f87-adf2-5c3cfc499d61",
+    "LineXSpell_ID": "callofgleipnir",
     "PackageID": "Hunter",
     "SpellID": 3553
   },
@@ -38316,7 +38316,7 @@
     "Level": 1,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "InfluenceReptile",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3597
   },
   {
@@ -43412,15 +43412,15 @@
     "Level": 45,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "OverpowerInsect45",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3921
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
+    "Level": 44,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "OverpowerReptile",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3596
   },
   {
@@ -44017,43 +44017,11 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 1,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "reptile1",
-    "PackageID": "Hunter",
-    "SpellID": 35761
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 8,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "reptile2",
-    "PackageID": "Hunter",
-    "SpellID": 35771
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 14,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "reptile3",
-    "PackageID": "Hunter",
-    "SpellID": 35781
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 21,
     "LineName": "Beastcraft",
-    "LineXSpell_ID": "reptile4",
+    "LineXSpell_ID": "Controlreptile",
     "PackageID": "Hunter",
-    "SpellID": 35791
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 34,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "reptile5",
-    "PackageID": "Hunter",
-    "SpellID": 35801
+    "SpellID": 3594
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -45241,30 +45209,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "superiorcallanimal6",
-    "PackageID": "Hunter",
-    "SpellID": 35551
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "superiorcallinsect6",
-    "PackageID": "Hunter",
-    "SpellID": 35552
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "superiorcallreptile6",
-    "PackageID": "Hunter",
-    "SpellID": 35553
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 40,
     "LineName": "Potions",
     "LineXSpell_ID": "Superior_Elixir_of_Instant_Endurance",
@@ -45769,10 +45713,10 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
+    "Level": 46,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "UnyeildingCallOfGleipnir45",
-    "PackageID": "Freyad_DB",
+    "PackageID": "Hunter",
     "SpellID": 3920
   },
   {
