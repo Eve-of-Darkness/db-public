@@ -36477,7 +36477,7 @@
     "MessageArticle": "",
     "Mob_ID": "68df8e6b-9b55-4664-bf3c-b3a2e21b1f14",
     "Model": 2120,
-    "NPCTemplateID": 13554,
+    "NPCTemplateID": -1,
     "Name": "albino cave spriteling",
     "OwnerID": "",
     "PackageID": "Yggdrasil",
