@@ -1591,21 +1591,6 @@
   },
   {
     "ClassType": "",
-    "Description": "",
-    "DivingEnabled": 0,
-    "Expansion": 3,
-    "HousingEnabled": 0,
-    "IP": "127.0.0.1",
-    "IsFrontier": 0,
-    "LastTimeRowUpdated": "2017-01-08 18:50:31",
-    "Name": "Region230",
-    "Port": 10400,
-    "RegionID": 230,
-    "Regions_ID": "241030f7-773e-40c1-9cda-06fbe35088f0",
-    "WaterLevel": 0
-  },
-  {
-    "ClassType": "",
     "Description": "Art Test Zone",
     "DivingEnabled": 0,
     "Expansion": 0,
@@ -1827,21 +1812,6 @@
     "Port": 10400,
     "RegionID": 245,
     "Regions_ID": "7ff5dbe0-1f67-4774-85c3-f53a21bd1014",
-    "WaterLevel": 0
-  },
-  {
-    "ClassType": "",
-    "Description": "",
-    "DivingEnabled": 0,
-    "Expansion": 0,
-    "HousingEnabled": 0,
-    "IP": "127.0.0.1",
-    "IsFrontier": 0,
-    "LastTimeRowUpdated": "2017-01-08 18:50:30",
-    "Name": "Region247",
-    "Port": 10400,
-    "RegionID": 247,
-    "Regions_ID": "d010c23d-5561-4a53-ac7d-239f74e38a03",
     "WaterLevel": 0
   },
   {
