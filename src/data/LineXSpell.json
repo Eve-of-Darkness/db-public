@@ -45010,14 +45010,6 @@
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
-    "LineName": "Instruments",
-    "LineXSpell_ID": "SongOfPower1",
-    "PackageID": "Freyad_DB",
-    "SpellID": 1121
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 1,
     "LineName": "Item Effects",
     "LineXSpell_ID": "speedofthehunt",
     "PackageID": "bounty item",
