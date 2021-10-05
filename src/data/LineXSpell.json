@@ -30520,12 +30520,12 @@
     "SpellID": 5433
   },
   {
-     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-     "Level": 10,
-     "LineName": "Instruments",
-     "LineXSpell_ID": "d26b0e2d-52af-4573-aff1-543080d19310",
-     "PackageID": "Minstrel",
-     "SpellID": 1121
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 10,
+    "LineName": "Instruments",
+    "LineXSpell_ID": "d26b0e2d-52af-4573-aff1-543080d19310",
+    "PackageID": "Minstrel",
+    "SpellID": 1121
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
