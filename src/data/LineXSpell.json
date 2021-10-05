@@ -30520,6 +30520,14 @@
     "SpellID": 5433
   },
   {
+     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+     "Level": 10,
+     "LineName": "Instruments",
+     "LineXSpell_ID": "d26b0e2d-52af-4573-aff1-543080d19310",
+     "PackageID": "Minstrel",
+     "SpellID": 1121
+  },
+  {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 3,
     "LineName": "Void Mastery",
@@ -44998,14 +45006,6 @@
     "LineXSpell_ID": "SoM2",
     "PackageID": "Artifacts",
     "SpellID": 25035
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 1,
-    "LineName": "Instruments",
-    "LineXSpell_ID": "SongOfPower1",
-    "PackageID": "Freyad_DB",
-    "SpellID": 1121
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
