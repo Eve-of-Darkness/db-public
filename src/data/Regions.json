@@ -1201,6 +1201,21 @@
   },
   {
     "ClassType": "",
+    "Description": "Caledonia",
+    "DivingEnabled": 0,
+    "Expansion": 0,
+    "HousingEnabled": 0,
+    "IP": "127.0.0.1",
+    "IsFrontier": 0,
+    "LastTimeRowUpdated": "2021-10-11 18:50:33",
+    "Name": "Region166",
+    "Port": 10400,
+    "RegionID": 166,
+    "Regions_ID": "1a73e89f-d092-4abb-8536-3d882c1689bf",
+    "WaterLevel": 0
+  },
+  {
+    "ClassType": "",
     "Description": "Fomor City",
     "DivingEnabled": 0,
     "Expansion": 1,
