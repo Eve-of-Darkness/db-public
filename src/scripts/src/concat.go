@@ -100,7 +100,8 @@ func getValues(columns []string, data map[string]interface{}) string {
 		value := data[column]
 
 		if strValue, ok := value.(string); ok {
-			buffer.WriteString(strconv.QuoteToGraphic(strValue))
+			strValue := strings.Replace(strconv.QuoteToGraphic(strValue), "\\\"", "\"\"", -1)
+			buffer.WriteString(strValue)
 		} else if value == nil {
 			buffer.WriteString("NULL")
 		} else {
