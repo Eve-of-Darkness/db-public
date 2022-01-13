@@ -24,7 +24,7 @@ func main() {
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
 
-	updateonlyPtr := flag.Bool("update-only", false, "Perorm Update to DB Only")
+	updateonlyPtr := flag.Bool("update-only", false, "Perform Update to DB Only.")
 	sqlitePtr := flag.Bool("sqlite", false, "Export as SQLite query.")
 	flag.Parse()
 
