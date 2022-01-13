@@ -26,7 +26,7 @@ func main() {
 
 	updateonlyPtr := flag.Bool("update-only", false, "Perorm Update to DB Only")
 	flag.Parse()
-	schemaFiles := getFiles("schema")
+	schemaFiles := getFiles("mysql_schema")
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
 	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
@@ -39,7 +39,7 @@ func main() {
 				continue
 			}
 		}
-		file, e := ioutil.ReadFile("../../../schema/" + schemaFile)
+		file, e := ioutil.ReadFile("../../../mysql_schema/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
