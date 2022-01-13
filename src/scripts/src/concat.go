@@ -3,13 +3,13 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io/ioutil"
+	"regexp"
 	"sort"
 	"strconv"
 	"strings"
-	"flag"
-	"regexp"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/spf13/viper"
@@ -17,10 +17,10 @@ import (
 
 func main() {
 
-	viper.SetConfigName("config") // name of config file (without extension)
-	viper.AddConfigPath("../../config/")   // path to look for the config file in
-	err := viper.ReadInConfig() // Find and read the config file
-	if err != nil { // Handle errors reading the config file
+	viper.SetConfigName("config")        // name of config file (without extension)
+	viper.AddConfigPath("../../config/") // path to look for the config file in
+	err := viper.ReadInConfig()          // Find and read the config file
+	if err != nil {                      // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
 
@@ -38,7 +38,7 @@ func main() {
 				fmt.Println("Found ignored table:", schemaFile)
 				continue
 			}
-	  }
+		}
 		file, e := ioutil.ReadFile("../../../schema/" + schemaFile)
 		if e != nil {
 			panic(e)
