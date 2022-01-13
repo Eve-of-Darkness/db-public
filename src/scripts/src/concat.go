@@ -25,8 +25,14 @@ func main() {
 	}
 
 	updateonlyPtr := flag.Bool("update-only", false, "Perorm Update to DB Only")
+	sqlitePtr := flag.Bool("sqlite", false, "Export as SQLite query.")
 	flag.Parse()
-	schemaFiles := getFiles("mysql_schema")
+
+	schemaFolderName := "mysql_schema"
+	if *sqlitePtr {
+		schemaFolderName = "sqlite_schema"
+	}
+	schemaFiles := getFiles(schemaFolderName)
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
 	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
@@ -39,7 +45,7 @@ func main() {
 				continue
 			}
 		}
-		file, e := ioutil.ReadFile("../../../mysql_schema/" + schemaFile)
+		file, e := ioutil.ReadFile("../../../" + schemaFolderName + "/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
