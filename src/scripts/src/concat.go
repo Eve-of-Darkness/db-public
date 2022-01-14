@@ -3,13 +3,13 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"flag"
 	"fmt"
 	"io/ioutil"
+	"regexp"
 	"sort"
 	"strconv"
 	"strings"
-	"flag"
-	"regexp"
 
 	_ "github.com/go-sql-driver/mysql"
 	"github.com/spf13/viper"
@@ -17,16 +17,22 @@ import (
 
 func main() {
 
-	viper.SetConfigName("config") // name of config file (without extension)
-	viper.AddConfigPath("../../config/")   // path to look for the config file in
-	err := viper.ReadInConfig() // Find and read the config file
-	if err != nil { // Handle errors reading the config file
+	viper.SetConfigName("config")        // name of config file (without extension)
+	viper.AddConfigPath("../../config/") // path to look for the config file in
+	err := viper.ReadInConfig()          // Find and read the config file
+	if err != nil {                      // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
 
-	updateonlyPtr := flag.Bool("update-only", false, "Perorm Update to DB Only")
+	updateonlyPtr := flag.Bool("update-only", false, "Perform Update to DB Only.")
+	sqlitePtr := flag.Bool("sqlite", false, "Export as SQLite query.")
 	flag.Parse()
-	schemaFiles := getFiles("schema")
+
+	schemaFolderName := "mysql_schema"
+	if *sqlitePtr {
+		schemaFolderName = "sqlite_schema"
+	}
+	schemaFiles := getFiles(schemaFolderName)
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
 	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
@@ -38,8 +44,8 @@ func main() {
 				fmt.Println("Found ignored table:", schemaFile)
 				continue
 			}
-	  }
-		file, e := ioutil.ReadFile("../../../schema/" + schemaFile)
+		}
+		file, e := ioutil.ReadFile("../../../" + schemaFolderName + "/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
@@ -100,7 +106,8 @@ func getValues(columns []string, data map[string]interface{}) string {
 		value := data[column]
 
 		if strValue, ok := value.(string); ok {
-			buffer.WriteString(strconv.QuoteToGraphic(strValue))
+			strValue := strings.Replace(strconv.QuoteToGraphic(strValue), "\\\"", "\"\"", -1)
+			buffer.WriteString(strValue)
 		} else if value == nil {
 			buffer.WriteString("NULL")
 		} else {

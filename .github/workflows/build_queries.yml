@@ -1,0 +1,58 @@
+name: Build SQL queries
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build_queries:
+    name: Build, Test, and Release SQL Queries 
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Build Environment
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.13'
+      - name: Install necessary packages
+        run: sudo apt install -y --no-install-recommends sqlite3
+      - name: Generate Release Info
+        run: |
+          last_build_number=$(git tag -l --sort=creatordate | grep -E '^[0-9]+$' | tail -n1);
+          
+          if [ -n "$last_build_number" ]; \
+          then git log origin/master --first-parent  --format="%s%n%w(0,4,4)%b" "$last_build_number".. | grep -v "^$" > patch_notes.txt; \
+          sed -i '1s/^/```\n/' patch_notes.txt; \
+          new_build_number=$((1+$last_build_number)); \
+          else new_build_number=1; printf '```\nInitial Release' > patch_notes.txt; \
+          fi;
+          echo "new_build_number=$new_build_number" >> $GITHUB_ENV
+      - name: Build Queries
+        run: |
+          (cd src/scripts/config && mv config.example.yml config.yml)
+          (cd src/scripts && ./compile_scripts.sh)
+          (cd src/scripts/bin/linux/ && \
+          ./concat && mv public-db.sql public-db.mysql.sql && \
+          ./concat -sqlite && mv public-db.sql public-db.sqlite.sql && \
+          mv *.sql ../../../..)
+      - name: Test SQLite query
+        run: sqlite3 test.db < public-db.sqlite.sql
+      - name: Compress Queries
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          mkdir build_artifacts
+          zip -Z bzip2 public-db.mysql.zip public-db.mysql.sql
+          zip -Z bzip2 public-db.sqlite.zip public-db.sqlite.sql
+          mv public-db.mysql.zip public-db.sqlite.zip build_artifacts
+      - name: Create Release
+        if: ${{ github.event_name == 'push' }}
+        run: |
+          gh release create "${{ env.new_build_number }}" --title "Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt build_artifacts/*
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
