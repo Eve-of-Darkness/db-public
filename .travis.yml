@@ -14,4 +14,4 @@ script:
   - sleep 30
   - echo "create database dol;" | mysql -h 127.0.0.1 -u root -P 3307 --password=root
   - cat public-db.sql | mysql -h 127.0.0.1 -u root -P 3307 --password=root -D dol
-  - cd ../.. && ./test_sql_scripts.sh
+  - ./test_sql_scripts.sh
