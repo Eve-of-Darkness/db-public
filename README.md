@@ -18,7 +18,9 @@ Options:
 The resulting file is `public-db.sql`.
 
 ## Contributing
-Schema and data scripts have been separated to minimize risk of schema being accidentally modified. Data modifications should follow the formatting convention used throughout. To generate json data files run export_to_json. This will require you to create a config.yml file. See example file for inspiration.
+1. Rename/copy `config.example.yml` to `config.yml`
+2. Edit `config.yml` to match the credentials for MySQL/MariaDB database you want to export
+3. `go run export_to_json.go`
 
 ## The data
 We plan on following data available on http://camelot.allakhazam.com/ as closely as possible. We think this will be the most effective way quickly populate missing data.
