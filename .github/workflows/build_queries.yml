@@ -42,13 +42,27 @@ jobs:
           mv public-db.sql public-db.sqlite.sql
       - name: Test SQLite query
         run: sqlite3 test.db < public-db.sqlite.sql
+      - name: Test Customization Queries
+        run: for i in customizations/*.sql; do echo "Execute $i"; sqlite3 test.db < "$i"; done
+      - name: Test MySQL
+        env:
+          DB_DATABASE: dol
+          DB_USER: root
+          DB_PASSWORD: 'root'
+          DB_HOST: localhost
+        run: |
+          sudo systemctl start mysql.service
+          mysql -e 'CREATE DATABASE dol;' -uroot -proot
+          cat public-db.mysql.sql | mysql -h 127.0.0.1 -u root -P 3306 --password=root -D dol
+          mysql -e 'USE dol; SHOW TABLES;' -uroot -proot
       - name: Compress Queries
         if: ${{ github.event_name == 'push' }}
         run: |
           mkdir build_artifacts
-          zip -Z bzip2 public-db.mysql.zip public-db.mysql.sql
-          zip -Z bzip2 public-db.sqlite.zip public-db.sqlite.sql
-          mv public-db.mysql.zip public-db.sqlite.zip build_artifacts
+          for sql in *.sql; do \
+          zip -Z bzip2 "$sql.zip" "$sql"; \
+          mv "$sql.zip" build_artifacts; \
+          done
       - name: Create Release
         if: ${{ github.event_name == 'push' }}
         run: |
