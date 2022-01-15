@@ -17,7 +17,7 @@ import (
 
 func main() {
 	viper.SetConfigName("config") // name of config file (without extension)
-	viper.AddConfigPath("../../config/")   // path to look for the config file in
+	viper.AddConfigPath("config/")   // path to look for the config file in
 	err := viper.ReadInConfig() // Find and read the config file
 	if err != nil { // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
@@ -80,7 +80,7 @@ func getTables(db *sql.DB) ([]string, error) {
 }
 
 func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir("../../../" + dir)
+	files, err := ioutil.ReadDir(dir)
 	if err != nil {
 		panic(err)
 	}
@@ -109,7 +109,7 @@ func getMobJSON(expansion int, db *sql.DB) error {
 }
 
 func getJSON(table string, db *sql.DB) error {
-	schemaFiles := getFiles("schema")
+	schemaFiles := getFiles("schema_mysql")
 	foundSchemaFile := false
 	var schemaFile string
 	for _, file := range schemaFiles {
@@ -188,12 +188,12 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		panic(err)
 	}
 
-	if _, err := os.Stat("../../../data"); os.IsNotExist(err) {
-		os.MkdirAll("../../../data", os.ModePerm)
+	if _, err := os.Stat("/data"); os.IsNotExist(err) {
+		os.MkdirAll("data", os.ModePerm)
 	}
 
-	if _, err := os.Stat("../../../data/" + fileName + ".json"); err == nil {
-		file, e := ioutil.ReadFile("../../../data/" + fileName + ".json")
+	if _, err := os.Stat("data/" + fileName + ".json"); err == nil {
+		file, e := ioutil.ReadFile("data/" + fileName + ".json")
 		if e != nil {
 			panic(e)
 		}
@@ -206,7 +206,7 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		}
 	}
 
-	err = ioutil.WriteFile("../../../data/"+fileName+".json", jsonData, 0644)
+	err = ioutil.WriteFile("data/"+fileName+".json", jsonData, 0644)
 	if err != nil {
 		panic(err)
 	}

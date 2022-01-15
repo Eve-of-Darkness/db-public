@@ -17,10 +17,10 @@ import (
 
 func main() {
 
-	viper.SetConfigName("config")        // name of config file (without extension)
-	viper.AddConfigPath("../../config/") // path to look for the config file in
-	err := viper.ReadInConfig()          // Find and read the config file
-	if err != nil {                      // Handle errors reading the config file
+	viper.SetConfigName("config")    // name of config file (without extension)
+	viper.AddConfigPath("./config/") // path to look for the config file in
+	err := viper.ReadInConfig()      // Find and read the config file
+	if err != nil {                  // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
 
@@ -28,9 +28,9 @@ func main() {
 	sqlitePtr := flag.Bool("sqlite", false, "Export as SQLite query.")
 	flag.Parse()
 
-	schemaFolderName := "mysql_schema"
+	schemaFolderName := "schema_mysql"
 	if *sqlitePtr {
-		schemaFolderName = "sqlite_schema"
+		schemaFolderName = "schema_sqlite"
 	}
 	schemaFiles := getFiles(schemaFolderName)
 	dataFiles := getFiles("data")
@@ -45,7 +45,7 @@ func main() {
 				continue
 			}
 		}
-		file, e := ioutil.ReadFile("../../../" + schemaFolderName + "/" + schemaFile)
+		file, e := ioutil.ReadFile(schemaFolderName + "/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
@@ -148,7 +148,7 @@ func getInsertStart(table string, columns []string) string {
 }
 
 func parseFile(fileName string) []map[string]interface{} {
-	file, e := ioutil.ReadFile("../../../data/" + fileName)
+	file, e := ioutil.ReadFile("data/" + fileName)
 	if e != nil {
 		panic(e)
 	}
@@ -160,7 +160,7 @@ func parseFile(fileName string) []map[string]interface{} {
 }
 
 func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir("../../../" + dir)
+	files, err := ioutil.ReadDir(dir)
 	if err != nil {
 		panic(err)
 	}
