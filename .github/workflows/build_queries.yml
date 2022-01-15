@@ -35,12 +35,11 @@ jobs:
           echo "new_build_number=$new_build_number" >> $GITHUB_ENV
       - name: Build Queries
         run: |
-          (cd src/scripts/config && mv config.example.yml config.yml)
-          (cd src/scripts && ./compile_scripts.sh)
-          (cd src/scripts/bin/linux/ && \
-          ./concat && mv public-db.sql public-db.mysql.sql && \
-          ./concat -sqlite && mv public-db.sql public-db.sqlite.sql && \
-          mv *.sql ../../../..)
+          cp config/config.example.yml config/config.yml
+          go run concat.go
+          mv public-db.sql public-db.mysql.sql
+          go run concat.go -sqlite
+          mv public-db.sql public-db.sqlite.sql
       - name: Test SQLite query
         run: sqlite3 test.db < public-db.sqlite.sql
       - name: Compress Queries

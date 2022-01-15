@@ -1,0 +1,506 @@
+[
+  {
+    "ItemTemplateID": "Brimstone_Breastplate",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "061460ec-950a-4ee1-8796-c1b8b7f4ea09",
+    "MinLevel": 24,
+    "MobName": "Charred Skeletal Commander"
+  },
+  {
+    "ItemTemplateID": "Askafroa's_Chain_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "06190546-2cd3-46a3-8179-45a963678263",
+    "MinLevel": 32,
+    "MobName": "Askafroa"
+  },
+  {
+    "ItemTemplateID": "Bracelet_of_Defense",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "08525ece-943c-4f4b-b077-88feab2fad9e",
+    "MinLevel": 37,
+    "MobName": "Fjalar"
+  },
+  {
+    "ItemTemplateID": "Murois_Weighted_Battlemace",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "0a259390-65b0-4c0e-953a-4a34d4229de1",
+    "MinLevel": 34,
+    "MobName": "Muroi"
+  },
+  {
+    "ItemTemplateID": "Brimstone_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "0c01879b-f095-454f-8ad2-e66978248084",
+    "MinLevel": 23,
+    "MobName": "Brimstone"
+  },
+  {
+    "ItemTemplateID": "Gilded_Sea_Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "1063307e-d5c5-4184-bdc7-4c89b0a3658d",
+    "MinLevel": 26,
+    "MobName": "Muir"
+  },
+  {
+    "ItemTemplateID": "Askafroa's_Chain_Hauberk",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "156db554-5a38-4adc-955e-9b826123df95",
+    "MinLevel": 32,
+    "MobName": "Askafroa"
+  },
+  {
+    "ItemTemplateID": "Serrated_Lion_Fang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "17c2c3ab-1a1f-4d91-8a9d-f2c31535b4e1",
+    "MinLevel": 29,
+    "MobName": "Black Lion"
+  },
+  {
+    "ItemTemplateID": "Tingler",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "195c760a-9a1d-40ae-b080-95afc950b5aa",
+    "MinLevel": 19,
+    "MobName": "Tingler Webmother"
+  },
+  {
+    "ItemTemplateID": "Flameborn_Arrows",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "19c8b6e9-ec5b-469a-b447-fa7e3131674e",
+    "MinLevel": 26,
+    "MobName": "Armard"
+  },
+  {
+    "ItemTemplateID": "Howl's_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "1d9f2520-03f0-41c9-890f-afba3ac49429",
+    "MinLevel": 35,
+    "MobName": "Howl"
+  },
+  {
+    "ItemTemplateID": "Hrrgyfs_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "23c7744d-d72e-4ba2-ab74-63c9c4f50a4a",
+    "MinLevel": 10,
+    "MobName": "Hrrgyf"
+  },
+  {
+    "ItemTemplateID": "Mistring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "24183658-8568-4867-b41c-01550c3e98fd",
+    "MinLevel": 29,
+    "MobName": "Vindvasen"
+  },
+  {
+    "ItemTemplateID": "Tusker's_Old_Wound",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "2731ae99-80ce-40c8-add5-503ca5c3c4e5",
+    "MinLevel": 36,
+    "MobName": "Tusker"
+  },
+  {
+    "ItemTemplateID": "Stripes_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "2cf73504-b3e3-417f-a527-134ac69678bb",
+    "MinLevel": 25,
+    "MobName": "Stripe"
+  },
+  {
+    "ItemTemplateID": "Wilde's_Mane",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "3071fa1d-d73c-44c7-a386-3619c4d12d34",
+    "MinLevel": 20,
+    "MobName": "Wilde"
+  },
+  {
+    "ItemTemplateID": "Snarls'_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "33621101-4f00-4b34-9184-e1ad0deff491",
+    "MinLevel": 7,
+    "MobName": "Snarls"
+  },
+  {
+    "ItemTemplateID": "Flame_Wrought_Bracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "3fb49736-1a8f-4e3c-a7be-ea88ae12e605",
+    "MinLevel": 30,
+    "MobName": "Spirit of Flames"
+  },
+  {
+    "ItemTemplateID": "Birks_Strength_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "40b0e0d3-a17f-4b2d-8011-0d12d1d364c0",
+    "MinLevel": 13,
+    "MobName": "Birk"
+  },
+  {
+    "ItemTemplateID": "Mourning_Rage",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "43d97a4e-c359-45d6-9b5b-d4044e8e2b7e",
+    "MinLevel": 22,
+    "MobName": "Sorrow"
+  },
+  {
+    "ItemTemplateID": "Zrit-Zrit's_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "4c2370a4-356a-4fe6-9b1f-998e73a71e47",
+    "MinLevel": 35,
+    "MobName": "Zrit-Zrit"
+  },
+  {
+    "ItemTemplateID": "Boned_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "4d1c00fe-1659-4463-a4f4-dd5db4d09235",
+    "MinLevel": 21,
+    "MobName": "Growling Ghost"
+  },
+  {
+    "ItemTemplateID": "Hroderks_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "4e7f41e9-ccd7-4232-9b21-405a86279611",
+    "MinLevel": 24,
+    "MobName": "Hrodrek"
+  },
+  {
+    "ItemTemplateID": "Embossed_Bone_Gladius",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "4f640e41-3631-43d6-8d4b-d3822b4f8f53",
+    "MinLevel": 17,
+    "MobName": "Cynewulf the Ghostwalker"
+  },
+  {
+    "ItemTemplateID": "Pestilent_Sickle",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "4fe946a7-d825-4137-ab58-10698045346a",
+    "MinLevel": 29,
+    "MobName": "Withe"
+  },
+  {
+    "ItemTemplateID": "Drakescale_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "52819217-19e0-4813-8b42-c1efd1dc2425",
+    "MinLevel": 29,
+    "MobName": "Ember"
+  },
+  {
+    "ItemTemplateID": "Gloves of the Spined Backpiercer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "55d3b6e7-a706-47f7-845b-a2a2458842ec",
+    "MinLevel": 16,
+    "MobName": "Kelda"
+  },
+  {
+    "ItemTemplateID": "gloves_of_black_death",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "57a23eed-6872-48c1-8f7c-e9983e88a7ff",
+    "MinLevel": 38,
+    "MobName": "Amadan"
+  },
+  {
+    "ItemTemplateID": "Impervious_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "57edadd9-bd1d-41bd-bd09-38ae268e2ca2",
+    "MinLevel": 25,
+    "MobName": "Coal"
+  },
+  {
+    "ItemTemplateID": "Pooka_Lords_Mantle",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "5a99c6e4-c1ad-496e-9ea9-01dab9b733d5",
+    "MinLevel": 47,
+    "MobName": "Shadowgnash"
+  },
+  {
+    "ItemTemplateID": "Flamecast_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "5d205683-4819-4cbc-9306-bb1d7de02a67",
+    "MinLevel": 25,
+    "MobName": "Bright Flame"
+  },
+  {
+    "ItemTemplateID": "Spats_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "5e603492-6b96-448a-a21e-8fbde8d71ba9",
+    "MinLevel": 8,
+    "MobName": "Spat"
+  },
+  {
+    "ItemTemplateID": "Boots_of_Catlike_Footing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "5ebfddd2-36b8-4538-bc2f-6c357ca15d38",
+    "MinLevel": 9,
+    "MobName": "Tas"
+  },
+  {
+    "ItemTemplateID": "Keltoi_Battlemail",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "62108d64-be27-451e-8169-1e101dcf26aa",
+    "MinLevel": 24,
+    "MobName": "Dai"
+  },
+  {
+    "ItemTemplateID": "Red_Bludgeoner",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "68126f65-805d-46ad-8cdc-1caa4670f009",
+    "MinLevel": 10,
+    "MobName": "Trolki"
+  },
+  {
+    "ItemTemplateID": "Spear_of_the_Elements",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "74a7aa9e-f834-46c0-a8e2-1d686629613e",
+    "MinLevel": 28,
+    "MobName": "Tradande"
+  },
+  {
+    "ItemTemplateID": "Dispositional_Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "78a871f7-80f0-4a43-99dd-0ced8de1a9af",
+    "MinLevel": 38,
+    "MobName": "Captain Gruff"
+  },
+  {
+    "ItemTemplateID": "Ire-wolf_Hide_Jerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "7e5adf04-78e5-4ff8-8e22-d8ac4fe18c3b",
+    "MinLevel": 28,
+    "MobName": "Danderpaw"
+  },
+  {
+    "ItemTemplateID": "Impervious_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "829eb42d-532b-4f64-8dc2-b82d4931556d",
+    "MinLevel": 25,
+    "MobName": "Lasaer"
+  },
+  {
+    "ItemTemplateID": "Dobs_Bloody_Fang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "867766ca-4eb3-4fcf-83a4-6de61233c9c7",
+    "MinLevel": 47,
+    "MobName": "Dob"
+  },
+  {
+    "ItemTemplateID": "War_Blade_of_the_Stoic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8683fd79-6afc-4af7-aa8a-3150e0cddeee",
+    "MinLevel": 39,
+    "MobName": "Niy the Overseer"
+  },
+  {
+    "ItemTemplateID": "Pooka_Hide_Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8969c148-ec2c-4556-b199-bd639e1ffb66",
+    "MinLevel": 36,
+    "MobName": "Murgar"
+  },
+  {
+    "ItemTemplateID": "Firecloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8c29bf89-375e-4c9f-9200-10dbf77f3fa5",
+    "MinLevel": 24,
+    "MobName": "Gokstorm"
+  },
+  {
+    "ItemTemplateID": "Mouse_Lords_Tail",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8d741234-9864-4747-9228-29830272927a",
+    "MinLevel": 30,
+    "MobName": "Luchtigern"
+  },
+  {
+    "ItemTemplateID": "Sentry_Incin's_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8d787601-d87c-41e4-acc7-b5f8ed70b442",
+    "MinLevel": 21,
+    "MobName": "Sentry Incin"
+  },
+  {
+    "ItemTemplateID": "Rapier_of_the_Forsaken",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "8e65b2c0-4eac-4614-826e-b85d75e0028a",
+    "MinLevel": 34,
+    "MobName": "Dorbal"
+  },
+  {
+    "ItemTemplateID": "Smoking_Sentry_Axe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "93209a61-900a-4cc5-a3be-b2b2b2b12dae",
+    "MinLevel": 21,
+    "MobName": "Sentry Incin"
+  },
+  {
+    "ItemTemplateID": "Badbs_Wailing_Lute",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "9a658be2-bb99-4852-ba3f-c27b536fb850",
+    "MinLevel": 48,
+    "MobName": "Badb"
+  },
+  {
+    "ItemTemplateID": "Queen_Majors_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "9d4d8aa3-497f-4d6c-97b8-ac9c95a27ab3",
+    "MinLevel": 15,
+    "MobName": "Queen Major"
+  },
+  {
+    "ItemTemplateID": "Bear_Mask",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "9f19e58c-196a-4a52-ad15-3c9c5839ca9f",
+    "MinLevel": 19,
+    "MobName": "Pawper"
+  },
+  {
+    "ItemTemplateID": "Fiery_Shield",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "abc476c7-e1b4-4988-84d2-712ff80a1178",
+    "MinLevel": 23,
+    "MobName": "Eld"
+  },
+  {
+    "ItemTemplateID": "Ring_of_Wisdom",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "ad6377d9-6528-4d26-8cf3-09ae6572cee4",
+    "MinLevel": 8,
+    "MobName": "Twitchclaw"
+  },
+  {
+    "ItemTemplateID": "Stone_of_the_Pious_Hits",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "b0e523d0-ee38-41dd-b2c7-64c0433c0743",
+    "MinLevel": 16,
+    "MobName": "Old Smoke"
+  },
+  {
+    "ItemTemplateID": "Sloithis_Ring_of_Fortitude",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "b8b77165-ebcf-4cb2-9591-fa262fac97b0",
+    "MinLevel": 17,
+    "MobName": "Sloithi"
+  },
+  {
+    "ItemTemplateID": "elite_mireguard_bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "be1879a0-6e16-4fcb-bf90-350f2aab54ec",
+    "MinLevel": 33,
+    "MobName": "Neese"
+  },
+  {
+    "ItemTemplateID": "Guardians_Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "c25a6067-6244-4e87-88de-e5f30f97ae05",
+    "MinLevel": 40,
+    "MobName": "Guardian Hru"
+  },
+  {
+    "ItemTemplateID": "Belt_of_Health",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "c59f1dc0-17d5-4be4-8571-ff6deb029d60",
+    "MinLevel": 7,
+    "MobName": "Barkley"
+  },
+  {
+    "ItemTemplateID": "Prugor's_Remains",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "c677efd9-044d-4e57-ab97-2d17b4fa2e87",
+    "MinLevel": 12,
+    "MobName": "Prugor"
+  },
+  {
+    "ItemTemplateID": "Cliff_Dwellers_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "d2ca267c-ed1c-4b71-8c91-2a241e3990a1",
+    "MinLevel": 40,
+    "MobName": "Brarn"
+  },
+  {
+    "ItemTemplateID": "Felines_Tail",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "d672ed37-e9a6-4045-80b5-a135927dd015",
+    "MinLevel": 28,
+    "MobName": "Banghaisgidheach"
+  },
+  {
+    "ItemTemplateID": "Boots_of_Loki",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "da974263-e398-4ea6-92d4-e353c90299a7",
+    "MinLevel": 31,
+    "MobName": "Thasior"
+  },
+  {
+    "ItemTemplateID": "Breastplate_of_the_Legion",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "dc71bdc6-2c05-494f-aebd-b274260a97fc",
+    "MinLevel": 29,
+    "MobName": "Decurion"
+  },
+  {
+    "ItemTemplateID": "Stone_of_the_Pious",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "dd3fb9ed-09b3-46fd-bdf8-0fd250cac220",
+    "MinLevel": 16,
+    "MobName": "Old Smoke"
+  },
+  {
+    "ItemTemplateID": "Cloak_of_Fire_Resistance",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "df044c45-45d6-4835-969f-e3ead9e33ec6",
+    "MinLevel": 16,
+    "MobName": "Chaes"
+  },
+  {
+    "ItemTemplateID": "Willow_Heart",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "dfb55a0a-2a43-43aa-bc95-9de687c416c2",
+    "MinLevel": 13,
+    "MobName": "Salix"
+  },
+  {
+    "ItemTemplateID": "Stone_of_Coldfire",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "dfc89f08-5eed-4ebf-8142-d6387609847a",
+    "MinLevel": 25,
+    "MobName": "Brika"
+  },
+  {
+    "ItemTemplateID": "Lucky_Gold_Coin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "e24faddc-c1f7-46b5-9da9-3e3b2b624b95",
+    "MinLevel": 25,
+    "MobName": "Brannigan"
+  },
+  {
+    "ItemTemplateID": "Cerus",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "e54c9edd-7e0f-46da-9c67-7e053bc26f54",
+    "MinLevel": 29,
+    "MobName": "Lord Fire"
+  },
+  {
+    "ItemTemplateID": "Ailbes_Claw",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "f5fa1f14-a56a-4975-958d-da65e9a96591",
+    "MinLevel": 35,
+    "MobName": "Ailbe"
+  },
+  {
+    "ItemTemplateID": "Windchimes",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "f6bdee22-6bcd-4b7b-850f-7f06540d3b5b",
+    "MinLevel": 10,
+    "MobName": "Vidalf"
+  },
+  {
+    "ItemTemplateID": "Breath_of_Winter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "f837bd1b-43ae-40e6-9f27-81f9941d5b25",
+    "MinLevel": 41,
+    "MobName": "Nagoltooth"
+  },
+  {
+    "ItemTemplateID": "Sharpfang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootOTD_ID": "ff7c542b-b8f1-493c-aa96-18c2bc41283e",
+    "MinLevel": 14,
+    "MobName": "Great Worg"
+  }
+]

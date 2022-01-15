@@ -1,0 +1,23 @@
+[
+  {
+    "AutoXMLUpdateID": 1,
+    "FileHash": "1219C14B6AB24656EA89F5F54DD3EBD5CF42F9B6E2A673EB346E1CF3FBC8A4E9",
+    "FilePackage": "insert/Regions.xml",
+    "LastTimeRowUpdated": "2018-01-04 22:02:53",
+    "LoadResult": "SUCCESS"
+  },
+  {
+    "AutoXMLUpdateID": 2,
+    "FileHash": "CDE9DB3A46A4E2F36E10D53B61A48F3465298411EA508CD04D895AE5BD76BFAF",
+    "FilePackage": "insert/StartupLocation.xml",
+    "LastTimeRowUpdated": "2018-01-01 02:33:19",
+    "LoadResult": "SUCCESS"
+  },
+  {
+    "AutoXMLUpdateID": 3,
+    "FileHash": "BF0F75876DAB29BAFBA98F06DF4B401089ED5425498EF099588EEC9CA9B8ECA7",
+    "FilePackage": "insert/Zones.xml",
+    "LastTimeRowUpdated": "2015-07-15 14:21:35",
+    "LoadResult": "SUCCESS"
+  }
+]

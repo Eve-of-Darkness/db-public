@@ -1,0 +1,3754 @@
+[
+  {
+    "ClassID": 0,
+    "ClassXSpecializationID": 1,
+    "LastTimeRowUpdated": "2014-09-21 15:34:42",
+    "LevelAcquired": -65535,
+    "SpecKeyName": "CharacterCareer"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 2,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerCareer"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 3,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerCareer"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 4,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerCareer"
+  },
+  {
+    "ClassID": 35,
+    "ClassXSpecializationID": 5,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 35,
+    "ClassXSpecializationID": 6,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 35,
+    "ClassXSpecializationID": 7,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 35,
+    "ClassXSpecializationID": 8,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 35,
+    "ClassXSpecializationID": 9,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 10,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Aura Manipulation"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 11,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Magnetism"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 12,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Power Strikes"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 13,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Mauler Staff"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 14,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Fist Wraps"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 15,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Aura Manipulation"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 16,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Magnetism"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 17,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Power Strikes"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 18,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Mauler Staff"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 19,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Fist Wraps"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 20,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Aura Manipulation"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 21,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Magnetism"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 22,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Power Strikes"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 23,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Mauler Staff"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 24,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Fist Wraps"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 25,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerAlbCareer"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 26,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerMidCareer"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 27,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MaulerHibCareer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 28,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "BerserkerCareer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 29,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Left Axe"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 30,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 31,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 32,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 33,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 34,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 35,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 36,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 37,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 38,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 39,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "SavageCareer"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 40,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 41,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Hand to Hand"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 42,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Savagery"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 43,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 44,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "SkaldCareer"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 45,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 46,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 47,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Battlesongs"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 48,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ThaneCareer"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 49,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 50,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 51,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 52,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Stormcalling"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 53,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ValkyrieCareer"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 54,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 55,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 56,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Spear"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 57,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Mending"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 58,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Odin's Will"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 59,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 60,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 61,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 62,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 63,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 64,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 65,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 66,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 67,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 68,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 69,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 70,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 71,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 72,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 73,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 74,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Hammer"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 75,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 76,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 77,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "VikingCareer"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 78,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "WarriorCareer"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 79,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 80,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Thrown Weapons"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 81,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 82,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "PureTankCareer"
+  },
+  {
+    "ClassID": 16,
+    "ClassXSpecializationID": 83,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "AcolyteCareer"
+  },
+  {
+    "ClassID": 16,
+    "ClassXSpecializationID": 84,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Rejuvenation"
+  },
+  {
+    "ClassID": 16,
+    "ClassXSpecializationID": 85,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Enhancement"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 86,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ClericCareer"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 87,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "AcolyteCareer"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 88,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Smite"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 89,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Rejuvenation"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 90,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Enhancement"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 91,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "FriarCareer"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 92,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "AcolyteCareer"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 93,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Enhancement"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 94,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Rejuvenation"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 95,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 96,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Staff"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 97,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 98,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HereticCareer"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 99,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 100,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Rejuvenation"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 101,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Enhancement"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 102,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 103,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Flexible"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 104,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 17,
+    "ClassXSpecializationID": 105,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "RogueCareer"
+  },
+  {
+    "ClassID": 17,
+    "ClassXSpecializationID": 106,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 17,
+    "ClassXSpecializationID": 107,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 17,
+    "ClassXSpecializationID": 108,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 109,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "RogueCareer"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 110,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "InfiltratorCareer"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 111,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 112,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Critical Strike"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 113,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Dual Wield"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 114,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Envenom"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 115,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 116,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 117,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 118,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MinstrelCareer"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 119,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "RogueCareer"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 120,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 121,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 122,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 123,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Instruments"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 124,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 125,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "RogueCareer"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 126,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ScoutCareer"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 127,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 128,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 129,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 130,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Archery"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 131,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 132,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AssassinCareer"
+  },
+  {
+    "ClassID": 15,
+    "ClassXSpecializationID": 133,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 15,
+    "ClassXSpecializationID": 134,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Earth Magic"
+  },
+  {
+    "ClassID": 15,
+    "ClassXSpecializationID": 135,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Cold Magic"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 136,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 137,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Earth Magic"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 139,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Cold Magic"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 140,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Wind Magic"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 141,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 142,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 143,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Earth Magic"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 144,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Cold Magic"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 145,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Fire Magic"
+  },
+  {
+    "ClassID": 18,
+    "ClassXSpecializationID": 146,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 18,
+    "ClassXSpecializationID": 147,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Matter Magic"
+  },
+  {
+    "ClassID": 18,
+    "ClassXSpecializationID": 148,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Body Magic"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 149,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 150,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 151,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Matter Magic"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 152,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Body Magic"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 153,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Spirit Magic"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 154,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 155,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 156,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Matter Magic"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 157,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Body Magic"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 158,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Mind Magic"
+  },
+  {
+    "ClassID": 20,
+    "ClassXSpecializationID": 159,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 20,
+    "ClassXSpecializationID": 160,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Deathsight"
+  },
+  {
+    "ClassID": 20,
+    "ClassXSpecializationID": 161,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Painworking"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 162,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AlbClothCasterCareer"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 163,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Deathsight"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 164,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Painworking"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 165,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Death Servant"
+  },
+  {
+    "ClassID": 36,
+    "ClassXSpecializationID": 166,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MidClothCasterCareer"
+  },
+  {
+    "ClassID": 36,
+    "ClassXSpecializationID": 167,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Darkness"
+  },
+  {
+    "ClassID": 36,
+    "ClassXSpecializationID": 168,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Suppression"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 169,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MidClothCasterCareer"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 170,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 171,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Darkness"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 172,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Suppression"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 173,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Runecarving"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 174,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MidClothCasterCareer"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 175,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 176,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Darkness"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 177,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Suppression"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 178,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Summoning"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 179,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MidClothCasterCareer"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 180,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Cursing"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 181,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Hexing"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 182,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Witchcraft"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 183,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MidClothCasterCareer"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 184,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 185,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Darkness"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 186,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Suppression"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 187,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Bone Army"
+  },
+  {
+    "ClassID": 57,
+    "ClassXSpecializationID": 188,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 57,
+    "ClassXSpecializationID": 189,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Arboreal Path"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 190,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 191,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ValewalkerCareer"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 192,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 193,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Scythe"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 194,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 195,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 196,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 197,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Arboreal Path"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 198,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Creeping Path"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 199,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Verdant Path"
+  },
+  {
+    "ClassID": 51,
+    "ClassXSpecializationID": 200,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 51,
+    "ClassXSpecializationID": 201,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Light"
+  },
+  {
+    "ClassID": 51,
+    "ClassXSpecializationID": 202,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Mana"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 203,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 204,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 205,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Ethereal Shriek"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 206,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Phantasmal Wail"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 207,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Spectral Guard"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 208,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 209,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 210,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Light"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 211,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Mana"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 212,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Void"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 213,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 214,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 215,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Light"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 216,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Mana"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 217,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Mentalism"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 218,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HibClothCasterCareer"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 219,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterQuickcastUserCareer"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 220,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Light"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 221,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Mana"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 222,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Enchantments"
+  },
+  {
+    "ClassID": 38,
+    "ClassXSpecializationID": 223,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "MidgardRogueCareer"
+  },
+  {
+    "ClassID": 38,
+    "ClassXSpecializationID": 224,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 38,
+    "ClassXSpecializationID": 225,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 226,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "MidgardRogueCareer"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 227,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AssassinCareer"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 228,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ShadowbladeCareer"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 229,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 230,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 231,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 232,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Axe"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 233,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Critical Strike"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 234,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Left Axe"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 235,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Envenom"
+  },
+  {
+    "ClassID": 54,
+    "ClassXSpecializationID": 236,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "StalkerCareer"
+  },
+  {
+    "ClassID": 54,
+    "ClassXSpecializationID": 237,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 54,
+    "ClassXSpecializationID": 238,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 54,
+    "ClassXSpecializationID": 239,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 240,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "StalkerCareer"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 241,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "NightshadeCareer"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 242,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "AssassinCareer"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 243,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 244,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 245,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 246,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 247,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Celtic Dual"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 248,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Critical Strike"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 249,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Envenom"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 250,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Nightshade Magic"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 251,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "StalkerCareer"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 252,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 253,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "RangerCareer"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 254,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 255,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 256,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 257,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Archery"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 258,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Celtic Dual"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 259,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 260,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "VampiirCareer"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 261,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 262,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Dementia"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 263,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Shadow Mastery"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 264,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Vampiiric Embrace"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 265,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "MidgardRogueCareer"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 266,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 267,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HunterCareer"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 268,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Stealth"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 269,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Sword"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 270,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Spear"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 271,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Archery"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 272,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Beastcraft"
+  },
+  {
+    "ClassID": 37,
+    "ClassXSpecializationID": 273,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "SeerCareer"
+  },
+  {
+    "ClassID": 37,
+    "ClassXSpecializationID": 274,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Mending"
+  },
+  {
+    "ClassID": 37,
+    "ClassXSpecializationID": 275,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Augmentation"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 276,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "SeerCareer"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 277,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Mending"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 278,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Augmentation"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 279,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Subterranean"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 280,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "SeerCareer"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 281,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Mending"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 282,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -2,
+    "SpecKeyName": "Augmentation"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 283,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1,
+    "SpecKeyName": "Pacification"
+  },
+  {
+    "ClassID": 52,
+    "ClassXSpecializationID": 284,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "GuardianCareer"
+  },
+  {
+    "ClassID": 52,
+    "ClassXSpecializationID": 285,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 52,
+    "ClassXSpecializationID": 286,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 52,
+    "ClassXSpecializationID": 287,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 52,
+    "ClassXSpecializationID": 288,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 289,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "GuardianCareer"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 290,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 291,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "PureTankCareer"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 292,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "HeroCareer"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 293,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 294,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 295,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 296,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 297,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Celtic Spear"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 298,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Large Weapons"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 299,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 301,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "GuardianCareer"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 302,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 303,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ChampionCareer"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 304,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 305,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 306,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 307,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 308,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Large Weapons"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 309,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 310,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Valor"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 311,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "GuardianCareer"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 312,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 313,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "BlademasterCareer"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 314,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 315,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 316,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Piercing"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 317,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 318,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Celtic Dual"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 319,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 14,
+    "ClassXSpecializationID": 320,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "FighterCareer"
+  },
+  {
+    "ClassID": 14,
+    "ClassXSpecializationID": 321,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 14,
+    "ClassXSpecializationID": 322,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 14,
+    "ClassXSpecializationID": 323,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 324,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "FighterCareer"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 325,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 326,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "PureTankCareer"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 327,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ArmsmanCareer"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 328,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 329,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 330,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 331,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Polearm"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 332,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 333,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Two Handed"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 334,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 335,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Crossbows"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 336,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "FighterCareer"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 337,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 338,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "MercenaryCareer"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 339,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 340,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 341,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 342,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Dual Wield"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 343,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 344,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 345,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "FighterCareer"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 346,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 347,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "PaladinCareer"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 348,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 349,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 350,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 351,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Two Handed"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 352,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Chants"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 353,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 354,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 355,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "FighterCareer"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 356,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 357,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "ReaverCareer"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 358,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Slash"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 359,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Thrust"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 360,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Crush"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 361,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Flexible"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 362,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 363,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -4,
+    "SpecKeyName": "Soulrending"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 364,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 365,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "LightTankCareer"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 366,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "LightTankCareer"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 367,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "LightTankCareer"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 368,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "LightTankCareer"
+  },
+  {
+    "ClassID": 53,
+    "ClassXSpecializationID": 369,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "NaturalistCareer"
+  },
+  {
+    "ClassID": 53,
+    "ClassXSpecializationID": 370,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Nurture"
+  },
+  {
+    "ClassID": 53,
+    "ClassXSpecializationID": 371,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Regrowth"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 372,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "NaturalistCareer"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 373,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "DruidCareer"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 374,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Nurture"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 375,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Regrowth"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 376,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Nature"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 377,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "NaturalistCareer"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 378,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 379,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "WardenCareer"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 380,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Nurture"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 381,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Regrowth"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 382,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 383,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 384,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Shields"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 385,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -5,
+    "SpecKeyName": "Parry"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 386,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -1000,
+    "SpecKeyName": "NaturalistCareer"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 387,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 388,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "BardCareer"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 389,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -9,
+    "SpecKeyName": "Nurture"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 390,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -10,
+    "SpecKeyName": "Regrowth"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 391,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -8,
+    "SpecKeyName": "Music"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 392,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -7,
+    "SpecKeyName": "Blades"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 393,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -6,
+    "SpecKeyName": "Blunt"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 394,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -100,
+    "SpecKeyName": "CharacterStyleUserCareer"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 395,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": -3,
+    "SpecKeyName": "Arboreal Path"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 396,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 397,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 398,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 399,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 400,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 401,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 402,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 403,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 404,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 405,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 406,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Spymaster"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 407,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 408,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 409,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 410,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 411,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 412,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 413,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 414,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 415,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 416,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 417,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 418,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 419,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 420,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 421,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 422,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 423,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 424,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 425,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 426,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 427,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 428,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 429,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 430,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 431,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 432,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 433,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 434,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 435,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 436,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 437,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 438,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 439,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 440,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 441,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 442,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 443,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 444,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 445,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 446,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 447,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 448,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 449,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 450,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Spymaster"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 451,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 452,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 453,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 454,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 455,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 456,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 457,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 458,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 459,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 460,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 461,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 462,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 463,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 464,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 465,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 466,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 467,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 468,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 469,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 470,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 471,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 472,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 473,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 474,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Spymaster"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 475,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 476,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 477,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Perfecter"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 478,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 479,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Sojourner"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 480,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 481,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 482,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 483,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 484,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Stormlord"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 485,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 486,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Banelord"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 487,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Convoker"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 488,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Warlord"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 489,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 40,
+    "SpecKeyName": "Battlemaster"
+  },
+  {
+    "ClassID": 2,
+    "ClassXSpecializationID": 490,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 13,
+    "ClassXSpecializationID": 491,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 6,
+    "ClassXSpecializationID": 492,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 10,
+    "ClassXSpecializationID": 493,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 33,
+    "ClassXSpecializationID": 494,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 9,
+    "ClassXSpecializationID": 495,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 11,
+    "ClassXSpecializationID": 496,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 4,
+    "ClassXSpecializationID": 497,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 12,
+    "ClassXSpecializationID": 498,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 1,
+    "ClassXSpecializationID": 499,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 19,
+    "ClassXSpecializationID": 500,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 3,
+    "ClassXSpecializationID": 501,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 8,
+    "ClassXSpecializationID": 502,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 5,
+    "ClassXSpecializationID": 503,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 7,
+    "ClassXSpecializationID": 504,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 60,
+    "ClassXSpecializationID": 505,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Albion"
+  },
+  {
+    "ClassID": 31,
+    "ClassXSpecializationID": 506,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 30,
+    "ClassXSpecializationID": 507,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 26,
+    "ClassXSpecializationID": 508,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 25,
+    "ClassXSpecializationID": 509,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 29,
+    "ClassXSpecializationID": 510,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 32,
+    "ClassXSpecializationID": 511,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 23,
+    "ClassXSpecializationID": 512,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 28,
+    "ClassXSpecializationID": 513,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 24,
+    "ClassXSpecializationID": 514,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 27,
+    "ClassXSpecializationID": 515,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 21,
+    "ClassXSpecializationID": 516,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 34,
+    "ClassXSpecializationID": 517,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 59,
+    "ClassXSpecializationID": 518,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 22,
+    "ClassXSpecializationID": 519,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 61,
+    "ClassXSpecializationID": 520,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Midgard"
+  },
+  {
+    "ClassID": 55,
+    "ClassXSpecializationID": 521,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 39,
+    "ClassXSpecializationID": 522,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 48,
+    "ClassXSpecializationID": 523,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 43,
+    "ClassXSpecializationID": 524,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 45,
+    "ClassXSpecializationID": 525,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 47,
+    "ClassXSpecializationID": 526,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 40,
+    "ClassXSpecializationID": 527,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 41,
+    "ClassXSpecializationID": 528,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 44,
+    "ClassXSpecializationID": 529,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 42,
+    "ClassXSpecializationID": 530,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 49,
+    "ClassXSpecializationID": 531,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 50,
+    "ClassXSpecializationID": 532,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 56,
+    "ClassXSpecializationID": 533,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 58,
+    "ClassXSpecializationID": 534,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 46,
+    "ClassXSpecializationID": 535,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 62,
+    "ClassXSpecializationID": 536,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 50,
+    "SpecKeyName": "Champion Level Hibernia"
+  },
+  {
+    "ClassID": 0,
+    "ClassXSpecializationID": 537,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LevelAcquired": 1,
+    "SpecKeyName": "Realm Abilities"
+  }
+]

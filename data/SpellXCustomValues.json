@@ -1,0 +1,303 @@
+[
+  {
+    "CustomParamID": 1,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1118,
+    "Value": "1374"
+  },
+  {
+    "CustomParamID": 2,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1175,
+    "Value": "929"
+  },
+  {
+    "CustomParamID": 3,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1116,
+    "Value": "1372"
+  },
+  {
+    "CustomParamID": 4,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5172,
+    "Value": "1461"
+  },
+  {
+    "CustomParamID": 5,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1122,
+    "Value": "1461"
+  },
+  {
+    "CustomParamID": 6,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 4973,
+    "Value": "827"
+  },
+  {
+    "CustomParamID": 7,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5162,
+    "Value": "1541"
+  },
+  {
+    "CustomParamID": 8,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1171,
+    "Value": "925"
+  },
+  {
+    "CustomParamID": 9,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5153,
+    "Value": "322"
+  },
+  {
+    "CustomParamID": 10,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5173,
+    "Value": "1462"
+  },
+  {
+    "CustomParamID": 11,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1117,
+    "Value": "1373"
+  },
+  {
+    "CustomParamID": 12,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1115,
+    "Value": "1371"
+  },
+  {
+    "CustomParamID": 13,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1103,
+    "Value": "322"
+  },
+  {
+    "CustomParamID": 14,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5174,
+    "Value": "1463"
+  },
+  {
+    "CustomParamID": 15,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1105,
+    "Value": "324"
+  },
+  {
+    "CustomParamID": 16,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1102,
+    "Value": "321"
+  },
+  {
+    "CustomParamID": 17,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1113,
+    "Value": "1370"
+  },
+  {
+    "CustomParamID": 18,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1104,
+    "Value": "323"
+  },
+  {
+    "CustomParamID": 19,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5175,
+    "Value": "1464"
+  },
+  {
+    "CustomParamID": 20,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1125,
+    "Value": "1464"
+  },
+  {
+    "CustomParamID": 21,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1172,
+    "Value": "926"
+  },
+  {
+    "CustomParamID": 22,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1174,
+    "Value": "928"
+  },
+  {
+    "CustomParamID": 23,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5171,
+    "Value": "1460"
+  },
+  {
+    "CustomParamID": 24,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 4972,
+    "Value": "826"
+  },
+  {
+    "CustomParamID": 25,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 4974,
+    "Value": "828"
+  },
+  {
+    "CustomParamID": 26,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5154,
+    "Value": "323"
+  },
+  {
+    "CustomParamID": 27,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1112,
+    "Value": "1370"
+  },
+  {
+    "CustomParamID": 28,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5152,
+    "Value": "321"
+  },
+  {
+    "CustomParamID": 29,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1123,
+    "Value": "1462"
+  },
+  {
+    "CustomParamID": 30,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5155,
+    "Value": "324"
+  },
+  {
+    "CustomParamID": 31,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1101,
+    "Value": "320"
+  },
+  {
+    "CustomParamID": 32,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1111,
+    "Value": "1370"
+  },
+  {
+    "CustomParamID": 33,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1114,
+    "Value": "1371"
+  },
+  {
+    "CustomParamID": 34,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1173,
+    "Value": "927"
+  },
+  {
+    "CustomParamID": 35,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1121,
+    "Value": "1460"
+  },
+  {
+    "CustomParamID": 36,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5163,
+    "Value": "1542"
+  },
+  {
+    "CustomParamID": 37,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 1124,
+    "Value": "1463"
+  },
+  {
+    "CustomParamID": 38,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5151,
+    "Value": "320"
+  },
+  {
+    "CustomParamID": 39,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 4971,
+    "Value": "825"
+  },
+  {
+    "CustomParamID": 40,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5165,
+    "Value": "1544"
+  },
+  {
+    "CustomParamID": 41,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 4975,
+    "Value": "829"
+  },
+  {
+    "CustomParamID": 42,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5161,
+    "Value": "1540"
+  },
+  {
+    "CustomParamID": 43,
+    "KeyName": "InternalIconID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 5164,
+    "Value": "1543"
+  }
+]

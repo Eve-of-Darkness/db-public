@@ -1,0 +1,2009 @@
+[
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Odin's Will",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Odin's Will",
+    "SpecializationID": 1
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Witchcraft",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Witchcraft",
+    "SpecializationID": 2
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Hexing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hexing",
+    "SpecializationID": 3
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Cursing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Cursing",
+    "SpecializationID": 4
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Recurve Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Recurve Bow",
+    "SpecializationID": 5
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Sword",
+    "SpecializationID": 6
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Polearm",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Polearm",
+    "SpecializationID": 7
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Darkness",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Darkness",
+    "SpecializationID": 8
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Nurture",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Nurture",
+    "SpecializationID": 9
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Spear",
+    "SpecializationID": 10
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mentalism",
+    "SpecializationID": 11
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Pacification",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Pacification",
+    "SpecializationID": 12
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveAbilitySpecialization",
+    "KeyName": "Envenom",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Envenom",
+    "SpecializationID": 13
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Slash",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Slash",
+    "SpecializationID": 14
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Fire Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Fire Magic",
+    "SpecializationID": 15
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Liquifaction",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Liquifaction",
+    "SpecializationID": 16
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Nature",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Nature",
+    "SpecializationID": 17
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Large Weapons",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Large Weapons",
+    "SpecializationID": 18
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Subterranean",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Subterranean",
+    "SpecializationID": 19
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Creeping Path",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Creeping Path",
+    "SpecializationID": 20
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Parry",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Parry",
+    "SpecializationID": 21
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Pathfinding",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Pathfinding",
+    "SpecializationID": 22
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Celtic Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Celtic Spear",
+    "SpecializationID": 23
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Chants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Chants",
+    "SpecializationID": 24
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Rejuvenation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Rejuvenation",
+    "SpecializationID": 25
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Battlesongs",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Battlesongs",
+    "SpecializationID": 26
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Painworking",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Painworking",
+    "SpecializationID": 27
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Blunt",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Blunt",
+    "SpecializationID": 28
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Matter Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Matter Magic",
+    "SpecializationID": 29
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Verdant Path",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Verdant Path",
+    "SpecializationID": 30
+  },
+  {
+    "Description": "no",
+    "Icon": 403,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Stealth",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Stealth",
+    "SpecializationID": 31
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Regrowth",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Regrowth",
+    "SpecializationID": 32
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Critical Strike",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Critical Strike",
+    "SpecializationID": 33
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Arboreal Path",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Arboreal Path",
+    "SpecializationID": 34
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Crush",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Crush",
+    "SpecializationID": 35
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Longbows",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Longbows",
+    "SpecializationID": 36
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Earth Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Earth Magic",
+    "SpecializationID": 37
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Piercing",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Piercing",
+    "SpecializationID": 38
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Savagery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Savagery",
+    "SpecializationID": 39
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Suppression",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Suppression",
+    "SpecializationID": 40
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Enhancement",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Enhancement",
+    "SpecializationID": 41
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Death Servant",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Death Servant",
+    "SpecializationID": 42
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Mind Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mind Magic",
+    "SpecializationID": 43
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Mana",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mana Magic",
+    "SpecializationID": 44
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Music",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Music",
+    "SpecializationID": 45
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Two Handed",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Two Handed",
+    "SpecializationID": 46
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Thrust",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Thrust",
+    "SpecializationID": 47
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Smite",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Smite",
+    "SpecializationID": 48
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Staff",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Staff",
+    "SpecializationID": 49
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Bone Army",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Bone Army",
+    "SpecializationID": 50
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Celtic Dual",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Celtic Dual",
+    "SpecializationID": 51
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Body Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Body Magic",
+    "SpecializationID": 52
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Crossbows",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Crossbows",
+    "SpecializationID": 53
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Void Magic",
+    "SpecializationID": 54
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Dual Wield",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Dual Wield",
+    "SpecializationID": 55
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Light",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Light Magic",
+    "SpecializationID": 56
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Cold Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Cold Magic",
+    "SpecializationID": 57
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Archery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Archery",
+    "SpecializationID": 58
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Enchantments",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Enchantments",
+    "SpecializationID": 59
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Thrown Weapons",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Thrown Weapons",
+    "SpecializationID": 60
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Hammer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hammer",
+    "SpecializationID": 61
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Mending",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mending",
+    "SpecializationID": 62
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Ethereal Shriek",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Ethereal Shriek",
+    "SpecializationID": 63
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Wind Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Wind Magic",
+    "SpecializationID": 64
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Augmentation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Augmentation",
+    "SpecializationID": 66
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Beastcraft",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Beastcraft",
+    "SpecializationID": 67
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Hand to Hand",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hand to Hand",
+    "SpecializationID": 68
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Summoning",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Summoning",
+    "SpecializationID": 69
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Mauler Staff",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mauler Staff",
+    "SpecializationID": 70
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Spectral Guard",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Spectral Guard",
+    "SpecializationID": 71
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Bows",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Bow",
+    "SpecializationID": 72
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "Nightshade Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Nightshade Magic",
+    "SpecializationID": 73
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Shields",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Shield",
+    "SpecializationID": 74
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Spirit Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Spirit Magic",
+    "SpecializationID": 75
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Valor",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Valor",
+    "SpecializationID": 76
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Instruments",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Instruments",
+    "SpecializationID": 77
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Axe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Axe",
+    "SpecializationID": 78
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Blades",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Blades",
+    "SpecializationID": 79
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Deathsight",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Deathsight",
+    "SpecializationID": 80
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Left Axe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Left Axe",
+    "SpecializationID": 81
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Scythe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Scythe",
+    "SpecializationID": 82
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Dementia",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Dementia",
+    "SpecializationID": 83
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Flexible",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Flexible",
+    "SpecializationID": 84
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Mundane Poisons",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mundane Poisons",
+    "SpecializationID": 85
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Runecarving",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Runecarving",
+    "SpecializationID": 86
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Stormcalling",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Stormcalling",
+    "SpecializationID": 87
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Composite Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Composite Bow",
+    "SpecializationID": 88
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Soulrending",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Soulrending",
+    "SpecializationID": 89
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Power Strikes",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Power Strikes",
+    "SpecializationID": 90
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Magnetism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Magnetism",
+    "SpecializationID": 91
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveSpellHybridSpecialization",
+    "KeyName": "Aura Manipulation",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Aura Manipulation",
+    "SpecializationID": 92
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Spectral Force",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Spectral Force",
+    "SpecializationID": 93
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Shadow Mastery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Shadow Mastery",
+    "SpecializationID": 94
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Vampiiric Embrace",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Vampiiric Embrace",
+    "SpecializationID": 95
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "War Magic",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "War Magic",
+    "SpecializationID": 96
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Fist Wraps",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Fist Wraps",
+    "SpecializationID": 97
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Phantasmal Wail",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Phantasmal Wail",
+    "SpecializationID": 98
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "Champion Abilities",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Abilities",
+    "SpecializationID": 99
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveWideCareerSpecialization",
+    "KeyName": "CharacterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Career",
+    "SpecializationID": 100
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MaulerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mauler Career",
+    "SpecializationID": 101
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "CharacterStyleUserCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Base Character Style USer Career",
+    "SpecializationID": 102
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "VikingCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Viking Career",
+    "SpecializationID": 103
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MaulerAlbCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Albion's Mauler Career",
+    "SpecializationID": 104
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MaulerMidCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Midgard's Mauler Career",
+    "SpecializationID": 105
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MaulerHibCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hibernia's Mauler Career",
+    "SpecializationID": 106
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "BerserkerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Berserker Career",
+    "SpecializationID": 107
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "SavageCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Savage Career",
+    "SpecializationID": 108
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "SkaldCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Skald Career",
+    "SpecializationID": 109
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ThaneCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Thane Career",
+    "SpecializationID": 110
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ValkyrieCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Valkyrie Career",
+    "SpecializationID": 111
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "WarriorCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Warrior Career",
+    "SpecializationID": 112
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "PureTankCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Pure Tank Career",
+    "SpecializationID": 113
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "AcolyteCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Acolyte Career",
+    "SpecializationID": 114
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ClericCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Cleric Career",
+    "SpecializationID": 115
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "FriarCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Friar Career",
+    "SpecializationID": 116
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "HereticCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Heretic Career",
+    "SpecializationID": 117
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "RogueCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Rogue Career",
+    "SpecializationID": 118
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "InfiltratorCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Infiltrator Career",
+    "SpecializationID": 119
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MinstrelCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Minstrel Career",
+    "SpecializationID": 120
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ScoutCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Scout Career",
+    "SpecializationID": 121
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "AlbClothCasterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Albion's Cloth Caster Career",
+    "SpecializationID": 122
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MidClothCasterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Midgard's Cloth Caster Career",
+    "SpecializationID": 123
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "HibClothCasterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hibernia's Cloth Caster Career",
+    "SpecializationID": 124
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "CharacterQuickcastUserCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Quickast User Base Career",
+    "SpecializationID": 125
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ValewalkerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Valewalker Career",
+    "SpecializationID": 126
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ShadowbladeCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Shadowblade Career",
+    "SpecializationID": 127
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "NightshadeCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Nightshade Career",
+    "SpecializationID": 128
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MidgardRogueCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Midgard's Rogue Career",
+    "SpecializationID": 129
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "StalkerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Stalker Career",
+    "SpecializationID": 130
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "HunterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hunter Career",
+    "SpecializationID": 131
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "RangerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Ranger Career",
+    "SpecializationID": 132
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "VampiirCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Vampiir Career",
+    "SpecializationID": 133
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "SeerCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Seer Career",
+    "SpecializationID": 134
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "GuardianCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Guardian Career",
+    "SpecializationID": 135
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ChampionCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion's Career",
+    "SpecializationID": 136
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "HeroCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Hero Career",
+    "SpecializationID": 137
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "BlademasterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "BlademasterCareer",
+    "SpecializationID": 138
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "FighterCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Fighter Career",
+    "SpecializationID": 139
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ArmsmanCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Armsman Career",
+    "SpecializationID": 140
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "PaladinCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Paladin Career",
+    "SpecializationID": 141
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "MercenaryCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Mercenary Career",
+    "SpecializationID": 142
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "ReaverCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Reaver Career",
+    "SpecializationID": 143
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "LightTankCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Light Tank Career",
+    "SpecializationID": 144
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "NaturalistCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Naturalist Career",
+    "SpecializationID": 145
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "WardenCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Warden Career",
+    "SpecializationID": 146
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "DruidCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Druid Career",
+    "SpecializationID": 147
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "BardCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Bard Career",
+    "SpecializationID": 148
+  },
+  {
+    "Description": null,
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCareerSpecialization",
+    "KeyName": "AssassinCareer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Assassin Career",
+    "SpecializationID": 149
+  },
+  {
+    "Description": "Banelord's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Banelord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 150
+  },
+  {
+    "Description": "Abilities granted through Realm victories.",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveRealmAbilitiesSpecialization",
+    "KeyName": "Realm Abilities",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Realm Abilities",
+    "SpecializationID": 151
+  },
+  {
+    "Description": "Champion Level Abilities and Skills.",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveChampionsSpecialization",
+    "KeyName": "Champion Level Albion",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Abilities",
+    "SpecializationID": 152
+  },
+  {
+    "Description": "Battlemaster's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Battlemaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 153
+  },
+  {
+    "Description": "Convoker's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Convoker",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 154
+  },
+  {
+    "Description": "Perfecter's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Perfecter",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 155
+  },
+  {
+    "Description": "Sojourner's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Sojourner",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 156
+  },
+  {
+    "Description": "Spymaster's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Spymaster",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 157
+  },
+  {
+    "Description": "Stormlord's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Stormlord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 158
+  },
+  {
+    "Description": "Warlord's Master Level Skills",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveMasterLevelsSpecialization",
+    "KeyName": "Warlord",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Master Level",
+    "SpecializationID": 159
+  },
+  {
+    "Description": "Subclassing Specialization Acolyte 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAcolyteSpec",
+    "KeyName": "Champion Acolyte 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Acolyte Abilities 1",
+    "SpecializationID": 160
+  },
+  {
+    "Description": "Subclassing Specialization Acolyte 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAcolyteSpec",
+    "KeyName": "Champion Acolyte 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Acolyte Abilities 2",
+    "SpecializationID": 161
+  },
+  {
+    "Description": "Subclassing Specialization Acolyte 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAcolyteSpec",
+    "KeyName": "Champion Acolyte 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Acolyte Abilities 3",
+    "SpecializationID": 162
+  },
+  {
+    "Description": "Subclassing Specialization Acolyte 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAcolyteSpec",
+    "KeyName": "Champion Acolyte 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Acolyte Abilities 4",
+    "SpecializationID": 163
+  },
+  {
+    "Description": "Subclassing Specialization Albion Rogue 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAlbionRogueSpec",
+    "KeyName": "Champion Albion Rogue 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Albion Rogue Abilities 1",
+    "SpecializationID": 164
+  },
+  {
+    "Description": "Subclassing Specialization Albion Rogue 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAlbionRogueSpec",
+    "KeyName": "Champion Albion Rogue 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Albion Rogue Abilities 2",
+    "SpecializationID": 165
+  },
+  {
+    "Description": "Subclassing Specialization Albion Rogue 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAlbionRogueSpec",
+    "KeyName": "Champion Albion Rogue 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Albion Rogue Abilities 3",
+    "SpecializationID": 166
+  },
+  {
+    "Description": "Subclassing Specialization Albion Rogue 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLAlbionRogueSpec",
+    "KeyName": "Champion Albion Rogue 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Albion Rogue Abilities 4",
+    "SpecializationID": 167
+  },
+  {
+    "Description": "Subclassing Specialization Disciple 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLDiscipleSpec",
+    "KeyName": "Champion Disciple 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Disciple Abilities 1",
+    "SpecializationID": 168
+  },
+  {
+    "Description": "Subclassing Specialization Disciple 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLDiscipleSpec",
+    "KeyName": "Champion Disciple 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Disciple Abilities 2",
+    "SpecializationID": 169
+  },
+  {
+    "Description": "Subclassing Specialization Disciple 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLDiscipleSpec",
+    "KeyName": "Champion Disciple 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Disciple Abilities 3",
+    "SpecializationID": 170
+  },
+  {
+    "Description": "Subclassing Specialization Disciple 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLDiscipleSpec",
+    "KeyName": "Champion Disciple 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Disciple Abilities 4",
+    "SpecializationID": 171
+  },
+  {
+    "Description": "Subclassing Specialization Elementalist 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLElementalistSpec",
+    "KeyName": "Champion Elementalist 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Elementalist Abilities 1",
+    "SpecializationID": 172
+  },
+  {
+    "Description": "Subclassing Specialization Elementalist 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLElementalistSpec",
+    "KeyName": "Champion Elementalist 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Elementalist Abilities 2",
+    "SpecializationID": 173
+  },
+  {
+    "Description": "Subclassing Specialization Elementalist 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLElementalistSpec",
+    "KeyName": "Champion Elementalist 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Elementalist Abilities 3",
+    "SpecializationID": 174
+  },
+  {
+    "Description": "Subclassing Specialization Elementalist 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLElementalistSpec",
+    "KeyName": "Champion Elementalist 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Elementalist Abilities 4",
+    "SpecializationID": 175
+  },
+  {
+    "Description": "Subclassing Specialization Fighter 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLFighterSpec",
+    "KeyName": "Champion Fighter 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Fighter Abilities 1",
+    "SpecializationID": 176
+  },
+  {
+    "Description": "Subclassing Specialization Fighter 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLFighterSpec",
+    "KeyName": "Champion Fighter 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Fighter Abilities 2",
+    "SpecializationID": 177
+  },
+  {
+    "Description": "Subclassing Specialization Fighter 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLFighterSpec",
+    "KeyName": "Champion Fighter 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Fighter Abilities 3",
+    "SpecializationID": 178
+  },
+  {
+    "Description": "Subclassing Specialization Fighter 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLFighterSpec",
+    "KeyName": "Champion Fighter 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Fighter Abilities 4",
+    "SpecializationID": 179
+  },
+  {
+    "Description": "Subclassing Specialization Mage 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMageSpec",
+    "KeyName": "Champion Mage 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mage Abilities 1",
+    "SpecializationID": 180
+  },
+  {
+    "Description": "Subclassing Specialization Mage 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMageSpec",
+    "KeyName": "Champion Mage 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mage Abilities 2",
+    "SpecializationID": 181
+  },
+  {
+    "Description": "Subclassing Specialization Mage 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMageSpec",
+    "KeyName": "Champion Mage 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mage Abilities 3",
+    "SpecializationID": 182
+  },
+  {
+    "Description": "Subclassing Specialization Mage 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMageSpec",
+    "KeyName": "Champion Mage 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mage Abilities 4",
+    "SpecializationID": 183
+  },
+  {
+    "Description": "Subclassing Specialization Forester 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLForesterSpec",
+    "KeyName": "Champion Forester 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Forester Abilities 1",
+    "SpecializationID": 184
+  },
+  {
+    "Description": "Subclassing Specialization Forester 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLForesterSpec",
+    "KeyName": "Champion Forester 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Forester Abilities 2",
+    "SpecializationID": 185
+  },
+  {
+    "Description": "Subclassing Specialization Forester 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLForesterSpec",
+    "KeyName": "Champion Forester 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Forester Abilities 3",
+    "SpecializationID": 186
+  },
+  {
+    "Description": "Subclassing Specialization Forester 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLForesterSpec",
+    "KeyName": "Champion Forester 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Forester Abilities 4",
+    "SpecializationID": 187
+  },
+  {
+    "Description": "Subclassing Specialization Guardian 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLGuardianSpec",
+    "KeyName": "Champion Guardian 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Guardian Abilities 1",
+    "SpecializationID": 188
+  },
+  {
+    "Description": "Subclassing Specialization Guardian 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLGuardianSpec",
+    "KeyName": "Champion Guardian 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Guardian Abilities 2",
+    "SpecializationID": 189
+  },
+  {
+    "Description": "Subclassing Specialization Guardian 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLGuardianSpec",
+    "KeyName": "Champion Guardian 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Guardian Abilities 3",
+    "SpecializationID": 190
+  },
+  {
+    "Description": "Subclassing Specialization Guardian 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLGuardianSpec",
+    "KeyName": "Champion Guardian 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Guardian Abilities 4",
+    "SpecializationID": 191
+  },
+  {
+    "Description": "Subclassing Specialization Magician 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMagicianSpec",
+    "KeyName": "Champion Magician 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Magician Abilities 1",
+    "SpecializationID": 192
+  },
+  {
+    "Description": "Subclassing Specialization Magician 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMagicianSpec",
+    "KeyName": "Champion Magician 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Magician Abilities 2",
+    "SpecializationID": 193
+  },
+  {
+    "Description": "Subclassing Specialization Magician 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMagicianSpec",
+    "KeyName": "Champion Magician 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Magician Abilities 3",
+    "SpecializationID": 194
+  },
+  {
+    "Description": "Subclassing Specialization Magician 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMagicianSpec",
+    "KeyName": "Champion Magician 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Magician Abilities 4",
+    "SpecializationID": 195
+  },
+  {
+    "Description": "Subclassing Specialization Magician 5",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMagicianSpec",
+    "KeyName": "Champion Magician 5",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Magician Abilities 5",
+    "SpecializationID": 196
+  },
+  {
+    "Description": "Subclassing Specialization Stalker 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLStalkerSpec",
+    "KeyName": "Champion Stalker 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Stalker Abilities 1",
+    "SpecializationID": 197
+  },
+  {
+    "Description": "Subclassing Specialization Stalker 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLStalkerSpec",
+    "KeyName": "Champion Stalker 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Stalker Abilities 2",
+    "SpecializationID": 198
+  },
+  {
+    "Description": "Subclassing Specialization Stalker 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLStalkerSpec",
+    "KeyName": "Champion Stalker 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Stalker Abilities 3",
+    "SpecializationID": 199
+  },
+  {
+    "Description": "Subclassing Specialization Stalker 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLStalkerSpec",
+    "KeyName": "Champion Stalker 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Stalker Abilities 4",
+    "SpecializationID": 200
+  },
+  {
+    "Description": "Subclassing Specialization Naturalist 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLNaturalistSpec",
+    "KeyName": "Champion Naturalist 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Naturalist Abilities 1",
+    "SpecializationID": 201
+  },
+  {
+    "Description": "Subclassing Specialization Naturalist 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLNaturalistSpec",
+    "KeyName": "Champion Naturalist 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Naturalist Abilities 2",
+    "SpecializationID": 202
+  },
+  {
+    "Description": "Subclassing Specialization Naturalist 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLNaturalistSpec",
+    "KeyName": "Champion Naturalist 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Naturalist Abilities 3",
+    "SpecializationID": 203
+  },
+  {
+    "Description": "Subclassing Specialization Naturalist 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLNaturalistSpec",
+    "KeyName": "Champion Naturalist 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Naturalist Abilities 4",
+    "SpecializationID": 204
+  },
+  {
+    "Description": "Subclassing Specialization Midgard Rogue 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMidgardRogueSpec",
+    "KeyName": "Champion Midgard Rogue 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Midgard Rogue Abilities 1",
+    "SpecializationID": 205
+  },
+  {
+    "Description": "Subclassing Specialization Midgard Rogue 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMidgardRogueSpec",
+    "KeyName": "Champion Midgard Rogue 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Midgard Rogue Abilities 2",
+    "SpecializationID": 206
+  },
+  {
+    "Description": "Subclassing Specialization Midgard Rogue 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMidgardRogueSpec",
+    "KeyName": "Champion Midgard Rogue 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Midgard Rogue Abilities 3",
+    "SpecializationID": 207
+  },
+  {
+    "Description": "Subclassing Specialization Midgard Rogue 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMidgardRogueSpec",
+    "KeyName": "Champion Midgard Rogue 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Midgard Rogue Abilities 4",
+    "SpecializationID": 208
+  },
+  {
+    "Description": "Subclassing Specialization Mystic 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMysticSpec",
+    "KeyName": "Champion Mystic 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mystic Abilities 1",
+    "SpecializationID": 209
+  },
+  {
+    "Description": "Subclassing Specialization Mystic 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMysticSpec",
+    "KeyName": "Champion Mystic 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mystic Abilities 2",
+    "SpecializationID": 210
+  },
+  {
+    "Description": "Subclassing Specialization Mystic 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMysticSpec",
+    "KeyName": "Champion Mystic 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mystic Abilities 3",
+    "SpecializationID": 211
+  },
+  {
+    "Description": "Subclassing Specialization Mystic 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMysticSpec",
+    "KeyName": "Champion Mystic 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mystic Abilities 4",
+    "SpecializationID": 212
+  },
+  {
+    "Description": "Subclassing Specialization Mystic 5",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLMysticSpec",
+    "KeyName": "Champion Mystic 5",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Mystic Abilities 5",
+    "SpecializationID": 213
+  },
+  {
+    "Description": "Subclassing Specialization Seer 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLSeerSpec",
+    "KeyName": "Champion Seer 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Seer Abilities 1",
+    "SpecializationID": 214
+  },
+  {
+    "Description": "Subclassing Specialization Seer 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLSeerSpec",
+    "KeyName": "Champion Seer 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Seer Abilities 2",
+    "SpecializationID": 215
+  },
+  {
+    "Description": "Subclassing Specialization Seer 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLSeerSpec",
+    "KeyName": "Champion Seer 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Seer Abilities 3",
+    "SpecializationID": 216
+  },
+  {
+    "Description": "Subclassing Specialization Seer 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLSeerSpec",
+    "KeyName": "Champion Seer 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Seer Abilities 4",
+    "SpecializationID": 217
+  },
+  {
+    "Description": "Subclassing Specialization Seer 5",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLSeerSpec",
+    "KeyName": "Champion Seer 5",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Seer Abilities 5",
+    "SpecializationID": 218
+  },
+  {
+    "Description": "Subclassing Specialization Viking 1",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLVikingSpec",
+    "KeyName": "Champion Viking 1",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Viking Abilities 1",
+    "SpecializationID": 219
+  },
+  {
+    "Description": "Subclassing Specialization Viking 2",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLVikingSpec",
+    "KeyName": "Champion Viking 2",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Viking Abilities 2",
+    "SpecializationID": 220
+  },
+  {
+    "Description": "Subclassing Specialization Viking 3",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLVikingSpec",
+    "KeyName": "Champion Viking 3",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Viking Abilities 3",
+    "SpecializationID": 221
+  },
+  {
+    "Description": "Subclassing Specialization Viking 4",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveCLVikingSpec",
+    "KeyName": "Champion Viking 4",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Viking Abilities 4",
+    "SpecializationID": 222
+  },
+  {
+    "Description": "Champion Level Abilities and Skills.",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveChampionsSpecialization",
+    "KeyName": "Champion Level Hibernia",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Abilities",
+    "SpecializationID": 223
+  },
+  {
+    "Description": "Champion Level Abilities and Skills.",
+    "Icon": 0,
+    "Implementation": "DOL.GS.LiveChampionsSpecialization",
+    "KeyName": "Champion Level Midgard",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Champion Abilities",
+    "SpecializationID": 224
+  }
+]
