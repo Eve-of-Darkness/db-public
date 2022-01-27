@@ -4,4 +4,4 @@
 
 UPDATE `Spell` SET `CastTime`=0 WHERE `Type` LIKE '%buff%' AND `Concentration`>0;
 UPDATE `Spell` SET `CastTime`=0 WHERE `Type` LIKE '%buff%' AND `Type`!='HealthRegenBuff' AND `Duration`>=600;
-UPDATE `Spell` SET `CastTime`=0 WHERE `Type`='petspell' AND `Duration`='1200'; # Necro spec buffs
+UPDATE `Spell` SET `CastTime`=0 WHERE `Type`='petspell' AND `Duration`='1200'; -- Necro spec buffs
