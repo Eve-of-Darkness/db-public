@@ -3,7 +3,6 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"flag"
 	"fmt"
 	"io/ioutil"
 	"regexp"
@@ -15,23 +14,26 @@ import (
 	"github.com/spf13/viper"
 )
 
-func main() {
-
+func exportToSql(exportType string) {
 	viper.SetConfigName("config")    // name of config file (without extension)
 	viper.AddConfigPath("./config/") // path to look for the config file in
 	err := viper.ReadInConfig()      // Find and read the config file
 	if err != nil {                  // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
-
-	updateonlyPtr := flag.Bool("update-only", false, "Perform Update to DB Only.")
-	sqlitePtr := flag.Bool("sqlite", false, "Export as SQLite query.")
-	flag.Parse()
-
 	schemaFolderName := "schema_mysql"
-	if *sqlitePtr {
+
+	switch exportType {
+	case "mysql":
+		schemaFolderName = "schema_mysql"
+	case "sqlite":
 		schemaFolderName = "schema_sqlite"
+	case "update-only":
+		schemaFolderName = "schema_mysql"
+	default:
+		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
 	}
+
 	schemaFiles := getFiles(schemaFolderName)
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
@@ -39,7 +41,7 @@ func main() {
 	re := regexp.MustCompile("(?i)(" + ignoreTables + ").sql")
 
 	for _, schemaFile := range schemaFiles {
-		if *updateonlyPtr == true {
+		if exportType == "update-only" {
 			if re.MatchString(schemaFile) {
 				fmt.Println("Found ignored table:", schemaFile)
 				continue
@@ -157,23 +159,6 @@ func parseFile(fileName string) []map[string]interface{} {
 	json.Unmarshal(file, &jsontype)
 
 	return jsontype
-}
-
-func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir(dir)
-	if err != nil {
-		panic(err)
-	}
-
-	fileNames := make([]string, len(files))
-
-	i := 0
-	for _, f := range files {
-		fileNames[i] = f.Name()
-		i++
-	}
-
-	return fileNames
 }
 
 func getColumns(object map[string]interface{}) []string {

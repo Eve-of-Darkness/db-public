@@ -34,12 +34,11 @@ jobs:
       - name: Build Queries
         run: |
           cp config/config.example.yml config/config.yml
-          go run concat.go
-          mv public-db.sql public-db.mysql.sql
-          go run concat.go -sqlite
-          mv public-db.sql public-db.sqlite.sql
-          go run concat.go -update-only
-          mv public-db.sql public-db.update_only.sql
+          
+          for i in mysql sqlite update-only; \
+          do go run . -export $i \
+          && mv public-db.sql public-db.$i.sql; \
+          done
       - name: Test SQLite
         run: sqlite3 test.db < public-db.sqlite.sql
       - name: Test Customization Queries

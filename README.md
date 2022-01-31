@@ -10,17 +10,16 @@ To use this database download the designated zipped `.sql` file from release. Ex
 If you want to update to current Public-DB without removing existing player content and settings use `public-db.update_only.sql`.
 
 ## Build the Database Yourself
-Install go-1.13, open a Terminal and run `go run concat.go`. Without any options given this would create a new database for MySQL.  
+Install go-1.13, open a Terminal and run `go run .`. Without any options given this would create a new database for MySQL.  
 Options:  
-* `-sqlite` creates new database in SQLite
-* `-update-only` creates update query for an existing database
+* `-export [type]` creates new database, where `[type]` can be `mysql`, `sqlite`, `update-only`
 
 The resulting file is `public-db.sql`.
 
 ## Contributing
 1. Rename/copy `config.example.yml` to `config.yml`
 2. Edit `config.yml` to match the credentials for MySQL/MariaDB database you want to export
-3. `go run export_to_json.go`
+3. `go run . -import`
 
 ## The data
 We plan on following data available on http://camelot.allakhazam.com/ as closely as possible. We think this will be the most effective way quickly populate missing data.

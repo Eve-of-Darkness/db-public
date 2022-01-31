@@ -15,11 +15,11 @@ import (
 	"github.com/spf13/viper"
 )
 
-func main() {
-	viper.SetConfigName("config") // name of config file (without extension)
-	viper.AddConfigPath("config/")   // path to look for the config file in
-	err := viper.ReadInConfig() // Find and read the config file
-	if err != nil { // Handle errors reading the config file
+func importToJson() {
+	viper.SetConfigName("config")  // name of config file (without extension)
+	viper.AddConfigPath("config/") // path to look for the config file in
+	err := viper.ReadInConfig()    // Find and read the config file
+	if err != nil {                // Handle errors reading the config file
 		panic(fmt.Errorf("Fatal error config file: %s \n", err))
 	}
 
@@ -77,23 +77,6 @@ func getTables(db *sql.DB) ([]string, error) {
 	}
 
 	return s, nil
-}
-
-func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir(dir)
-	if err != nil {
-		panic(err)
-	}
-
-	fileNames := make([]string, len(files))
-
-	i := 0
-	for _, f := range files {
-		fileNames[i] = f.Name()
-		i++
-	}
-
-	return fileNames
 }
 
 func getMobJSON(expansion int, db *sql.DB) error {
