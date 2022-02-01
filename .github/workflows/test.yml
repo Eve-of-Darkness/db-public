@@ -1,0 +1,40 @@
+name: Test DB
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build_db:
+    name: Build and Test DB
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Setup Build Environment
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.13'
+      - name: Copy config file
+        run: cp config/config.example.yml config/config.yml
+      - name: Test SQLite
+        run: |
+          go run . -export sqlite
+          sqlite3 test.db < public-db.sql
+          rm public-db.sql
+      - name: Test Customization Queries
+        run: for i in customizations/*.sql; do echo "Execute $i"; sqlite3 test.db < "$i"; done
+      - name: Test MySQL
+        env:
+          DB_DATABASE: dol
+          DB_USER: root
+          DB_PASSWORD: 'root'
+          DB_HOST: localhost
+        run: |
+          go run . -export mysql
+          sudo systemctl start mysql.service
+          mysql -e 'CREATE DATABASE dol;' -uroot -proot
+          cat public-db.sql | mysql -h 127.0.0.1 -u root -P 3306 --password=root -D dol
+          mysql -e 'USE dol; SHOW TABLES;' -uroot -proot
+          rm public-db.sql
