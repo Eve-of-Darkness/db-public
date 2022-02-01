@@ -1,15 +1,13 @@
-name: Build DB
+name: Release DB
 
 on:
   push:
-    branches: [ master ]
-  pull_request:
     branches: [ master ]
   workflow_dispatch:
 
 jobs:
   build_db:
-    name: Build, Test, and Release DB
+    name: Build and Release DB
     runs-on: ubuntu-20.04
     steps:
       - name: Checkout
@@ -39,23 +37,7 @@ jobs:
           do go run . -export $i \
           && mv public-db.sql public-db.$i.sql; \
           done
-      - name: Test SQLite
-        run: sqlite3 test.db < public-db.sqlite.sql
-      - name: Test Customization Queries
-        run: for i in customizations/*.sql; do echo "Execute $i"; sqlite3 test.db < "$i"; done
-      - name: Test MySQL
-        env:
-          DB_DATABASE: dol
-          DB_USER: root
-          DB_PASSWORD: 'root'
-          DB_HOST: localhost
-        run: |
-          sudo systemctl start mysql.service
-          mysql -e 'CREATE DATABASE dol;' -uroot -proot
-          cat public-db.mysql.sql | mysql -h 127.0.0.1 -u root -P 3306 --password=root -D dol
-          mysql -e 'USE dol; SHOW TABLES;' -uroot -proot
       - name: Compress DB
-        if: ${{ github.event_name == 'push' }}
         run: |
           mkdir build_artifacts
           for sql in *.sql; do \
@@ -63,7 +45,6 @@ jobs:
           mv "$sql.zip" build_artifacts; \
           done
       - name: Create Release
-        if: ${{ github.event_name == 'push' }}
         run: |
           gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt build_artifacts/*
         env: 
