@@ -10,7 +10,7 @@ To use this database download the designated zipped `.sql` file from release. Ex
 If you want to update to current Public-DB without removing existing player content and settings use `public-db.update_only.sql`.
 
 ## Build the Database Yourself
-Install go-1.13, open a Terminal and run `go run .`. Without any options given this would create a new database for MySQL.  
+Install go-1.17, open a Terminal and run `go run .`. Without any options given this would create a new database for MySQL.  
 Options:  
 * `-export [type]` creates new database, where `[type]` can be `mysql`, `sqlite`, `update-only`
 
