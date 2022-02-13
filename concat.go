@@ -3,8 +3,10 @@ package main
 import (
 	"bytes"
 	"encoding/json"
+	"errors"
 	"fmt"
 	"io/ioutil"
+	"os"
 	"regexp"
 	"sort"
 	"strconv"
@@ -17,9 +19,14 @@ import (
 func exportToSql(exportType string) {
 	viper.SetConfigName("config")    // name of config file (without extension)
 	viper.AddConfigPath("./config/") // path to look for the config file in
-	err := viper.ReadInConfig()      // Find and read the config file
-	if err != nil {                  // Handle errors reading the config file
-		panic(fmt.Errorf("fatal error config file: %s", err))
+	if _, fileError := os.Stat("./config/config.yml"); errors.Is(fileError, os.ErrNotExist) {
+		input, _ := ioutil.ReadFile("./config/config.example.yml")
+		_ = ioutil.WriteFile("./config/config.yml", input, 0644)
+	} else {
+		err := viper.ReadInConfig()
+		if err != nil {
+			panic(fmt.Errorf("fatal error config file: %s", err))
+		}
 	}
 	schemaFolderName := "schema_mysql"
 
@@ -64,7 +71,7 @@ func exportToSql(exportType string) {
 		}
 	}
 
-	err = ioutil.WriteFile("public-db.sql", buffer.Bytes(), 0644)
+	err := ioutil.WriteFile("public-db.sql", buffer.Bytes(), 0644)
 	if err != nil {
 		panic(err)
 	}
