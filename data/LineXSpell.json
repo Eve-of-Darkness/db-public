@@ -721,14 +721,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 6,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "lessercallgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3552
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 5,
     "LineName": "Smiting",
     "LineXSpell_ID": "05801dcf-7dee-4a6e-a35a-c8c53f161401",
@@ -8337,14 +8329,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 15,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "charminsect",
-    "PackageID": "Hunter",
-    "SpellID": 3578
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 25,
     "LineName": "Verdant Path",
     "LineXSpell_ID": "3a2c7333-e181-43eb-97c9-b08a4c5591da",
@@ -10217,14 +10201,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 20,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "greatercallgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3554
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 18,
     "LineName": "Verdant Path Spec",
     "LineXSpell_ID": "4b7a507f-336f-4e39-820e-105c5a7fe131",
@@ -11945,14 +11921,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 1,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "minorcallgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3551
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 5,
     "LineName": "Pacification",
     "LineXSpell_ID": "5936955c-8ea9-45ce-ba99-7e3d43b1c972",
@@ -12678,14 +12646,6 @@
     "LineXSpell_ID": "5f885aeb-e290-4756-ac3d-8bf198b8f699",
     "PackageID": "Bonedancer",
     "SpellID": 10202
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 3,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "influenceinsect",
-    "PackageID": "Hunter",
-    "SpellID": 3576
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -15550,14 +15510,6 @@
     "LineXSpell_ID": "77509e5d-c997-4710-87f9-4cfd340d50f1",
     "PackageID": "Thane_197",
     "SpellID": 3535
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 9,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "compelinsect",
-    "PackageID": "Hunter",
-    "SpellID": 3577
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -27593,6 +27545,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 13,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "callofgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3553
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Reserved Spells",
     "LineXSpell_ID": "CalmingNotes",
@@ -29849,6 +29809,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 15,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "charminsect",
+    "PackageID": "Hunter",
+    "SpellID": 3578
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 14,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "CharmReptile",
@@ -30001,6 +29969,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 9,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "compelinsect",
+    "PackageID": "Hunter",
+    "SpellID": 3577
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 8,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "CompelReptile",
@@ -30014,6 +29990,22 @@
     "LineXSpell_ID": "CompulsionOfTheDeep",
     "PackageID": "Freyad_DB",
     "SpellID": 14824
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 22,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "controlinsect",
+    "PackageID": "Hunter",
+    "SpellID": 3579
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 21,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "Controlreptile",
+    "PackageID": "Hunter",
+    "SpellID": 3594
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -32153,6 +32145,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 35,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "dominateinsect",
+    "PackageID": "Hunter",
+    "SpellID": 3580
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 34,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "DominateReptile",
@@ -32998,14 +32998,6 @@
     "LineXSpell_ID": "e6705056-a2f0-4861-bbcb-24aa6365ed67",
     "PackageID": "Druid",
     "SpellID": 5553
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 22,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "controlinsect",
-    "PackageID": "Hunter",
-    "SpellID": 3579
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -34937,14 +34929,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 32,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "superiorcallgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3555
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 27,
     "LineName": "Bone Mystics",
     "LineXSpell_ID": "f4f89bc0-3c0e-4463-a368-346cce12f1d0",
@@ -35182,14 +35166,6 @@
     "LineXSpell_ID": "f6b62f23-aa4d-40fc-9054-f10ce28c3822",
     "PackageID": "Eldritch",
     "SpellID": 4171
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 35,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "dominateinsect",
-    "PackageID": "Hunter",
-    "SpellID": 3580
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -35774,14 +35750,6 @@
     "LineXSpell_ID": "fc456155-8461-4531-80a7-d8dfa13fec9f",
     "PackageID": "Wizard",
     "SpellID": 207
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 13,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "callofgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3553
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -37513,6 +37481,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 20,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "greatercallgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3554
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 50,
     "LineName": "Augmentation",
     "LineXSpell_ID": "GreaterMightOfTheViking",
@@ -38313,6 +38289,14 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 3,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "influenceinsect",
+    "PackageID": "Hunter",
+    "SpellID": 3576
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "InfluenceReptile",
@@ -38470,6 +38454,14 @@
     "LineXSpell_ID": "LeatherHide",
     "PackageID": null,
     "SpellID": 40003
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 6,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "lessercallgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3552
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -40478,6 +40470,14 @@
     "LineXSpell_ID": "minc_charm1",
     "PackageID": "Minstrel",
     "SpellID": 25556
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 1,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "minorcallgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3551
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -44017,14 +44017,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 21,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "Controlreptile",
-    "PackageID": "Hunter",
-    "SpellID": 3594
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 47,
     "LineName": "Item Effects",
     "LineXSpell_ID": "ResistBuffCST",
@@ -45198,6 +45190,14 @@
     "LineXSpell_ID": "succubus_potion",
     "PackageID": null,
     "SpellID": 15568
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 32,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "superiorcallgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3555
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
