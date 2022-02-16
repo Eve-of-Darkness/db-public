@@ -23,21 +23,10 @@ func importToJson() {
 		panic(fmt.Errorf("fatal error config file: %s", err))
 	}
 
-	db, err := sql.Open(
-		"mysql",
-		viper.GetString("db.user")+":"+viper.GetString("db.password")+"@tcp("+viper.GetString("db.host")+":"+viper.GetString("db.port")+")/"+viper.GetString("db.database"))
-
-	if err != nil {
-		fmt.Printf("Failed to connect to database")
-		return
-	}
+	db := getDatabase()
 	defer db.Close()
 
-	tables, err := getTables(db)
-	if err != nil {
-		fmt.Printf("Failed to get tables: %v", err)
-		return
-	}
+	tables := getTables(db)
 
 	for index, table := range tables {
 		err := getJSON(table, db)
@@ -50,14 +39,25 @@ func importToJson() {
 	}
 }
 
-func getTables(db *sql.DB) ([]string, error) {
+func getDatabase() *sql.DB {
+	db, err := sql.Open(
+		"mysql",
+		viper.GetString("db.user")+":"+viper.GetString("db.password")+"@tcp("+viper.GetString("db.host")+":"+viper.GetString("db.port")+")/"+viper.GetString("db.database"))
+
+	if err != nil {
+		panic(fmt.Errorf("Failed to connect to database."))
+	}
+	return db
+}
+
+func getTables(db *sql.DB) []string {
 	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
 
 	re := regexp.MustCompile("(?i)(" + ignoreTables + ")")
 
 	rows, err := db.Query("SHOW TABLES;")
 	if err != nil {
-		return nil, err
+		panic(fmt.Errorf("Failed to get tables: %v", err))
 	}
 	defer rows.Close()
 
@@ -76,7 +76,7 @@ func getTables(db *sql.DB) ([]string, error) {
 		s = append(s, name)
 	}
 
-	return s, nil
+	return s
 }
 
 func getMobJSON(expansion int, db *sql.DB) error {
