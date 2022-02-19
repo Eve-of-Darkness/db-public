@@ -9,9 +9,12 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"strconv"
 	"strings"
+	"time"
 
 	_ "github.com/go-sql-driver/mysql"
+	_ "github.com/mattn/go-sqlite3"
 	"github.com/spf13/viper"
 )
 
@@ -23,10 +26,17 @@ func importToJson() {
 		panic(fmt.Errorf("fatal error config file: %s", err))
 	}
 
-	db := getDatabase()
-	defer db.Close()
+	var db *sql.DB
+	var dbProvider dbProvider
+	if viper.GetString("db.file_path") != "" {
+		dbProvider = new(sqliteProvider)
+	} else {
+		dbProvider = new(mysqlProvider)
+	}
+	db = dbProvider.getConnection()
+	defer dbProvider.closeConnection()
 
-	tables := getTables(db)
+	tables := getTables(dbProvider)
 
 	for index, table := range tables {
 		err := getJSON(table, db)
@@ -39,26 +49,12 @@ func importToJson() {
 	}
 }
 
-func getDatabase() *sql.DB {
-	db, err := sql.Open(
-		"mysql",
-		viper.GetString("db.user")+":"+viper.GetString("db.password")+"@tcp("+viper.GetString("db.host")+":"+viper.GetString("db.port")+")/"+viper.GetString("db.database"))
-
-	if err != nil {
-		panic(fmt.Errorf("Failed to connect to database."))
-	}
-	return db
-}
-
-func getTables(db *sql.DB) []string {
+func getTables(dbProvider dbProvider) []string {
 	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
 
 	re := regexp.MustCompile("(?i)(" + ignoreTables + ")")
 
-	rows, err := db.Query("SHOW TABLES;")
-	if err != nil {
-		panic(fmt.Errorf("Failed to get tables: %v", err))
-	}
+	rows := dbProvider.getAllTables()
 	defer rows.Close()
 
 	var s []string
@@ -126,6 +122,18 @@ func getJSON(table string, db *sql.DB) error {
 	return nil
 }
 
+func convertDbEntryToJson(v interface{}) interface{} {
+	if dateTime, ok := v.(time.Time); ok {
+		v = dateTime.Format("2006-01-02 15:04:05")
+	} else if str, ok := v.(string); ok {
+		str = strings.Replace(str, `"`, `\"`, -1)
+		v, _ = strconv.Unquote(`"` + str + `"`)
+	} else if byteSlice, ok := v.([]byte); ok {
+		v = string(byteSlice)
+	}
+	return v
+}
+
 func buildJSON(stmt *sql.Stmt, fileName string) {
 	rows, err := stmt.Query()
 	if err != nil {
@@ -149,15 +157,7 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		rows.Scan(valuePtrs...)
 		entry := make(map[string]interface{})
 		for i, col := range columns {
-			var v interface{}
-			val := values[i]
-			b, ok := val.([]byte)
-			if ok {
-				v = string(b)
-			} else {
-				v = val
-			}
-			entry[col] = v
+			entry[col] = convertDbEntryToJson(values[i])
 		}
 		tableData = append(tableData, entry)
 	}
