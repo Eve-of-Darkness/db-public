@@ -1,0 +1,51 @@
+name: Release DB
+
+on:
+  push:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build_db:
+    name: Build and Release DB
+    runs-on: ubuntu-20.04
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          fetch-depth: 0
+      - name: Setup Build Environment
+        uses: actions/setup-go@v2
+        with:
+          go-version: '1.17'
+      - name: Generate Release Info
+        run: |
+          last_build_number=$(git tag -l --sort=creatordate | grep -E '^[0-9]+$' | tail -n1);
+          
+          if [ -n "$last_build_number" ]; \
+          then git log origin/master --first-parent  --format="%s%n%w(0,4,4)%b" "$last_build_number".. | grep -v "^$" > patch_notes.txt; \
+          sed -i '1s/^/```\n/' patch_notes.txt; \
+          new_build_number=$((1+$last_build_number)); \
+          else new_build_number=1; printf '```\nInitial Release' > patch_notes.txt; \
+          fi;
+          echo "new_build_number=$new_build_number" >> $GITHUB_ENV
+      - name: Build Queries
+        run: |
+          cp config/config.example.yml config/config.yml
+          
+          for i in mysql sqlite update-only; \
+          do go run . -export $i \
+          && mv public-db.sql public-db.$i.sql; \
+          done
+      - name: Compress DB
+        run: |
+          mkdir build_artifacts
+          for sql in *.sql; do \
+          zip -Z bzip2 "$sql.zip" "$sql"; \
+          mv "$sql.zip" build_artifacts; \
+          done
+      - name: Create Release
+        run: |
+          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt build_artifacts/*
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

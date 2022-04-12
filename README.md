@@ -4,27 +4,19 @@ Vanilla database for Dawn of Light
 ## Goal
 To provide the DOL community with means to spin up a new server on a solid data foundation.
 
-## Installing
-To use this database download and run concat.exe in Windows or concat in Linux. This will combine the json files into a single script that you can run against an already made database.
-Windows users: Find concat.exe in src\scripts\bin\windows - Run as Administrator. A blank DOS window should appear for a period of time. When it closes, the database file is created as 'public-db.sql'. If the file is not created, goto src\scripts\config - rename 'config.example.yml' to 'config.yml'. Run the concat.exe again to create the DB file.
+## Usage
+To use this database download the designated zipped `.sql` file from release. Extract it and execute the resulting `.sql` file in your favorite SQL tool (i.e. HeidiSQL). Note: The built-in extractor in Windows Explorer cannot unzip these; use 7-Zip instead.
 
-## Update Existing database
-To update an existing database without loosing any characters, accounts or server settings run the concat.exe for your respective platform with the '--update-only' flag.
-Example:
-```
-concat --update-only
-```
+If you want to update to current Public-DB without removing existing player content and settings use `public-db.update_only.sql`.
 
-This will generate a public-db.sql file that only contains content updates.
+## Build the Database Yourself
+Install go-1.17, open a Terminal and run `go run . -export [type]`, where `[type]` can be `mysql`, `sqlite`, `update-only`.
 
-You can then import with the following command
-
-```
-mysql -u <user> -p <password> <doldb> < public-db.sql
-```
+The resulting file is `public-db.sql`.
 
 ## Contributing
-Schema and data scripts have been separated to minimize risk of schema being accidentally modified. Data modifications should follow the formatting convention used throughout. To generate json data files run export_to_json. This will require you to create a config.yml file. See example file for inspiration.
+1. Edit `config.yml` to match the credentials for MySQL/MariaDB database you want to export
+2. `go run . -import`
 
 ## The data
 We plan on following data available on http://camelot.allakhazam.com/ as closely as possible. We think this will be the most effective way quickly populate missing data.

@@ -1,0 +1,12 @@
+DROP TABLE IF EXISTS `CraftedItem`;
+
+CREATE TABLE `CraftedItem` (`CraftedItemID` VARCHAR(255) NOT NULL DEFAULT '' COLLATE NOCASE, 
+`Id_nb` VARCHAR(255) NOT NULL DEFAULT '' COLLATE NOCASE, 
+`CraftingLevel` INT(11) NOT NULL DEFAULT 0, 
+`CraftingSkillType` INT(11) NOT NULL DEFAULT 0, 
+`MakeTemplated` TINYINT(1) NOT NULL DEFAULT 0, 
+`LastTimeRowUpdated` DATETIME NOT NULL DEFAULT '2000-01-01 00:00:00', 
+`CraftedItem_ID` VARCHAR(255) DEFAULT NULL COLLATE NOCASE, 
+PRIMARY KEY (`CraftedItemID`));
+CREATE UNIQUE INDEX `U_CraftedItem_CraftedItem_ID` ON `CraftedItem` (`CraftedItem_ID`);
+CREATE INDEX `I_CraftedItem_Id_nb` ON `CraftedItem` (`Id_nb`);
