@@ -9,6 +9,9 @@ jobs:
   build_db:
     name: Build and Release DB
     runs-on: ubuntu-20.04
+    env:
+      ARTIFACT_FOLDER: build_artifacts
+      TOOL_NAME: public-db-tools
     steps:
       - name: Checkout
         uses: actions/checkout@v2
@@ -29,23 +32,31 @@ jobs:
           else new_build_number=1; printf '```\nInitial Release' > patch_notes.txt; \
           fi;
           echo "new_build_number=$new_build_number" >> $GITHUB_ENV
+      - name: Compile binaries
+        run: |
+          export GOARCH=amd64
+          export GOOS=linux
+          go build -v -ldflags="-s -w" -o ${{ env.TOOL_NAME }} .
+          export GOOS=windows
+          go build -v -ldflags="-s -w" -o ${{ env.TOOL_NAME }}.exe .
+          export GOOS=darwin
+          go build -v -ldflags="-s -w" -o ${{ env.TOOL_NAME }}_mac .
       - name: Build Queries
         run: |
-          cp config/config.example.yml config/config.yml
-          
           for i in mysql sqlite update-only; \
-          do go run . -export $i \
+          do ./${{ env.TOOL_NAME }} -export $i \
           && mv public-db.sql public-db.$i.sql; \
           done
-      - name: Compress DB
+      - name: Compress Artifacts
         run: |
-          mkdir build_artifacts
+          mkdir "${{ env.ARTIFACT_FOLDER }}"
           for sql in *.sql; do \
-          zip -Z bzip2 "$sql.zip" "$sql"; \
-          mv "$sql.zip" build_artifacts; \
+          7z a -t7z "${{ env.ARTIFACT_FOLDER }}/$sql.7z" "$sql"; \
           done
+
+          7z a -t7z "${{ env.ARTIFACT_FOLDER }}/${{ env.TOOL_NAME }}.7z" data ${{ env.TOOL_NAME }}* schema_*
       - name: Create Release
         run: |
-          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt build_artifacts/*
+          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt "${{ env.ARTIFACT_FOLDER }}/*"
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
