@@ -559,8 +559,8 @@
     "KeepID": 125,
     "KeepType": 8,
     "Keep_ID": "125",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 4,
+    "LastTimeRowUpdated": "2022-05-28 17:42:04",
+    "Level": 0,
     "MidgardDifficultyLevel": 1,
     "Name": "Fort Brolorn",
     "OriginalRealm": 0,
@@ -1293,8 +1293,8 @@
     "Realm": 1,
     "Region": 234,
     "SkinType": 0,
-    "X": 573189,
-    "Y": 549387,
+    "X": 572689,
+    "Y": 549687,
     "Z": 8640
   },
   {
@@ -1932,7 +1932,7 @@
     "Region": 234,
     "SkinType": 0,
     "X": 557159,
-    "Y": 574661,
+    "Y": 573161,
     "Z": 8640
   },
   {
@@ -2569,8 +2569,8 @@
     "Realm": 3,
     "Region": 234,
     "SkinType": 0,
-    "X": 541023,
-    "Y": 549746,
+    "X": 541523,
+    "Y": 549946,
     "Z": 8640
   },
   {

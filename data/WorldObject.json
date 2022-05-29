@@ -240,6 +240,23 @@
   {
     "ClassType": "DOL.GS.GameStaticItem",
     "Emblem": 0,
+    "ExamineArticle": "",
+    "Heading": 2036,
+    "LastTimeRowUpdated": "2022-05-28 22:10:56",
+    "Model": 465,
+    "Name": "Midgard Pennant",
+    "Realm": 0,
+    "Region": 234,
+    "RespawnInterval": 0,
+    "TranslationId": "",
+    "WorldObject_ID": "02d178b3-f43b-49f4-b035-99e127a3748a",
+    "X": 557080,
+    "Y": 572097,
+    "Z": 9323
+  },
+  {
+    "ClassType": "DOL.GS.GameStaticItem",
+    "Emblem": 0,
     "ExamineArticle": null,
     "Heading": 898,
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -3619,6 +3636,23 @@
     "X": 370777,
     "Y": 681298,
     "Z": 3496
+  },
+  {
+    "ClassType": "DOL.GS.GameStaticItem",
+    "Emblem": 0,
+    "ExamineArticle": "",
+    "Heading": 3335,
+    "LastTimeRowUpdated": "2022-05-28 21:15:14",
+    "Model": 466,
+    "Name": "Hibernian Pennant",
+    "Realm": 0,
+    "Region": 234,
+    "RespawnInterval": 0,
+    "TranslationId": "",
+    "WorldObject_ID": "41a37658-9de8-474e-bf70-90dbe934a514",
+    "X": 542518,
+    "Y": 550328,
+    "Z": 9323
   },
   {
     "ClassType": "DOL.GS.GameStaticItem",
@@ -8702,6 +8736,23 @@
     "X": 91368,
     "Y": 86053,
     "Z": 5117
+  },
+  {
+    "ClassType": "DOL.GS.GameStaticItem",
+    "Emblem": 0,
+    "ExamineArticle": "",
+    "Heading": 755,
+    "LastTimeRowUpdated": "2022-05-28 19:48:49",
+    "Model": 464,
+    "Name": "Albion Pennant",
+    "Realm": 0,
+    "Region": 234,
+    "RespawnInterval": 0,
+    "TranslationId": "",
+    "WorldObject_ID": "8b06ffef-d1a4-4654-8590-bb66f44adb70",
+    "X": 571774,
+    "Y": 550237,
+    "Z": 9323
   },
   {
     "ClassType": "DOL.GS.GameStaticItem",
