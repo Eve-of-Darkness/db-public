@@ -582,7 +582,7 @@
     "KeepType": 10,
     "Keep_ID": "126",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 4,
+    "Level": 0,
     "MidgardDifficultyLevel": 1,
     "Name": "Leonis Keep",
     "OriginalRealm": 0,
@@ -1315,8 +1315,8 @@
     "Realm": 1,
     "Region": 235,
     "SkinType": 0,
-    "X": 536467,
-    "Y": 536600,
+    "X": 537035,
+    "Y": 536893,
     "Z": 5056
   },
   {
@@ -1953,8 +1953,8 @@
     "Realm": 2,
     "Region": 235,
     "SkinType": 0,
-    "X": 544467,
-    "Y": 575832,
+    "X": 544674,
+    "Y": 575202,
     "Z": 5056
   },
   {
@@ -2591,8 +2591,8 @@
     "Realm": 3,
     "Region": 235,
     "SkinType": 0,
-    "X": 579923,
-    "Y": 554525,
+    "X": 579153,
+    "Y": 554925,
     "Z": 5056
   },
   {
