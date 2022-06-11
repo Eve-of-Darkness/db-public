@@ -30,6 +30,21 @@
     "ZOff": 578
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 2,
+    "ComponentSkin": 25,
+    "HOff": 1279,
+    "Height": 1,
+    "KeepPosition_ID": "01f48727-fd16-40db-9f0c-d00dbf55e5b6",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 10:14:14",
+    "TemplateID": "94644222-0726-4d64-8058-58769c95a1c0",
+    "TemplateType": 0,
+    "XOff": 327,
+    "YOff": 172,
+    "ZOff": -3584
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
     "ComponentRotation": 1,
     "ComponentSkin": 18,
@@ -118,6 +133,21 @@
     "XOff": 795,
     "YOff": -776,
     "ZOff": 441
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 0,
+    "ComponentSkin": 34,
+    "HOff": 98,
+    "Height": 1,
+    "KeepPosition_ID": "0a906870-881f-4e3b-99b3-77f9b8d50873",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 10:29:21",
+    "TemplateID": "876510da-df55-4d4a-9b2c-062537031944",
+    "TemplateType": 0,
+    "XOff": -674,
+    "YOff": -1084,
+    "ZOff": -3584
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardStaticArcher",
@@ -283,6 +313,21 @@
     "XOff": 775,
     "YOff": -309,
     "ZOff": 358
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "ComponentRotation": 0,
+    "ComponentSkin": 27,
+    "HOff": -31,
+    "Height": 0,
+    "KeepPosition_ID": "154caa2b-0f07-4b4c-8e8c-11593129bd0f",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 17:13:09",
+    "TemplateID": "614f8be2-8da0-4d7d-852b-c837dc8e64e6",
+    "TemplateType": 0,
+    "XOff": 2598,
+    "YOff": -784,
+    "ZOff": 445
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardFighter",
@@ -735,6 +780,21 @@
     "ZOff": -5880
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "ComponentRotation": 0,
+    "ComponentSkin": 27,
+    "HOff": -31,
+    "Height": 0,
+    "KeepPosition_ID": "3d739ee3-7e8e-4324-9711-5cbea7287f32",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 17:13:28",
+    "TemplateID": "c1d5f94d-852c-419a-b0b9-e09314c13ee1",
+    "TemplateType": 0,
+    "XOff": 2600,
+    "YOff": -789,
+    "ZOff": 445
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GuardLord",
     "ComponentRotation": 2,
     "ComponentSkin": 30,
@@ -915,6 +975,21 @@
     "ZOff": 92
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "ComponentRotation": 0,
+    "ComponentSkin": 25,
+    "HOff": 19,
+    "Height": 1,
+    "KeepPosition_ID": "4f3db409-66a2-4afe-9587-971457c3a73c",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 10:40:48",
+    "TemplateID": "82a60f33-269b-424a-82ca-5c4c0a596ffe",
+    "TemplateType": 0,
+    "XOff": 384,
+    "YOff": -773,
+    "ZOff": -3142
+  },
+  {
     "ClassType": "DOL.GS.Keeps.MissionMaster",
     "ComponentRotation": 0,
     "ComponentSkin": 30,
@@ -928,6 +1003,21 @@
     "XOff": 942,
     "YOff": -1061,
     "ZOff": 336
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 0,
+    "ComponentSkin": 24,
+    "HOff": -64,
+    "Height": 0,
+    "KeepPosition_ID": "54cdc629-2462-467b-837c-a686cbd13c86",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 19:52:26",
+    "TemplateID": "fc2225ec-0b86-4ab2-bc7d-ce13c7e3a83b",
+    "TemplateType": 0,
+    "XOff": 93,
+    "YOff": -1088,
+    "ZOff": 0
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardStaticArcher",
@@ -1245,6 +1335,21 @@
     "ZOff": 10
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 1,
+    "ComponentSkin": 29,
+    "HOff": 2303,
+    "Height": 1,
+    "KeepPosition_ID": "74350174-1767-4a91-9416-1a887c0a1b3d",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 10:15:40",
+    "TemplateID": "f0b9d9a9-6a2b-4fb9-82b1-37d0f9cf5673",
+    "TemplateType": 0,
+    "XOff": 13,
+    "YOff": -354,
+    "ZOff": -3584
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GuardHealer",
     "ComponentRotation": 0,
     "ComponentSkin": 30,
@@ -1318,6 +1423,21 @@
     "XOff": 142,
     "YOff": -447,
     "ZOff": 400
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 0,
+    "ComponentSkin": 24,
+    "HOff": -98,
+    "Height": 0,
+    "KeepPosition_ID": "7d4e264f-16a6-400a-bcc6-795c306ed2b9",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 21:01:36",
+    "TemplateID": "8dc2e54a-7f90-4481-a11c-8552e033ae98",
+    "TemplateType": 0,
+    "XOff": 85,
+    "YOff": -1066,
+    "ZOff": 0
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardFighter",
@@ -1500,6 +1620,21 @@
     "ZOff": 0
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 2,
+    "ComponentSkin": 21,
+    "HOff": 2043,
+    "Height": 1,
+    "KeepPosition_ID": "8fd8823b-e893-4856-8211-008b816f7918",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-09 17:52:26",
+    "TemplateID": "cc3ead48-9c2d-4a13-8159-56538c53fdae",
+    "TemplateType": 0,
+    "XOff": -55,
+    "YOff": 41,
+    "ZOff": -3584
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
     "ComponentRotation": 0,
     "ComponentSkin": 14,
@@ -1513,6 +1648,21 @@
     "XOff": 283,
     "YOff": -181,
     "ZOff": 579
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardArcher",
+    "ComponentRotation": 1,
+    "ComponentSkin": 27,
+    "HOff": -3089,
+    "Height": 0,
+    "KeepPosition_ID": "92aeb318-1f90-4abd-8e8e-e81e6dd05922",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 19:40:12",
+    "TemplateID": "7adf5028-bb78-4a59-aeb5-90665c8ece9f",
+    "TemplateType": 0,
+    "XOff": 15,
+    "YOff": -701,
+    "ZOff": 746
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardStaticArcher",
@@ -1590,6 +1740,21 @@
     "ZOff": 0
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 2,
+    "ComponentSkin": 25,
+    "HOff": 1279,
+    "Height": 1,
+    "KeepPosition_ID": "97d4ee8c-bc26-4fa6-becd-500cc0c1dbc8",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 10:15:14",
+    "TemplateID": "90fb8f1a-9a70-440b-b582-bcb55776a020",
+    "TemplateType": 0,
+    "XOff": 327,
+    "YOff": 172,
+    "ZOff": -3584
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GuardLord",
     "ComponentRotation": 0,
     "ComponentSkin": 11,
@@ -1618,6 +1783,21 @@
     "XOff": 148,
     "YOff": -151,
     "ZOff": 105
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.FrontierHastener",
+    "ComponentRotation": 2,
+    "ComponentSkin": 29,
+    "HOff": 53,
+    "Height": 0,
+    "KeepPosition_ID": "99910086-f713-444a-9dba-e07f1e14bc2f",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 18:11:17",
+    "TemplateID": "69390f3d-18b0-4c36-9ce3-f79942d08298",
+    "TemplateType": 0,
+    "XOff": 630,
+    "YOff": 1104,
+    "ZOff": 0
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardFighter",
@@ -2220,6 +2400,21 @@
     "ZOff": 577
   },
   {
+    "ClassType": "DOL.GS.Keeps.GuardCaster",
+    "ComponentRotation": 0,
+    "ComponentSkin": 27,
+    "HOff": 6,
+    "Height": 0,
+    "KeepPosition_ID": "d59035fd-354f-4db9-b34f-7a677e3e6fad",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 20:47:50",
+    "TemplateID": "a6c5cb1f-1ab1-416c-9871-cbcf88515731",
+    "TemplateType": 0,
+    "XOff": 1851,
+    "YOff": -823,
+    "ZOff": 532
+  },
+  {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
     "ComponentRotation": 1,
     "ComponentSkin": 18,
@@ -2233,6 +2428,21 @@
     "XOff": 117,
     "YOff": 5,
     "ZOff": 94
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GuardFighter",
+    "ComponentRotation": 2,
+    "ComponentSkin": 21,
+    "HOff": 2043,
+    "Height": 1,
+    "KeepPosition_ID": "d67020f5-7b5b-42a6-a94a-10c23566c2a5",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-09 17:55:52",
+    "TemplateID": "ebc111e3-d9ae-4319-9b2d-a8688a8e9c5a",
+    "TemplateType": 0,
+    "XOff": -55,
+    "YOff": 41,
+    "ZOff": -3584
   },
   {
     "ClassType": "DOL.GS.Keeps.GuardFighter",
@@ -2382,6 +2592,21 @@
     "TemplateType": 0,
     "XOff": 800,
     "YOff": 0,
+    "ZOff": 0
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GameKeepDoor",
+    "ComponentRotation": 0,
+    "ComponentSkin": 24,
+    "HOff": 2035,
+    "Height": 0,
+    "KeepPosition_ID": "e740d0e9-76bc-4cc3-81f7-3b2c8fd01ea7",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-06-10 21:36:59",
+    "TemplateID": "f8c3647a-a4e4-4f39-83a2-2b981c6aed40",
+    "TemplateType": 1,
+    "XOff": 372,
+    "YOff": -804,
     "ZOff": 0
   },
   {
