@@ -7,6 +7,7 @@ CREATE TABLE `MerchantItem` (
   `SlotPosition` int(11) NOT NULL DEFAULT '0',
   `LastTimeRowUpdated` datetime NOT NULL DEFAULT '2000-01-01 00:00:00',
   `MerchantItem_ID` varchar(255) NOT NULL,
+  `Price` bigint(20) DEFAULT '0',
   PRIMARY KEY (`MerchantItem_ID`),
   KEY `I_MerchantItem_ItemListID` (`ItemListID`),
   KEY `I_MerchantItem_PageNumber` (`PageNumber`),
