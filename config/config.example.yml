@@ -46,5 +46,4 @@ exportignore:
     - DBHousecharxperms
     - DBHouse
     - Relic
-    - SpellXCustomValues
     - Task
