@@ -299,5 +299,145 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "SpellID": 5164,
     "Value": "1543"
+  },
+  {
+    "CustomParamID": 44,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88010,
+    "Value": "88011"
+  },
+  {
+    "CustomParamID": 45,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88010,
+    "Value": "88012"
+  },
+  {
+    "CustomParamID": 46,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88011,
+    "Value": "88001"
+  },
+  {
+    "CustomParamID": 47,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88011,
+    "Value": "88002"
+  },
+  {
+    "CustomParamID": 48,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88011,
+    "Value": "88003"
+  },
+  {
+    "CustomParamID": 49,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88011,
+    "Value": "88004"
+  },
+  {
+    "CustomParamID": 50,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88012,
+    "Value": "88005"
+  },
+  {
+    "CustomParamID": 51,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88012,
+    "Value": "88006"
+  },
+  {
+    "CustomParamID": 52,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88012,
+    "Value": "88007"
+  },
+  {
+    "CustomParamID": 53,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88012,
+    "Value": "88008"
+  },
+  {
+    "CustomParamID": 54,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 88012,
+    "Value": "88009"
+  },
+  {
+    "CustomParamID": 55,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823756"
+  },
+  {
+    "CustomParamID": 56,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823757"
+  },
+  {
+    "CustomParamID": 57,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823758"
+  },
+  {
+    "CustomParamID": 58,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823759"
+  },
+  {
+    "CustomParamID": 59,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823760"
+  },
+  {
+    "CustomParamID": 60,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823761"
+  },
+  {
+    "CustomParamID": 61,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823762"
+  },
+  {
+    "CustomParamID": 62,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823763"
+  },
+  {
+    "CustomParamID": 63,
+    "KeyName": "MultipleSubSpellID",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "SpellID": 225823765,
+    "Value": "225823764"
   }
 ]
