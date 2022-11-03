@@ -1009,6 +1009,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 18,
+    "KeepComponent_ID": "140b04a9-0678-484a-bc7b-ce3e8238ea52",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 8,
+    "Y": 9
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 30000,
     "ID": 4,
@@ -1837,6 +1849,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 3,
+    "KeepComponent_ID": "2193421d-40e7-4fa4-8d71-fcd2abe8f122",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 6,
+    "Y": 250
+  },
+  {
+    "CreateInfo": "",
     "Heading": 3,
     "Health": 30000,
     "ID": 6,
@@ -2497,6 +2521,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 19,
+    "KeepComponent_ID": "2b057684-6498-423a-8c5f-1e8dfa490688",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 252,
+    "Y": 9
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 31200,
     "ID": 0,
@@ -2857,6 +2893,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 3,
+    "Health": 30000,
+    "ID": 4,
+    "KeepComponent_ID": "2h2nn190-pqsg-8574-x5ua-6in4g7ian993",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 27,
+    "X": 7,
+    "Y": -9
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 30000,
     "ID": 2,
@@ -3133,6 +3181,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 1,
+    "Health": 19200,
+    "ID": 10,
+    "KeepComponent_ID": "33bdc2aa-2faa-45a7-904b-f6be60e6a95c",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 248,
+    "Y": 4
+  },
+  {
+    "CreateInfo": "",
     "Heading": 2,
     "Health": 30000,
     "ID": 14,
@@ -3358,6 +3418,18 @@
     "Skin": 9,
     "X": 249,
     "Y": 251
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 20,
+    "KeepComponent_ID": "3784ea19-b40d-455a-87cc-d52a02d48d49",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 2,
+    "Y": 9
   },
   {
     "CreateInfo": "",
@@ -4549,6 +4621,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 1,
+    "KeepComponent_ID": "47e02b5a-0fd5-43f5-87a5-119090675a58",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 3,
+    "Y": 250
+  },
+  {
+    "CreateInfo": "",
     "Heading": 3,
     "Health": 38400,
     "ID": 15,
@@ -4790,6 +4874,18 @@
   {
     "CreateInfo": "",
     "Heading": 3,
+    "Health": 19200,
+    "ID": 12,
+    "KeepComponent_ID": "4c481c94-3c8b-47c7-8606-d2e5ef9b4c14",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 10,
+    "Y": 5
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 3,
     "Health": 33600,
     "ID": 22,
     "KeepComponent_ID": "4c5c26aa-1071-4c0c-8bc8-64a58dbe3342",
@@ -4918,6 +5014,18 @@
     "Skin": 9,
     "X": 5,
     "Y": 9
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 21,
+    "KeepComponent_ID": "4dc7f059-2c73-4e91-a4de-65cf09968e46",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 10,
+    "X": 253,
+    "Y": 5
   },
   {
     "CreateInfo": "",
@@ -5078,6 +5186,18 @@
   {
     "CreateInfo": "",
     "Heading": 3,
+    "Health": 30000,
+    "ID": 8,
+    "KeepComponent_ID": "4wqpf137-c6rg-atbv-xu7z-drrfclm9m794",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": 10,
+    "Y": -2
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 3,
     "Health": 40000,
     "ID": 7,
     "KeepComponent_ID": "4wuw7180-724b-rarw-6v81-6hq2kmmji567",
@@ -5097,6 +5217,18 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Skin": 21,
     "X": -2,
+    "Y": -6
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 30000,
+    "ID": 11,
+    "KeepComponent_ID": "4xadp120-5hau-zyug-49zw-dhfzoxe41443",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": -5,
     "Y": -6
   },
   {
@@ -6130,6 +6262,18 @@
     "Skin": 28,
     "X": -9,
     "Y": 8
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 30000,
+    "ID": 2,
+    "KeepComponent_ID": "5x8ce192-44gr-bubd-efe2-a9lf3bqck970",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": -2,
+    "Y": -6
   },
   {
     "CreateInfo": "",
@@ -8113,6 +8257,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 3,
+    "Health": 19200,
+    "ID": 5,
+    "KeepComponent_ID": "7b626562-51a3-40c6-a64c-0dc8fc13091e",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 4,
+    "X": 9,
+    "Y": 248
+  },
+  {
+    "CreateInfo": "",
     "Heading": 1,
     "Health": 11200,
     "ID": 3,
@@ -8530,6 +8686,18 @@
     "Skin": 8,
     "X": 250,
     "Y": 251
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 1,
+    "Health": 19200,
+    "ID": 9,
+    "KeepComponent_ID": "8054cd2b-d41a-464c-947b-47845e32e109",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 248,
+    "Y": 1
   },
   {
     "CreateInfo": "",
@@ -8977,6 +9145,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 17,
+    "KeepComponent_ID": "859eb6bd-9a13-4e61-be43-cd06745771a6",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 5,
+    "Y": 9
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 30000,
     "ID": 0,
@@ -9358,6 +9538,18 @@
     "Skin": 9,
     "X": 246,
     "Y": 253
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 15,
+    "KeepComponent_ID": "8ebaa6f1-0c82-4266-9735-d75800ec4db2",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 4,
+    "X": 12,
+    "Y": 8
   },
   {
     "CreateInfo": "",
@@ -10510,6 +10702,18 @@
     "Skin": 27,
     "X": -8,
     "Y": -15
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 3,
+    "Health": 19200,
+    "ID": 8,
+    "KeepComponent_ID": "9d33a607-3444-4c01-8cad-d800f1148ac4",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 10,
+    "Y": 2
   },
   {
     "CreateInfo": "",
@@ -14413,6 +14617,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 3,
+    "Health": 19200,
+    "ID": 7,
+    "KeepComponent_ID": "c204ebb3-4d75-48a6-a431-404f89120dfc",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 10,
+    "Y": 255
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 34400,
     "ID": 22,
@@ -14953,6 +15169,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 1,
+    "Health": 19200,
+    "ID": 14,
+    "KeepComponent_ID": "ccc3ac1b-3f6b-41d1-b5a6-59a0190f6e36",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 4,
+    "X": 249,
+    "Y": 11
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 30000,
     "ID": 0,
@@ -15046,6 +15274,18 @@
     "Skin": 6,
     "X": -1,
     "Y": 3
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 2,
+    "KeepComponent_ID": "ce214cd5-fd75-4642-ae24-9ab88b1cdb5d",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 250,
+    "Y": 250
   },
   {
     "CreateInfo": "",
@@ -15386,6 +15626,18 @@
   {
     "CreateInfo": "",
     "Heading": 0,
+    "Health": 30000,
+    "ID": 0,
+    "KeepComponent_ID": "d1w9r166-n318-tev7-uhdd-ij3yyzowb609",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 24,
+    "X": 1,
+    "Y": -3
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
     "Health": 39200,
     "ID": 2,
     "KeepComponent_ID": "d20aa291-c6dc-4db6-bc3e-e87b057a18b7",
@@ -15538,6 +15790,18 @@
     "Skin": 9,
     "X": 251,
     "Y": 248
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 1,
+    "Health": 19200,
+    "ID": 13,
+    "KeepComponent_ID": "d4e75e29-1fac-4054-9bb1-1c535da85317",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 248,
+    "Y": 7
   },
   {
     "CreateInfo": "",
@@ -16306,6 +16570,18 @@
     "Skin": 4,
     "X": 7,
     "Y": 245
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 3,
+    "Health": 19200,
+    "ID": 11,
+    "KeepComponent_ID": "e1379ba1-4a08-4a89-bb8e-3ac7cf8b4dcd",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 10,
+    "Y": 252
   },
   {
     "CreateInfo": "",
@@ -17677,6 +17953,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 2,
+    "Health": 19200,
+    "ID": 16,
+    "KeepComponent_ID": "f441cdb1-9f8e-4d8b-ba6e-2782b054d6ab",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 255,
+    "Y": 9
+  },
+  {
+    "CreateInfo": "",
     "Heading": 3,
     "Health": 20000,
     "ID": 7,
@@ -17842,6 +18130,18 @@
     "Skin": 25,
     "X": -8,
     "Y": -9
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 0,
+    "KeepComponent_ID": "f6c1316e-0655-47a2-b943-8f2c0312a2db",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 0,
+    "X": 253,
+    "Y": 251
   },
   {
     "CreateInfo": "",
@@ -18145,6 +18445,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 0,
+    "Health": 19200,
+    "ID": 4,
+    "KeepComponent_ID": "fb7c25a1-016b-4c21-ad84-148a7c5b2691",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 4,
+    "X": 246,
+    "Y": 251
+  },
+  {
+    "CreateInfo": "",
     "Heading": 3,
     "Health": 30000,
     "ID": 6,
@@ -18202,6 +18514,18 @@
     "Skin": 4,
     "X": 247,
     "Y": 248
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 1,
+    "Health": 19200,
+    "ID": 6,
+    "KeepComponent_ID": "fde44331-ea2e-44d6-9b8b-f18b5031a5d2",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 9,
+    "X": 248,
+    "Y": 254
   },
   {
     "CreateInfo": "",
@@ -18670,6 +18994,18 @@
     "Skin": 23,
     "X": 3,
     "Y": 12
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 1,
+    "Health": 30000,
+    "ID": 9,
+    "KeepComponent_ID": "hccdp161-px2k-97de-fyhc-niq6u9dw0310",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": -9,
+    "Y": 0
   },
   {
     "CreateInfo": "",
@@ -23365,6 +23701,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 2,
+    "Health": 30000,
+    "ID": 12,
+    "KeepComponent_ID": "rbm9f167-ep4b-9467-uh1w-q7l7e0zrf328",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": 6,
+    "Y": 7
+  },
+  {
+    "CreateInfo": "",
     "Heading": 0,
     "Health": 40000,
     "ID": 1,
@@ -23482,6 +23830,18 @@
     "Skin": 21,
     "X": -5,
     "Y": -9
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 2,
+    "Health": 30000,
+    "ID": 5,
+    "KeepComponent_ID": "rw31z121-8rws-ft8p-shzd-yfxv6nygy716",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 27,
+    "X": 13,
+    "Y": 4
   },
   {
     "CreateInfo": "",
@@ -23605,6 +23965,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 1,
+    "Health": 30000,
+    "ID": 6,
+    "KeepComponent_ID": "sw6v8185-19w1-3cyh-4gax-el7pwdgpj576",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 27,
+    "X": -6,
+    "Y": 10
+  },
+  {
+    "CreateInfo": "",
     "Heading": 2,
     "Health": 40000,
     "ID": 9,
@@ -23665,6 +24037,18 @@
   },
   {
     "CreateInfo": "",
+    "Heading": 1,
+    "Health": 30000,
+    "ID": 10,
+    "KeepComponent_ID": "ta95x144-s5ng-e1ch-m3gv-ay64zapvn437",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": -9,
+    "Y": 3
+  },
+  {
+    "CreateInfo": "",
     "Heading": 2,
     "Health": 30000,
     "ID": 16,
@@ -23686,6 +24070,18 @@
     "Skin": 32,
     "X": 7,
     "Y": -2
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 3,
+    "Health": 30000,
+    "ID": 7,
+    "KeepComponent_ID": "tbf47137-87tm-x7et-gnhu-762ae2zi5995",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 21,
+    "X": 10,
+    "Y": 1
   },
   {
     "CreateInfo": "",
@@ -24118,6 +24514,18 @@
     "Skin": 31,
     "X": -4,
     "Y": 6
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 0,
+    "Health": 30000,
+    "ID": 3,
+    "KeepComponent_ID": "vwxu9105-sdqp-kts7-rmhy-fjdqdg16j637",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 27,
+    "X": -12,
+    "Y": -3
   },
   {
     "CreateInfo": "",
@@ -24862,6 +25270,18 @@
     "Skin": 21,
     "X": 1,
     "Y": -8
+  },
+  {
+    "CreateInfo": "",
+    "Heading": 2,
+    "Health": 30000,
+    "ID": 1,
+    "KeepComponent_ID": "ywq59109-f8g6-14fc-un86-yg9eifeud379",
+    "KeepID": 138,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Skin": 30,
+    "X": 3,
+    "Y": 1
   },
   {
     "CreateInfo": "",
