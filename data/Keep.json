@@ -728,19 +728,19 @@
   {
     "AlbionDifficultyLevel": 1,
     "BaseLevel": 19,
-    "ClaimedGuildName": null,
+    "ClaimedGuildName": "",
     "CreateInfo": "",
     "Heading": 0,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 138,
     "KeepType": 14,
     "Keep_ID": "138",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
+    "LastTimeRowUpdated": "2022-11-03 21:08:48",
+    "Level": 4,
     "MidgardDifficultyLevel": 1,
     "Name": "Dun Killaloe",
     "OriginalRealm": 0,
-    "Realm": 0,
+    "Realm": 1,
     "Region": 237,
     "SkinType": 0,
     "X": 557067,
@@ -765,8 +765,8 @@
     "Realm": 1,
     "Region": 237,
     "SkinType": 0,
-    "X": 544726,
-    "Y": 582450,
+    "X": 544926,
+    "Y": 582050,
     "Z": 7700
   },
   {
@@ -787,8 +787,8 @@
     "Realm": 2,
     "Region": 237,
     "SkinType": 0,
-    "X": 584841,
-    "Y": 559325,
+    "X": 584941,
+    "Y": 559525,
     "Z": 8288
   },
   {
@@ -809,8 +809,8 @@
     "Realm": 3,
     "Region": 237,
     "SkinType": 0,
-    "X": 534997,
-    "Y": 537319,
+    "X": 535200,
+    "Y": 537669,
     "Z": 8000
   },
   {

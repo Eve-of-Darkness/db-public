@@ -8,11 +8,11 @@
     "RegionID": 239
   },
   {
-    "Battleground_ID": "Drizzle (Level 45-50)",
+    "Battleground_ID": "Killaloe (Level 15-19)",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "MaxLevel": 50,
-    "MaxRealmLevel": 130,
-    "MinLevel": 45,
+    "MaxLevel": 19,
+    "MaxRealmLevel": 0,
+    "MinLevel": 15,
     "RegionID": 237
   },
   {
