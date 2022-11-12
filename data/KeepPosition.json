@@ -765,21 +765,6 @@
     "ZOff": 0
   },
   {
-    "ClassType": "DOL.GS.Keeps.GameKeepDoor",
-    "ComponentRotation": 2,
-    "ComponentSkin": 10,
-    "HOff": -1494,
-    "Height": 0,
-    "KeepPosition_ID": "3cb8a46c-7ac0-4511-a8e9-a782ad79fe41",
-    "KeepType": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "TemplateID": "acd90407-e969-4b38-8ad1-a46c23e819e1",
-    "TemplateType": 1,
-    "XOff": 155181,
-    "YOff": -93037,
-    "ZOff": -5880
-  },
-  {
     "ClassType": "DOL.GS.Keeps.GuardCaster",
     "ComponentRotation": 0,
     "ComponentSkin": 27,
@@ -808,21 +793,6 @@
     "XOff": 297,
     "YOff": -824,
     "ZOff": 577
-  },
-  {
-    "ClassType": "DOL.GS.Keeps.GameKeepDoor",
-    "ComponentRotation": 2,
-    "ComponentSkin": 10,
-    "HOff": 13,
-    "Height": 0,
-    "KeepPosition_ID": "3ede3538-9e0c-43a1-b7c0-f5565d0fed70",
-    "KeepType": 0,
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "TemplateID": "85ce99db-50b0-45f4-a8eb-9ec075ebc22d",
-    "TemplateType": 1,
-    "XOff": -433701,
-    "YOff": 574589,
-    "ZOff": 6523
   },
   {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
@@ -3057,6 +3027,21 @@
     "TemplateType": 0,
     "XOff": 319,
     "YOff": -933,
+    "ZOff": 0
+  },
+  {
+    "ClassType": "DOL.GS.Keeps.GameKeepDoor",
+    "ComponentRotation": 2,
+    "ComponentSkin": 10,
+    "HOff": 981,
+    "Height": 0,
+    "KeepPosition_ID": "5684d13f-e71e-4eb7-941b-02a06939084e",
+    "KeepType": 0,
+    "LastTimeRowUpdated": "2022-11-12 09:54:57",
+    "TemplateID": "7eb9b654-5665-4c6e-a086-dc619b97ca59",
+    "TemplateType": 1,
+    "XOff": 980,
+    "YOff": -490,
     "ZOff": 0
   }
 ]
