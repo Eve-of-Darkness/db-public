@@ -2637,5 +2637,117 @@
     "PathType": 1,
     "Path_ID": "hib38",
     "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Ailinne_Arvakr_Hurbury_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "0819d70a-cbd2-48df-bc01-3b7471335443",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "DaBehnn_Blendrake_Sursbrooke_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "dd66f50d-e566-4fa6-8ff2-31ad4a1415c4",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Scathaig_Fensalir_Renaris_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "febf1eba-9bb4-409a-a3ce-f3e130c3c379",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "nGed_Glenlock_Boldiam_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "6bbd7489-6ae3-43aa-9167-7fdde136774e",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Bolg_Hlidskialf_Erasleigh_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "eaf52023-6ece-4861-bd46-cb9f11c26ecc",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Crimthain_Nottmoor_Berkstead_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "96df5c05-45d8-423b-9a33-50a63fd649bc",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Crauchon_Bledmeer_Benowyc_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "b7f45b6c-bdee-495d-8feb-be59d1894ec2",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Tower_Patrol_new",
+    "PathType": 3,
+    "Path_ID": "fd460259-128b-4faf-8b6a-c94c18cc6522",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Scathaig_Fensalir_Renaris_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "0b90928b-9433-402e-8871-3d4a0ad4d9b7",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Ailinne_Arvakr_Hurbury_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "9fab4065-6b43-4062-89d3-a860385055cd",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "DaBehnn_Blendrake_Sursbrooke_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "61bdcc2c-3afa-4844-8695-567dae3e34ab",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "nGed_Glenlock_Boldiam_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "95537d31-9ca3-45d7-b641-c57fea40386c",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Bolg_Hlidskialf_Erasleigh_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "e3e98612-c71c-4067-b575-db6f71f0930e",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Crimthain_Nottmoor_Berkstead_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "2c1aa6f1-a127-4824-8d89-b66fb9296cfe",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Crauchon_Bledmeer_Benowyc_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "7e1be036-a954-4abb-a0e0-1427a7aa249d",
+    "RegionID": 0
+  },
+  {
+    "LastTimeRowUpdated": "2022-11-14 17:33:37",
+    "PathID": "Tower_Patrol_old",
+    "PathType": 3,
+    "Path_ID": "6e970ee4-02a8-4c44-87b7-ac1c6b32a12f",
+    "RegionID": 0
   }
 ]
