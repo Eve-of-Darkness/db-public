@@ -75,20 +75,14 @@ func getTables(dbProvider dbProvider) []string {
 }
 
 func getMobJSON(expansion int, dbProvider dbProvider) error {
-	var db = dbProvider.getConnection()
-	stmt, err := db.Prepare("SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = " + fmt.Sprint(expansion))
-	if err != nil {
-		return err
-	}
-	defer stmt.Close()
-
-	buildJSON(stmt, "Mob."+fmt.Sprint(expansion), dbProvider.getPrimaryKey("Mob"))
+	rows := query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
+	defer rows.Close()
+	buildJSON(rows, "Mob."+fmt.Sprint(expansion), dbProvider.getPrimaryKey("Mob"))
 
 	return nil
 }
 
 func getJSON(table string, dbProvider dbProvider) error {
-	var db = dbProvider.getConnection()
 	schemaFiles := getFiles("schema_mysql")
 	foundSchemaFile := false
 	var schemaFile string
@@ -112,17 +106,29 @@ func getJSON(table string, dbProvider dbProvider) error {
 		return nil
 	}
 
-	stmt, err := db.Prepare("SELECT * FROM " + table)
+	var primaryKeyName = dbProvider.getPrimaryKey(table)
+	rows := query(dbProvider, "SELECT * FROM "+table)
+	defer rows.Close()
+	buildJSON(rows, schemaFile, primaryKeyName)
 
+	return nil
+}
+
+func query(dbProvider dbProvider, queryStr string) *sql.Rows {
+	var db = dbProvider.getConnection()
+
+	stmt, err := db.Prepare(queryStr)
 	if err != nil {
-		return err
+		panic(err)
 	}
 	defer stmt.Close()
 
-	var primaryKeyName = dbProvider.getPrimaryKey(table)
-	buildJSON(stmt, schemaFile, primaryKeyName)
+	rows, err := stmt.Query()
+	if err != nil {
+		panic(err)
+	}
 
-	return nil
+	return rows
 }
 
 func convertDbEntryToJson(v interface{}) interface{} {
@@ -137,13 +143,7 @@ func convertDbEntryToJson(v interface{}) interface{} {
 	return v
 }
 
-func buildJSON(stmt *sql.Stmt, fileName string, primaryKeyName string) {
-	rows, err := stmt.Query()
-	if err != nil {
-		panic(err)
-	}
-	defer rows.Close()
-
+func buildJSON(rows *sql.Rows, fileName string, primaryKeyName string) {
 	columns, err := rows.Columns()
 	if err != nil {
 		panic(err)
