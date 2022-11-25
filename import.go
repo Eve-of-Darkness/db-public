@@ -9,6 +9,7 @@ import (
 	"log"
 	"os"
 	"regexp"
+	"sort"
 	"strconv"
 	"strings"
 	"time"
@@ -26,20 +27,19 @@ func importToJson() {
 		panic(fmt.Errorf("fatal error config file: %s", err))
 	}
 
-	var db *sql.DB
 	var dbProvider dbProvider
 	if viper.GetString("db.file_path") != "" {
 		dbProvider = new(sqliteProvider)
 	} else {
 		dbProvider = new(mysqlProvider)
 	}
-	db = dbProvider.getConnection()
+	dbProvider.getConnection()
 	defer dbProvider.closeConnection()
 
 	tables := getTables(dbProvider)
 
 	for index, table := range tables {
-		err := getJSON(table, db)
+		err := getJSON(table, dbProvider)
 		if err != nil {
 			fmt.Printf("Failed to get json")
 			return
@@ -75,19 +75,21 @@ func getTables(dbProvider dbProvider) []string {
 	return s
 }
 
-func getMobJSON(expansion int, db *sql.DB) error {
+func getMobJSON(expansion int, dbProvider dbProvider) error {
+	var db = dbProvider.getConnection()
 	stmt, err := db.Prepare("SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = " + fmt.Sprint(expansion))
 	if err != nil {
 		return err
 	}
 	defer stmt.Close()
 
-	buildJSON(stmt, "Mob."+fmt.Sprint(expansion))
+	buildJSON(stmt, "Mob."+fmt.Sprint(expansion), dbProvider.getPrimaryKey("Mob"))
 
 	return nil
 }
 
-func getJSON(table string, db *sql.DB) error {
+func getJSON(table string, dbProvider dbProvider) error {
+	var db = dbProvider.getConnection()
 	schemaFiles := getFiles("schema_mysql")
 	foundSchemaFile := false
 	var schemaFile string
@@ -106,18 +108,20 @@ func getJSON(table string, db *sql.DB) error {
 	//Handle partitioned Mob table
 	if schemaFile == "Mob" {
 		for i := 0; i <= 6; i++ {
-			getMobJSON(i, db)
+			getMobJSON(i, dbProvider)
 		}
 		return nil
 	}
 
 	stmt, err := db.Prepare("SELECT * FROM " + table)
+
 	if err != nil {
 		return err
 	}
 	defer stmt.Close()
 
-	buildJSON(stmt, schemaFile)
+	var primaryKeyName = dbProvider.getPrimaryKey(table)
+	buildJSON(stmt, schemaFile, primaryKeyName)
 
 	return nil
 }
@@ -134,7 +138,7 @@ func convertDbEntryToJson(v interface{}) interface{} {
 	return v
 }
 
-func buildJSON(stmt *sql.Stmt, fileName string) {
+func buildJSON(stmt *sql.Stmt, fileName string, primaryKeyName string) {
 	rows, err := stmt.Query()
 	if err != nil {
 		panic(err)
@@ -150,6 +154,7 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 	tableData := make([]map[string]interface{}, 0)
 	values := make([]interface{}, count)
 	valuePtrs := make([]interface{}, count)
+
 	for rows.Next() {
 		for i := 0; i < count; i++ {
 			valuePtrs[i] = &values[i]
@@ -159,12 +164,15 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 		for i, col := range columns {
 			entry[col] = convertDbEntryToJson(values[i])
 		}
+
 		tableData = append(tableData, entry)
 	}
 
 	if len(tableData) == 0 {
 		return
 	}
+
+	sortTableData(tableData, primaryKeyName)
 
 	jsonData, err := json.MarshalIndent(tableData, "", "  ")
 	if err != nil {
@@ -193,4 +201,15 @@ func buildJSON(stmt *sql.Stmt, fileName string) {
 	if err != nil {
 		panic(err)
 	}
+}
+
+func sortTableData(tableData []map[string]interface{}, primaryKeyName string) {
+	sort.Slice(tableData, func(i, j int) bool {
+		if _, ok := tableData[i][primaryKeyName].(int64); ok {
+			return tableData[i][primaryKeyName].(int64) < tableData[j][primaryKeyName].(int64)
+		} else if _, ok := tableData[i][primaryKeyName].(string); ok {
+			return strings.ToLower(tableData[i][primaryKeyName].(string)) < strings.ToLower(tableData[j][primaryKeyName].(string))
+		}
+		panic("Primary key " + primaryKeyName + " is neither string nor int.")
+	})
 }

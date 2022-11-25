@@ -11,6 +11,7 @@ type dbProvider interface {
 	createConnection()
 	getConnection() *sql.DB
 	getAllTables() *sql.Rows
+	getPrimaryKey(tableName string) string
 	closeConnection()
 }
 
@@ -44,6 +45,17 @@ func (provider *sqliteProvider) getAllTables() *sql.Rows {
 	return rows
 }
 
+func (provider *sqliteProvider) getPrimaryKey(tableName string) string {
+	db := provider.getConnection()
+	var rows *sql.Rows
+	rows, _ = db.Query("select name from pragma_table_info( '" + tableName + "' ) where pk = 1")
+	defer rows.Close()
+	var primaryKey string
+	rows.Next()
+	rows.Scan(&primaryKey)
+	return primaryKey
+}
+
 func (provider *sqliteProvider) closeConnection() {
 	provider.db.Close()
 }
@@ -53,10 +65,14 @@ type mysqlProvider struct {
 }
 
 func (provider *mysqlProvider) createConnection() {
+	dbUser := viper.GetString("db.user")
+	dbPasswort := viper.GetString("db.password")
+	dbHost := viper.GetString("db.host")
+	dbPort := viper.GetString("db.port")
+	dbDatabase := viper.GetString("db.database")
 	db, err := sql.Open(
 		"mysql",
-		viper.GetString("db.user")+":"+viper.GetString("db.password")+"@tcp("+viper.GetString("db.host")+":"+viper.GetString("db.port")+")/"+viper.GetString("db.database"))
-
+		dbUser+":"+dbPasswort+"@tcp("+dbHost+":"+dbPort+")/"+dbDatabase)
 	if err != nil {
 		panic(fmt.Errorf("failed to connect to database"))
 	}
@@ -76,6 +92,31 @@ func (provider *mysqlProvider) getAllTables() *sql.Rows {
 		panic(fmt.Errorf("failed to get tables: %v", err))
 	}
 	return rows
+}
+
+func (provider *mysqlProvider) getPrimaryKey(tableName string) string {
+	db := provider.getConnection()
+	var rows *sql.Rows
+	rows, _ = db.Query("SHOW INDEX FROM `" + tableName + "` where Key_name='PRIMARY'")
+	defer rows.Close()
+
+	columns, _ := rows.Columns()
+	count := len(columns)
+	values := make([]interface{}, count)
+	valuePtrs := make([]interface{}, count)
+	for rows.Next() {
+		for i := 0; i < count; i++ {
+			valuePtrs[i] = &values[i]
+		}
+		rows.Scan(valuePtrs...)
+		for i, col := range columns {
+			if col == "Column_name" {
+				return fmt.Sprintf("%s", values[i])
+			}
+		}
+	}
+
+	panic("No primary key for " + tableName + " found!")
 }
 
 func (provider *mysqlProvider) closeConnection() {
