@@ -11,7 +11,7 @@ type dbProvider interface {
 	createConnection()
 	getConnection() *sql.DB
 	getAllTables() *sql.Rows
-	getPrimaryKey(tableName string) string
+	getPrimaryKeyColumn(tableName string) string
 	closeConnection()
 }
 
@@ -45,7 +45,7 @@ func (provider *sqliteProvider) getAllTables() *sql.Rows {
 	return rows
 }
 
-func (provider *sqliteProvider) getPrimaryKey(tableName string) string {
+func (provider *sqliteProvider) getPrimaryKeyColumn(tableName string) string {
 	db := provider.getConnection()
 	var rows *sql.Rows
 	rows, _ = db.Query("select name from pragma_table_info( '" + tableName + "' ) where pk = 1")
@@ -94,7 +94,7 @@ func (provider *mysqlProvider) getAllTables() *sql.Rows {
 	return rows
 }
 
-func (provider *mysqlProvider) getPrimaryKey(tableName string) string {
+func (provider *mysqlProvider) getPrimaryKeyColumn(tableName string) string {
 	db := provider.getConnection()
 	var rows *sql.Rows
 	rows, _ = db.Query("SHOW INDEX FROM `" + tableName + "` where Key_name='PRIMARY'")

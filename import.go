@@ -74,12 +74,11 @@ func getTables(dbProvider dbProvider) []string {
 	return s
 }
 
-func getMobJSON(expansion int, dbProvider dbProvider) error {
+func getMobJSON(expansion int, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
-	buildJSON(rows, "Mob."+fmt.Sprint(expansion), dbProvider.getPrimaryKey("Mob"))
-
-	return nil
+	var tableData = convertRowsToTableData(rows, dbProvider.getPrimaryKeyColumn("Mob"))
+	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
 func getJSON(table string, dbProvider dbProvider) error {
@@ -106,10 +105,11 @@ func getJSON(table string, dbProvider dbProvider) error {
 		return nil
 	}
 
-	var primaryKeyName = dbProvider.getPrimaryKey(table)
+	var primaryKeyColumn = dbProvider.getPrimaryKeyColumn(table)
 	rows := query(dbProvider, "SELECT * FROM "+table)
 	defer rows.Close()
-	buildJSON(rows, schemaFile, primaryKeyName)
+	var tableData = convertRowsToTableData(rows, primaryKeyColumn)
+	writeJSON(tableData, schemaFile)
 
 	return nil
 }
@@ -131,19 +131,7 @@ func query(dbProvider dbProvider, queryStr string) *sql.Rows {
 	return rows
 }
 
-func convertDbEntryToJson(v interface{}) interface{} {
-	if dateTime, ok := v.(time.Time); ok {
-		v = dateTime.Format("2006-01-02 15:04:05")
-	} else if str, ok := v.(string); ok {
-		str = strings.Replace(str, `"`, `\"`, -1)
-		v, _ = strconv.Unquote(`"` + str + `"`)
-	} else if byteSlice, ok := v.([]byte); ok {
-		v = string(byteSlice)
-	}
-	return v
-}
-
-func buildJSON(rows *sql.Rows, fileName string, primaryKeyName string) {
+func convertRowsToTableData(rows *sql.Rows, primaryKeyName string) []map[string]any {
 	columns, err := rows.Columns()
 	if err != nil {
 		panic(err)
@@ -167,11 +155,27 @@ func buildJSON(rows *sql.Rows, fileName string, primaryKeyName string) {
 		tableData = append(tableData, entry)
 	}
 
+	sortTableData(tableData, primaryKeyName)
+
+	return tableData
+}
+
+func convertDbEntryToJson(v interface{}) interface{} {
+	if dateTime, ok := v.(time.Time); ok {
+		v = dateTime.Format("2006-01-02 15:04:05")
+	} else if str, ok := v.(string); ok {
+		str = strings.Replace(str, `"`, `\"`, -1)
+		v, _ = strconv.Unquote(`"` + str + `"`)
+	} else if byteSlice, ok := v.([]byte); ok {
+		v = string(byteSlice)
+	}
+	return v
+}
+
+func writeJSON(tableData []map[string]any, fileName string) {
 	if len(tableData) == 0 {
 		return
 	}
-
-	sortTableData(tableData, primaryKeyName)
 
 	jsonData, err := json.MarshalIndent(tableData, "", "  ")
 	if err != nil {
