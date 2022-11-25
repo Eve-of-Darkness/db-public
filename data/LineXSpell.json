@@ -22817,54 +22817,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_alvarus1 ",
-    "PackageID": "Artifacts",
-    "SpellID": 29996
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_alvarus2",
-    "PackageID": "Artifacts",
-    "SpellID": 29997
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_cloudsong1",
-    "PackageID": "Artifacts",
-    "SpellID": 30220
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 45,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_cloudsong2",
-    "PackageID": "Artifacts",
-    "SpellID": 30221
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 50,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_gov_1",
-    "PackageID": "Artifacts",
-    "SpellID": 30100
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 50,
-    "LineName": "Item Effects",
-    "LineXSpell_ID": "artifactx_gov_2",
-    "PackageID": "Artifacts",
-    "SpellID": 30101
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 49,
     "LineName": "Item Effects",
     "LineXSpell_ID": "artifact_xspell_1",
@@ -23686,6 +23638,54 @@
     "LineXSpell_ID": "artifact_xspell_99",
     "PackageID": "Artifacts",
     "SpellID": 30199
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 45,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_alvarus1 ",
+    "PackageID": "Artifacts",
+    "SpellID": 29996
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 45,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_alvarus2",
+    "PackageID": "Artifacts",
+    "SpellID": 29997
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 45,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_cloudsong1",
+    "PackageID": "Artifacts",
+    "SpellID": 30220
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 45,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_cloudsong2",
+    "PackageID": "Artifacts",
+    "SpellID": 30221
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 50,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_gov_1",
+    "PackageID": "Artifacts",
+    "SpellID": 30100
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 50,
+    "LineName": "Item Effects",
+    "LineXSpell_ID": "artifactx_gov_2",
+    "PackageID": "Artifacts",
+    "SpellID": 30101
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -32169,14 +32169,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 50,
-    "LineName": "Mob Spells",
-    "LineXSpell_ID": "dragonspell",
-    "PackageID": null,
-    "SpellID": 6014
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Dragon Magic",
     "LineXSpell_ID": "dragon_linexspell_breath",
@@ -32222,6 +32214,14 @@
     "LineXSpell_ID": "dragon_linexspell_volcanic",
     "PackageID": null,
     "SpellID": 6003
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 50,
+    "LineName": "Mob Spells",
+    "LineXSpell_ID": "dragonspell",
+    "PackageID": null,
+    "SpellID": 6014
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -37481,6 +37481,30 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 40,
+    "LineName": "Potions",
+    "LineXSpell_ID": "Greater_Elixir_of_Instant_Endurance",
+    "PackageID": "",
+    "SpellID": 31046
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 40,
+    "LineName": "Potions",
+    "LineXSpell_ID": "Greater_Elixir_of_Instant_Healing",
+    "PackageID": "",
+    "SpellID": 31045
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 40,
+    "LineName": "Potions",
+    "LineXSpell_ID": "Greater_Elixir_of_Instant_Power",
+    "PackageID": "",
+    "SpellID": 31047
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 20,
     "LineName": "Beastcraft",
     "LineXSpell_ID": "greatercallgleipnir",
@@ -37518,30 +37542,6 @@
     "LineXSpell_ID": "greatertoxicvenomproc",
     "PackageID": null,
     "SpellID": 25636
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 40,
-    "LineName": "Potions",
-    "LineXSpell_ID": "Greater_Elixir_of_Instant_Endurance",
-    "PackageID": "",
-    "SpellID": 31046
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 40,
-    "LineName": "Potions",
-    "LineXSpell_ID": "Greater_Elixir_of_Instant_Healing",
-    "PackageID": "",
-    "SpellID": 31045
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 40,
-    "LineName": "Potions",
-    "LineXSpell_ID": "Greater_Elixir_of_Instant_Power",
-    "PackageID": "",
-    "SpellID": 31047
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -37945,6 +37945,30 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "heretic_proc_1",
+    "PackageID": null,
+    "SpellID": 20102
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "heretic_proc_2",
+    "PackageID": null,
+    "SpellID": 20103
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "heretic_proc_3",
+    "PackageID": null,
+    "SpellID": 20104
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 25,
     "LineName": "Heretic Enhancement Spec",
     "LineXSpell_ID": "HereticReactproc1",
@@ -37982,30 +38006,6 @@
     "LineXSpell_ID": "HereticReactProc5",
     "PackageID": null,
     "SpellID": 15004
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "heretic_proc_1",
-    "PackageID": null,
-    "SpellID": 20102
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "heretic_proc_2",
-    "PackageID": null,
-    "SpellID": 20103
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "heretic_proc_3",
-    "PackageID": null,
-    "SpellID": 20104
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -38561,6 +38561,86 @@
   },
   {
     "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 4,
+    "LineName": "Champion Midgard Rogue 1",
+    "LineXSpell_ID": "m_rogue_column1_row4",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45010
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 5,
+    "LineName": "Champion Midgard Rogue 1",
+    "LineXSpell_ID": "m_rogue_column1_row5",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45011
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 2,
+    "LineName": "Champion Midgard Rogue 2",
+    "LineXSpell_ID": "m_rogue_column2_row2",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45013
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 5,
+    "LineName": "Champion Midgard Rogue 2",
+    "LineXSpell_ID": "m_rogue_column2_row5",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45014
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 3,
+    "LineName": "Champion Midgard Rogue 3",
+    "LineXSpell_ID": "m_rogue_column3-4_row3",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45012
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 4,
+    "LineName": "Champion Midgard Rogue 3",
+    "LineXSpell_ID": "m_rogue_column3-4_row4",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45015
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 5,
+    "LineName": "Champion Midgard Rogue 3",
+    "LineXSpell_ID": "m_rogue_column3-4_row5",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45016
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 3,
+    "LineName": "Champion Midgard Rogue 4",
+    "LineXSpell_ID": "m_rogue_column4_row3",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45012
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 4,
+    "LineName": "Champion Midgard Rogue 4",
+    "LineXSpell_ID": "m_rogue_column4_row4",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45015
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
+    "Level": 5,
+    "LineName": "Champion Midgard Rogue 4",
+    "LineXSpell_ID": "m_rogue_column4_row5",
+    "PackageID": "NEWCLSYSTEM",
+    "SpellID": 45016
+  },
+  {
+    "LastTimeRowUpdated": "2014-10-26 15:23:16",
     "Level": 1,
     "LineName": "Champion Mage 1",
     "LineXSpell_ID": "mage_column1_row1",
@@ -39086,6 +39166,142 @@
     "LineXSpell_ID": "Mauler10SnareStyle",
     "PackageID": null,
     "SpellID": 20049
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x1",
+    "PackageID": null,
+    "SpellID": 20060
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x10",
+    "PackageID": null,
+    "SpellID": 20069
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x11",
+    "PackageID": null,
+    "SpellID": 20070
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x12",
+    "PackageID": null,
+    "SpellID": 20071
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x13",
+    "PackageID": null,
+    "SpellID": 20072
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x14",
+    "PackageID": null,
+    "SpellID": 20073
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x15",
+    "PackageID": null,
+    "SpellID": 20074
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x16",
+    "PackageID": null,
+    "SpellID": 20075
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x17",
+    "PackageID": null,
+    "SpellID": 20076
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x2",
+    "PackageID": null,
+    "SpellID": 20061
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x3",
+    "PackageID": null,
+    "SpellID": 20062
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x4",
+    "PackageID": null,
+    "SpellID": 20063
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x5",
+    "PackageID": null,
+    "SpellID": 20064
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x6",
+    "PackageID": null,
+    "SpellID": 20065
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x7",
+    "PackageID": null,
+    "SpellID": 20066
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x8",
+    "PackageID": null,
+    "SpellID": 20067
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 0,
+    "LineName": "Combat Style Effects",
+    "LineXSpell_ID": "mauler_style_x9",
+    "PackageID": null,
+    "SpellID": 20068
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -40073,142 +40289,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x1",
-    "PackageID": null,
-    "SpellID": 20060
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x10",
-    "PackageID": null,
-    "SpellID": 20069
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x11",
-    "PackageID": null,
-    "SpellID": 20070
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x12",
-    "PackageID": null,
-    "SpellID": 20071
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x13",
-    "PackageID": null,
-    "SpellID": 20072
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x14",
-    "PackageID": null,
-    "SpellID": 20073
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x15",
-    "PackageID": null,
-    "SpellID": 20074
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x16",
-    "PackageID": null,
-    "SpellID": 20075
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x17",
-    "PackageID": null,
-    "SpellID": 20076
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x2",
-    "PackageID": null,
-    "SpellID": 20061
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x3",
-    "PackageID": null,
-    "SpellID": 20062
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x4",
-    "PackageID": null,
-    "SpellID": 20063
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x5",
-    "PackageID": null,
-    "SpellID": 20064
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x6",
-    "PackageID": null,
-    "SpellID": 20065
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x7",
-    "PackageID": null,
-    "SpellID": 20066
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x8",
-    "PackageID": null,
-    "SpellID": 20067
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 0,
-    "LineName": "Combat Style Effects",
-    "LineXSpell_ID": "mauler_style_x9",
-    "PackageID": null,
-    "SpellID": 20068
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 50,
     "LineName": "Item Effects",
     "LineXSpell_ID": "medinas belt",
@@ -40497,6 +40577,22 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 21,
+    "LineName": "Instruments",
+    "LineXSpell_ID": "mins_charm2",
+    "PackageID": "Minstrel",
+    "SpellID": 25557
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 31,
+    "LineName": "Instruments",
+    "LineXSpell_ID": "mins_charm3",
+    "PackageID": "Minstrel",
+    "SpellID": 25558
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 10,
     "LineName": "Instruments",
     "LineXSpell_ID": "MinstrelWater10",
@@ -40526,22 +40622,6 @@
     "LineXSpell_ID": "MinstrelWater40",
     "PackageID": null,
     "SpellID": 7513
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 21,
-    "LineName": "Instruments",
-    "LineXSpell_ID": "mins_charm2",
-    "PackageID": "Minstrel",
-    "SpellID": 25557
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 31,
-    "LineName": "Instruments",
-    "LineXSpell_ID": "mins_charm3",
-    "PackageID": "Minstrel",
-    "SpellID": 25558
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -41430,86 +41510,6 @@
     "LineXSpell_ID": "mystic_column6_row5",
     "PackageID": "NEWCLSYSTEM",
     "SpellID": 33076
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 4,
-    "LineName": "Champion Midgard Rogue 1",
-    "LineXSpell_ID": "m_rogue_column1_row4",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45010
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 5,
-    "LineName": "Champion Midgard Rogue 1",
-    "LineXSpell_ID": "m_rogue_column1_row5",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45011
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 2,
-    "LineName": "Champion Midgard Rogue 2",
-    "LineXSpell_ID": "m_rogue_column2_row2",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45013
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 5,
-    "LineName": "Champion Midgard Rogue 2",
-    "LineXSpell_ID": "m_rogue_column2_row5",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45014
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 3,
-    "LineName": "Champion Midgard Rogue 3",
-    "LineXSpell_ID": "m_rogue_column3-4_row3",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45012
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 4,
-    "LineName": "Champion Midgard Rogue 3",
-    "LineXSpell_ID": "m_rogue_column3-4_row4",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45015
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 5,
-    "LineName": "Champion Midgard Rogue 3",
-    "LineXSpell_ID": "m_rogue_column3-4_row5",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45016
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 3,
-    "LineName": "Champion Midgard Rogue 4",
-    "LineXSpell_ID": "m_rogue_column4_row3",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45012
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 4,
-    "LineName": "Champion Midgard Rogue 4",
-    "LineXSpell_ID": "m_rogue_column4_row4",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45015
-  },
-  {
-    "LastTimeRowUpdated": "2014-10-26 15:23:16",
-    "Level": 5,
-    "LineName": "Champion Midgard Rogue 4",
-    "LineXSpell_ID": "m_rogue_column4_row5",
-    "PackageID": "NEWCLSYSTEM",
-    "SpellID": 45016
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -43443,17 +43443,17 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Mob Spells",
-    "LineXSpell_ID": "PetHealthReg",
+    "LineXSpell_ID": "pet_stun",
     "PackageID": null,
-    "SpellID": 60014
+    "SpellID": 2165
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 1,
     "LineName": "Mob Spells",
-    "LineXSpell_ID": "pet_stun",
+    "LineXSpell_ID": "PetHealthReg",
     "PackageID": null,
-    "SpellID": 2165
+    "SpellID": 60014
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -43993,19 +43993,19 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 39,
-    "LineName": "Nurture",
-    "LineXSpell_ID": "RedwoodsResilence39",
-    "PackageID": "Freyad_DB",
-    "SpellID": 5037
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 0,
     "LineName": "Potions",
     "LineXSpell_ID": "red_simulacrum_potion",
     "PackageID": null,
     "SpellID": 15562
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 39,
+    "LineName": "Nurture",
+    "LineXSpell_ID": "RedwoodsResilence39",
+    "PackageID": "Freyad_DB",
+    "SpellID": 5037
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -45193,14 +45193,6 @@
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 32,
-    "LineName": "Beastcraft",
-    "LineXSpell_ID": "superiorcallgleipnir",
-    "PackageID": "Hunter",
-    "SpellID": 3555
-  },
-  {
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Level": 40,
     "LineName": "Potions",
     "LineXSpell_ID": "Superior_Elixir_of_Instant_Endurance",
@@ -45222,6 +45214,14 @@
     "LineXSpell_ID": "Superior_Elixir_of_Instant_Power",
     "PackageID": "",
     "SpellID": 31050
+  },
+  {
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Level": 32,
+    "LineName": "Beastcraft",
+    "LineXSpell_ID": "superiorcallgleipnir",
+    "PackageID": "Hunter",
+    "SpellID": 3555
   },
   {
     "LastTimeRowUpdated": "2000-01-01 00:00:00",

@@ -2370,6 +2370,46 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "0_Demon_Bound_Bracelet",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "0_Demon_Bound_Bracelet",
+    "TemplateName": "rocot"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "0_Demon_Bound_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "0_Demon_Bound_Bracer",
+    "TemplateName": "rocot"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "0_Demon_Bound_Choker",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "0_Demon_Bound_Choker",
+    "TemplateName": "rocot"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "0_Demon_Bound_Jewel",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "0_Demon_Bound_Jewel",
+    "TemplateName": "rocot"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "0_Demon_Bound_Wrap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "0_Demon_Bound_Wrap",
+    "TemplateName": "rocot"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Siabrian_Mystic_Shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "0a00969f-ad0b-46c0-921b-1485d09a276d",
@@ -3510,46 +3550,6 @@
     "LastTimeRowUpdated": "2018-01-27 16:11:29",
     "LootTemplate_ID": "0ff378ad-bf50-4b30-a322-4cc9608e6350",
     "TemplateName": "Mutilator Xagalith"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "0_Demon_Bound_Bracelet",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0_Demon_Bound_Bracelet",
-    "TemplateName": "rocot"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "0_Demon_Bound_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0_Demon_Bound_Bracer",
-    "TemplateName": "rocot"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "0_Demon_Bound_Choker",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0_Demon_Bound_Choker",
-    "TemplateName": "rocot"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "0_Demon_Bound_Jewel",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0_Demon_Bound_Jewel",
-    "TemplateName": "rocot"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "0_Demon_Bound_Wrap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "0_Demon_Bound_Wrap",
-    "TemplateName": "rocot"
   },
   {
     "Chance": 40,
@@ -5914,6 +5914,38 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Directors_Ring_of_Anarchy",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "1_Directors_Ring_of_Anarchy",
+    "TemplateName": "Director Kobil"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Directors_Ring_of_Bedlam",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "1_Directors_Ring_of_Bedlam",
+    "TemplateName": "Director Kobil"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Directors_Ring_of_Chaos",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "1_Directors_Ring_of_Chaos",
+    "TemplateName": "Director Kobil"
+  },
+  {
+    "Chance": 5,
+    "Count": 0,
+    "ItemTemplateID": "1_Directors_Ring_of_Oblivion",
+    "LastTimeRowUpdated": "2014-01-01 00:00:00",
+    "LootTemplate_ID": "1_Directors_Ring_of_Oblivion",
+    "TemplateName": "Director Kobil"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Spirit_Staff_of_the_Indomitable",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1a134029-ec62-4557-853b-3e6619180ec4",
@@ -7182,38 +7214,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "1Yellow_Curmudgeon_Tooth",
     "TemplateName": "Curmudgeon Puggard"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Directors_Ring_of_Anarchy",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1_Directors_Ring_of_Anarchy",
-    "TemplateName": "Director Kobil"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Directors_Ring_of_Bedlam",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1_Directors_Ring_of_Bedlam",
-    "TemplateName": "Director Kobil"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Directors_Ring_of_Chaos",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "1_Directors_Ring_of_Chaos",
-    "TemplateName": "Director Kobil"
-  },
-  {
-    "Chance": 5,
-    "Count": 0,
-    "ItemTemplateID": "1_Directors_Ring_of_Oblivion",
-    "LastTimeRowUpdated": "2014-01-01 00:00:00",
-    "LootTemplate_ID": "1_Directors_Ring_of_Oblivion",
-    "TemplateName": "Director Kobil"
   },
   {
     "Chance": 15,
@@ -90816,6 +90816,1062 @@
     "TemplateName": "bwgwl"
   },
   {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathLustrous_Glimmer_Spirit_Sword",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMasterful_Moonglade_Gauntlets",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Melodic Moonglade Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMelodic Moonglade Gauntlets",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Helm",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Helm",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Leggings",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Sleeves",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Vest",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical_Moonglade_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathMystical_Moonglade_Boots",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Potent_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathPotent_Deathwatcher_Chain",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Enchantment",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Mentalism",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Shrieking",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Shrieking",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathSeolc_Cap_of_the_Void",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shadowstrike_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathShadowstrike_Ring",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shield_of_Tornadic_Fury",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAsiintathShield_of_Tornadic_Fury",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Azure_Defender",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathAzure_Defender",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Glimmer_Geist_Spear",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Glimmer_Wrath_Great_Hammer",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Glimmerspirit_Sword",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Glimmerstrike_Crusher",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Boots",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Gloves",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Jerkin",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Sleeves",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Mossy_Moonglade_Gauntlets",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Mystical_Moonglade_Leggings",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Mystical_Moonglade_Sleeves",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_Enchantment",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_Mentalism",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_the_Void",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathSorcerous_Deathwatcher_Chain",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathWarshadow_Bracer",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_AsiintathWarshadow_Staff_of_Mentalism",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Azure_Defender",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathAzure_Defender",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathLustrous_Glimmer_Spirit_Sword",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMasterful_Moonglade_Gauntlets",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Melodic Moonglade Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMelodic Moonglade Gauntlets",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Helm",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Helm",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Leggings",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Sleeves",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Vest",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical_Moonglade_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathMystical_Moonglade_Boots",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Potent_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathPotent_Deathwatcher_Chain",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Enchantment",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Mentalism",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Shrieking",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Shrieking",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc_Cap_of_the_Void",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shadowstrike_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathShadowstrike_Ring",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shield_of_Tornadic_Fury",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathGhorvensathShield_of_Tornadic_Fury",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Glimmer_Geist_Spear",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Glimmer_Wrath_Great_Hammer",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Glimmerspirit_Sword",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Glimmerstrike_Crusher",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Boots",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Gloves",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Jerkin",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Sleeves",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Mossy_Moonglade_Gauntlets",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Mystical_Moonglade_Leggings",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Mystical_Moonglade_Sleeves",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_Enchantment",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_Mentalism",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_the_Void",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathSorcerous_Deathwatcher_Chain",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathWarshadow_Bracer",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_GhorvensathWarshadow_Staff_of_Mentalism",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Azure_Defender",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthAzure_Defender",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthLustrous_Glimmer_Spirit_Sword",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMasterful_Moonglade_Gauntlets",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Melodic Moonglade Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMelodic Moonglade Gauntlets",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Helm",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Helm",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Leggings",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Sleeves",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Vest",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical_Moonglade_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthMystical_Moonglade_Boots",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Potent_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthPotent_Deathwatcher_Chain",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Enchantment",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Mentalism",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Shrieking",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Shrieking",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthSeolc_Cap_of_the_Void",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shadowstrike_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthShadowstrike_Ring",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shield_of_Tornadic_Fury",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthiasentinthShield_of_Tornadic_Fury",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Glimmer_Geist_Spear",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Glimmer_Wrath_Great_Hammer",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Glimmerspirit_Sword",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Glimmerstrike_Crusher",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Boots",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Gloves",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Jerkin",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Sleeves",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Mossy_Moonglade_Gauntlets",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Mystical_Moonglade_Leggings",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Mystical_Moonglade_Sleeves",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_Enchantment",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_Mentalism",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_the_Void",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthSorcerous_Deathwatcher_Chain",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthWarshadow_Bracer",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_iasentinthWarshadow_Staff_of_Mentalism",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Azure_Defender",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathAzure_Defender",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathLustrous_Glimmer_Spirit_Sword",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMasterful_Moonglade_Gauntlets",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Melodic Moonglade Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMelodic Moonglade Gauntlets",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Helm",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Helm",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Leggings",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Sleeves",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical Moonglade Vest",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Vest",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Mystical_Moonglade_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathMystical_Moonglade_Boots",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Potent_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathPotent_Deathwatcher_Chain",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Enchantment",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Mentalism",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc Cap of Shrieking",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Shrieking",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathSeolc_Cap_of_the_Void",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shadowstrike_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathShadowstrike_Ring",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shield_of_Tornadic_Fury",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathNeureksathShield_of_Tornadic_Fury",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Glimmer_Geist_Spear",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Glimmer_Wrath_Great_Hammer",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Glimmerspirit_Sword",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Glimmerstrike_Crusher",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Boots",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Gloves",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Jerkin",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Sleeves",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Mossy_Moonglade_Gauntlets",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Mystical_Moonglade_Leggings",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Mystical_Moonglade_Sleeves",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_Enchantment",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_Mentalism",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_the_Void",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathSorcerous_Deathwatcher_Chain",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathWarshadow_Bracer",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "_NeureksathWarshadow_Staff_of_Mentalism",
+    "TemplateName": "Neureksath"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Great_Bone_Heart-finder",
@@ -93256,6 +94312,14 @@
     "TemplateName": "wolfaur lunarian"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned_Worn_Cap_alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "A_TWC",
+    "TemplateName": "Agisthil"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Luminous_Keen_Asterite_Main_Gauche",
@@ -94772,14 +95836,6 @@
     "Count": 2,
     "ItemTemplateID": "Ancient_Giant_Blood",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "AncientGiantBloodgranite_giant_pounder",
-    "TemplateName": "granite giant pounder"
-  },
-  {
-    "Chance": 20,
-    "Count": 2,
-    "ItemTemplateID": "Ancient_Giant_Blood",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ancient_giant_blood_Danaoin_Soldier",
     "TemplateName": "danaoin soldier"
   },
@@ -94798,6 +95854,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Ancient_Giant_Blood_Glimmer_Striker",
     "TemplateName": "glimmer striker"
+  },
+  {
+    "Chance": 20,
+    "Count": 2,
+    "ItemTemplateID": "Ancient_Giant_Blood",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "AncientGiantBloodgranite_giant_pounder",
+    "TemplateName": "granite giant pounder"
   },
   {
     "Chance": 5,
@@ -95058,6 +96122,46 @@
   {
     "Chance": 5,
     "Count": 1,
+    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Asiintath_Glimmer_Geist_Recurve_Bow",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Band",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Band",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Cloak",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Trammel",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Trammel",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Striker_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Asiintath_Glimmer_Striker_Ring",
+    "TemplateName": "Asiintath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
     "ItemTemplateID": "Glimmering_Flower",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Asiintath_Glimmering_Flower",
@@ -95101,46 +96205,6 @@
     "ItemTemplateID": "Glimmerstrike_Drum",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Asiintath_Glimmerstrike_Drum",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Asiintath_Glimmer_Geist_Recurve_Bow",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Band",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Band",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Cloak",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Trammel",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Asiintath_Glimmer_Spirit_Trammel",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Striker_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Asiintath_Glimmer_Striker_Ring",
     "TemplateName": "Asiintath"
   },
   {
@@ -95430,14 +96494,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "AW_DLC",
     "TemplateName": "Arlill Weller"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned_Worn_Cap_alb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "A_TWC",
-    "TemplateName": "Agisthil"
   },
   {
     "Chance": 15,
@@ -97992,6 +99048,14 @@
     "TemplateName": "fog wraith"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "SilveredOldIronDaggerOLD",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "B_SOIDO",
+    "TemplateName": "boulderling"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Bevards_Ghastly_Chain",
@@ -98488,6 +99552,14 @@
     "TemplateName": "glimmer striker"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "BB_IBTB",
+    "TemplateName": "Bullyboy"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Jewel_Spiked_Boots",
@@ -98598,14 +99670,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BBW_WQP",
     "TemplateName": "Faerie Bell-Wether"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "IronBarelyTornBootsAlb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "BB_IBTB",
-    "TemplateName": "Bullyboy"
   },
   {
     "Chance": 20,
@@ -99712,12 +100776,12 @@
     "TemplateName": "bandit henchman"
   },
   {
-    "Chance": 20,
+    "Chance": 100,
     "Count": 0,
-    "ItemTemplateID": "Cloak_of_the_Blackheart",
+    "ItemTemplateID": "Bandits_Ear",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "blackheart-redbone",
-    "TemplateName": "redbone skeleton"
+    "LootTemplate_ID": "BL_BE",
+    "TemplateName": "bandit lieutenant"
   },
   {
     "Chance": 20,
@@ -99726,6 +100790,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Black_Orm_Gland",
     "TemplateName": "black orm"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Cloak_of_the_Blackheart",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "blackheart-redbone",
+    "TemplateName": "redbone skeleton"
   },
   {
     "Chance": 20,
@@ -99750,14 +100822,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "blue-enam-grem",
     "TemplateName": "gremlin"
-  },
-  {
-    "Chance": 100,
-    "Count": 0,
-    "ItemTemplateID": "Bandits_Ear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "BL_BE",
-    "TemplateName": "bandit lieutenant"
   },
   {
     "Chance": 35,
@@ -99806,38 +100870,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bone-ring-decay",
     "TemplateName": "decaying spirit"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Bracer_of_Shaved_Bone",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bracer-bone-fallen",
-    "TemplateName": "fallen warrior"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Bracer_of_Shaved_Bone",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bracer-shaved-soul",
-    "TemplateName": "soul harvester"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "bracer_of_wonderous_alacrity",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bracer_of_wonderous_alacrity",
-    "TemplateName": "agidad"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Branded_Keltoi_Shield",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "bran-kel-grem",
-    "TemplateName": "gremlin"
   },
   {
     "Chance": 40,
@@ -99938,6 +100970,38 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "Bracer_of_Shaved_Bone",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "bracer-bone-fallen",
+    "TemplateName": "fallen warrior"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Bracer_of_Shaved_Bone",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "bracer-shaved-soul",
+    "TemplateName": "soul harvester"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "bracer_of_wonderous_alacrity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "bracer_of_wonderous_alacrity",
+    "TemplateName": "agidad"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Branded_Keltoi_Shield",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "bran-kel-grem",
+    "TemplateName": "gremlin"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Beaded_Silk_Bracelet",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "bsb-skeletalrowdy",
@@ -99966,14 +101030,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "BW_WPC",
     "TemplateName": "Black Wolf"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "SilveredOldIronDaggerOLD",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "B_SOIDO",
-    "TemplateName": "boulderling"
   },
   {
     "Chance": 20,
@@ -102218,6 +103274,174 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "broken_dragonsworn_armors",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_BDA",
+    "TemplateName": "Callida   "
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Broken Dragonsworn Weapons",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_BDW",
+    "TemplateName": "Callida"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Dragonsworn Lieutenant Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_DLC",
+    "TemplateName": "Callida"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Faithbound_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_FBR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 9,
+    "ItemTemplateID": "Grim_Bound_Bracer",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GBB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Grim_Bound_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GBR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Grim_Ward_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_GWR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornBootsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornCapAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "IronBarelyTornPantsAlb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_IBTP",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTG",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Linen Barely Torn Robe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_LBTR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Raiders_Blade",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_RB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ring of Deathsight Intensity",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_RoDI",
+    "TemplateName": "cythraul"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Boots",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTB",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTC",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTG",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Tanned Barely Torn Pants",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TBTP",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "TatteredWornRobe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "C_TWR",
+    "TemplateName": "cutpurse"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Ring_of_the_Mental_Fortress",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ca112017-53c1-4cbd-ab1c-8d57d9fef99a",
@@ -103032,6 +104256,14 @@
     "TemplateName": "koalinth guardian"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bandits_Ear",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "CD_BE",
+    "TemplateName": "Cyfer Difwych"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Spun_Gold_Cloak_Pin",
@@ -103086,14 +104318,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cdf48e35-b2cd-41d7-b79c-61610375238e",
     "TemplateName": "dragonsworn warden"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Bandits_Ear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "CD_BE",
-    "TemplateName": "Cyfer Difwych"
   },
   {
     "Chance": 20,
@@ -103598,174 +104822,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "cyhraeth_cloak",
     "TemplateName": "cyhraeth"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "broken_dragonsworn_armors",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_BDA",
-    "TemplateName": "Callida   "
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Broken Dragonsworn Weapons",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_BDW",
-    "TemplateName": "Callida"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Dragonsworn Lieutenant Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_DLC",
-    "TemplateName": "Callida"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Faithbound_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_FBR",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 9,
-    "ItemTemplateID": "Grim_Bound_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_GBB",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Grim_Bound_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_GBR",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Grim_Ward_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_GWR",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "IronBarelyTornBootsAlb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_IBTB",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "IronBarelyTornCapAlb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_IBTC",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "IronBarelyTornPantsAlb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_IBTP",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Linen Barely Torn Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_LBTB",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Linen Barely Torn Cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_LBTC",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Linen Barely Torn Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_LBTG",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Linen Barely Torn Robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_LBTR",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Raiders_Blade",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_RB",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Ring of Deathsight Intensity",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_RoDI",
-    "TemplateName": "cythraul"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned Barely Torn Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_TBTB",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned Barely Torn Cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_TBTC",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned Barely Torn Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_TBTG",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned Barely Torn Pants",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_TBTP",
-    "TemplateName": "cutpurse"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredWornRobe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "C_TWR",
-    "TemplateName": "cutpurse"
   },
   {
     "Chance": 20,
@@ -106905,6 +107961,22 @@
   },
   {
     "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Danaoin_Fishing_Fly",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Danaoin_Fishing_Fly",
+    "TemplateName": "danaoin fisherman"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Danaoin_Harvest_List",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Danaoin_Harvest_List",
+    "TemplateName": "danaoin farmer"
+  },
+  {
+    "Chance": 20,
     "Count": 2,
     "ItemTemplateID": "Ancient_Mirror",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -106934,22 +108006,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "danaoinsoldierAncient_Pure_Mercury1",
     "TemplateName": "danaoin soldier"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Danaoin_Fishing_Fly",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Danaoin_Fishing_Fly",
-    "TemplateName": "danaoin fisherman"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Danaoin_Harvest_List",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Danaoin_Harvest_List",
-    "TemplateName": "danaoin farmer"
   },
   {
     "Chance": 20,
@@ -107874,6 +108930,14 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "death_robe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "death_robe",
+    "TemplateName": "undead briton invader"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Deathrune_Robes",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "deathrune-grem",
@@ -107886,14 +108950,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "deathrune-mist",
     "TemplateName": "mist sprite"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "death_robe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "death_robe",
-    "TemplateName": "undead briton invader"
   },
   {
     "Chance": 40,
@@ -108152,6 +109208,30 @@
     "TemplateName": "skeletal minion"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Gem_Studded_Dagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_GSD",
+    "TemplateName": "devout filidh"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Melodic_Lute",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_MF",
+    "TemplateName": "devout filidh"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PilferedJerkin",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "DF_PJ",
+    "TemplateName": "devout filidh"
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Accursed_Great_Hammer",
@@ -108206,30 +109286,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "dfEnriched_Quicksilver2",
     "TemplateName": "deeplurk feeder"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Gem_Studded_Dagger",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "DF_GSD",
-    "TemplateName": "devout filidh"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Melodic_Lute",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "DF_MF",
-    "TemplateName": "devout filidh"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PilferedJerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "DF_PJ",
-    "TemplateName": "devout filidh"
   },
   {
     "Chance": 20,
@@ -116936,14 +117992,6 @@
     "TemplateName": "koalinth elder"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Fathomless_Short_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "fshortsword-koalinthsentinel",
-    "TemplateName": "koalinth sentinel"
-  },
-  {
     "Chance": 35,
     "Count": 0,
     "ItemTemplateID": "BeltOfContinualMisery",
@@ -116990,6 +118038,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "FS_RoL",
     "TemplateName": "filidh sacrificer"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Fathomless_Short_Sword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "fshortsword-koalinthsentinel",
+    "TemplateName": "koalinth sentinel"
   },
   {
     "Chance": 40,
@@ -117498,6 +118554,46 @@
   {
     "Chance": 5,
     "Count": 1,
+    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Ghorvensath_Glimmer_Geist_Recurve_Bow",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Band",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Band",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Cloak",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Trammel",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Trammel",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Striker_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Ghorvensath_Glimmer_Striker_Ring",
+    "TemplateName": "Ghorvensath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
     "ItemTemplateID": "Glimmering_Flower",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Ghorvensath_Glimmering_Flower",
@@ -117541,46 +118637,6 @@
     "ItemTemplateID": "Glimmerstrike_Drum",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Ghorvensath_Glimmerstrike_Drum",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Ghorvensath_Glimmer_Geist_Recurve_Bow",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Band",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Band",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Cloak",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Trammel",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Ghorvensath_Glimmer_Spirit_Trammel",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Striker_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Ghorvensath_Glimmer_Striker_Ring",
     "TemplateName": "Ghorvensath"
   },
   {
@@ -117682,18 +118738,26 @@
   {
     "Chance": 35,
     "Count": 0,
+    "ItemTemplateID": "Giril's_Pain_Working_Staff",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "GS_GPWS",
+    "TemplateName": "Goblin Shaman"
+  },
+  {
+    "Chance": 35,
+    "Count": 0,
     "ItemTemplateID": "Gaudy_Silver-Lined_Bracer_SG",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "gslbsg-mummyhag",
     "TemplateName": "mummy hag"
   },
   {
-    "Chance": 35,
+    "Chance": 40,
     "Count": 0,
-    "ItemTemplateID": "Giril's_Pain_Working_Staff",
+    "ItemTemplateID": "Tanned Barely Torn Gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "GS_GPWS",
-    "TemplateName": "Goblin Shaman"
+    "LootTemplate_ID": "H_TBTG",
+    "TemplateName": "Highwayman"
   },
   {
     "Chance": 20,
@@ -117742,14 +118806,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "huntscloak-wildling",
     "TemplateName": "wildling"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Tanned Barely Torn Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "H_TBTG",
-    "TemplateName": "Highwayman"
   },
   {
     "Chance": 5,
@@ -118010,6 +119066,46 @@
   {
     "Chance": 5,
     "Count": 1,
+    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "iasentinth_Glimmer_Geist_Recurve_Bow",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Band",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Band",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Cloak",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Trammel",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Trammel",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Striker_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "iasentinth_Glimmer_Striker_Ring",
+    "TemplateName": "iasentinth"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
     "ItemTemplateID": "Glimmering_Flower",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "iasentinth_Glimmering_Flower",
@@ -118053,46 +119149,6 @@
     "ItemTemplateID": "Glimmerstrike_Drum",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "iasentinth_Glimmerstrike_Drum",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "iasentinth_Glimmer_Geist_Recurve_Bow",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Band",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Band",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Cloak",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Trammel",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "iasentinth_Glimmer_Spirit_Trammel",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Striker_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "iasentinth_Glimmer_Striker_Ring",
     "TemplateName": "iasentinth"
   },
   {
@@ -118504,20 +119560,20 @@
     "TemplateName": "keltoi banisher"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Moldy_Bone_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "mbg-cursedspirit",
-    "TemplateName": "cursed spirit"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "PittedSharpClaw",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "MB_PSC",
     "TemplateName": "mountain bear"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Moldy_Bone_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "mbg-cursedspirit",
+    "TemplateName": "cursed spirit"
   },
   {
     "Chance": 40,
@@ -118930,6 +119986,46 @@
   {
     "Chance": 5,
     "Count": 1,
+    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Neureksath_Glimmer_Geist_Recurve_Bow",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Band",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Band",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Cloak",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Cloak",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Spirit_Trammel",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Trammel",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
+    "ItemTemplateID": "Glimmer_Striker_Ring",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "Neureksath_Glimmer_Striker_Ring",
+    "TemplateName": "Neureksath"
+  },
+  {
+    "Chance": 5,
+    "Count": 1,
     "ItemTemplateID": "Glimmering_Flower",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Neureksath_Glimmering_Flower",
@@ -118973,46 +120069,6 @@
     "ItemTemplateID": "Glimmerstrike_Drum",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Neureksath_Glimmerstrike_Drum",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Geist_Recurve_Bow",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Neureksath_Glimmer_Geist_Recurve_Bow",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Band",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Band",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Cloak",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Cloak",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Spirit_Trammel",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Neureksath_Glimmer_Spirit_Trammel",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Glimmer_Striker_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "Neureksath_Glimmer_Striker_Ring",
     "TemplateName": "Neureksath"
   },
   {
@@ -119152,6 +120208,14 @@
     "TemplateName": "waterlogged corpse"
   },
   {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Gloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "P_BTG",
+    "TemplateName": "poacher "
+  },
+  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Polished_Coral_Ring",
@@ -119240,20 +120304,44 @@
     "TemplateName": "draugr warrior"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Bronze_Torn_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "P_BTG",
-    "TemplateName": "poacher "
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "rage_wolf_tooth",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "rage_wolf_tooth",
     "TemplateName": "rage wolf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeBroadsword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeHandAxe",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBHA",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeScimitar",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBS",
+    "TemplateName": "Red Dwarf"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedBronzeShortSword",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "RD_PBSS",
+    "TemplateName": "Red Dwarf"
   },
   {
     "Chance": 40,
@@ -119408,38 +120496,6 @@
     "TemplateName": "red dwarf thief"
   },
   {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedBronzeBroadsword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "RD_PBBS",
-    "TemplateName": "Red Dwarf"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedBronzeHandAxe",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "RD_PBHA",
-    "TemplateName": "Red Dwarf"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedBronzeScimitar",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "RD_PBS",
-    "TemplateName": "Red Dwarf"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedBronzeShortSword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "RD_PBSS",
-    "TemplateName": "Red Dwarf"
-  },
-  {
     "Chance": 20,
     "Count": 0,
     "ItemTemplateID": "Red_Cloth_Dye",
@@ -119472,22 +120528,6 @@
     "TemplateName": "Cruach Imp"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Ghastly_Ring_of_Bone",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ring-bone-ecto",
-    "TemplateName": "ectoplasm"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Ghastly_Ring_of_Bone",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "ring-bone-reanim",
-    "TemplateName": "reanimated foe"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "Faerie Charm Necklace",
@@ -119518,6 +120558,22 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "RI_SR",
     "TemplateName": "rock imp"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ghastly_Ring_of_Bone",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "ring-bone-ecto",
+    "TemplateName": "ectoplasm"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Ghastly_Ring_of_Bone",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "ring-bone-reanim",
+    "TemplateName": "reanimated foe"
   },
   {
     "Chance": 20,
@@ -119598,6 +120654,46 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "rustringsleeves-vendoreaver",
     "TemplateName": "vendo reaver"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Bronze_Torn_Gloves_Alb",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_BTGA",
+    "TemplateName": "skeleton"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "Faerie Charm Necklace",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_FCN",
+    "TemplateName": "spirit"
+  },
+  {
+    "Chance": 50,
+    "Count": 0,
+    "ItemTemplateID": "PittedSharpSnakeFang",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_PSSF",
+    "TemplateName": "Slith"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "PittedTarnishedDagger",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_PTD",
+    "TemplateName": "spirit"
+  },
+  {
+    "Chance": 40,
+    "Count": 0,
+    "ItemTemplateID": "TatteredTannedBrownGloves",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "S_TTBG",
+    "TemplateName": "spirit"
   },
   {
     "Chance": 20,
@@ -119752,14 +120848,6 @@
     "TemplateName": "vendo guard"
   },
   {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "2_sscw_cap",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "sscwcap-frorelich",
-    "TemplateName": "frore lich"
-  },
-  {
     "Chance": 40,
     "Count": 0,
     "ItemTemplateID": "CloakOfTheOldDefender",
@@ -119834,50 +120922,18 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "2_sscw_cap",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "sscwcap-frorelich",
+    "TemplateName": "frore lich"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Stolen_Signet_Ring",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Stolen_Signet_Ring",
     "TemplateName": "mercenary tomb raider"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Bronze_Torn_Gloves_Alb",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "S_BTGA",
-    "TemplateName": "skeleton"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "Faerie Charm Necklace",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "S_FCN",
-    "TemplateName": "spirit"
-  },
-  {
-    "Chance": 50,
-    "Count": 0,
-    "ItemTemplateID": "PittedSharpSnakeFang",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "S_PSSF",
-    "TemplateName": "Slith"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "PittedTarnishedDagger",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "S_PTD",
-    "TemplateName": "spirit"
-  },
-  {
-    "Chance": 40,
-    "Count": 0,
-    "ItemTemplateID": "TatteredTannedBrownGloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "S_TTBG",
-    "TemplateName": "spirit"
   },
   {
     "Chance": 40,
@@ -120018,6 +121074,14 @@
   {
     "Chance": 20,
     "Count": 0,
+    "ItemTemplateID": "TatteredWolfHideLeggings",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "TR_TWHL",
+    "TemplateName": "throatripper"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
     "ItemTemplateID": "Trip_String",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "Trip_String",
@@ -120038,14 +121102,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "trs-lair-patrol",
     "TemplateName": "lair patrol"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "TatteredWolfHideLeggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "TR_TWHL",
-    "TemplateName": "throatripper"
   },
   {
     "Chance": 40,
@@ -120634,14 +121690,6 @@
   {
     "Chance": 20,
     "Count": 0,
-    "ItemTemplateID": "umber_bear_tooth",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "umber_bear_tooth",
-    "TemplateName": "Umber Bear"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
     "ItemTemplateID": "Ghastly_Mendicant_Leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "UM_GML",
@@ -120654,6 +121702,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "UM_GMPG",
     "TemplateName": "undead monk"
+  },
+  {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "umber_bear_tooth",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "umber_bear_tooth",
+    "TemplateName": "Umber Bear"
   },
   {
     "Chance": 20,
@@ -120824,6 +121880,14 @@
     "TemplateName": "svartalf thrall"
   },
   {
+    "Chance": 20,
+    "Count": 0,
+    "ItemTemplateID": "Bracer of Energy Suppression",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "LootTemplate_ID": "WH_BoES",
+    "TemplateName": "welsh hobgoblin"
+  },
+  {
     "Chance": 25,
     "Count": 0,
     "ItemTemplateID": "Shadowed_Blackthorn_Stiletto",
@@ -120862,14 +121926,6 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "whriares3",
     "TemplateName": "gjalpinulva"
-  },
-  {
-    "Chance": 20,
-    "Count": 0,
-    "ItemTemplateID": "Bracer of Energy Suppression",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "WH_BoES",
-    "TemplateName": "welsh hobgoblin"
   },
   {
     "Chance": 20,
@@ -121014,1061 +122070,5 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "LootTemplate_ID": "ZS_RHT",
     "TemplateName": "zombie sow"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathLustrous_Glimmer_Spirit_Sword",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMasterful_Moonglade_Gauntlets",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Melodic Moonglade Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMelodic Moonglade Gauntlets",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Helm",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Leggings",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Sleeves",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMystical Moonglade Vest",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical_Moonglade_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathMystical_Moonglade_Boots",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Potent_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathPotent_Deathwatcher_Chain",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Enchantment",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Mentalism",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Shrieking",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathSeolc Cap of Shrieking",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathSeolc_Cap_of_the_Void",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shadowstrike_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathShadowstrike_Ring",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shield_of_Tornadic_Fury",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAsiintathShield_of_Tornadic_Fury",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Azure_Defender",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathAzure_Defender",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Glimmerspirit_Sword",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Glimmerstrike_Crusher",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Glimmer_Geist_Spear",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Glimmer_Wrath_Great_Hammer",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Boots",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Gloves",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Jerkin",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Midnight_Marauder_Sleeves",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Mossy_Moonglade_Gauntlets",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Mystical_Moonglade_Leggings",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Mystical_Moonglade_Sleeves",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_Enchantment",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_Mentalism",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathShimmering_Seolc_Cap_of_the_Void",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathSorcerous_Deathwatcher_Chain",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathWarshadow_Bracer",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_AsiintathWarshadow_Staff_of_Mentalism",
-    "TemplateName": "Asiintath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Azure_Defender",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathAzure_Defender",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathLustrous_Glimmer_Spirit_Sword",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMasterful_Moonglade_Gauntlets",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Melodic Moonglade Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMelodic Moonglade Gauntlets",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Helm",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Leggings",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Sleeves",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMystical Moonglade Vest",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical_Moonglade_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathMystical_Moonglade_Boots",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Potent_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathPotent_Deathwatcher_Chain",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Enchantment",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Mentalism",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Shrieking",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc Cap of Shrieking",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathSeolc_Cap_of_the_Void",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shadowstrike_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathShadowstrike_Ring",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shield_of_Tornadic_Fury",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathGhorvensathShield_of_Tornadic_Fury",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Glimmerspirit_Sword",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Glimmerstrike_Crusher",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Glimmer_Geist_Spear",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Glimmer_Wrath_Great_Hammer",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Boots",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Gloves",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Jerkin",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Midnight_Marauder_Sleeves",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Mossy_Moonglade_Gauntlets",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Mystical_Moonglade_Leggings",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Mystical_Moonglade_Sleeves",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_Enchantment",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_Mentalism",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathShimmering_Seolc_Cap_of_the_Void",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathSorcerous_Deathwatcher_Chain",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathWarshadow_Bracer",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_GhorvensathWarshadow_Staff_of_Mentalism",
-    "TemplateName": "Ghorvensath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Azure_Defender",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthAzure_Defender",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthLustrous_Glimmer_Spirit_Sword",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMasterful_Moonglade_Gauntlets",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Melodic Moonglade Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMelodic Moonglade Gauntlets",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Helm",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Leggings",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Sleeves",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMystical Moonglade Vest",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical_Moonglade_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthMystical_Moonglade_Boots",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Potent_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthPotent_Deathwatcher_Chain",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Enchantment",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Mentalism",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Shrieking",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthSeolc Cap of Shrieking",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthSeolc_Cap_of_the_Void",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shadowstrike_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthShadowstrike_Ring",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shield_of_Tornadic_Fury",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthiasentinthShield_of_Tornadic_Fury",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Glimmerspirit_Sword",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Glimmerstrike_Crusher",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Glimmer_Geist_Spear",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Glimmer_Wrath_Great_Hammer",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Boots",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Gloves",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Jerkin",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Midnight_Marauder_Sleeves",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Mossy_Moonglade_Gauntlets",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Mystical_Moonglade_Leggings",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Mystical_Moonglade_Sleeves",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_Enchantment",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_Mentalism",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthShimmering_Seolc_Cap_of_the_Void",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthSorcerous_Deathwatcher_Chain",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthWarshadow_Bracer",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_iasentinthWarshadow_Staff_of_Mentalism",
-    "TemplateName": "iasentinth"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Azure_Defender",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathAzure_Defender",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Lustrous_Glimmer_Spirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathLustrous_Glimmer_Spirit_Sword",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Masterful_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMasterful_Moonglade_Gauntlets",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Melodic Moonglade Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMelodic Moonglade Gauntlets",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Helm",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Helm",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Leggings",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Sleeves",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical Moonglade Vest",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMystical Moonglade Vest",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Mystical_Moonglade_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathMystical_Moonglade_Boots",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Potent_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathPotent_Deathwatcher_Chain",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Enchantment",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Mentalism",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc Cap of Shrieking",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathSeolc Cap of Shrieking",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathSeolc_Cap_of_the_Void",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shadowstrike_Ring",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathShadowstrike_Ring",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shield_of_Tornadic_Fury",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathNeureksathShield_of_Tornadic_Fury",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerspirit_Sword",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Glimmerspirit_Sword",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmerstrike_Crusher",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Glimmerstrike_Crusher",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Geist_Spear",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Glimmer_Geist_Spear",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Glimmer_Wrath_Great_Hammer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Glimmer_Wrath_Great_Hammer",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Boots",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Boots",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Gloves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Gloves",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Jerkin",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Jerkin",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Midnight_Marauder_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Midnight_Marauder_Sleeves",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mossy_Moonglade_Gauntlets",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Mossy_Moonglade_Gauntlets",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Leggings",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Mystical_Moonglade_Leggings",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Mystical_Moonglade_Sleeves",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Mystical_Moonglade_Sleeves",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Enchantment",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_Enchantment",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_Mentalism",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Shimmering_Seolc_Cap_of_the_Void",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathShimmering_Seolc_Cap_of_the_Void",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Sorcerous_Deathwatcher_Chain",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathSorcerous_Deathwatcher_Chain",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Bracer",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathWarshadow_Bracer",
-    "TemplateName": "Neureksath"
-  },
-  {
-    "Chance": 5,
-    "Count": 1,
-    "ItemTemplateID": "Warshadow_Staff_of_Mentalism",
-    "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "LootTemplate_ID": "_NeureksathWarshadow_Staff_of_Mentalism",
-    "TemplateName": "Neureksath"
   }
 ]
