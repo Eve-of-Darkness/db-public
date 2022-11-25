@@ -5,7 +5,6 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"io/ioutil"
 	"log"
 	"os"
 	"regexp"
@@ -184,7 +183,7 @@ func buildJSON(stmt *sql.Stmt, fileName string, primaryKeyName string) {
 	}
 
 	if _, err := os.Stat("data/" + fileName + ".json"); err == nil {
-		file, e := ioutil.ReadFile("data/" + fileName + ".json")
+		file, e := os.ReadFile("data/" + fileName + ".json")
 		if e != nil {
 			panic(e)
 		}
@@ -197,7 +196,7 @@ func buildJSON(stmt *sql.Stmt, fileName string, primaryKeyName string) {
 		}
 	}
 
-	err = ioutil.WriteFile("data/"+fileName+".json", jsonData, 0644)
+	err = os.WriteFile("data/"+fileName+".json", jsonData, 0644)
 	if err != nil {
 		panic(err)
 	}

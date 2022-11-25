@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"io/ioutil"
+	"os"
 )
 
 func main() {
@@ -19,7 +19,7 @@ func main() {
 }
 
 func getFiles(dir string) []string {
-	files, err := ioutil.ReadDir(dir)
+	files, err := os.ReadDir(dir)
 	if err != nil {
 		panic(err)
 	}
