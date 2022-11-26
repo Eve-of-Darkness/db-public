@@ -5,7 +5,6 @@ import (
 	"encoding/json"
 	"errors"
 	"fmt"
-	"io/ioutil"
 	"os"
 	"regexp"
 	"sort"
@@ -20,8 +19,8 @@ func exportToSql(exportType string) {
 	viper.SetConfigName("config")    // name of config file (without extension)
 	viper.AddConfigPath("./config/") // path to look for the config file in
 	if _, fileError := os.Stat("./config/config.yml"); errors.Is(fileError, os.ErrNotExist) {
-		input, _ := ioutil.ReadFile("./config/config.example.yml")
-		_ = ioutil.WriteFile("./config/config.yml", input, 0644)
+		input, _ := os.ReadFile("./config/config.example.yml")
+		_ = os.WriteFile("./config/config.yml", input, 0644)
 	} else {
 		err := viper.ReadInConfig()
 		if err != nil {
@@ -54,7 +53,7 @@ func exportToSql(exportType string) {
 				continue
 			}
 		}
-		file, e := ioutil.ReadFile(schemaFolderName + "/" + schemaFile)
+		file, e := os.ReadFile(schemaFolderName + "/" + schemaFile)
 		if e != nil {
 			panic(e)
 		}
@@ -71,7 +70,7 @@ func exportToSql(exportType string) {
 		}
 	}
 
-	err := ioutil.WriteFile("public-db.sql", buffer.Bytes(), 0644)
+	err := os.WriteFile("public-db.sql", buffer.Bytes(), 0644)
 	if err != nil {
 		panic(err)
 	}
@@ -157,7 +156,7 @@ func getInsertStart(table string, columns []string) string {
 }
 
 func parseFile(fileName string) []map[string]interface{} {
-	file, e := ioutil.ReadFile("data/" + fileName)
+	file, e := os.ReadFile("data/" + fileName)
 	if e != nil {
 		panic(e)
 	}
