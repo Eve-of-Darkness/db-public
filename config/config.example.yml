@@ -21,6 +21,7 @@ exportignore:
     - KeepComponent
     - KeepHookPoint
     - KeepHookPointItem
+    - Minotaurrelic
     - News
     - PlayerXEffect
     - PvPKillsLog
