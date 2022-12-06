@@ -76,13 +76,22 @@ func (col *TableColumn) SetDefault(defaultValue string) *TableColumn {
 	return col
 }
 
-func searchInTables(tableName string, tables []Table) int {
+func findTableIndex(tableName string, tables []Table) int {
 	for i, t := range tables {
 		if strings.EqualFold(tableName, t.Name) {
 			return i
 		}
 	}
 	return -1
+}
+
+func findTable(tableName string, tables []Table) *Table {
+	matchedIndex := findTableIndex(tableName, tables)
+	if matchedIndex >= 0 {
+		return &tables[matchedIndex]
+	} else {
+		return nil
+	}
 }
 
 func sortTables(tables []Table) {

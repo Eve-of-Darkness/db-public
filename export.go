@@ -70,7 +70,7 @@ func exportToSql(exportType string) {
 func getTables(ignoredTables []string) []Table {
 	tables := getAllTables()
 	for _, ignoredTable := range ignoredTables {
-		matchedIndex := searchInTables(ignoredTable, tables)
+		matchedIndex := findTableIndex(ignoredTable, tables)
 		if matchedIndex >= 0 {
 			fmt.Println("Found ignored table: ", tables[matchedIndex].Name)
 			tables = append(tables[:matchedIndex], tables[matchedIndex+1:]...)

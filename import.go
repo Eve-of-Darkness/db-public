@@ -49,7 +49,9 @@ func importToJson() {
 func getMobJSON(expansion int, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
-	var tableData = convertRowsToTableData(rows, dbProvider.getPrimaryKeyColumn("Mob"))
+	allTables := getAllTables()
+	mobTable := findTable("Mob", allTables)
+	var tableData = convertRowsToTableData(rows, mobTable.PrimaryColumn.Name)
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 

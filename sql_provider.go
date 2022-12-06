@@ -12,7 +12,6 @@ type dbProvider interface {
 	createConnection()
 	getConnection() *sql.DB
 	getAllTables() *sql.Rows
-	getPrimaryKeyColumn(tableName string) string
 	closeConnection()
 	getCreateStatement(table Table) string
 }
@@ -45,17 +44,6 @@ func (provider *sqliteProvider) getAllTables() *sql.Rows {
 		panic(fmt.Errorf("failed to get tables: %v", err))
 	}
 	return rows
-}
-
-func (provider *sqliteProvider) getPrimaryKeyColumn(tableName string) string {
-	db := provider.getConnection()
-	var rows *sql.Rows
-	rows, _ = db.Query("select name from pragma_table_info( '" + tableName + "' ) where pk = 1")
-	defer rows.Close()
-	var primaryKey string
-	rows.Next()
-	rows.Scan(&primaryKey)
-	return primaryKey
 }
 
 func (provider *sqliteProvider) closeConnection() {
@@ -164,31 +152,6 @@ func (provider *mysqlProvider) getAllTables() *sql.Rows {
 		panic(fmt.Errorf("failed to get tables: %v", err))
 	}
 	return rows
-}
-
-func (provider *mysqlProvider) getPrimaryKeyColumn(tableName string) string {
-	db := provider.getConnection()
-	var rows *sql.Rows
-	rows, _ = db.Query("SHOW INDEX FROM `" + tableName + "` where Key_name='PRIMARY'")
-	defer rows.Close()
-
-	columns, _ := rows.Columns()
-	count := len(columns)
-	values := make([]interface{}, count)
-	valuePtrs := make([]interface{}, count)
-	for rows.Next() {
-		for i := 0; i < count; i++ {
-			valuePtrs[i] = &values[i]
-		}
-		rows.Scan(valuePtrs...)
-		for i, col := range columns {
-			if col == "Column_name" {
-				return fmt.Sprintf("%s", values[i])
-			}
-		}
-	}
-
-	panic("No primary key for " + tableName + " found!")
 }
 
 func (provider *mysqlProvider) closeConnection() {
