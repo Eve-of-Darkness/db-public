@@ -5,9 +5,7 @@ import (
 	"database/sql"
 	"encoding/json"
 	"fmt"
-	"log"
 	"os"
-	"regexp"
 	"sort"
 	"strconv"
 	"strings"
@@ -35,7 +33,7 @@ func importToJson() {
 	dbProvider.getConnection()
 	defer dbProvider.closeConnection()
 
-	tables := getTables(dbProvider)
+	tables := getAllTables()
 
 	for index, table := range tables {
 		err := getJSON(table, dbProvider)
@@ -44,72 +42,31 @@ func importToJson() {
 			return
 		}
 
-		fmt.Printf("Finished " + fmt.Sprint(index+1) + " of " + fmt.Sprint(len(tables)) + " (" + table + ")\n")
+		fmt.Printf("Finished " + fmt.Sprint(index+1) + " of " + fmt.Sprint(len(tables)) + " (" + table.Name + ")\n")
 	}
-}
-
-func getTables(dbProvider dbProvider) []string {
-	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
-
-	re := regexp.MustCompile("(?i)(" + ignoreTables + ")")
-
-	rows := dbProvider.getAllTables()
-	defer rows.Close()
-
-	var s []string
-	for rows.Next() {
-		var name string
-
-		if err := rows.Scan(&name); err != nil {
-			log.Fatal(err)
-		}
-
-		if re.MatchString(name) {
-			continue
-		}
-
-		s = append(s, name)
-	}
-
-	return s
 }
 
 func getMobJSON(expansion int, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
-	var tableData = convertRowsToTableData(rows, dbProvider.getPrimaryKeyColumn("Mob"))
+	allTables := getAllTables()
+	mobTable := findTable("Mob", allTables)
+	var tableData = convertRowsToTableData(rows, mobTable.PrimaryColumn.Name)
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
-func getJSON(table string, dbProvider dbProvider) error {
-	schemaFiles := getFiles("schema_mysql")
-	foundSchemaFile := false
-	var schemaFile string
-	for _, file := range schemaFiles {
-		schemaFile = file[:strings.Index(file, ".")]
-		if strings.EqualFold(schemaFile, table) {
-			foundSchemaFile = true
-			break
-		}
-	}
-
-	if !foundSchemaFile {
-		return nil
-	}
-
-	//Handle partitioned Mob table
-	if schemaFile == "Mob" {
+func getJSON(table Table, dbProvider dbProvider) error {
+	if table.Name == "Mob" {
 		for i := 0; i <= 6; i++ {
 			getMobJSON(i, dbProvider)
 		}
 		return nil
 	}
 
-	var primaryKeyColumn = dbProvider.getPrimaryKeyColumn(table)
-	rows := query(dbProvider, "SELECT * FROM "+table)
+	rows := query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
-	var tableData = convertRowsToTableData(rows, primaryKeyColumn)
-	writeJSON(tableData, schemaFile)
+	var tableData = convertRowsToTableData(rows, table.PrimaryColumn.Name)
+	writeJSON(tableData, table.Name)
 
 	return nil
 }

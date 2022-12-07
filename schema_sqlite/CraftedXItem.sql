@@ -1,9 +1,0 @@
-DROP TABLE IF EXISTS `CraftedXItem`;
-
-CREATE TABLE `CraftedXItem` (`CraftedItemId_nb` VARCHAR(255) NOT NULL DEFAULT '' COLLATE NOCASE, 
-`IngredientId_nb` TEXT NOT NULL DEFAULT '' COLLATE NOCASE, 
-`Count` INT(11) NOT NULL DEFAULT 0, 
-`LastTimeRowUpdated` DATETIME NOT NULL DEFAULT '2000-01-01 00:00:00', 
-`CraftedXItem_ID` VARCHAR(255) NOT NULL DEFAULT '' COLLATE NOCASE, 
-PRIMARY KEY (`CraftedXItem_ID`));
-CREATE INDEX `I_CraftedXItem_CraftedItemId_nb` ON `CraftedXItem` (`CraftedItemId_nb`);

@@ -6,7 +6,6 @@ import (
 	"errors"
 	"fmt"
 	"os"
-	"regexp"
 	"sort"
 	"strconv"
 	"strings"
@@ -27,42 +26,34 @@ func exportToSql(exportType string) {
 			panic(fmt.Errorf("fatal error config file: %s", err))
 		}
 	}
-	schemaFolderName := "schema_mysql"
 
-	switch exportType {
-	case "mysql":
-		schemaFolderName = "schema_mysql"
-	case "sqlite":
-		schemaFolderName = "schema_sqlite"
-	case "update-only":
-		schemaFolderName = "schema_mysql"
-	default:
-		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
-	}
-
-	schemaFiles := getFiles(schemaFolderName)
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
-	ignoreTables := strings.Join(viper.GetStringSlice("exportignore"), "|")
-	re := regexp.MustCompile("(?i)(" + ignoreTables + ").sql")
 
-	for _, schemaFile := range schemaFiles {
-		if exportType == "update-only" {
-			if re.MatchString(schemaFile) {
-				fmt.Println("Found ignored table:", schemaFile)
-				continue
-			}
-		}
-		file, e := os.ReadFile(schemaFolderName + "/" + schemaFile)
-		if e != nil {
-			panic(e)
+	ignoredTables := []string{}
+	if exportType == "update-only" {
+		ignoredTables = viper.GetStringSlice("exportignore")
+	}
+	tables := getTables(ignoredTables)
+
+	for _, table := range tables {
+		var tableCreateStmt string
+		switch exportType {
+		case "mysql":
+			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
+		case "sqlite":
+			tableCreateStmt = new(sqliteProvider).getCreateStatement(table)
+		case "update-only":
+			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
+		default:
+			panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
 		}
 
-		buffer.Write(file)
+		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
 
 		for _, dataFile := range dataFiles {
-			if dataFile[:strings.Index(dataFile, ".")] == schemaFile[:strings.Index(schemaFile, ".")] {
+			if dataFile[:strings.Index(dataFile, ".")] == table.Name {
 				insert := buildBulkInsert(dataFile)
 				buffer.WriteString(insert)
 				buffer.WriteString("\n\n")
@@ -74,6 +65,19 @@ func exportToSql(exportType string) {
 	if err != nil {
 		panic(err)
 	}
+}
+
+func getTables(ignoredTables []string) []Table {
+	tables := getAllTables()
+	for _, ignoredTable := range ignoredTables {
+		matchedIndex := findTableIndex(ignoredTable, tables)
+		if matchedIndex >= 0 {
+			fmt.Println("Found ignored table: ", tables[matchedIndex].Name)
+			tables = append(tables[:matchedIndex], tables[matchedIndex+1:]...)
+		}
+	}
+	sortTables(tables)
+	return tables
 }
 
 func buildBulkInsert(table string) string {
