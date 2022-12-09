@@ -11,7 +11,6 @@ import (
 type dbProvider interface {
 	createConnection()
 	getConnection() *sql.DB
-	getAllTables() *sql.Rows
 	closeConnection()
 	getCreateStatement(table Table) string
 }
@@ -36,14 +35,6 @@ func (provider *sqliteProvider) getConnection() *sql.DB {
 		provider.createConnection()
 	}
 	return provider.db
-}
-
-func (provider *sqliteProvider) getAllTables() *sql.Rows {
-	rows, err := provider.db.Query("SELECT name FROM sqlite_schema WHERE type ='table' AND name NOT LIKE 'sqlite_%';")
-	if err != nil {
-		panic(fmt.Errorf("failed to get tables: %v", err))
-	}
-	return rows
 }
 
 func (provider *sqliteProvider) closeConnection() {
@@ -144,14 +135,6 @@ func (provider *mysqlProvider) getConnection() *sql.DB {
 		provider.createConnection()
 	}
 	return provider.db
-}
-
-func (provider *mysqlProvider) getAllTables() *sql.Rows {
-	rows, err := provider.db.Query("SHOW TABLES;")
-	if err != nil {
-		panic(fmt.Errorf("failed to get tables: %v", err))
-	}
-	return rows
 }
 
 func (provider *mysqlProvider) closeConnection() {
