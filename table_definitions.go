@@ -358,7 +358,6 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("DBIndoorItem")
-	t.Static = true
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Model", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Position", "int(11)").NotNullable().SetDefault("0")
@@ -375,7 +374,6 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("DBOutdoorItem")
-	t.Static = true
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Model", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Position", "int(11)").NotNullable().SetDefault("0")
@@ -946,7 +944,6 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("ItemUnique")
-	t.Static = true
 	t.AddPrimary("Id_nb", "varchar(255)").NotNullable()
 	t.Add("TranslationId", "text")
 	t.Add("Name", "text").NotNullable()
@@ -1046,6 +1043,7 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("KeepComponent")
+	t.Static = true
 	t.Add("X", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Y", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Heading", "int(11)").NotNullable().SetDefault("0")
@@ -1068,6 +1066,7 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("KeepHookPoint")
+	t.Static = true
 	t.AddWithIndex("HookPointID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("KeepComponentSkinID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Z", "int(11)").NotNullable().SetDefault("0")
@@ -1491,7 +1490,6 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("Quest")
-	t.Static = true
 	t.Add("Name", "text").NotNullable()
 	t.Add("Step", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("Character_ID", "varchar(255)").NotNullable()
@@ -1711,6 +1709,7 @@ func getAllTables() []Table {
 	allTables = append(allTables, *t)
 
 	t = newTable("SpellXCustomValues")
+	t.Static = true
 	t.AddWithIndex("SpellID", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("KeyName", "varchar(100)").NotNullable()
 	t.Add("Value", "varchar(255)").SetDefault("NULL")
