@@ -35,19 +35,20 @@ func exportToSql(exportType string) {
 		ignoredTables = viper.GetStringSlice("exportignore")
 	}
 	tables := getTables(ignoredTables)
+	var dbProvider dbProvider
+	switch exportType {
+	case "mysql":
+		dbProvider = new(mysqlProvider)
+	case "sqlite":
+		dbProvider = new(sqliteProvider)
+	case "update-only":
+		dbProvider = new(mysqlProvider)
+	default:
+		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
+	}
 
 	for _, table := range tables {
-		var tableCreateStmt string
-		switch exportType {
-		case "mysql":
-			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
-		case "sqlite":
-			tableCreateStmt = new(sqliteProvider).getCreateStatement(table)
-		case "update-only":
-			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
-		default:
-			panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
-		}
+		tableCreateStmt := dbProvider.getCreateStatement(table)
 
 		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
@@ -69,15 +70,31 @@ func exportToSql(exportType string) {
 
 func getTables(ignoredTables []string) []Table {
 	tables := getAllTables()
-	for _, ignoredTable := range ignoredTables {
-		matchedIndex := findTableIndex(ignoredTable, tables)
-		if matchedIndex >= 0 {
-			fmt.Println("Found ignored table: ", tables[matchedIndex].Name)
-			tables = append(tables[:matchedIndex], tables[matchedIndex+1:]...)
+	sortTables(tables)
+	if ignoredTables != nil && len(ignoredTables) == 0 {
+		return tables
+	}
+
+	result := []Table{}
+	sort.Strings(ignoredTables)
+	for _, t := range tables {
+		isIgnored := containsString(ignoredTables, t.Name)
+		if !t.Static || isIgnored {
+			fmt.Println("Found ignored table: ", t.Name)
+			continue
+		}
+		result = append(result, t)
+	}
+	return result
+}
+
+func containsString(stringSlice []string, searchString string) bool {
+	for _, s := range stringSlice {
+		if strings.EqualFold(s, searchString) {
+			return true
 		}
 	}
-	sortTables(tables)
-	return tables
+	return false
 }
 
 func buildBulkInsert(table string) string {
