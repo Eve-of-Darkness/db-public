@@ -14,7 +14,7 @@ func exportToSql(config Config) {
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
 
-	tables := getTables(config.IgnoredTables)
+	tables := getTables(config)
 
 	for _, table := range tables {
 		tableCreateStmt := config.DbProvider.getCreateStatement(table)
@@ -45,27 +45,26 @@ func getFiles(dir string) []string {
 
 	fileNames := make([]string, len(files))
 
-	i := 0
-	for _, f := range files {
+	for i, f := range files {
 		fileNames[i] = f.Name()
-		i++
 	}
 
 	return fileNames
 }
 
-func getTables(ignoredTables []string) []Table {
+func getTables(config Config) []Table {
 	tables := getAllTables()
 	sortTables(tables)
-	if ignoredTables != nil && len(ignoredTables) == 0 {
-		return tables
-	}
+
+	excludeTables := append(config.ExcludeTables, config.IgnoredTables...)
+
+	useOnlyStatic := config.UpdateOnly || config.ImportFlag
 
 	result := []Table{}
-	sort.Strings(ignoredTables)
 	for _, t := range tables {
-		isIgnored := containsString(ignoredTables, t.Name)
-		if !t.Static || isIgnored {
+		isExcluded := containsString(excludeTables, t.Name)
+		isIncluded := containsString(config.IncludeTables, t.Name)
+		if ((!t.Static && useOnlyStatic) || isExcluded) && !isIncluded { //include > exclude
 			fmt.Println("Found ignored table: ", t.Name)
 			continue
 		}

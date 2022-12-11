@@ -18,9 +18,12 @@ func importToJson(config Config) {
 	dbProvider.getConnection()
 	defer dbProvider.closeConnection()
 
-	tables := getAllTables()
+	tables := getTables(config)
 
 	for index, table := range tables {
+		if !table.Static {
+			continue
+		}
 		err := getJSON(table, dbProvider)
 		if err != nil {
 			fmt.Printf("Failed to get json")

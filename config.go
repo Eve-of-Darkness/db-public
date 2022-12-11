@@ -24,6 +24,8 @@ func LoadConfig() Config {
 	importFlag := flag.Bool("import", false, "Import your SQL database to JSON database found in data folder.")
 	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\", \"sqlite\", \"update-only\"")
 	updateOnly := flag.Bool("update-only", false, "Set to export SQL query to replace static content, but keep player content untouched.")
+	excludeTables := flag.String("exclude", "", "Explicitly exclude (comma-separated) tables from export and import.")
+	includeTables := flag.String("include", "", "Explicitly include (comma-separated) tables that are not listed or are non-static for import.")
 	flag.Parse()
 
 	loadConfigFile()
@@ -35,12 +37,15 @@ func LoadConfig() Config {
 
 	config := new(Config)
 
+	config.ExcludeTables = append(splitString(*excludeTables, ","), viper.GetStringSlice("exclude")...)
+	config.IncludeTables = append(splitString(*includeTables, ","), viper.GetStringSlice("include")...)
+
 	config.ImportFlag = *importFlag
 	config.IgnoredTables = ignoredTables
-	config.DbProvider = getDbProvider(exportType)
+	config.DbProvider = getDbProvider(exportType, importFlag)
 	config.UpdateOnly = *updateOnly
 
-	config.ConnectionString = config.getConnectionString()
+	config.ConnectionString = getConnectionString()
 	return *config
 }
 
@@ -66,20 +71,20 @@ func loadConfigFile() {
 	}
 }
 
-func getDbProvider(exportType *string) dbProvider {
-	var dbProvider dbProvider
-	switch *exportType {
-	case "mysql":
-		dbProvider = new(mysqlProvider)
-	case "sqlite":
-		dbProvider = new(sqliteProvider)
-	case "update-only":
+func getDbProvider(exportType *string, importFlag *bool) dbProvider {
+	importSQLite := *importFlag && viper.GetString("db.file_path") != ""
+
+	if *exportType == "update-only" {
 		println("Export type update-only is deprecated. Use \"-update-only\" instead.")
-		dbProvider = new(mysqlProvider)
-	default:
+	}
+
+	if importSQLite || *exportType == "sqlite" {
+		return new(sqliteProvider)
+	} else if *importFlag || *exportType == "mysql" || *exportType == "update-only" {
+		return new(mysqlProvider)
+	} else {
 		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
 	}
-	return dbProvider
 }
 
 func getIgnoredTables() []string {
@@ -91,12 +96,10 @@ func getIgnoredTables() []string {
 	return ignoredTables
 }
 
-func (config *Config) getConnectionString() string {
+func getConnectionString() string {
 	if viper.GetString("db.file_path") != "" {
-		config.DbProvider = new(sqliteProvider)
 		return "file:" + viper.GetString("db.file_path")
 	} else {
-		config.DbProvider = new(mysqlProvider)
 		dbUser := viper.GetString("db.user")
 		dbPasswort := viper.GetString("db.password")
 		dbHost := viper.GetString("db.host")
