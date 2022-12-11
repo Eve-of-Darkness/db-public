@@ -13,7 +13,7 @@ import (
 	"github.com/spf13/viper"
 )
 
-func exportToSql(exportType string) {
+func exportToSql(exportType string, updateOnly bool) {
 	viper.SetConfigName("config")    // name of config file (without extension)
 	viper.AddConfigPath("./config/") // path to look for the config file in
 	if _, fileError := os.Stat("./config/config.yml"); errors.Is(fileError, os.ErrNotExist) {
@@ -30,8 +30,12 @@ func exportToSql(exportType string) {
 	var buffer bytes.Buffer
 
 	ignoredTables := []string{}
-	if exportType == "update-only" {
+	if exportType == "update-only" || updateOnly {
 		ignoredTables = viper.GetStringSlice("exportignore")
+		if len(ignoredTables) > 0 {
+			println("The use of exportignore is deprecated. All non-static tables are excluded by default.")
+			println("Use \"exclude\" instead.")
+		}
 	}
 	tables := getTables(ignoredTables)
 	var dbProvider dbProvider
@@ -41,6 +45,7 @@ func exportToSql(exportType string) {
 	case "sqlite":
 		dbProvider = new(sqliteProvider)
 	case "update-only":
+		println("Export type update-only is deprecated. Use \"-update-only\" instead.")
 		dbProvider = new(mysqlProvider)
 	default:
 		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
