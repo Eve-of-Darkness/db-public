@@ -3,56 +3,21 @@ package main
 import (
 	"bytes"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"os"
 	"sort"
 	"strconv"
 	"strings"
-
-	"github.com/spf13/viper"
 )
 
-func exportToSql(exportType string, updateOnly bool) {
-	viper.SetConfigName("config")    // name of config file (without extension)
-	viper.AddConfigPath("./config/") // path to look for the config file in
-	if _, fileError := os.Stat("./config/config.yml"); errors.Is(fileError, os.ErrNotExist) {
-		input, _ := os.ReadFile("./config/config.example.yml")
-		_ = os.WriteFile("./config/config.yml", input, 0644)
-	} else {
-		err := viper.ReadInConfig()
-		if err != nil {
-			panic(fmt.Errorf("fatal error config file: %s", err))
-		}
-	}
-
+func exportToSql(config Config) {
 	dataFiles := getFiles("data")
 	var buffer bytes.Buffer
 
-	ignoredTables := []string{}
-	if exportType == "update-only" || updateOnly {
-		ignoredTables = viper.GetStringSlice("exportignore")
-		if len(ignoredTables) > 0 {
-			println("The use of exportignore is deprecated. All non-static tables are excluded by default.")
-			println("Use \"exclude\" instead.")
-		}
-	}
-	tables := getTables(ignoredTables)
-	var dbProvider dbProvider
-	switch exportType {
-	case "mysql":
-		dbProvider = new(mysqlProvider)
-	case "sqlite":
-		dbProvider = new(sqliteProvider)
-	case "update-only":
-		println("Export type update-only is deprecated. Use \"-update-only\" instead.")
-		dbProvider = new(mysqlProvider)
-	default:
-		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
-	}
+	tables := getTables(config.IgnoredTables)
 
 	for _, table := range tables {
-		tableCreateStmt := dbProvider.getCreateStatement(table)
+		tableCreateStmt := config.DbProvider.getCreateStatement(table)
 
 		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
@@ -70,6 +35,23 @@ func exportToSql(exportType string, updateOnly bool) {
 	if err != nil {
 		panic(err)
 	}
+}
+
+func getFiles(dir string) []string {
+	files, err := os.ReadDir(dir)
+	if err != nil {
+		panic(err)
+	}
+
+	fileNames := make([]string, len(files))
+
+	i := 0
+	for _, f := range files {
+		fileNames[i] = f.Name()
+		i++
+	}
+
+	return fileNames
 }
 
 func getTables(ignoredTables []string) []Table {
