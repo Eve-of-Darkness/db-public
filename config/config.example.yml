@@ -18,10 +18,7 @@ exportignore:
     - GuildAlliance
     - HouseConsignmentMerchant
     - KeepCaptureLog
-    - KeepComponent
-    - KeepHookPoint
     - KeepHookPointItem
-    - Minotaurrelic
     - News
     - PlayerXEffect
     - PvPKillsLog
@@ -48,3 +45,6 @@ exportignore:
     - DBHouse
     - Relic
     - Task
+    - Quest
+    - ItemUnique
+    - AccountXCustomParam
