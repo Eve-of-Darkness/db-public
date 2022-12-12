@@ -4,10 +4,9 @@ go 1.19
 
 require (
 	github.com/go-sql-driver/mysql v1.6.0
+	github.com/mattn/go-sqlite3 v1.14.11
 	github.com/spf13/viper v1.11.0
 )
-
-require github.com/mattn/go-sqlite3 v1.14.11
 
 require (
 	github.com/fsnotify/fsnotify v1.5.1 // indirect
