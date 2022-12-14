@@ -21,15 +21,13 @@ func importToJson(config Config) {
 	tables := getTables(config)
 
 	for index, table := range tables {
-		if !table.Static {
+		if table.Name == "Mob" {
+			for i := 0; i <= 6; i++ {
+				getMobJSON(i, dbProvider)
+			}
 			continue
 		}
-		err := getJSON(table, dbProvider)
-		if err != nil {
-			fmt.Printf("Failed to get json")
-			return
-		}
-
+		getJSON(table, dbProvider)
 		fmt.Printf("Finished " + fmt.Sprint(index+1) + " of " + fmt.Sprint(len(tables)) + " (" + table.Name + ")\n")
 	}
 }
@@ -43,20 +41,11 @@ func getMobJSON(expansion int, dbProvider dbProvider) {
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
-func getJSON(table Table, dbProvider dbProvider) error {
-	if table.Name == "Mob" {
-		for i := 0; i <= 6; i++ {
-			getMobJSON(i, dbProvider)
-		}
-		return nil
-	}
-
+func getJSON(table Table, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
 	var tableData = convertRowsToTableData(rows, table.PrimaryColumn.Name)
 	writeJSON(tableData, table.Name)
-
-	return nil
 }
 
 func query(dbProvider dbProvider, queryStr string) *sql.Rows {

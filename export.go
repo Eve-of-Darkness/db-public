@@ -1,18 +1,15 @@
 package main
 
 import (
-	"bytes"
 	"encoding/json"
 	"fmt"
 	"os"
-	"sort"
 	"strconv"
 	"strings"
 )
 
 func exportToSql(config Config) {
-	dataFiles := getFiles("data")
-	var buffer bytes.Buffer
+	var buffer strings.Builder
 
 	tables := getTables(config)
 
@@ -22,16 +19,11 @@ func exportToSql(config Config) {
 		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
 
-		for _, dataFile := range dataFiles {
-			if dataFile[:strings.Index(dataFile, ".")] == table.Name {
-				insert := buildBulkInsert(dataFile)
-				buffer.WriteString(insert)
-				buffer.WriteString("\n\n")
-			}
-		}
+		insert := buildBulkInsert(table)
+		buffer.WriteString(insert)
 	}
 
-	err := os.WriteFile("public-db.sql", buffer.Bytes(), 0644)
+	err := os.WriteFile("public-db.sql", []byte(buffer.String()), 0644)
 	if err != nil {
 		panic(err)
 	}
@@ -82,15 +74,14 @@ func containsString(stringSlice []string, searchString string) bool {
 	return false
 }
 
-func buildBulkInsert(table string) string {
+func buildBulkInsert(table Table) string {
 	data := parseFile(table)
 
 	if len(data) == 0 {
 		return ""
 	}
 
-	var buffer bytes.Buffer
-	columns := getColumns(data[0])
+	var buffer strings.Builder
 
 	for index, row := range data {
 		if index%2500 == 0 {
@@ -98,26 +89,26 @@ func buildBulkInsert(table string) string {
 				buffer.WriteString(";\n")
 			}
 
-			buffer.WriteString(getInsertStart(table, columns))
+			buffer.WriteString(getInsertStart(table))
 		} else {
 			buffer.WriteString(",\n")
 		}
 
-		buffer.WriteString(getValues(columns, row))
+		buffer.WriteString(getValues(table, row))
 	}
 
-	buffer.WriteString(";")
+	buffer.WriteString(";\n\n")
 	return buffer.String()
 }
 
-func getValues(columns []string, data map[string]interface{}) string {
-	var buffer bytes.Buffer
-	colCount := len(columns)
+func getValues(table Table, data map[string]interface{}) string {
+	var buffer strings.Builder
+	colCount := len(table.Columns)
 
 	buffer.WriteString("\t(")
 
-	for index, column := range columns {
-		value := data[column]
+	for index, column := range table.Columns {
+		value := data[column.Name]
 
 		if strValue, ok := value.(string); ok {
 			strValue := strings.Replace(strconv.QuoteToGraphic(strValue), "\\\"", "\"\"", -1)
@@ -138,20 +129,19 @@ func getValues(columns []string, data map[string]interface{}) string {
 	return buffer.String()
 }
 
-func getInsertStart(table string, columns []string) string {
-	var buffer bytes.Buffer
+func getInsertStart(table Table) string {
+	var buffer strings.Builder
 
 	buffer.WriteString("INSERT INTO `")
-	buffer.WriteString(table[:strings.Index(table, ".")])
+	buffer.WriteString(table.Name)
 	buffer.WriteString("` (")
 
-	colCount := len(columns)
-	for index, column := range columns {
+	columns := table.Columns
+	for i, column := range columns {
 		buffer.WriteString("`")
-		buffer.WriteString(column)
+		buffer.WriteString(column.Name)
 		buffer.WriteString("`")
-
-		if index < colCount-1 {
+		if i+1 < len(columns) {
 			buffer.WriteString(", ")
 		}
 	}
@@ -161,27 +151,22 @@ func getInsertStart(table string, columns []string) string {
 	return buffer.String()
 }
 
-func parseFile(fileName string) []map[string]interface{} {
-	file, e := os.ReadFile("data/" + fileName)
-	if e != nil {
-		panic(e)
+func parseFile(table Table) []map[string]interface{} {
+	files := getFiles("data")
+	var data []map[string]interface{}
+	for _, f := range files {
+		var addedData []map[string]interface{}
+		if !strings.HasPrefix(f, table.Name+".") || !strings.HasSuffix(f, ".json") {
+			continue
+		}
+		file, e := os.ReadFile("data/" + f)
+		if e != nil {
+			panic(e)
+		}
+
+		json.Unmarshal(file, &addedData)
+		data = append(data, addedData...)
 	}
 
-	var jsontype []map[string]interface{}
-	json.Unmarshal(file, &jsontype)
-
-	return jsontype
-}
-
-func getColumns(object map[string]interface{}) []string {
-	keys := make([]string, len(object))
-
-	i := 0
-	for k := range object {
-		keys[i] = k
-		i++
-	}
-
-	sort.Strings(keys)
-	return keys
+	return data
 }
