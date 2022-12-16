@@ -13,11 +13,11 @@ import (
 type Config struct {
 	DbProvider       dbProvider
 	ImportFlag       bool
-	IgnoredTables    []string
 	ConnectionString string
-	ExcludeTables    []string
-	IncludeTables    []string
-	UpdateOnly       bool
+	ignoredTables    []string
+	excludeTables    []string
+	includeTables    []string
+	updateOnly       bool
 }
 
 func LoadConfig() Config {
@@ -37,13 +37,13 @@ func LoadConfig() Config {
 
 	config := new(Config)
 
-	config.ExcludeTables = append(splitString(*excludeTables, ","), viper.GetStringSlice("exclude")...)
-	config.IncludeTables = append(splitString(*includeTables, ","), viper.GetStringSlice("include")...)
+	config.excludeTables = append(splitString(*excludeTables, ","), viper.GetStringSlice("exclude")...)
+	config.includeTables = append(splitString(*includeTables, ","), viper.GetStringSlice("include")...)
 
 	config.ImportFlag = *importFlag
-	config.IgnoredTables = ignoredTables
+	config.ignoredTables = ignoredTables
 	config.DbProvider = getDbProvider(exportType, importFlag)
-	config.UpdateOnly = *updateOnly
+	config.updateOnly = *updateOnly
 
 	config.ConnectionString = getConnectionString()
 	return *config
@@ -107,4 +107,39 @@ func getConnectionString() string {
 		dbDatabase := viper.GetString("db.database")
 		return dbUser + ":" + dbPasswort + "@tcp(" + dbHost + ":" + dbPort + ")/" + dbDatabase
 	}
+}
+
+func (config *Config) GetTables() []Table {
+	tables := getAllTables()
+	sortTables(tables)
+
+	if len(config.ignoredTables) > 0 {
+		println("\"exportignore\" in config.yml is deprecated use \"exclude\" instead.")
+	}
+
+	result := []Table{}
+	for _, t := range tables {
+		if !config.isTableIncluded(t) {
+			fmt.Println("Found ignored table:", t.Name)
+			continue
+		}
+		result = append(result, t)
+	}
+	return result
+}
+
+func (config *Config) isTableIncluded(t Table) bool {
+	isIgnored := containsString(config.ignoredTables, t.Name)
+	isExcluded := containsString(config.excludeTables, t.Name)
+	isIncluded := containsString(config.includeTables, t.Name)
+	if config.updateOnly && (!t.Static || isIgnored || isExcluded) {
+		return false
+	}
+	if config.ImportFlag && (!isIncluded && (!t.Static || isExcluded)) { // include > exclude
+		return false
+	}
+	if !config.ImportFlag && isExcluded {
+		return false
+	}
+	return true
 }

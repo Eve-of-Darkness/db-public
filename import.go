@@ -18,7 +18,7 @@ func importToJson(config Config) {
 	dbProvider.getConnection()
 	defer dbProvider.closeConnection()
 
-	tables := getTables(config)
+	tables := config.GetTables()
 
 	for index, table := range tables {
 		if table.Name == "Mob" {

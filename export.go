@@ -11,7 +11,7 @@ import (
 func exportToSql(config Config) {
 	var buffer strings.Builder
 
-	tables := getTables(config)
+	tables := config.GetTables()
 
 	for _, table := range tables {
 		tableCreateStmt := config.DbProvider.getCreateStatement(table)
@@ -42,30 +42,6 @@ func getFiles(dir string) []string {
 	}
 
 	return fileNames
-}
-
-func getTables(config Config) []Table {
-	tables := getAllTables()
-	sortTables(tables)
-
-	if len(config.IgnoredTables) > 0 {
-		println("Exportignore in config.yml is deprecated use exclude instead.")
-	}
-	excludeTables := append(config.ExcludeTables, config.IgnoredTables...)
-
-	useOnlyStatic := config.UpdateOnly || config.ImportFlag
-
-	result := []Table{}
-	for _, t := range tables {
-		isExcluded := containsString(excludeTables, t.Name)
-		isIncluded := containsString(config.IncludeTables, t.Name)
-		if ((!t.Static && useOnlyStatic) || isExcluded) && !isIncluded { //include > exclude
-			fmt.Println("Found ignored table: ", t.Name)
-			continue
-		}
-		result = append(result, t)
-	}
-	return result
 }
 
 func containsString(stringSlice []string, searchString string) bool {
