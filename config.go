@@ -24,7 +24,7 @@ func LoadConfig() Config {
 	importFlag := flag.Bool("import", false, "Import configured SQL database to JSON database found in data folder.")
 	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\" and \"sqlite\"")
 	updateOnly := flag.Bool("update-only", false, "Set to export/replace static content, but keep player content untouched.")
-	excludeTables := flag.String("exclude", "", "Explicitly exclude (comma-separated) tables from export and import.")
+	excludeTables := flag.String("exclude", "", "Explicitly exclude (comma-separated) tables from export and import. \"all\" excludes all tables.")
 	includeTables := flag.String("include", "", "Explicitly include (comma-separated) tables that are not listed or are non-static for import.")
 	flag.Parse()
 
@@ -130,7 +130,7 @@ func (config *Config) GetTables() []Table {
 
 func (config *Config) isTableIncluded(t Table) bool {
 	isIgnored := containsString(config.ignoredTables, t.Name)
-	isExcluded := containsString(config.excludeTables, t.Name)
+	isExcluded := containsString(config.excludeTables, "all") || containsString(config.excludeTables, t.Name)
 	isIncluded := containsString(config.includeTables, t.Name)
 	if config.updateOnly && (!t.Static || isIgnored || isExcluded) {
 		return false

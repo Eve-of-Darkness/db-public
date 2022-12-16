@@ -22,11 +22,13 @@ The resulting file is `public-db.sql`.
 3. Copy data folder to repository
 
 ## CLI Options
-`-exclude <table1>,<table2>,...`: Explicitly exclude (comma-separated) tables from export and import  
-`-update-only`: Set to export/replace only static content, but keep player content untouched  
-`-import`: Import the configured SQL database to JSON database found in data folder  
 `-export <type>`: Export Public-DB as SQL query. Possible `<type>`s are "mysql" and "sqlite" (default "mysql")  
+`-update-only`: Set to only export and replace static content, but keep player content untouched  
+`-import`: Import the configured SQL database to JSON database found in data folder  
+`-exclude <table1>,<table2>,...`: Explicitly exclude (comma-separated) tables from export and import. "all" excludes all tables. 
 `-include <table1>,<table2>,...`: Explicitly include (comma-separated) tables that are not listed or are non-static for import
+
+Tip: To import only selected tables do `-import -exclude all -include <table1>,<table2>,...`.
 
 ## The data
 We plan on following data available on http://camelot.allakhazam.com/ as closely as possible. We think this will be the most effective way quickly populate missing data.
