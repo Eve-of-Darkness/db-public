@@ -10,7 +10,7 @@ To use this database download the designated zipped `.sql` file from release. Ex
 ## Build the Database Yourself
 1. Download public-db-tools.7z
 2. Unzip (for example with 7-zip)
-3. In a terminal run `./public-db-tools -export <type> [-update-only]`, where `<type>` can be `mysql` or `sqlite`. 
+3. In a terminal run `./public-db-tools -export <type>`, where `<type>` can be `mysql` or `sqlite`. 
 
 Note: For Windows the executable is named `public-db-tools.exe` and for MacOS `public-db-tools_mac`.
 
@@ -20,6 +20,13 @@ The resulting file is `public-db.sql`.
 1. Edit `config.yml` to match the credentials for MySQL/MariaDB or SQLite database you want to export
 2. In a terminal run `./public-db-tools -import`
 3. Copy data folder to repository
+
+## CLI Options
+`-exclude <table1>,<table2>,...`: Explicitly exclude (comma-separated) tables from export and import  
+`-update-only`: Set to export/replace only static content, but keep player content untouched  
+`-import`: Import the configured SQL database to JSON database found in data folder  
+`-export <type>`: Export Public-DB as SQL query. Possible `<type>`s are "mysql" and "sqlite" (default "mysql")  
+`-include <table1>,<table2>,...`: Explicitly include (comma-separated) tables that are not listed or are non-static for import
 
 ## The data
 We plan on following data available on http://camelot.allakhazam.com/ as closely as possible. We think this will be the most effective way quickly populate missing data.

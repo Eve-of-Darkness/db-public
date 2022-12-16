@@ -21,9 +21,9 @@ type Config struct {
 }
 
 func LoadConfig() Config {
-	importFlag := flag.Bool("import", false, "Import your SQL database to JSON database found in data folder.")
-	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\", \"sqlite\", \"update-only\"")
-	updateOnly := flag.Bool("update-only", false, "Set to export SQL query to replace static content, but keep player content untouched.")
+	importFlag := flag.Bool("import", false, "Import configured SQL database to JSON database found in data folder.")
+	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\" and \"sqlite\"")
+	updateOnly := flag.Bool("update-only", false, "Set to export/replace static content, but keep player content untouched.")
 	excludeTables := flag.String("exclude", "", "Explicitly exclude (comma-separated) tables from export and import.")
 	includeTables := flag.String("include", "", "Explicitly include (comma-separated) tables that are not listed or are non-static for import.")
 	flag.Parse()
