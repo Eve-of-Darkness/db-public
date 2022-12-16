@@ -643,7 +643,7 @@
     "XOff": 495,
     "YOff": -663,
     "ZOff": 432
-  },  
+  },
   {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
     "ComponentRotation": 1,
@@ -1033,7 +1033,7 @@
     "XOff": 635,
     "YOff": -674,
     "ZOff": 578
-  },  
+  },
   {
     "ClassType": "DOL.GS.Keeps.GuardArcher",
     "ComponentRotation": 0,
@@ -1573,7 +1573,7 @@
     "XOff": 214,
     "YOff": -666,
     "ZOff": 432
-  },  
+  },
   {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
     "ComponentRotation": 2,
@@ -2248,7 +2248,7 @@
     "XOff": 602,
     "YOff": -459,
     "ZOff": 2
-  },  
+  },
   {
     "ClassType": "DOL.GS.Keeps.GuardFighter",
     "ComponentRotation": 0,
