@@ -48,6 +48,9 @@ func getTables(config Config) []Table {
 	tables := getAllTables()
 	sortTables(tables)
 
+	if len(config.IgnoredTables) > 0 {
+		println("Exportignore in config.yml is deprecated use exclude instead.")
+	}
 	excludeTables := append(config.ExcludeTables, config.IgnoredTables...)
 
 	useOnlyStatic := config.UpdateOnly || config.ImportFlag
