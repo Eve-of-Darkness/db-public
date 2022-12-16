@@ -53,7 +53,7 @@ jobs:
           7z a -t7z "${{ env.ARTIFACT_FOLDER }}/$sql.7z" "$sql"; \
           done
 
-          7z a -t7z "${{ env.ARTIFACT_FOLDER }}/${{ env.TOOL_NAME }}.7z" data ${{ env.TOOL_NAME }}* schema_*
+          7z a -t7z "${{ env.ARTIFACT_FOLDER }}/${{ env.TOOL_NAME }}.7z" data config customizations ${{ env.TOOL_NAME }}* README.md
       - name: Create Release
         run: |
           gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt ${{ env.ARTIFACT_FOLDER }}/*
