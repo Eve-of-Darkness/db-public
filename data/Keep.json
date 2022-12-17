@@ -626,7 +626,7 @@
     "KeepType": 16,
     "Keep_ID": "129",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
-    "Level": 4,
+    "Level": 0,
     "MidgardDifficultyLevel": 1,
     "Name": "Thidranki Faste",
     "OriginalRealm": 0,
@@ -1360,7 +1360,7 @@
     "Region": 238,
     "SkinType": 0,
     "X": 563575,
-    "Y": 574212,
+    "Y": 573612,
     "Z": 5408
   },
   {
@@ -1997,8 +1997,8 @@
     "Realm": 2,
     "Region": 238,
     "SkinType": 0,
-    "X": 569953,
-    "Y": 540622,
+    "X": 569600,
+    "Y": 541022,
     "Z": 5408
   },
   {
@@ -2635,8 +2635,8 @@
     "Realm": 3,
     "Region": 238,
     "SkinType": 0,
-    "X": 533843,
-    "Y": 534134,
+    "X": 534043,
+    "Y": 534334,
     "Z": 5408
   },
   {
