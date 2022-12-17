@@ -1,36 +1,11 @@
 package main
 
-import (
-	"flag"
-	"os"
-)
-
 func main() {
-	importFlag := flag.Bool("import", false, "Import your SQL database to JSON database found in data folder.")
-	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\", \"sqlite\", \"update-only\"")
-	flag.Parse()
+	config := LoadConfig()
 
-	if *importFlag {
-		importToJson()
-		return
+	if config.ImportFlag {
+		importToJson(config)
+	} else {
+		exportToSql(config)
 	}
-
-	exportToSql(*exportType)
-}
-
-func getFiles(dir string) []string {
-	files, err := os.ReadDir(dir)
-	if err != nil {
-		panic(err)
-	}
-
-	fileNames := make([]string, len(files))
-
-	i := 0
-	for _, f := range files {
-		fileNames[i] = f.Name()
-		i++
-	}
-
-	return fileNames
 }

@@ -42,7 +42,7 @@ jobs:
           go build -v -ldflags="-s -w" -o ${{ env.TOOL_NAME }}.exe .
       - name: Build Queries
         run: |
-          for i in mysql sqlite update-only; \
+          for i in mysql sqlite; \
           do ./${{ env.TOOL_NAME }} -export $i \
           && mv public-db.sql public-db.$i.sql; \
           done
