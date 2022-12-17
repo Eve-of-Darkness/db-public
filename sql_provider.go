@@ -5,45 +5,36 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/spf13/viper"
+	_ "github.com/go-sql-driver/mysql"
+	_ "github.com/mattn/go-sqlite3"
 )
 
 type dbProvider interface {
-	createConnection()
+	setConnectionString(string)
 	getConnection() *sql.DB
-	getAllTables() *sql.Rows
 	closeConnection()
 	getCreateStatement(table Table) string
 }
 
 type sqliteProvider struct {
-	db *sql.DB
+	db               *sql.DB
+	connectionString string
 }
 
-func (provider *sqliteProvider) createConnection() {
-	db, err := sql.Open(
-		"sqlite3",
-		"file:"+viper.GetString("db.file_path"))
-
-	if err != nil {
-		panic(fmt.Errorf("failed to connect to database. %s", err))
-	}
-	provider.db = db
+func (provider *sqliteProvider) setConnectionString(connectionString string) {
+	provider.connectionString = connectionString
 }
 
 func (provider *sqliteProvider) getConnection() *sql.DB {
 	if provider.db == nil {
-		provider.createConnection()
+		db, err := sql.Open("sqlite3", provider.connectionString)
+
+		if err != nil {
+			panic(fmt.Errorf("failed to connect to database. %s", err))
+		}
+		provider.db = db
 	}
 	return provider.db
-}
-
-func (provider *sqliteProvider) getAllTables() *sql.Rows {
-	rows, err := provider.db.Query("SELECT name FROM sqlite_schema WHERE type ='table' AND name NOT LIKE 'sqlite_%';")
-	if err != nil {
-		panic(fmt.Errorf("failed to get tables: %v", err))
-	}
-	return rows
 }
 
 func (provider *sqliteProvider) closeConnection() {
@@ -121,37 +112,23 @@ func (provider *sqliteProvider) getCreateStatement(table Table) string {
 }
 
 type mysqlProvider struct {
-	db *sql.DB
+	db               *sql.DB
+	connectionString string
 }
 
-func (provider *mysqlProvider) createConnection() {
-	dbUser := viper.GetString("db.user")
-	dbPasswort := viper.GetString("db.password")
-	dbHost := viper.GetString("db.host")
-	dbPort := viper.GetString("db.port")
-	dbDatabase := viper.GetString("db.database")
-	db, err := sql.Open(
-		"mysql",
-		dbUser+":"+dbPasswort+"@tcp("+dbHost+":"+dbPort+")/"+dbDatabase)
-	if err != nil {
-		panic(fmt.Errorf("failed to connect to database"))
-	}
-	provider.db = db
+func (provider *mysqlProvider) setConnectionString(connectionString string) {
+	provider.connectionString = connectionString
 }
 
 func (provider *mysqlProvider) getConnection() *sql.DB {
 	if provider.db == nil {
-		provider.createConnection()
+		db, err := sql.Open("mysql", provider.connectionString)
+		if err != nil {
+			panic(fmt.Errorf("failed to connect to database"))
+		}
+		provider.db = db
 	}
 	return provider.db
-}
-
-func (provider *mysqlProvider) getAllTables() *sql.Rows {
-	rows, err := provider.db.Query("SHOW TABLES;")
-	if err != nil {
-		panic(fmt.Errorf("failed to get tables: %v", err))
-	}
-	return rows
 }
 
 func (provider *mysqlProvider) closeConnection() {

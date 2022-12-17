@@ -10,38 +10,24 @@ import (
 	"strconv"
 	"strings"
 	"time"
-
-	_ "github.com/go-sql-driver/mysql"
-	_ "github.com/mattn/go-sqlite3"
-	"github.com/spf13/viper"
 )
 
-func importToJson() {
-	viper.SetConfigName("config")  // name of config file (without extension)
-	viper.AddConfigPath("config/") // path to look for the config file in
-	err := viper.ReadInConfig()    // Find and read the config file
-	if err != nil {                // Handle errors reading the config file
-		panic(fmt.Errorf("fatal error config file: %s", err))
-	}
-
-	var dbProvider dbProvider
-	if viper.GetString("db.file_path") != "" {
-		dbProvider = new(sqliteProvider)
-	} else {
-		dbProvider = new(mysqlProvider)
-	}
+func importToJson(config Config) {
+	var dbProvider dbProvider = config.DbProvider
+	dbProvider.setConnectionString(config.ConnectionString)
 	dbProvider.getConnection()
 	defer dbProvider.closeConnection()
 
-	tables := getAllTables()
+	tables := config.GetTables()
 
 	for index, table := range tables {
-		err := getJSON(table, dbProvider)
-		if err != nil {
-			fmt.Printf("Failed to get json")
-			return
+		if table.Name == "Mob" {
+			for i := 0; i <= 6; i++ {
+				getMobJSON(i, dbProvider)
+			}
+			continue
 		}
-
+		getJSON(table, dbProvider)
 		fmt.Printf("Finished " + fmt.Sprint(index+1) + " of " + fmt.Sprint(len(tables)) + " (" + table.Name + ")\n")
 	}
 }
@@ -55,20 +41,11 @@ func getMobJSON(expansion int, dbProvider dbProvider) {
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
-func getJSON(table Table, dbProvider dbProvider) error {
-	if table.Name == "Mob" {
-		for i := 0; i <= 6; i++ {
-			getMobJSON(i, dbProvider)
-		}
-		return nil
-	}
-
+func getJSON(table Table, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
 	var tableData = convertRowsToTableData(rows, table.PrimaryColumn.Name)
 	writeJSON(tableData, table.Name)
-
-	return nil
 }
 
 func query(dbProvider dbProvider, queryStr string) *sql.Rows {

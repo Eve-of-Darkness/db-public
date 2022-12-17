@@ -1,94 +1,66 @@
 package main
 
 import (
-	"bytes"
 	"encoding/json"
-	"errors"
 	"fmt"
 	"os"
-	"sort"
 	"strconv"
 	"strings"
-
-	_ "github.com/go-sql-driver/mysql"
-	"github.com/spf13/viper"
 )
 
-func exportToSql(exportType string) {
-	viper.SetConfigName("config")    // name of config file (without extension)
-	viper.AddConfigPath("./config/") // path to look for the config file in
-	if _, fileError := os.Stat("./config/config.yml"); errors.Is(fileError, os.ErrNotExist) {
-		input, _ := os.ReadFile("./config/config.example.yml")
-		_ = os.WriteFile("./config/config.yml", input, 0644)
-	} else {
-		err := viper.ReadInConfig()
-		if err != nil {
-			panic(fmt.Errorf("fatal error config file: %s", err))
-		}
-	}
+func exportToSql(config Config) {
+	var buffer strings.Builder
 
-	dataFiles := getFiles("data")
-	var buffer bytes.Buffer
-
-	ignoredTables := []string{}
-	if exportType == "update-only" {
-		ignoredTables = viper.GetStringSlice("exportignore")
-	}
-	tables := getTables(ignoredTables)
+	tables := config.GetTables()
 
 	for _, table := range tables {
-		var tableCreateStmt string
-		switch exportType {
-		case "mysql":
-			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
-		case "sqlite":
-			tableCreateStmt = new(sqliteProvider).getCreateStatement(table)
-		case "update-only":
-			tableCreateStmt = new(mysqlProvider).getCreateStatement(table)
-		default:
-			panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
-		}
+		tableCreateStmt := config.DbProvider.getCreateStatement(table)
 
 		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
 
-		for _, dataFile := range dataFiles {
-			if dataFile[:strings.Index(dataFile, ".")] == table.Name {
-				insert := buildBulkInsert(dataFile)
-				buffer.WriteString(insert)
-				buffer.WriteString("\n\n")
-			}
-		}
+		insert := buildBulkInsert(table)
+		buffer.WriteString(insert)
 	}
 
-	err := os.WriteFile("public-db.sql", buffer.Bytes(), 0644)
+	err := os.WriteFile("public-db.sql", []byte(buffer.String()), 0644)
 	if err != nil {
 		panic(err)
 	}
 }
 
-func getTables(ignoredTables []string) []Table {
-	tables := getAllTables()
-	for _, ignoredTable := range ignoredTables {
-		matchedIndex := findTableIndex(ignoredTable, tables)
-		if matchedIndex >= 0 {
-			fmt.Println("Found ignored table: ", tables[matchedIndex].Name)
-			tables = append(tables[:matchedIndex], tables[matchedIndex+1:]...)
-		}
+func getFiles(dir string) []string {
+	files, err := os.ReadDir(dir)
+	if err != nil {
+		panic(err)
 	}
-	sortTables(tables)
-	return tables
+
+	fileNames := make([]string, len(files))
+
+	for i, f := range files {
+		fileNames[i] = f.Name()
+	}
+
+	return fileNames
 }
 
-func buildBulkInsert(table string) string {
+func containsString(stringSlice []string, searchString string) bool {
+	for _, s := range stringSlice {
+		if strings.EqualFold(s, searchString) {
+			return true
+		}
+	}
+	return false
+}
+
+func buildBulkInsert(table Table) string {
 	data := parseFile(table)
 
 	if len(data) == 0 {
 		return ""
 	}
 
-	var buffer bytes.Buffer
-	columns := getColumns(data[0])
+	var buffer strings.Builder
 
 	for index, row := range data {
 		if index%2500 == 0 {
@@ -96,26 +68,26 @@ func buildBulkInsert(table string) string {
 				buffer.WriteString(";\n")
 			}
 
-			buffer.WriteString(getInsertStart(table, columns))
+			buffer.WriteString(getInsertStart(table))
 		} else {
 			buffer.WriteString(",\n")
 		}
 
-		buffer.WriteString(getValues(columns, row))
+		buffer.WriteString(getValues(table, row))
 	}
 
-	buffer.WriteString(";")
+	buffer.WriteString(";\n\n")
 	return buffer.String()
 }
 
-func getValues(columns []string, data map[string]interface{}) string {
-	var buffer bytes.Buffer
-	colCount := len(columns)
+func getValues(table Table, data map[string]interface{}) string {
+	var buffer strings.Builder
+	colCount := len(table.Columns)
 
 	buffer.WriteString("\t(")
 
-	for index, column := range columns {
-		value := data[column]
+	for index, column := range table.Columns {
+		value := data[column.Name]
 
 		if strValue, ok := value.(string); ok {
 			strValue := strings.Replace(strconv.QuoteToGraphic(strValue), "\\\"", "\"\"", -1)
@@ -136,20 +108,19 @@ func getValues(columns []string, data map[string]interface{}) string {
 	return buffer.String()
 }
 
-func getInsertStart(table string, columns []string) string {
-	var buffer bytes.Buffer
+func getInsertStart(table Table) string {
+	var buffer strings.Builder
 
 	buffer.WriteString("INSERT INTO `")
-	buffer.WriteString(table[:strings.Index(table, ".")])
+	buffer.WriteString(table.Name)
 	buffer.WriteString("` (")
 
-	colCount := len(columns)
-	for index, column := range columns {
+	columns := table.Columns
+	for i, column := range columns {
 		buffer.WriteString("`")
-		buffer.WriteString(column)
+		buffer.WriteString(column.Name)
 		buffer.WriteString("`")
-
-		if index < colCount-1 {
+		if i+1 < len(columns) {
 			buffer.WriteString(", ")
 		}
 	}
@@ -159,27 +130,22 @@ func getInsertStart(table string, columns []string) string {
 	return buffer.String()
 }
 
-func parseFile(fileName string) []map[string]interface{} {
-	file, e := os.ReadFile("data/" + fileName)
-	if e != nil {
-		panic(e)
+func parseFile(table Table) []map[string]interface{} {
+	files := getFiles("data")
+	var data []map[string]interface{}
+	for _, f := range files {
+		var addedData []map[string]interface{}
+		if !strings.HasPrefix(f, table.Name+".") || !strings.HasSuffix(f, ".json") {
+			continue
+		}
+		file, e := os.ReadFile("data/" + f)
+		if e != nil {
+			panic(e)
+		}
+
+		json.Unmarshal(file, &addedData)
+		data = append(data, addedData...)
 	}
 
-	var jsontype []map[string]interface{}
-	json.Unmarshal(file, &jsontype)
-
-	return jsontype
-}
-
-func getColumns(object map[string]interface{}) []string {
-	keys := make([]string, len(object))
-
-	i := 0
-	for k := range object {
-		keys[i] = k
-		i++
-	}
-
-	sort.Strings(keys)
-	return keys
+	return data
 }
