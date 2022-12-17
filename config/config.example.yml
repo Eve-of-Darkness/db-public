@@ -4,47 +4,5 @@ db:
     password: dol
     database: dol
     port:     3306
-exportignore:
-    - Appeal
-    - AutoXMLUpdate
-    - AuditEntry
-    - Ban
-    - DBHouseCharsXPerms
-    - DOLCharacters
-    - DBHousePermissions
-    - DOLCharactersBackup
-    - DOLCharactersBackupXCustomParam
-    - DOLCharactersXCustomParam
-    - GuildAlliance
-    - HouseConsignmentMerchant
-    - KeepCaptureLog
-    - KeepHookPointItem
-    - News
-    - PlayerXEffect
-    - PvPKillsLog
-    - ServerInfo
-    - serverproperty_category
-    - serverstats
-    - SinglePermission
-    - Task
-    - Account
-    - CharacterXDataQuest
-    - CharacterXMasterLevel
-    - CharacterXOneTimeDrop
-    - Inventory
-    - playerboats
-    - playerinfo
-    - BugReport
-    - Guild
-    - GuildRank
-    - ServerProperty
-    - DBIndoorItem
-    - DBOutdoorItem
-    - DBHousepermissions
-    - DBHousecharxperms
-    - DBHouse
-    - Relic
-    - Task
-    - Quest
-    - ItemUnique
-    - AccountXCustomParam
+include:
+exclude:
