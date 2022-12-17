@@ -597,7 +597,7 @@
     "TemplateType": 5,
     "XOff": 68,
     "YOff": -1168,
-    "ZOff": 336
+    "ZOff": 432
   },
   {
     "ClassType": "DOL.GS.Keeps.Patrol",
@@ -1587,7 +1587,7 @@
     "TemplateType": 3,
     "XOff": 1132,
     "YOff": -1165,
-    "ZOff": 336
+    "ZOff": 432
   },
   {
     "ClassType": "DOL.GS.Keeps.GameKeepDoor",
