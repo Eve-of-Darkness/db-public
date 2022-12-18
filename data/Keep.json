@@ -114,7 +114,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 78,
+    "Heading": 90,
     "HiberniaDifficultyLevel": 4,
     "KeepID": 51,
     "KeepType": 2,
@@ -127,8 +127,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 608863,
-    "Y": 511423,
+    "X": 616600,
+    "Y": 511023,
     "Z": 8852
   },
   {
@@ -149,8 +149,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 571582,
-    "Y": 548180,
+    "X": 572002,
+    "Y": 548280,
     "Z": 8232
   },
   {
@@ -172,7 +172,7 @@
     "Region": 163,
     "SkinType": 0,
     "X": 606865,
-    "Y": 576030,
+    "Y": 576430,
     "Z": 8880
   },
   {
@@ -193,8 +193,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 582186,
-    "Y": 601117,
+    "X": 581586,
+    "Y": 601017,
     "Z": 8496
   },
   {
@@ -281,8 +281,8 @@
     "Realm": 2,
     "Region": 163,
     "SkinType": 0,
-    "X": 537641,
-    "Y": 366545,
+    "X": 535341,
+    "Y": 366500,
     "Z": 8720
   },
   {
@@ -303,8 +303,8 @@
     "Realm": 2,
     "Region": 163,
     "SkinType": 0,
-    "X": 640960,
-    "Y": 410560,
+    "X": 640760,
+    "Y": 411060,
     "Z": 8424
   },
   {
@@ -392,7 +392,7 @@
     "Region": 163,
     "SkinType": 0,
     "X": 685480,
-    "Y": 389038,
+    "Y": 389188,
     "Z": 8696
   },
   {
@@ -422,7 +422,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 0,
+    "Heading": 270,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 101,
     "KeepType": 2,
@@ -435,8 +435,8 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 444868,
-    "Y": 507926,
+    "X": 431908,
+    "Y": 507426,
     "Z": 8752
   },
   {
@@ -457,8 +457,8 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 475918,
-    "Y": 543134,
+    "X": 475600,
+    "Y": 543434,
     "Z": 8232
   },
   {
@@ -480,7 +480,7 @@
     "Region": 163,
     "SkinType": 0,
     "X": 442055,
-    "Y": 576866,
+    "Y": 576600,
     "Z": 8880
   },
   {
@@ -501,7 +501,7 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 477933,
+    "X": 477333,
     "Y": 596314,
     "Z": 8368
   },
@@ -546,7 +546,7 @@
     "Region": 163,
     "SkinType": 0,
     "X": 411649,
-    "Y": 607307,
+    "Y": 607907,
     "Z": 8496
   },
   {
@@ -875,8 +875,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 570464,
-    "Y": 553695,
+    "X": 569864,
+    "Y": 554295,
     "Z": 8264
   },
   {
@@ -1148,7 +1148,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 104,
+    "Heading": 284,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 357,
     "KeepType": 0,
@@ -1478,7 +1478,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 281,
+    "Heading": 45,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 563,
     "KeepType": 0,
@@ -1491,8 +1491,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 613994,
-    "Y": 512148,
+    "X": 612894,
+    "Y": 512948,
     "Z": 8753
   },
   {
@@ -1513,8 +1513,8 @@
     "Realm": 1,
     "Region": 163,
     "SkinType": 0,
-    "X": 574881,
-    "Y": 543820,
+    "X": 575331,
+    "Y": 543420,
     "Z": 8048
   },
   {
@@ -1645,7 +1645,7 @@
     "Realm": 2,
     "Region": 163,
     "SkinType": 0,
-    "X": 535214,
+    "X": 534614,
     "Y": 371178,
     "Z": 8720
   },
@@ -1720,7 +1720,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 90,
+    "Heading": 180,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 592,
     "KeepType": 0,
@@ -1733,9 +1733,9 @@
     "Realm": 2,
     "Region": 163,
     "SkinType": 0,
-    "X": 633027,
-    "Y": 345499,
-    "Z": 8664
+    "X": 623710,
+    "Y": 339805,
+    "Z": 7768
   },
   {
     "AlbionDifficultyLevel": 1,
@@ -1786,7 +1786,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 308,
+    "Heading": 353,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 613,
     "KeepType": 0,
@@ -1821,8 +1821,8 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 472939,
-    "Y": 547426,
+    "X": 472239,
+    "Y": 548126,
     "Z": 8048
   },
   {
@@ -2371,9 +2371,9 @@
     "Realm": 2,
     "Region": 163,
     "SkinType": 0,
-    "X": 645328,
-    "Y": 330536,
-    "Z": 8248
+    "X": 622549,
+    "Y": 359394,
+    "Z": 8088
   },
   {
     "AlbionDifficultyLevel": 1,
@@ -2424,7 +2424,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 250,
+    "Heading": 350,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 869,
     "KeepType": 0,
@@ -2437,9 +2437,9 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 459428,
-    "Y": 508922,
-    "Z": 8128
+    "X": 435700,
+    "Y": 530000,
+    "Z": 8000
   },
   {
     "AlbionDifficultyLevel": 1,
@@ -3062,7 +3062,7 @@
     "BaseLevel": 50,
     "ClaimedGuildName": "",
     "CreateInfo": "",
-    "Heading": 0,
+    "Heading": 180,
     "HiberniaDifficultyLevel": 1,
     "KeepID": 1125,
     "KeepType": 0,
@@ -3075,8 +3075,8 @@
     "Realm": 3,
     "Region": 163,
     "SkinType": 0,
-    "X": 430568,
-    "Y": 507741,
+    "X": 431568,
+    "Y": 502741,
     "Z": 8752
   },
   {
