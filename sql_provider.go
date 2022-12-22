@@ -49,41 +49,40 @@ func (provider *sqliteProvider) getCreateStatement(table Table) string {
 	} else {
 		stmt += fmt.Sprintf("CREATE TABLE IF NOT EXISTS `%v` (", table.Name)
 	}
-	for _, c := range table.Columns {
-		sqlTypeIsNumber := strings.Contains(c.SqlType, "int(") || c.SqlType == "double"
-		sqlTypeIsText := strings.HasPrefix(c.SqlType, "varchar") || c.SqlType == "text"
-		columnIsPrimaryKey := c.Name == table.PrimaryColumn.Name
-		if c.Name == table.PrimaryColumn.Name && sqlTypeIsNumber && table.AutoIncrement > 0 {
-			stmt += "`" + c.Name + "` INTEGER"
+	for _, col := range table.Columns {
+		sqlTypeIsNumber := strings.Contains(col.SqlType, "int(") || col.SqlType == "double"
+		sqlTypeIsText := strings.HasPrefix(col.SqlType, "varchar") || col.SqlType == "text"
+		if col.IsPrimary && sqlTypeIsNumber && table.AutoIncrement > 0 {
+			stmt += "`" + col.Name + "` INTEGER"
 		} else {
-			sqlType := strings.Split(c.SqlType, " ")
+			sqlType := strings.Split(col.SqlType, " ")
 			if len(sqlType) == 2 { //int(11) unsigned -> unsigned int(11)
 				sqlType = []string{sqlType[1], sqlType[0]}
 			}
-			stmt += fmt.Sprintf("`%v` %v", c.Name, strings.ToUpper(strings.Join(sqlType, " ")))
+			stmt += fmt.Sprintf("`%v` %v", col.Name, strings.ToUpper(strings.Join(sqlType, " ")))
 		}
-		if c.NotNull {
+		if col.NotNull {
 			stmt += " NOT NULL"
 		}
-		if c.Name == table.PrimaryColumn.Name && sqlTypeIsNumber && table.AutoIncrement > 0 {
+		if col.IsPrimary && sqlTypeIsNumber && table.AutoIncrement > 0 {
 			stmt += " PRIMARY KEY"
 			if table.AutoIncrement > 0 {
 				stmt += " AUTOINCREMENT"
 			}
 		}
-		if c.DefaultValue != "" {
-			if sqlTypeIsNumber || c.DefaultValue == "NULL" {
-				stmt += " DEFAULT " + c.DefaultValue
+		if col.DefaultValue != "" {
+			if sqlTypeIsNumber || col.DefaultValue == "NULL" {
+				stmt += " DEFAULT " + col.DefaultValue
 			} else {
-				stmt += fmt.Sprintf(" DEFAULT '%v'", c.DefaultValue)
+				stmt += fmt.Sprintf(" DEFAULT '%v'", col.DefaultValue)
 			}
-		} else if c.NotNull {
+		} else if col.NotNull {
 			if sqlTypeIsText {
 				stmt += " DEFAULT ''"
-			} else if !columnIsPrimaryKey {
+			} else if !col.IsPrimary {
 				stmt += " DEFAULT 0"
 			}
-		} else if sqlTypeIsText || !columnIsPrimaryKey {
+		} else if sqlTypeIsText || !col.IsPrimary {
 			stmt += " DEFAULT NULL"
 		}
 
@@ -92,18 +91,19 @@ func (provider *sqliteProvider) getCreateStatement(table Table) string {
 		}
 		stmt += ", \n"
 	}
-	if !strings.Contains(table.PrimaryColumn.SqlType, "int(") || table.AutoIncrement < 1 {
-		stmt += fmt.Sprintf("PRIMARY KEY (`%v`));\n", table.PrimaryColumn.Name)
+	if !strings.Contains(table.GetPrimaryColumn().SqlType, "int(") || table.AutoIncrement < 1 {
+		stmt += fmt.Sprintf("PRIMARY KEY (`%v`));\n", table.GetPrimaryColumn().Name)
 	} else {
 		stmt = stmt[:len(stmt)-3] + ");\n"
 	}
-	for _, c := range table.UniqueIndexes {
-		stmt += fmt.Sprintf("CREATE UNIQUE INDEX `U_%[1]v_%[2]v` ON `%[1]v` (`%[2]v`);\n", table.Name, c.Name)
-	}
 	for _, i := range table.Indexes {
+		if i.Unique {
+			stmt += fmt.Sprintf("CREATE UNIQUE INDEX `U_%[1]v_%[2]v` ON `%[1]v` (`%[2]v`);\n", table.Name, i.Columns[0])
+			continue
+		}
 		columns := ""
-		for _, c := range i.Keys {
-			columns += fmt.Sprintf("`%v`, ", c.Name)
+		for _, col := range i.Columns {
+			columns += fmt.Sprintf("`%v`, ", col)
 		}
 		columns = columns[:len(columns)-2]
 		stmt += fmt.Sprintf("CREATE INDEX `%[2]v` ON `%[1]v` (%[3]v);\n", table.Name, i.Name, columns)
@@ -143,32 +143,33 @@ func (provider *mysqlProvider) getCreateStatement(table Table) string {
 	} else {
 		stmt += fmt.Sprintf("CREATE TABLE IF NOT EXISTS `%v` (\n", table.Name)
 	}
-	for _, k := range table.Columns {
-		stmt += "  `" + k.Name + "` " + k.SqlType
-		if k.NotNull {
+	for _, col := range table.Columns {
+		stmt += "  `" + col.Name + "` " + col.SqlType
+		if col.NotNull {
 			stmt += " NOT NULL"
 		}
-		if k.DefaultValue != "" {
-			if k.DefaultValue == "NULL" {
+		if col.DefaultValue != "" {
+			if col.DefaultValue == "NULL" {
 				stmt += " DEFAULT NULL"
 			} else {
-				stmt += " DEFAULT '" + k.DefaultValue + "'"
+				stmt += " DEFAULT '" + col.DefaultValue + "'"
 			}
 		}
-		if (k == table.PrimaryColumn && table.AutoIncrement > 0) || k.AutoIncrement {
+		if (col.IsPrimary && table.AutoIncrement > 0) || col.AutoIncrement {
 			stmt += " AUTO_INCREMENT"
 		}
 		stmt += ",\n"
 	}
-	stmt += "  PRIMARY KEY (`" + table.PrimaryColumn.Name + "`),\n"
-	for _, k := range table.UniqueIndexes {
-		stmt += "  UNIQUE KEY `U_" + table.Name + "_" + k.Name + "` (`" + k.Name + "`),\n"
-	}
+	stmt += "  PRIMARY KEY (`" + table.GetPrimaryColumn().Name + "`),\n"
 
 	for _, i := range table.Indexes {
+		if i.Unique {
+			stmt += "  UNIQUE KEY `" + i.Name + "` (`" + i.Columns[0] + "`),\n"
+			continue
+		}
 		stmt += "  KEY `" + i.Name + "` ("
-		for _, k := range i.Keys {
-			stmt += "`" + k.Name + "`,"
+		for _, col := range i.Columns {
+			stmt += "`" + col + "`,"
 		}
 		stmt = stmt[:len(stmt)-1]
 		stmt += "),\n"

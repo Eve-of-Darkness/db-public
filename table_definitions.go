@@ -187,13 +187,16 @@ func getAllTables() []Table {
 
 	t = newTable("CharacterXDataQuest")
 	t.AddPrimary("ID", "int(11)").NotNullable()
-	t.AddWithIndex("Character_ID", "varchar(100)").NotNullable()
+	t.Add("Character_ID", "varchar(100)").NotNullable()
 	t.Add("DataQuestID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Step", "smallint(6)").NotNullable().SetDefault("0")
 	t.Add("Count", "smallint(6)").NotNullable().SetDefault("0")
 	t.Add("LastTimeRowUpdated", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.AutoIncrement = 1
-	t.Indexes[0].Keys = append([]*TableColumn{t.Columns[2]}, t.Indexes[0].Keys...)
+	index := new(Index)
+	index.Name = "I_CharacterXDataQuest_Character_ID"
+	index.Columns = []string{"DataQuestID", "Character_ID"}
+	t.Indexes = append(t.Indexes, index)
 	allTables = append(allTables, *t)
 
 	t = newTable("CharacterXMasterLevel")

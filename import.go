@@ -37,14 +37,14 @@ func getMobJSON(expansion int, dbProvider dbProvider) {
 	defer rows.Close()
 	allTables := getAllTables()
 	mobTable := findTable("Mob", allTables)
-	var tableData = convertRowsToTableData(rows, mobTable.PrimaryColumn.Name)
+	var tableData = convertRowsToTableData(rows, mobTable.GetPrimaryColumn().Name)
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
 func getJSON(table Table, dbProvider dbProvider) {
 	rows := query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
-	var tableData = convertRowsToTableData(rows, table.PrimaryColumn.Name)
+	var tableData = convertRowsToTableData(rows, table.GetPrimaryColumn().Name)
 	writeJSON(tableData, table.Name)
 }
 

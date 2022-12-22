@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"sort"
 	"strings"
 )
@@ -8,16 +9,16 @@ import (
 type Table struct {
 	Name          string
 	Columns       []*TableColumn
-	PrimaryColumn *TableColumn
-	UniqueIndexes []*TableColumn
-	Indexes       []*Index
-	AutoIncrement int
-	Static        bool
+	primaryColumn *TableColumn
+	Indexes       []*Index `json:",omitempty"`
+	AutoIncrement int      `json:",omitempty"`
+	Static        bool     `json:",omitempty"`
 }
 
 type Index struct {
-	Name string
-	Keys []*TableColumn
+	Name    string
+	Columns []string
+	Unique  bool `json:",omitempty"`
 }
 
 func newTable(name string) *Table {
@@ -38,32 +39,58 @@ func (t *Table) Add(name string, sqlType string) *TableColumn {
 
 func (t *Table) AddUnique(name string, sqlType string) *TableColumn {
 	col := t.Add(name, sqlType)
-	t.UniqueIndexes = append(t.UniqueIndexes, col)
+	index := new(Index)
+	index.Name = "U_" + t.Name + "_" + col.Name
+	index.Columns = append(index.Columns, col.Name)
+	index.Unique = true
+	t.Indexes = append(t.Indexes, index)
 	return col
 }
 
 func (t *Table) AddWithIndex(name string, sqlType string) *TableColumn {
 	col := t.Add(name, sqlType)
 	index := new(Index)
-	indexName := "I_" + t.Name + "_" + col.Name
-	index.Name = indexName
-	index.Keys = append(index.Keys, col)
+	index.Name = "I_" + t.Name + "_" + col.Name
+	index.Columns = append(index.Columns, col.Name)
 	t.Indexes = append(t.Indexes, index)
 	return col
 }
 
 func (t *Table) AddPrimary(name string, sqlType string) *TableColumn {
 	col := t.Add(name, sqlType)
-	t.PrimaryColumn = col
+	col.IsPrimary = true
+	t.primaryColumn = col
 	return col
+}
+
+func (t *Table) GetColumn(columnName string) *TableColumn {
+	for _, col := range t.Columns {
+		if col.Name == columnName {
+			return col
+		}
+	}
+	return nil
+}
+
+func (t *Table) GetPrimaryColumn() *TableColumn {
+	if t.primaryColumn != nil {
+		return t.primaryColumn
+	}
+	for _, c := range t.Columns {
+		if c.IsPrimary {
+			return c
+		}
+	}
+	panic(fmt.Sprintf("Primary column for %v missing", t.Name))
 }
 
 type TableColumn struct {
 	Name          string
 	SqlType       string
-	NotNull       bool
-	AutoIncrement bool
-	DefaultValue  string
+	NotNull       bool   `json:",omitempty"`
+	AutoIncrement bool   `json:",omitempty"`
+	DefaultValue  string `json:",omitempty"`
+	IsPrimary     bool   `json:",omitempty"`
 }
 
 func (col *TableColumn) NotNullable() *TableColumn {
