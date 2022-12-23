@@ -1,4 +1,4 @@
-package main
+package db
 
 import (
 	"fmt"
@@ -12,16 +12,10 @@ type Table struct {
 	primaryColumn *TableColumn
 	Indexes       []*Index `json:",omitempty"`
 	AutoIncrement int      `json:",omitempty"`
-	Static        bool     `json:",omitempty"`
+	Static        bool     `json:"-"`
 }
 
-type Index struct {
-	Name    string
-	Columns []string
-	Unique  bool `json:",omitempty"`
-}
-
-func newTable(name string) *Table {
+func NewTable(name string) *Table {
 	result := new(Table)
 	result.Name = name
 	return result
@@ -84,25 +78,6 @@ func (t *Table) GetPrimaryColumn() *TableColumn {
 	panic(fmt.Sprintf("Primary column for %v missing", t.Name))
 }
 
-type TableColumn struct {
-	Name          string
-	SqlType       string
-	NotNull       bool   `json:",omitempty"`
-	AutoIncrement bool   `json:",omitempty"`
-	DefaultValue  string `json:",omitempty"`
-	IsPrimary     bool   `json:",omitempty"`
-}
-
-func (col *TableColumn) NotNullable() *TableColumn {
-	col.NotNull = true
-	return col
-}
-
-func (col *TableColumn) SetDefault(defaultValue string) *TableColumn {
-	col.DefaultValue = defaultValue
-	return col
-}
-
 func findTableIndex(tableName string, tables []Table) int {
 	for i, t := range tables {
 		if strings.EqualFold(tableName, t.Name) {
@@ -112,7 +87,7 @@ func findTableIndex(tableName string, tables []Table) int {
 	return -1
 }
 
-func findTable(tableName string, tables []Table) *Table {
+func FindTable(tableName string, tables []Table) *Table {
 	matchedIndex := findTableIndex(tableName, tables)
 	if matchedIndex >= 0 {
 		return &tables[matchedIndex]
@@ -121,7 +96,7 @@ func findTable(tableName string, tables []Table) *Table {
 	}
 }
 
-func sortTables(tables []Table) {
+func SortTables(tables []Table) {
 	sort.Slice(tables, func(i, j int) bool {
 		return tables[i].Name < tables[j].Name
 	})

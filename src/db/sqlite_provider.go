@@ -1,31 +1,23 @@
-package main
+package db
 
 import (
 	"database/sql"
 	"fmt"
 	"strings"
 
-	_ "github.com/go-sql-driver/mysql"
 	_ "github.com/mattn/go-sqlite3"
 )
-
-type dbProvider interface {
-	setConnectionString(string)
-	getConnection() *sql.DB
-	closeConnection()
-	getCreateStatement(table Table) string
-}
 
 type sqliteProvider struct {
 	db               *sql.DB
 	connectionString string
 }
 
-func (provider *sqliteProvider) setConnectionString(connectionString string) {
+func (provider *sqliteProvider) SetConnectionString(connectionString string) {
 	provider.connectionString = connectionString
 }
 
-func (provider *sqliteProvider) getConnection() *sql.DB {
+func (provider *sqliteProvider) GetConnection() *sql.DB {
 	if provider.db == nil {
 		db, err := sql.Open("sqlite3", provider.connectionString)
 
@@ -37,11 +29,11 @@ func (provider *sqliteProvider) getConnection() *sql.DB {
 	return provider.db
 }
 
-func (provider *sqliteProvider) closeConnection() {
+func (provider *sqliteProvider) CloseConnection() {
 	provider.db.Close()
 }
 
-func (provider *sqliteProvider) getCreateStatement(table Table) string {
+func (provider *sqliteProvider) GetCreateStatement(table Table) string {
 	stmt := ""
 	if table.Static {
 		stmt += fmt.Sprintf("DROP TABLE IF EXISTS `%v`;\n\n", table.Name)
@@ -108,77 +100,5 @@ func (provider *sqliteProvider) getCreateStatement(table Table) string {
 		columns = columns[:len(columns)-2]
 		stmt += fmt.Sprintf("CREATE INDEX `%[2]v` ON `%[1]v` (%[3]v);\n", table.Name, i.Name, columns)
 	}
-	return stmt
-}
-
-type mysqlProvider struct {
-	db               *sql.DB
-	connectionString string
-}
-
-func (provider *mysqlProvider) setConnectionString(connectionString string) {
-	provider.connectionString = connectionString
-}
-
-func (provider *mysqlProvider) getConnection() *sql.DB {
-	if provider.db == nil {
-		db, err := sql.Open("mysql", provider.connectionString)
-		if err != nil {
-			panic(fmt.Errorf("failed to connect to database"))
-		}
-		provider.db = db
-	}
-	return provider.db
-}
-
-func (provider *mysqlProvider) closeConnection() {
-	provider.db.Close()
-}
-
-func (provider *mysqlProvider) getCreateStatement(table Table) string {
-	stmt := ""
-	if table.Static {
-		stmt += fmt.Sprintf("DROP TABLE IF EXISTS `%v`;\n\n", table.Name)
-		stmt += fmt.Sprintf("CREATE TABLE `%v` (\n", table.Name)
-	} else {
-		stmt += fmt.Sprintf("CREATE TABLE IF NOT EXISTS `%v` (\n", table.Name)
-	}
-	for _, col := range table.Columns {
-		stmt += "  `" + col.Name + "` " + col.SqlType
-		if col.NotNull {
-			stmt += " NOT NULL"
-		}
-		if col.DefaultValue != "" {
-			if col.DefaultValue == "NULL" {
-				stmt += " DEFAULT NULL"
-			} else {
-				stmt += " DEFAULT '" + col.DefaultValue + "'"
-			}
-		}
-		if (col.IsPrimary && table.AutoIncrement > 0) || col.AutoIncrement {
-			stmt += " AUTO_INCREMENT"
-		}
-		stmt += ",\n"
-	}
-	stmt += "  PRIMARY KEY (`" + table.GetPrimaryColumn().Name + "`),\n"
-
-	for _, i := range table.Indexes {
-		if i.Unique {
-			stmt += "  UNIQUE KEY `" + i.Name + "` (`" + i.Columns[0] + "`),\n"
-			continue
-		}
-		stmt += "  KEY `" + i.Name + "` ("
-		for _, col := range i.Columns {
-			stmt += "`" + col + "`,"
-		}
-		stmt = stmt[:len(stmt)-1]
-		stmt += "),\n"
-	}
-	stmt = stmt[0:len(stmt)-2] + "\n"
-	stmt += ") ENGINE=InnoDB"
-	if table.AutoIncrement > 1 {
-		stmt += fmt.Sprintf(" AUTO_INCREMENT=%v", table.AutoIncrement)
-	}
-	stmt += " DEFAULT CHARSET utf8 COLLATE utf8_general_ci;\n"
 	return stmt
 }

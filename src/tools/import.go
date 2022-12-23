@@ -1,6 +1,9 @@
-package main
+package tools
 
 import (
+	"github.com/Eve-of-Darkness/db-public/src/config"
+	"github.com/Eve-of-Darkness/db-public/src/db"
+
 	"crypto/sha256"
 	"database/sql"
 	"encoding/json"
@@ -12,11 +15,11 @@ import (
 	"time"
 )
 
-func importToJson(config Config) {
-	var dbProvider dbProvider = config.DbProvider
-	dbProvider.setConnectionString(config.ConnectionString)
-	dbProvider.getConnection()
-	defer dbProvider.closeConnection()
+func ImportToJson(config config.Config) {
+	var dbProvider db.Provider = config.DbProvider
+	dbProvider.SetConnectionString(config.ConnectionString)
+	dbProvider.GetConnection()
+	defer dbProvider.CloseConnection()
 
 	tables := config.GetTables()
 
@@ -32,24 +35,24 @@ func importToJson(config Config) {
 	}
 }
 
-func getMobJSON(expansion int, dbProvider dbProvider) {
-	rows := query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
+func getMobJSON(expansion int, dbProvider db.Provider) {
+	rows := Query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
-	allTables := getAllTables()
-	mobTable := findTable("Mob", allTables)
+	allTables := db.GetAllTables()
+	mobTable := db.FindTable("Mob", allTables)
 	var tableData = convertRowsToTableData(rows, mobTable.GetPrimaryColumn().Name)
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }
 
-func getJSON(table Table, dbProvider dbProvider) {
-	rows := query(dbProvider, "SELECT * FROM "+table.Name)
+func getJSON(table db.Table, dbProvider db.Provider) {
+	rows := Query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
 	var tableData = convertRowsToTableData(rows, table.GetPrimaryColumn().Name)
 	writeJSON(tableData, table.Name)
 }
 
-func query(dbProvider dbProvider, queryStr string) *sql.Rows {
-	var db = dbProvider.getConnection()
+func Query(dbProvider db.Provider, queryStr string) *sql.Rows {
+	var db = dbProvider.GetConnection()
 
 	stmt, err := db.Prepare(queryStr)
 	if err != nil {

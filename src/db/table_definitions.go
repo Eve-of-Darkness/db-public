@@ -1,8 +1,8 @@
-package main
+package db
 
-func getAllTables() []Table {
+func GetAllTables() []Table {
 	allTables := make([]Table, 0)
-	t := newTable("Ability")
+	t := NewTable("Ability")
 	t.Static = true
 	t.AddPrimary("AbilityID", "int(11)").NotNullable()
 	t.AddUnique("KeyName", "varchar(100)").NotNullable()
@@ -15,7 +15,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 241
 	allTables = append(allTables, *t)
 
-	t = newTable("Account")
+	t = NewTable("Account")
 	t.AddPrimary("Name", "varchar(255)").NotNullable()
 	t.Add("Password", "text").NotNullable()
 	t.Add("CreationDate", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
@@ -32,7 +32,7 @@ func getAllTables() []Table {
 	t.AddUnique("Account_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("AccountXCustomParam")
+	t = NewTable("AccountXCustomParam")
 	t.AddWithIndex("Name", "varchar(255)").NotNullable()
 	t.AddWithIndex("KeyName", "varchar(100)").NotNullable()
 	t.Add("Value", "varchar(255)").SetDefault("NULL")
@@ -41,7 +41,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("Appeal")
+	t = NewTable("Appeal")
 	t.AddWithIndex("Name", "varchar(255)").NotNullable()
 	t.AddWithIndex("Account", "varchar(255)").NotNullable()
 	t.Add("Severity", "int(11)").NotNullable().SetDefault("0")
@@ -52,7 +52,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Appeal_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Area")
+	t = NewTable("Area")
 	t.Static = true
 	t.Add("TranslationId", "text")
 	t.Add("Description", "text").NotNullable()
@@ -70,7 +70,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Area_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ArtifactBonus")
+	t = NewTable("ArtifactBonus")
 	t.Static = true
 	t.Add("ArtifactID", "text").NotNullable()
 	t.Add("BonusID", "int(11)").NotNullable().SetDefault("0")
@@ -79,7 +79,7 @@ func getAllTables() []Table {
 	t.AddPrimary("ArtifactBonus_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Artifact")
+	t = NewTable("Artifact")
 	t.Static = true
 	t.Add("ArtifactID", "text").NotNullable()
 	t.Add("EncounterID", "text").NotNullable()
@@ -109,7 +109,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Artifact_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ArtifactXItem")
+	t = NewTable("ArtifactXItem")
 	t.Static = true
 	t.Add("ArtifactID", "text").NotNullable()
 	t.Add("ItemID", "text").NotNullable()
@@ -119,7 +119,7 @@ func getAllTables() []Table {
 	t.AddPrimary("ArtifactXItem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("AuditEntry")
+	t = NewTable("AuditEntry")
 	t.Add("AuditTime", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.Add("AccountID", "text")
 	t.Add("RemoteHost", "text")
@@ -131,7 +131,7 @@ func getAllTables() []Table {
 	t.AddPrimary("AuditEntry_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("AutoXMLUpdate")
+	t = NewTable("AutoXMLUpdate")
 	t.AddPrimary("AutoXMLUpdateID", "int(11)").NotNullable()
 	t.AddWithIndex("FilePackage", "varchar(255)").NotNullable()
 	t.AddWithIndex("FileHash", "varchar(255)").NotNullable()
@@ -140,7 +140,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 4
 	allTables = append(allTables, *t)
 
-	t = newTable("Ban")
+	t = NewTable("Ban")
 	t.Add("Author", "text").NotNullable()
 	t.AddWithIndex("Type", "varchar(255)").NotNullable()
 	t.AddWithIndex("Ip", "varchar(255)").NotNullable()
@@ -151,7 +151,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Ban_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Battleground")
+	t = NewTable("Battleground")
 	t.Static = true
 	t.Add("RegionID", "smallint(5) unsigned").NotNullable().SetDefault("0")
 	t.Add("MinLevel", "tinyint(3) unsigned").NotNullable().SetDefault("0")
@@ -161,7 +161,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Battleground_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("BindPoint")
+	t = NewTable("BindPoint")
 	t.Static = true
 	t.Add("X", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Y", "int(11)").NotNullable().SetDefault("0")
@@ -173,7 +173,7 @@ func getAllTables() []Table {
 	t.AddPrimary("BindPoint_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("BugReport")
+	t = NewTable("BugReport")
 	t.AddPrimary("ID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Message", "text").NotNullable()
 	t.Add("Submitter", "text").NotNullable()
@@ -185,7 +185,7 @@ func getAllTables() []Table {
 	t.AddUnique("BugReport_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("CharacterXDataQuest")
+	t = NewTable("CharacterXDataQuest")
 	t.AddPrimary("ID", "int(11)").NotNullable()
 	t.Add("Character_ID", "varchar(100)").NotNullable()
 	t.Add("DataQuestID", "int(11)").NotNullable().SetDefault("0")
@@ -199,7 +199,7 @@ func getAllTables() []Table {
 	t.Indexes = append(t.Indexes, index)
 	allTables = append(allTables, *t)
 
-	t = newTable("CharacterXMasterLevel")
+	t = NewTable("CharacterXMasterLevel")
 	t.AddWithIndex("Character_ID", "varchar(255)").NotNullable()
 	t.Add("MLLevel", "int(11)").NotNullable().SetDefault("0")
 	t.Add("MLStep", "int(11)").NotNullable().SetDefault("0")
@@ -209,14 +209,14 @@ func getAllTables() []Table {
 	t.AddPrimary("CharacterXMasterLevel_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("CharacterXOneTimeDrop")
+	t = NewTable("CharacterXOneTimeDrop")
 	t.AddWithIndex("CharacterID", "varchar(100)").NotNullable()
 	t.AddWithIndex("ItemTemplateID", "varchar(100)").NotNullable()
 	t.Add("LastTimeRowUpdated", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.AddPrimary("CharacterXOneTimeDrop_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ClassXRealmAbility")
+	t = NewTable("ClassXRealmAbility")
 	t.Static = true
 	t.Add("CharClass", "int(11)").NotNullable().SetDefault("0")
 	t.Add("AbilityKey", "text").NotNullable()
@@ -224,7 +224,7 @@ func getAllTables() []Table {
 	t.AddPrimary("ClassXRealmAbility_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ClassXSpecialization")
+	t = NewTable("ClassXSpecialization")
 	t.Static = true
 	t.AddPrimary("ClassXSpecializationID", "int(11)").NotNullable()
 	t.AddWithIndex("ClassID", "int(11)").NotNullable().SetDefault("0")
@@ -234,7 +234,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 538
 	allTables = append(allTables, *t)
 
-	t = newTable("CraftedItem")
+	t = NewTable("CraftedItem")
 	t.Static = true
 	t.AddPrimary("CraftedItemID", "varchar(255)").NotNullable()
 	t.AddWithIndex("Id_nb", "varchar(255)").NotNullable()
@@ -245,7 +245,7 @@ func getAllTables() []Table {
 	t.AddUnique("CraftedItem_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("CraftedXItem")
+	t = NewTable("CraftedXItem")
 	t.Static = true
 	t.AddWithIndex("CraftedItemId_nb", "varchar(255)").NotNullable()
 	t.Add("IngredientId_nb", "text").NotNullable()
@@ -254,7 +254,7 @@ func getAllTables() []Table {
 	t.AddPrimary("CraftedXItem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DataQuest")
+	t = NewTable("DataQuest")
 	t.Static = true
 	t.AddPrimary("ID", "int(11)").NotNullable()
 	t.Add("Name", "varchar(255)").NotNullable()
@@ -290,7 +290,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("DBHouseCharsXPerms")
+	t = NewTable("DBHouseCharsXPerms")
 	t.Add("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("PermissionType", "int(11)").NotNullable().SetDefault("0")
 	t.Add("TargetName", "text").NotNullable()
@@ -301,7 +301,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DBHouseCharsXPerms_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DBHousePermissions")
+	t = NewTable("DBHousePermissions")
 	t.Add("PermissionLevel", "int(11)").NotNullable().SetDefault("0")
 	t.Add("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("CanEnterHouse", "tinyint(1)").NotNullable().SetDefault("0")
@@ -322,7 +322,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DBHousePermissions_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DBHouse")
+	t = NewTable("DBHouse")
 	t.AddPrimary("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("X", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Y", "int(11)").NotNullable().SetDefault("0")
@@ -360,7 +360,7 @@ func getAllTables() []Table {
 	t.AddUnique("DBHouse_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("DBIndoorItem")
+	t = NewTable("DBIndoorItem")
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Model", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Position", "int(11)").NotNullable().SetDefault("0")
@@ -376,7 +376,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DBIndoorItem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DBOutdoorItem")
+	t = NewTable("DBOutdoorItem")
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Model", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Position", "int(11)").NotNullable().SetDefault("0")
@@ -386,7 +386,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DBOutdoorItem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DOLCharactersBackup")
+	t = NewTable("DOLCharactersBackup")
 	t.Add("DOLCharacters_ID", "varchar(255)").NotNullable()
 	t.AddWithIndex("Name", "varchar(255)").NotNullable()
 	t.Add("DeleteDate", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
@@ -525,7 +525,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DOLCharactersBackup_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DOLCharactersBackupXCustomParam")
+	t = NewTable("DOLCharactersBackupXCustomParam")
 	t.AddWithIndex("DOLCharactersObjectId", "varchar(255)").NotNullable()
 	t.AddWithIndex("KeyName", "varchar(100)").NotNullable()
 	t.Add("Value", "varchar(255)").SetDefault("NULL")
@@ -534,7 +534,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("DOLCharacters")
+	t = NewTable("DOLCharacters")
 	t.Add("HasGravestone", "tinyint(1)").NotNullable().SetDefault("0")
 	t.Add("GravestoneRegion", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Constitution", "int(11)").NotNullable().SetDefault("0")
@@ -671,7 +671,7 @@ func getAllTables() []Table {
 	t.AddPrimary("DOLCharacters_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DOLCharactersXCustomParam")
+	t = NewTable("DOLCharactersXCustomParam")
 	t.AddWithIndex("DOLCharactersObjectId", "varchar(255)").NotNullable()
 	t.AddWithIndex("KeyName", "varchar(100)").NotNullable()
 	t.Add("Value", "varchar(255)").SetDefault("NULL")
@@ -680,7 +680,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("Door")
+	t = NewTable("Door")
 	t.Static = true
 	t.Add("Name", "text")
 	t.Add("Type", "int(11)").NotNullable().SetDefault("0")
@@ -700,7 +700,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Door_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("DropTemplateXItemTemplate")
+	t = NewTable("DropTemplateXItemTemplate")
 	t.Static = true
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.AddWithIndex("TemplateName", "varchar(255)").NotNullable()
@@ -711,7 +711,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("FactionAggroLevel")
+	t = NewTable("FactionAggroLevel")
 	t.Static = true
 	t.AddWithIndex("CharacterID", "varchar(100)").NotNullable()
 	t.Add("FactionID", "int(11)").NotNullable().SetDefault("0")
@@ -720,7 +720,7 @@ func getAllTables() []Table {
 	t.AddPrimary("FactionAggroLevel_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Faction")
+	t = NewTable("Faction")
 	t.Static = true
 	t.AddPrimary("ID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Name", "text")
@@ -729,7 +729,7 @@ func getAllTables() []Table {
 	t.AddUnique("Faction_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("GuildAlliance")
+	t = NewTable("GuildAlliance")
 	t.Add("AllianceName", "text")
 	t.Add("Motd", "text")
 	t.AddUnique("LeaderGuildID", "varchar(255)").SetDefault("NULL")
@@ -737,7 +737,7 @@ func getAllTables() []Table {
 	t.AddPrimary("GuildAlliance_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("GuildRank")
+	t = NewTable("GuildRank")
 	t.AddWithIndex("GuildID", "varchar(255)").SetDefault("NULL")
 	t.Add("Title", "text")
 	t.Add("RankLevel", "tinyint(3) unsigned").NotNullable().SetDefault("0")
@@ -763,7 +763,7 @@ func getAllTables() []Table {
 	t.AddPrimary("GuildRank_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Guild")
+	t = NewTable("Guild")
 	t.AddUnique("GuildID", "varchar(255)").SetDefault("NULL")
 	t.AddWithIndex("GuildName", "varchar(255)").SetDefault("NULL")
 	t.Add("Realm", "tinyint(3) unsigned").NotNullable().SetDefault("0")
@@ -790,7 +790,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Guild_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("HouseConsignmentMerchant")
+	t = NewTable("HouseConsignmentMerchant")
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.AddWithIndex("OwnerID", "varchar(128)").NotNullable()
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
@@ -799,7 +799,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("househookpointitem")
+	t = NewTable("househookpointitem")
 	t.Static = true
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.AddWithIndex("HouseNumber", "int(11)").NotNullable().SetDefault("0")
@@ -811,7 +811,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 10019
 	allTables = append(allTables, *t)
 
-	t = newTable("househookpointoffset")
+	t = NewTable("househookpointoffset")
 	t.Static = true
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.Add("HouseModel", "int(11)").NotNullable().SetDefault("0")
@@ -824,7 +824,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 144
 	allTables = append(allTables, *t)
 
-	t = newTable("InstanceXElement")
+	t = NewTable("InstanceXElement")
 	t.Static = true
 	t.AddWithIndex("InstanceID", "varchar(255)").NotNullable()
 	t.Add("ClassType", "text")
@@ -837,7 +837,7 @@ func getAllTables() []Table {
 	t.AddPrimary("InstanceXElement_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Inventory")
+	t = NewTable("Inventory")
 	t.AddWithIndex("OwnerID", "varchar(255)").NotNullable()
 	t.Add("OwnerLot", "smallint(5) unsigned").NotNullable().SetDefault("0")
 	t.AddWithIndex("ITemplate_Id", "varchar(255)").SetDefault("NULL")
@@ -863,7 +863,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Inventory_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ItemTemplate")
+	t = NewTable("ItemTemplate")
 	t.Static = true
 	t.AddPrimary("Id_nb", "varchar(255)").NotNullable()
 	t.Add("TranslationId", "text")
@@ -946,7 +946,7 @@ func getAllTables() []Table {
 	t.AddUnique("ItemTemplate_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("ItemUnique")
+	t = NewTable("ItemUnique")
 	t.AddPrimary("Id_nb", "varchar(255)").NotNullable()
 	t.Add("TranslationId", "text")
 	t.Add("Name", "text").NotNullable()
@@ -1028,7 +1028,7 @@ func getAllTables() []Table {
 	t.AddUnique("ItemUnique_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("KeepCaptureLog")
+	t = NewTable("KeepCaptureLog")
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.Add("DateTaken", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.Add("KeepName", "text").NotNullable()
@@ -1045,7 +1045,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("KeepComponent")
+	t = NewTable("KeepComponent")
 	t.Static = true
 	t.Add("X", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Y", "int(11)").NotNullable().SetDefault("0")
@@ -1059,7 +1059,7 @@ func getAllTables() []Table {
 	t.AddPrimary("KeepComponent_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("KeepHookPointItem")
+	t = NewTable("KeepHookPointItem")
 	t.AddWithIndex("KeepID", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("ComponentID", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("HookPointID", "int(11)").NotNullable().SetDefault("0")
@@ -1068,7 +1068,7 @@ func getAllTables() []Table {
 	t.AddPrimary("KeepHookPointItem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("KeepHookPoint")
+	t = NewTable("KeepHookPoint")
 	t.Static = true
 	t.AddWithIndex("HookPointID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("KeepComponentSkinID", "int(11)").NotNullable().SetDefault("0")
@@ -1081,7 +1081,7 @@ func getAllTables() []Table {
 	t.AddPrimary("KeepHookPoint_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("KeepPosition")
+	t = NewTable("KeepPosition")
 	t.Static = true
 	t.AddWithIndex("ComponentSkin", "int(11)").NotNullable().SetDefault("0")
 	t.Add("ComponentRotation", "int(11)").NotNullable().SetDefault("0")
@@ -1098,7 +1098,7 @@ func getAllTables() []Table {
 	t.AddPrimary("KeepPosition_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Keep")
+	t = NewTable("Keep")
 	t.Static = true
 	t.AddPrimary("KeepID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Name", "text").NotNullable()
@@ -1122,7 +1122,7 @@ func getAllTables() []Table {
 	t.AddUnique("Keep_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("LanguageArea")
+	t = NewTable("LanguageArea")
 	t.Static = true
 	t.Add("Description", "text").NotNullable()
 	t.Add("ScreenDescription", "text").NotNullable()
@@ -1133,7 +1133,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LanguageArea_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LanguageGameObject")
+	t = NewTable("LanguageGameObject")
 	t.Static = true
 	t.Add("Name", "text")
 	t.Add("ExamineArticle", "text")
@@ -1144,7 +1144,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LanguageGameObject_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LanguageNPC")
+	t = NewTable("LanguageNPC")
 	t.Static = true
 	t.Add("Name", "text")
 	t.Add("Suffix", "text")
@@ -1158,7 +1158,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LanguageNPC_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LanguageSystem")
+	t = NewTable("LanguageSystem")
 	t.Static = true
 	t.Add("Text", "text").NotNullable()
 	t.AddWithIndex("TranslationId", "varchar(255)").NotNullable()
@@ -1168,7 +1168,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LanguageSystem_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LanguageZone")
+	t = NewTable("LanguageZone")
 	t.Static = true
 	t.Add("Description", "text").NotNullable()
 	t.Add("ScreenDescription", "text").NotNullable()
@@ -1179,7 +1179,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LanguageZone_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LineXSpell")
+	t = NewTable("LineXSpell")
 	t.Static = true
 	t.AddWithIndex("LineName", "varchar(255)").NotNullable()
 	t.Add("SpellID", "int(11)").NotNullable().SetDefault("0")
@@ -1189,7 +1189,7 @@ func getAllTables() []Table {
 	t.Add("PackageID", "text")
 	allTables = append(allTables, *t)
 
-	t = newTable("LinkedFaction")
+	t = NewTable("LinkedFaction")
 	t.Static = true
 	t.Add("FactionID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("LinkedFactionID", "int(11)").NotNullable().SetDefault("0")
@@ -1198,7 +1198,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LinkedFaction_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LootGenerator")
+	t = NewTable("LootGenerator")
 	t.Static = true
 	t.Add("MobName", "text")
 	t.Add("MobGuild", "text")
@@ -1210,7 +1210,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LootGenerator_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LootOTD")
+	t = NewTable("LootOTD")
 	t.Static = true
 	t.AddWithIndex("MobName", "varchar(100)").NotNullable()
 	t.AddWithIndex("ItemTemplateID", "varchar(100)").NotNullable()
@@ -1219,7 +1219,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LootOTD_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("LootTemplate")
+	t = NewTable("LootTemplate")
 	t.Static = true
 	t.AddWithIndex("TemplateName", "varchar(255)").NotNullable()
 	t.Add("ItemTemplateID", "text").NotNullable()
@@ -1229,7 +1229,7 @@ func getAllTables() []Table {
 	t.AddPrimary("LootTemplate_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("MerchantItem")
+	t = NewTable("MerchantItem")
 	t.Static = true
 	t.AddWithIndex("ItemListID", "varchar(255)").NotNullable()
 	t.Add("ItemTemplateID", "text").NotNullable()
@@ -1240,7 +1240,7 @@ func getAllTables() []Table {
 	t.Add("Price", "bigint(20)").SetDefault("0")
 	allTables = append(allTables, *t)
 
-	t = newTable("Minotaurrelic")
+	t = NewTable("Minotaurrelic")
 	t.Static = true
 	t.Add("relicSpell", "int(11)").NotNullable().SetDefault("0")
 	t.Add("SpawnLocked", "tinyint(1)").NotNullable().SetDefault("0")
@@ -1259,7 +1259,7 @@ func getAllTables() []Table {
 	t.AddUnique("Minotaurrelic_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("MobDropTemplate")
+	t = NewTable("MobDropTemplate")
 	t.Static = true
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.AddWithIndex("MobName", "varchar(255)").NotNullable()
@@ -1269,7 +1269,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("Mob")
+	t = NewTable("Mob")
 	t.Static = true
 	t.Add("ClassType", "text")
 	t.Add("TranslationId", "text")
@@ -1321,7 +1321,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Mob_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("MobXAmbientBehaviour")
+	t = NewTable("MobXAmbientBehaviour")
 	t.Static = true
 	t.AddWithIndex("Source", "varchar(255)").NotNullable()
 	t.Add("Trigger", "text").NotNullable()
@@ -1333,7 +1333,7 @@ func getAllTables() []Table {
 	t.AddPrimary("MobXAmbientBehaviour_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("MobXLootTemplate")
+	t = NewTable("MobXLootTemplate")
 	t.Static = true
 	t.AddWithIndex("MobName", "varchar(255)").NotNullable()
 	t.AddWithIndex("LootTemplateName", "varchar(255)").NotNullable()
@@ -1342,7 +1342,7 @@ func getAllTables() []Table {
 	t.AddPrimary("MobXLootTemplate_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("News")
+	t = NewTable("News")
 	t.Add("CreationDate", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.Add("Type", "tinyint(3) unsigned").NotNullable().SetDefault("0")
 	t.Add("Realm", "tinyint(3) unsigned").NotNullable().SetDefault("0")
@@ -1351,7 +1351,7 @@ func getAllTables() []Table {
 	t.AddPrimary("News_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("NPCEquipment")
+	t = NewTable("NPCEquipment")
 	t.Static = true
 	t.AddWithIndex("TemplateID", "varchar(255)").NotNullable()
 	t.Add("Slot", "int(11)").NotNullable().SetDefault("0")
@@ -1364,7 +1364,7 @@ func getAllTables() []Table {
 	t.AddPrimary("NPCEquipment_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("NpcTemplate")
+	t = NewTable("NpcTemplate")
 	t.Static = true
 	t.AddWithIndex("TemplateId", "int(11)").NotNullable().SetDefault("0")
 	t.Add("TranslationId", "text")
@@ -1411,7 +1411,7 @@ func getAllTables() []Table {
 	t.AddPrimary("NpcTemplate_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("PathPoints")
+	t = NewTable("PathPoints")
 	t.Static = true
 	t.AddWithIndex("PathID", "varchar(255)").NotNullable()
 	t.Add("Step", "int(11)").NotNullable().SetDefault("0")
@@ -1424,7 +1424,7 @@ func getAllTables() []Table {
 	t.AddPrimary("PathPoints_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Path")
+	t = NewTable("Path")
 	t.Static = true
 	t.AddUnique("PathID", "varchar(255)").NotNullable()
 	t.Add("PathType", "int(11)").NotNullable().SetDefault("0")
@@ -1433,7 +1433,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Path_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("PlayerBoats")
+	t = NewTable("PlayerBoats")
 	t.Add("BoatID", "text").NotNullable()
 	t.Add("BoatOwner", "text").NotNullable()
 	t.AddPrimary("BoatName", "varchar(255)").NotNullable()
@@ -1443,7 +1443,7 @@ func getAllTables() []Table {
 	t.AddUnique("PlayerBoats_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("PlayerInfo")
+	t = NewTable("PlayerInfo")
 	t.Add("Name", "text")
 	t.Add("LastName", "text")
 	t.Add("Guild", "text")
@@ -1459,7 +1459,7 @@ func getAllTables() []Table {
 	t.AddPrimary("PlayerInfo_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("PlayerXEffect")
+	t = NewTable("PlayerXEffect")
 	t.Add("IsHandler", "tinyint(1)").NotNullable().SetDefault("0")
 	t.Add("Var6", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Var5", "int(11)").NotNullable().SetDefault("0")
@@ -1475,7 +1475,7 @@ func getAllTables() []Table {
 	t.AddPrimary("PlayerXEffect_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("PvPKillsLog")
+	t = NewTable("PvPKillsLog")
 	t.AddPrimary("ID", "bigint(20)").NotNullable()
 	t.Add("DateKilled", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.Add("KilledName", "text").NotNullable()
@@ -1492,7 +1492,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("Quest")
+	t = NewTable("Quest")
 	t.Add("Name", "text").NotNullable()
 	t.Add("Step", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("Character_ID", "varchar(255)").NotNullable()
@@ -1501,7 +1501,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Quest_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Race")
+	t = NewTable("Race")
 	t.Static = true
 	t.AddUnique("ID", "int(11)").NotNullable().SetDefault("0")
 	t.AddUnique("Name", "varchar(255)").NotNullable()
@@ -1519,7 +1519,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Race_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Regions")
+	t = NewTable("Regions")
 	t.Static = true
 	t.AddPrimary("RegionID", "smallint(5) unsigned").NotNullable().SetDefault("0")
 	t.Add("Name", "text").NotNullable()
@@ -1536,7 +1536,7 @@ func getAllTables() []Table {
 	t.AddUnique("Regions_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("Relic")
+	t = NewTable("Relic")
 	t.AddPrimary("RelicID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("Region", "int(11)").NotNullable().SetDefault("0")
 	t.Add("X", "int(11)").NotNullable().SetDefault("0")
@@ -1551,7 +1551,7 @@ func getAllTables() []Table {
 	t.AddUnique("Relic_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("Salvage")
+	t = NewTable("Salvage")
 	t.Static = true
 	t.AddWithIndex("ObjectType", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("SalvageLevel", "int(11)").NotNullable().SetDefault("0")
@@ -1561,7 +1561,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Salvage_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("SalvageYield")
+	t = NewTable("SalvageYield")
 	t.Static = true
 	t.AddPrimary("ID", "int(11)").NotNullable()
 	t.AddWithIndex("ObjectType", "int(11)").NotNullable().SetDefault("0")
@@ -1574,7 +1574,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 366
 	allTables = append(allTables, *t)
 
-	t = newTable("ServerInfo")
+	t = NewTable("ServerInfo")
 	t.Add("Time", "text")
 	t.Add("ServerName", "text")
 	t.Add("AAC", "text")
@@ -1592,7 +1592,7 @@ func getAllTables() []Table {
 	t.AddPrimary("ServerInfo_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("serverproperty_category")
+	t = NewTable("serverproperty_category")
 	t.Add("BaseCategory", "text").NotNullable()
 	t.Add("ParentCategory", "text")
 	t.Add("DisplayName", "text").NotNullable()
@@ -1600,7 +1600,7 @@ func getAllTables() []Table {
 	t.AddPrimary("serverproperty_category_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ServerProperty")
+	t = NewTable("ServerProperty")
 	t.Add("Category", "text").NotNullable()
 	t.AddPrimary("Key", "varchar(255)").NotNullable()
 	t.Add("Description", "text").NotNullable()
@@ -1610,7 +1610,7 @@ func getAllTables() []Table {
 	t.AddUnique("ServerProperty_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("serverstats")
+	t = NewTable("serverstats")
 	t.Add("StatDate", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.Add("Clients", "int(11)").NotNullable().SetDefault("0")
 	t.Add("CPU", "double").NotNullable()
@@ -1621,14 +1621,14 @@ func getAllTables() []Table {
 	t.AddPrimary("serverstats_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("SinglePermission")
+	t = NewTable("SinglePermission")
 	t.AddWithIndex("PlayerID", "varchar(255)").NotNullable()
 	t.AddWithIndex("Command", "varchar(255)").NotNullable()
 	t.Add("LastTimeRowUpdated", "datetime").NotNullable().SetDefault("2000-01-01 00:00:00")
 	t.AddPrimary("SinglePermission_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Specialization")
+	t = NewTable("Specialization")
 	t.Static = true
 	t.AddPrimary("SpecializationID", "int(11)").NotNullable()
 	t.AddUnique("KeyName", "varchar(100)").NotNullable()
@@ -1640,7 +1640,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 225
 	allTables = append(allTables, *t)
 
-	t = newTable("SpecXAbility")
+	t = NewTable("SpecXAbility")
 	t.Static = true
 	t.AddPrimary("SpecXabilityID", "int(11)").NotNullable()
 	t.AddWithIndex("Spec", "varchar(100)").NotNullable()
@@ -1652,7 +1652,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 367
 	allTables = append(allTables, *t)
 
-	t = newTable("SpellLine")
+	t = NewTable("SpellLine")
 	t.Static = true
 	t.AddPrimary("SpellLineID", "int(11)").NotNullable()
 	t.AddUnique("KeyName", "varchar(255)").NotNullable()
@@ -1664,7 +1664,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1463
 	allTables = append(allTables, *t)
 
-	t = newTable("Spell")
+	t = NewTable("Spell")
 	t.Static = true
 	t.AddUnique("SpellID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("ClientEffect", "int(11)").NotNullable().SetDefault("0")
@@ -1711,7 +1711,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Spell_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("SpellXCustomValues")
+	t = NewTable("SpellXCustomValues")
 	t.Static = true
 	t.AddWithIndex("SpellID", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("KeyName", "varchar(100)").NotNullable()
@@ -1721,7 +1721,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 1
 	allTables = append(allTables, *t)
 
-	t = newTable("StarterEquipment")
+	t = NewTable("StarterEquipment")
 	t.Static = true
 	t.AddPrimary("StarterEquipmentID", "int(11)").NotNullable()
 	t.Add("Class", "text").NotNullable()
@@ -1730,7 +1730,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 128
 	allTables = append(allTables, *t)
 
-	t = newTable("StartupLocation")
+	t = NewTable("StartupLocation")
 	t.Static = true
 	t.AddPrimary("StartupLoc_ID", "int(11)").NotNullable()
 	t.Add("XPos", "int(11)").NotNullable().SetDefault("0")
@@ -1747,7 +1747,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 137
 	allTables = append(allTables, *t)
 
-	t = newTable("Style")
+	t = NewTable("Style")
 	t.Static = true
 	t.AddPrimary("StyleID", "int(11)").NotNullable()
 	t.Add("ID", "int(11)").NotNullable().SetDefault("0")
@@ -1773,7 +1773,7 @@ func getAllTables() []Table {
 	t.AutoIncrement = 50014
 	allTables = append(allTables, *t)
 
-	t = newTable("StyleXSpell")
+	t = NewTable("StyleXSpell")
 	t.Static = true
 	t.Add("SpellID", "int(11)").NotNullable().SetDefault("0")
 	t.Add("ClassID", "int(11)").NotNullable().SetDefault("0")
@@ -1783,7 +1783,7 @@ func getAllTables() []Table {
 	t.AddPrimary("StyleXSpell_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Task")
+	t = NewTable("Task")
 	t.AddPrimary("Character_ID", "varchar(255)").NotNullable()
 	t.Add("TimeOut", "datetime").SetDefault("NULL")
 	t.Add("TaskType", "text")
@@ -1793,7 +1793,7 @@ func getAllTables() []Table {
 	t.AddUnique("Task_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("Teleport")
+	t = NewTable("Teleport")
 	t.Static = true
 	t.Add("Type", "text").NotNullable()
 	t.AddWithIndex("TeleportID", "varchar(255)").NotNullable()
@@ -1807,7 +1807,7 @@ func getAllTables() []Table {
 	t.AddPrimary("Teleport_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("TownCrierMessages")
+	t = NewTable("TownCrierMessages")
 	t.Static = true
 	t.AddPrimary("TownCrierID", "varchar(255)").NotNullable()
 	t.Add("Message", "text")
@@ -1815,7 +1815,7 @@ func getAllTables() []Table {
 	t.AddUnique("TownCrierMessages_ID", "varchar(255)").SetDefault("NULL")
 	allTables = append(allTables, *t)
 
-	t = newTable("WorldObject")
+	t = NewTable("WorldObject")
 	t.Static = true
 	t.Add("ClassType", "text")
 	t.Add("TranslationId", "text")
@@ -1834,7 +1834,7 @@ func getAllTables() []Table {
 	t.AddPrimary("WorldObject_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("ZonePoint")
+	t = NewTable("ZonePoint")
 	t.Static = true
 	t.AddWithIndex("Id", "smallint(5) unsigned").NotNullable().SetDefault("0")
 	t.Add("TargetX", "int(11)").NotNullable().SetDefault("0")
@@ -1852,7 +1852,7 @@ func getAllTables() []Table {
 	t.AddPrimary("ZonePoint_ID", "varchar(255)").NotNullable()
 	allTables = append(allTables, *t)
 
-	t = newTable("Zones")
+	t = NewTable("Zones")
 	t.Static = true
 	t.AddPrimary("ZoneID", "int(11)").NotNullable().SetDefault("0")
 	t.AddWithIndex("RegionID", "smallint(5) unsigned").NotNullable().SetDefault("0")

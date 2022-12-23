@@ -1,6 +1,8 @@
-package main
+package config
 
 import (
+	"github.com/Eve-of-Darkness/db-public/src/db"
+
 	"errors"
 	"flag"
 	"fmt"
@@ -11,7 +13,7 @@ import (
 )
 
 type Config struct {
-	DbProvider       dbProvider
+	DbProvider       db.Provider
 	ImportFlag       bool
 	ConnectionString string
 	ignoredTables    []string
@@ -20,7 +22,7 @@ type Config struct {
 	updateOnly       bool
 }
 
-func LoadConfig() Config {
+func Load() Config {
 	importFlag := flag.Bool("import", false, "Import configured SQL database to JSON database found in data folder.")
 	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\" and \"sqlite\"")
 	updateOnly := flag.Bool("update-only", false, "Set to export/replace static content, but keep player content untouched.")
@@ -71,7 +73,7 @@ func loadConfigFile() {
 	}
 }
 
-func getDbProvider(exportType *string, importFlag *bool) dbProvider {
+func getDbProvider(exportType *string, importFlag *bool) db.Provider {
 	importSQLite := *importFlag && viper.GetString("db.file_path") != ""
 
 	if *exportType == "update-only" {
@@ -79,9 +81,9 @@ func getDbProvider(exportType *string, importFlag *bool) dbProvider {
 	}
 
 	if importSQLite || *exportType == "sqlite" {
-		return new(sqliteProvider)
+		return db.GetSqliteProvider()
 	} else if *importFlag || *exportType == "mysql" || *exportType == "update-only" {
-		return new(mysqlProvider)
+		return db.GetMysqlProvider()
 	} else {
 		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
 	}
@@ -109,15 +111,15 @@ func getConnectionString() string {
 	}
 }
 
-func (config *Config) GetTables() []Table {
-	tables := getAllTables()
-	sortTables(tables)
+func (config *Config) GetTables() []db.Table {
+	tables := db.GetAllTables()
+	db.SortTables(tables)
 
 	if len(config.ignoredTables) > 0 {
 		println("\"exportignore\" in config.yml is deprecated use \"exclude\" instead.")
 	}
 
-	result := []Table{}
+	result := []db.Table{}
 	for _, t := range tables {
 		if !config.isTableIncluded(t) {
 			fmt.Println("Found ignored table:", t.Name)
@@ -128,7 +130,7 @@ func (config *Config) GetTables() []Table {
 	return result
 }
 
-func (config *Config) isTableIncluded(t Table) bool {
+func (config *Config) isTableIncluded(t db.Table) bool {
 	isIgnored := containsString(config.ignoredTables, t.Name)
 	isExcluded := containsString(config.excludeTables, "all") || containsString(config.excludeTables, t.Name)
 	isIncluded := containsString(config.includeTables, t.Name)
@@ -142,4 +144,13 @@ func (config *Config) isTableIncluded(t Table) bool {
 		return false
 	}
 	return true
+}
+
+func containsString(stringSlice []string, searchString string) bool {
+	for _, s := range stringSlice {
+		if strings.EqualFold(s, searchString) {
+			return true
+		}
+	}
+	return false
 }
