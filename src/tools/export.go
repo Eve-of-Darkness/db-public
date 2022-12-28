@@ -1,8 +1,11 @@
 package tools
 
 import (
+	"path/filepath"
+
 	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/utils"
 
 	"encoding/json"
 	"fmt"
@@ -125,14 +128,14 @@ func getInsertStart(table db.Table) string {
 }
 
 func parseFile(table db.Table) []map[string]interface{} {
-	files := getFiles("data")
+	files := getFiles(filepath.Join(utils.RootFolder(), "data"))
 	var data []map[string]interface{}
 	for _, f := range files {
 		var addedData []map[string]interface{}
 		if !strings.HasPrefix(f, table.Name+".") || !strings.HasSuffix(f, ".json") {
 			continue
 		}
-		file, e := os.ReadFile("data/" + f)
+		file, e := os.ReadFile(filepath.Join(utils.RootFolder(), "data", f))
 		if e != nil {
 			panic(e)
 		}

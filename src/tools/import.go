@@ -1,8 +1,11 @@
 package tools
 
 import (
+	"path/filepath"
+
 	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/utils"
 
 	"crypto/sha256"
 	"database/sql"
@@ -107,12 +110,14 @@ func writeJSON(tableData []map[string]any, fileName string) {
 		panic(err)
 	}
 
-	if _, err := os.Stat("/data"); os.IsNotExist(err) {
-		os.MkdirAll("data", os.ModePerm)
+	jsonPath := filepath.Join(utils.RootFolder(), "data", fileName+".json")
+
+	if _, err := os.Stat(filepath.Dir(jsonPath)); os.IsNotExist(err) {
+		os.MkdirAll(filepath.Dir(jsonPath), os.ModePerm)
 	}
 
-	if _, err := os.Stat("data/" + fileName + ".json"); err == nil {
-		file, e := os.ReadFile("data/" + fileName + ".json")
+	if _, err := os.Stat(jsonPath); err == nil {
+		file, e := os.ReadFile(jsonPath)
 		if e != nil {
 			panic(e)
 		}
@@ -125,7 +130,7 @@ func writeJSON(tableData []map[string]any, fileName string) {
 		}
 	}
 
-	err = os.WriteFile("data/"+fileName+".json", jsonData, 0644)
+	err = os.WriteFile(jsonPath, jsonData, 0644)
 	if err != nil {
 		panic(err)
 	}
