@@ -1,9 +1,14 @@
 package db
 
 import (
+	"github.com/Eve-of-Darkness/db-public/src/utils"
+
+	"golang.org/x/exp/slices"
+
+	"encoding/json"
 	"fmt"
-	"sort"
-	"strings"
+	"os"
+	"path/filepath"
 )
 
 type Table struct {
@@ -77,29 +82,36 @@ func (t *Table) GetPrimaryColumn() *TableColumn {
 }
 
 func (t *Table) IsStatic() bool {
-	return IsTableStatic(t.Name)
+	return slices.Contains(GetStaticTableNames(), t.Name)
 }
 
-func findTableIndex(tableName string, tables []Table) int {
-	for i, t := range tables {
-		if strings.EqualFold(tableName, t.Name) {
-			return i
-		}
+var cachedTables []Table
+var cachedStaticTables []string
+
+func GetAllTables() []Table {
+	if cachedTables != nil {
+		return cachedTables
 	}
-	return -1
-}
-
-func FindTable(tableName string, tables []Table) *Table {
-	matchedIndex := findTableIndex(tableName, tables)
-	if matchedIndex >= 0 {
-		return &tables[matchedIndex]
-	} else {
-		return nil
+	var tables []Table
+	jsonPath := filepath.Join(utils.RootFolder(), "data", "_TableSchemas.json")
+	file, err := os.ReadFile(jsonPath)
+	if err != nil {
+		panic(err)
 	}
+	json.Unmarshal(file, &tables)
+	cachedTables = tables
+	return tables
 }
 
-func SortTables(tables []Table) {
-	sort.Slice(tables, func(i, j int) bool {
-		return tables[i].Name < tables[j].Name
-	})
+func GetStaticTableNames() []string {
+	if cachedStaticTables != nil {
+		return cachedStaticTables
+	}
+	jsonPath := filepath.Join(utils.RootFolder(), "data", "_StaticTables.json")
+	content, err := os.ReadFile(jsonPath)
+	if err != nil {
+		panic(err)
+	}
+	json.Unmarshal(content, &cachedStaticTables)
+	return cachedStaticTables
 }

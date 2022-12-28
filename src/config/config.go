@@ -113,7 +113,6 @@ func getConnectionString() string {
 
 func (config *Config) GetTables() []db.Table {
 	tables := db.GetAllTables()
-	db.SortTables(tables)
 
 	if len(config.ignoredTables) > 0 {
 		println("\"exportignore\" in config.yml is deprecated use \"exclude\" instead.")

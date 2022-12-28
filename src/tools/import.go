@@ -38,8 +38,13 @@ func ImportToJson(config config.Config) {
 func getMobJSON(expansion int, dbProvider db.Provider) {
 	rows := db.Query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
-	allTables := db.GetAllTables()
-	mobTable := db.FindTable("Mob", allTables)
+	var mobTable db.Table
+	for _, t := range db.GetAllTables() {
+		if t.Name == "Mob" {
+			mobTable = t
+			break
+		}
+	}
 	var tableData = convertRowsToTableData(rows, mobTable.GetPrimaryColumn().Name)
 	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
 }

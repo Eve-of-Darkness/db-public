@@ -132,20 +132,8 @@ func (provider *mysqlProvider) readIndexesForTable(table *Table) []*Index {
 		index.Column = string(slice[4].([]byte))
 		indexes = append(indexes, index)
 	}
-	sort.Slice(indexes, func(i, j int) bool {
-		colIndex1 := getIndexOfColumnIndex(table.Columns, indexes[i].Name)
-		colIndex2 := getIndexOfColumnIndex(table.Columns, indexes[j].Name)
-		return colIndex1 < colIndex2
+	sort.SliceStable(indexes, func(i, j int) bool {
+		return indexes[i].Name < indexes[j].Name
 	})
 	return indexes
-}
-
-func getIndexOfColumnIndex(columns []*TableColumn, indexName string) int {
-	colName := strings.Join(strings.Split(indexName, "_")[2:], "_")
-	for i, t := range columns {
-		if colName == t.Name {
-			return i
-		}
-	}
-	return -1
 }

@@ -166,9 +166,7 @@ func (provider *sqliteProvider) readIndexesForTable(table *Table) []*Index {
 		}
 	}
 	sort.Slice(indexes, func(i, j int) bool {
-		colIndex1 := getIndexOfColumnIndex(table.Columns, indexes[i].Name)
-		colIndex2 := getIndexOfColumnIndex(table.Columns, indexes[j].Name)
-		return colIndex1 < colIndex2
+		return indexes[i].Name < indexes[j].Name
 	})
 	return indexes
 }
