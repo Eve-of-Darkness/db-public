@@ -134,10 +134,10 @@ func (config *Config) isTableIncluded(t db.Table) bool {
 	isIgnored := containsString(config.ignoredTables, t.Name)
 	isExcluded := containsString(config.excludeTables, "all") || containsString(config.excludeTables, t.Name)
 	isIncluded := containsString(config.includeTables, t.Name)
-	if config.updateOnly && (!t.Static || isIgnored || isExcluded) {
+	if config.updateOnly && (!t.IsStatic() || isIgnored || isExcluded) {
 		return false
 	}
-	if config.ImportFlag && (!isIncluded && (!t.Static || isExcluded)) { // include > exclude
+	if config.ImportFlag && (!isIncluded && (!t.IsStatic() || isExcluded)) { // include > exclude
 		return false
 	}
 	if !config.ImportFlag && isExcluded {

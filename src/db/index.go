@@ -1,7 +1,7 @@
 package db
 
 type Index struct {
-	Name    string
-	Columns []string
-	Unique  bool `json:",omitempty"`
+	Name   string
+	Column string
+	Unique bool `json:",omitempty"`
 }

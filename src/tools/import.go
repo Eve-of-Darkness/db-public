@@ -36,7 +36,7 @@ func ImportToJson(config config.Config) {
 }
 
 func getMobJSON(expansion int, dbProvider db.Provider) {
-	rows := Query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
+	rows := db.Query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
 	defer rows.Close()
 	allTables := db.GetAllTables()
 	mobTable := db.FindTable("Mob", allTables)
@@ -45,27 +45,10 @@ func getMobJSON(expansion int, dbProvider db.Provider) {
 }
 
 func getJSON(table db.Table, dbProvider db.Provider) {
-	rows := Query(dbProvider, "SELECT * FROM "+table.Name)
+	rows := db.Query(dbProvider, "SELECT * FROM "+table.Name)
 	defer rows.Close()
 	var tableData = convertRowsToTableData(rows, table.GetPrimaryColumn().Name)
 	writeJSON(tableData, table.Name)
-}
-
-func Query(dbProvider db.Provider, queryStr string) *sql.Rows {
-	var db = dbProvider.GetConnection()
-
-	stmt, err := db.Prepare(queryStr)
-	if err != nil {
-		panic(err)
-	}
-	defer stmt.Close()
-
-	rows, err := stmt.Query()
-	if err != nil {
-		panic(err)
-	}
-
-	return rows
 }
 
 func convertRowsToTableData(rows *sql.Rows, primaryKeyName string) []map[string]any {

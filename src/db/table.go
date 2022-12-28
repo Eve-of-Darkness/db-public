@@ -12,7 +12,6 @@ type Table struct {
 	primaryColumn *TableColumn
 	Indexes       []*Index `json:",omitempty"`
 	AutoIncrement int      `json:",omitempty"`
-	Static        bool     `json:"-"`
 }
 
 func NewTable(name string) *Table {
@@ -25,7 +24,6 @@ func (t *Table) Add(name string, sqlType string) *TableColumn {
 	col := new(TableColumn)
 	col.Name = name
 	col.SqlType = sqlType
-	col.AutoIncrement = false
 	col.NotNull = false
 	t.Columns = append(t.Columns, col)
 	return col
@@ -35,7 +33,7 @@ func (t *Table) AddUnique(name string, sqlType string) *TableColumn {
 	col := t.Add(name, sqlType)
 	index := new(Index)
 	index.Name = "U_" + t.Name + "_" + col.Name
-	index.Columns = append(index.Columns, col.Name)
+	index.Column = col.Name
 	index.Unique = true
 	t.Indexes = append(t.Indexes, index)
 	return col
@@ -45,7 +43,7 @@ func (t *Table) AddWithIndex(name string, sqlType string) *TableColumn {
 	col := t.Add(name, sqlType)
 	index := new(Index)
 	index.Name = "I_" + t.Name + "_" + col.Name
-	index.Columns = append(index.Columns, col.Name)
+	index.Column = col.Name
 	t.Indexes = append(t.Indexes, index)
 	return col
 }
@@ -76,6 +74,10 @@ func (t *Table) GetPrimaryColumn() *TableColumn {
 		}
 	}
 	panic(fmt.Sprintf("Primary column for %v missing", t.Name))
+}
+
+func (t *Table) IsStatic() bool {
+	return IsTableStatic(t.Name)
 }
 
 func findTableIndex(tableName string, tables []Table) int {
