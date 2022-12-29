@@ -167,9 +167,7 @@ func (provider *sqliteProvider) readIndexesForTable(table *Table) []*Index {
 		for _, colRef := range columnRefs {
 			index := new(Index)
 			index.Name = indexName
-			if strings.HasPrefix(indexName, "U_") {
-				index.Unique = true
-			}
+			index.Unique = provider.isIndexUnique(indexName, table.Name)
 			index.Column = colRef[2].(string)
 			indexes = append(indexes, index)
 		}
@@ -178,4 +176,14 @@ func (provider *sqliteProvider) readIndexesForTable(table *Table) []*Index {
 		return indexes[i].Name < indexes[j].Name
 	})
 	return indexes
+}
+
+func (provider *sqliteProvider) isIndexUnique(indexName string, tableName string) bool {
+	uniqueQueryResults := getValuesFromQuery(provider, fmt.Sprintf("PRAGMA INDEX_LIST('%v')", tableName))
+	for _, r := range uniqueQueryResults {
+		if r[1].(string) == indexName && r[2].(int64) == 1 {
+			return true
+		}
+	}
+	return false
 }
