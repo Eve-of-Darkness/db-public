@@ -105,12 +105,7 @@ func (provider *mysqlProvider) ReadTableSchema(tableName string) *Table {
 		if string(slice[3].([]byte)) == "PRI" {
 			column.IsPrimary = true
 		}
-		implicitDefaultValue := column.GetDefaultValue()
-		if slice[4] == nil || (string(slice[4].([]byte)) == implicitDefaultValue && !column.IsNumber()) {
-			column.DefaultValue = ""
-		} else if string(slice[4].([]byte)) == strings.Trim(implicitDefaultValue, "'") {
-			column.DefaultValue = ""
-		} else {
+		if slice[4] != nil && string(slice[4].([]byte)) != column.GetDefaultValue() {
 			column.DefaultValue = string(slice[4].([]byte))
 		}
 		if slice[5] != nil && string(slice[5].([]byte)) == "auto_increment" {

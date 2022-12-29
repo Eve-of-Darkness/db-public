@@ -23,9 +23,9 @@ func (col *TableColumn) GetDefaultValue() string {
 	if !col.NotNull {
 		return ""
 	} else if col.IsNumber() {
-		return "'0'"
+		return "0"
 	} else if col.SqlType == "datetime" {
-		return "'2000-01-01 00:00:00'"
+		return "2000-01-01 00:00:00"
 	} else {
 		return "''"
 	}

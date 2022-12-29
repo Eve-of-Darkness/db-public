@@ -65,12 +65,15 @@ func (provider *sqliteProvider) GetCreateStatement(table Table) string {
 		} else {
 			defaultValue := col.GetDefaultValue()
 
+			stmt += " DEFAULT "
 			if defaultValue == "" {
-				stmt += " DEFAULT NULL"
+				stmt += "NULL"
 			} else if col.IsNumber() {
-				stmt += " DEFAULT " + strings.Trim(defaultValue, "'")
+				stmt += strings.Trim(defaultValue, "'")
+			} else if col.SqlType == "datetime" {
+				stmt += fmt.Sprintf("'%v'", defaultValue)
 			} else {
-				stmt += " DEFAULT " + defaultValue
+				stmt += defaultValue
 			}
 		}
 
@@ -138,13 +141,11 @@ func (provider *sqliteProvider) ReadTableSchema(tableName string) *Table {
 		}
 
 		implicitDefaultValue := column.GetDefaultValue()
-		if column.IsNumber() {
-			implicitDefaultValue = strings.Trim(implicitDefaultValue, "'")
+		if column.SqlType == "datetime" {
+			implicitDefaultValue = fmt.Sprintf("'%v'", column.GetDefaultValue())
 		}
 
-		if slice[4] == implicitDefaultValue || slice[4] == nil || slice[4] == "NULL" {
-			column.DefaultValue = ""
-		} else {
+		if slice[4] != implicitDefaultValue && slice[4] != nil && slice[4] != "NULL" {
 			column.DefaultValue = slice[4].(string)
 		}
 		table.Columns = append(table.Columns, column)
