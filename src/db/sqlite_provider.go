@@ -101,6 +101,15 @@ func (provider *sqliteProvider) GetCreateStatement(table Table) string {
 	return stmt
 }
 
+func (provider *sqliteProvider) GetAllTableNames() []string {
+	results := getValuesFromQuery(provider, "select name from sqlite_master where `type` = 'table' and name not like 'sqlite_%'")
+	tableNames := make([]string, 0, len(results))
+	for _, r := range results {
+		tableNames = append(tableNames, r[0].(string))
+	}
+	return tableNames
+}
+
 func (provider *sqliteProvider) ReadTableSchema(tableName string) *Table {
 	table := NewTable(tableName)
 	sqlite_sequence := getValuesFromQuery(provider, fmt.Sprintf("SELECT seq FROM sqlite_sequence WHERE name = '%v'", tableName))

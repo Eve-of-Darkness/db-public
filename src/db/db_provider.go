@@ -9,6 +9,7 @@ type Provider interface {
 	GetConnection() *sql.DB
 	CloseConnection()
 	GetCreateStatement(table Table) string
+	GetAllTableNames() []string
 	ReadTableSchema(tableName string) *Table
 }
 

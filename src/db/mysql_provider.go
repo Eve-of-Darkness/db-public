@@ -82,6 +82,17 @@ func (provider *mysqlProvider) GetCreateStatement(table Table) string {
 	return stmt
 }
 
+func (provider *mysqlProvider) GetAllTableNames() []string {
+	databaseName := strings.Split(provider.connectionString, "/")[1]
+	query := fmt.Sprintf("SELECT TABLE_NAME FROM information_schema.tables WHERE TABLE_SCHEMA = '%v' ORDER BY TABLE_NAME", databaseName)
+	results := getValuesFromQuery(provider, query)
+	tableNames := make([]string, 0, len(results))
+	for _, r := range results {
+		tableNames = append(tableNames, string(r[0].([]byte)))
+	}
+	return tableNames
+}
+
 func (provider *mysqlProvider) ReadTableSchema(tableName string) *Table {
 	table := NewTable(tableName)
 	for _, slice := range getValuesFromQuery(provider, "DESCRIBE "+tableName) {
