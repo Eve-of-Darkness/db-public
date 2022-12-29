@@ -1,8 +1,6 @@
 package tools
 
 import (
-	"path/filepath"
-
 	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
 	"github.com/Eve-of-Darkness/db-public/src/utils"
@@ -12,6 +10,7 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
+	"path/filepath"
 	"sort"
 	"strconv"
 	"strings"
@@ -20,7 +19,6 @@ import (
 
 func ImportToJson(config config.Config) {
 	var dbProvider db.Provider = config.DbProvider
-	dbProvider.SetConnectionString(config.ConnectionString)
 	dbProvider.GetConnection()
 	defer dbProvider.CloseConnection()
 

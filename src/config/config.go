@@ -16,7 +16,6 @@ type Config struct {
 	DbProvider       db.Provider
 	ImportFlag       bool
 	ImportSchemaFlag bool
-	ConnectionString string
 	ignoredTables    []string
 	excludeTables    []string
 	includeTables    []string
@@ -49,8 +48,6 @@ func Load() Config {
 	config.ignoredTables = ignoredTables
 	config.DbProvider = getDbProvider(*exportType, (*importFlag || *importSchemaFlag))
 	config.updateOnly = *updateOnly
-
-	config.ConnectionString = getConnectionString()
 	return *config
 }
 
@@ -83,13 +80,16 @@ func getDbProvider(exportType string, useFileConfig bool) db.Provider {
 		println("Export type update-only is deprecated. Use \"-update-only\" instead.")
 	}
 
+	var dbProvider db.Provider
 	if importSQLite || exportType == "sqlite" {
-		return db.GetSqliteProvider()
+		dbProvider = db.GetSqliteProvider()
 	} else if useFileConfig || exportType == "mysql" || exportType == "update-only" {
-		return db.GetMysqlProvider()
+		dbProvider = db.GetMysqlProvider()
 	} else {
 		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
 	}
+	dbProvider.SetConnectionString(getConnectionString())
+	return dbProvider
 }
 
 func getIgnoredTables() []string {

@@ -14,7 +14,6 @@ import (
 
 func ImportSchema(config config.Config) {
 	dbProvider := config.DbProvider
-	dbProvider.SetConnectionString(config.ConnectionString)
 	tableNames := dbProvider.GetAllTableNames()
 	sort.Slice(tableNames, func(i, j int) bool {
 		return strings.ToLower(tableNames[i]) < strings.ToLower(tableNames[j])
