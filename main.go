@@ -8,9 +8,15 @@ import (
 func main() {
 	config := config.Load()
 
+	if config.ImportSchemaFlag {
+		tools.ImportSchema(config)
+	}
+
 	if config.ImportFlag {
 		tools.ImportToJson(config)
-	} else {
+	}
+
+	if !config.ImportFlag && !config.ImportSchemaFlag {
 		tools.ExportToSql(config)
 	}
 }

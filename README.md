@@ -17,16 +17,19 @@ Note: For Windows the executable is named `public-db-tools.exe` and for MacOS `p
 The resulting file is `public-db.sql`.
 
 ## Contributing
-1. Edit `config.yml` to match the credentials for MySQL/MariaDB or SQLite database you want to export
-2. In a terminal run `./public-db-tools -import`
-3. Copy data folder to repository
+1. `git clone https://github.com/Eve-of-Darkness/db-public`
+2. `cd db-public`
+3. `go run . -import`
+
+Afterwards you need to push your changes to your fork of the repository.
 
 ## CLI Options
 `-export <type>`: Export Public-DB as SQL query. Possible `<type>`s are "mysql" and "sqlite" (default "mysql")  
-`-update-only`: Set to only export and replace static content, but keep player content untouched  
-`-import`: Import the configured SQL database to JSON database found in data folder  
-`-exclude <table1>,<table2>,...`: Explicitly exclude (comma-separated) tables from export and import. "all" excludes all tables. 
-`-include <table1>,<table2>,...`: Explicitly include (comma-separated) tables that are not listed or are non-static for import
+`-update-only`: Set export to only update static data  
+`-import`: Import the configured SQL database  
+`-import-schema`: Import schema from database  
+`-exclude <table1>,<table2>,...`: Exclude tables  
+`-include <table1>,<table2>,...`: Include tables  
 
 Tip: To import only selected tables do `-import -exclude all -include <table1>,<table2>,...`.
 

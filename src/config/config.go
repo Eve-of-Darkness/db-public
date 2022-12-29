@@ -15,6 +15,7 @@ import (
 type Config struct {
 	DbProvider       db.Provider
 	ImportFlag       bool
+	ImportSchemaFlag bool
 	ConnectionString string
 	ignoredTables    []string
 	excludeTables    []string
@@ -24,6 +25,7 @@ type Config struct {
 
 func Load() Config {
 	importFlag := flag.Bool("import", false, "Import configured SQL database to JSON database found in data folder.")
+	importSchemaFlag := flag.Bool("import-schema", false, "Import all schemas from database.")
 	exportType := flag.String("export", "mysql", "Export Public-DB as SQL query. Possible values are \"mysql\" and \"sqlite\"")
 	updateOnly := flag.Bool("update-only", false, "Set to export/replace static content, but keep player content untouched.")
 	excludeTables := flag.String("exclude", "", "Explicitly exclude (comma-separated) tables from export and import. \"all\" excludes all tables.")
@@ -43,8 +45,9 @@ func Load() Config {
 	config.includeTables = append(splitString(*includeTables, ","), viper.GetStringSlice("include")...)
 
 	config.ImportFlag = *importFlag
+	config.ImportSchemaFlag = *importSchemaFlag
 	config.ignoredTables = ignoredTables
-	config.DbProvider = getDbProvider(exportType, importFlag)
+	config.DbProvider = getDbProvider(*exportType, (*importFlag || *importSchemaFlag))
 	config.updateOnly = *updateOnly
 
 	config.ConnectionString = getConnectionString()
@@ -73,16 +76,16 @@ func loadConfigFile() {
 	}
 }
 
-func getDbProvider(exportType *string, importFlag *bool) db.Provider {
-	importSQLite := *importFlag && viper.GetString("db.file_path") != ""
+func getDbProvider(exportType string, useFileConfig bool) db.Provider {
+	importSQLite := useFileConfig && viper.GetString("db.file_path") != ""
 
-	if *exportType == "update-only" {
+	if exportType == "update-only" {
 		println("Export type update-only is deprecated. Use \"-update-only\" instead.")
 	}
 
-	if importSQLite || *exportType == "sqlite" {
+	if importSQLite || exportType == "sqlite" {
 		return db.GetSqliteProvider()
-	} else if *importFlag || *exportType == "mysql" || *exportType == "update-only" {
+	} else if useFileConfig || exportType == "mysql" || exportType == "update-only" {
 		return db.GetMysqlProvider()
 	} else {
 		panic("Chosen export value is invalid. Please choose either \"mysql\", \"sqlite\" or \"update-only\".")
