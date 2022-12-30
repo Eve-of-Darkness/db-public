@@ -1,8 +1,8 @@
 package tools
 
 import (
-	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
 	"github.com/Eve-of-Darkness/db-public/src/utils"
 
 	"encoding/json"
@@ -12,15 +12,14 @@ import (
 	"strings"
 )
 
-func ImportSchema(config config.Config) {
-	dbProvider := config.DbProvider
+func ImportSchema(dbProvider db.Provider) {
 	tableNames := dbProvider.GetAllTableNames()
 	sort.Slice(tableNames, func(i, j int) bool {
 		return strings.ToLower(tableNames[i]) < strings.ToLower(tableNames[j])
 	})
-	var tables []*db.Table
+	var tables []*schema.Table
 	for _, tableName := range tableNames {
-		tables = append(tables, dbProvider.ReadTableSchema(tableName))
+		tables = append(tables, dbProvider.ReadSchema(tableName))
 	}
 
 	content, _ := json.MarshalIndent(tables, "", "  ")

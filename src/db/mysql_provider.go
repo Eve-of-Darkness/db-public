@@ -1,7 +1,8 @@
 package db
 
 import (
-	"database/sql"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
+
 	"fmt"
 	"sort"
 	"strings"
@@ -10,7 +11,7 @@ import (
 )
 
 type mysqlProvider struct {
-	db               *sql.DB
+	connection       *database
 	connectionString string
 }
 
@@ -18,22 +19,14 @@ func (provider *mysqlProvider) SetConnectionString(connectionString string) {
 	provider.connectionString = connectionString
 }
 
-func (provider *mysqlProvider) GetConnection() *sql.DB {
-	if provider.db == nil {
-		db, err := sql.Open("mysql", provider.connectionString)
-		if err != nil {
-			panic(fmt.Errorf("failed to connect to database"))
-		}
-		provider.db = db
+func (provider *mysqlProvider) DB() *database {
+	if provider.connection == nil {
+		provider.connection = open("mysql", provider.connectionString)
 	}
-	return provider.db
+	return provider.connection
 }
 
-func (provider *mysqlProvider) CloseConnection() {
-	provider.db.Close()
-}
-
-func (provider *mysqlProvider) GetCreateStatement(table Table) string {
+func (provider *mysqlProvider) GetCreateStatement(table schema.Table) string {
 	stmt := ""
 	if table.IsStatic() {
 		stmt += fmt.Sprintf("DROP TABLE IF EXISTS `%v`;\n\n", table.Name)
@@ -85,57 +78,74 @@ func (provider *mysqlProvider) GetCreateStatement(table Table) string {
 func (provider *mysqlProvider) GetAllTableNames() []string {
 	databaseName := strings.Split(provider.connectionString, "/")[1]
 	query := fmt.Sprintf("SELECT TABLE_NAME FROM information_schema.tables WHERE TABLE_SCHEMA = '%v' ORDER BY TABLE_NAME", databaseName)
-	results := getValuesFromQuery(provider, query)
-	tableNames := make([]string, 0, len(results))
-	for _, r := range results {
-		tableNames = append(tableNames, string(r[0].([]byte)))
+	var tableNames []string
+	q := provider.DB().Query(query)
+	for q.Next() {
+		tableNames = append(tableNames, string(q.CurrentRow()[0].([]byte)))
 	}
 	return tableNames
 }
 
-func (provider *mysqlProvider) ReadTableSchema(tableName string) *Table {
-	table := NewTable(tableName)
-	for _, slice := range getValuesFromQuery(provider, "DESCRIBE "+tableName) {
-		column := new(TableColumn)
-		column.Name = string(slice[0].([]byte))
-		column.SqlType = string(slice[1].([]byte))
-		if string(slice[2].([]byte)) == "NO" {
-			column.NotNull = true
-		}
-		if string(slice[3].([]byte)) == "PRI" {
-			column.IsPrimary = true
-		}
-		if slice[4] != nil && string(slice[4].([]byte)) != column.GetDefaultValue() {
-			column.DefaultValue = string(slice[4].([]byte))
-		}
-		if slice[5] != nil && string(slice[5].([]byte)) == "auto_increment" {
+func (provider *mysqlProvider) ReadSchema(tableName string) *schema.Table {
+	table := schema.NewTable(tableName)
+	q := provider.DB().Query("DESCRIBE " + tableName)
+	for q.Next() {
+		column, autoIncrement := provider.convertToColumn(q.CurrentRow())
+		if autoIncrement {
 			table.AutoIncrement = provider.getAutoIncrement(tableName)
 		}
 		table.Columns = append(table.Columns, column)
 	}
-	indexes := provider.readIndexesForTable(table)
+	indexes := provider.readIndexes(table)
 	table.Indexes = indexes
 	return table
 }
 
-func (provider *mysqlProvider) getAutoIncrement(tableName string) int {
-	query := fmt.Sprintf("SELECT `AUTO_INCREMENT` FROM  INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = '%v'", tableName)
-	return int(getValuesFromQuery(provider, query)[0][0].(int64))
+func (provider *mysqlProvider) convertToColumn(slice []any) (*schema.TableColumn, bool) {
+	column := new(schema.TableColumn)
+	column.Name = string(slice[0].([]byte))
+	column.SqlType = string(slice[1].([]byte))
+	var autoIncrement bool
+	if string(slice[2].([]byte)) == "NO" {
+		column.NotNull = true
+	}
+	if string(slice[3].([]byte)) == "PRI" {
+		column.IsPrimary = true
+	}
+	implicitDefaultValue := column.GetDefaultValue()
+	if column.SqlType == "datetime" {
+		implicitDefaultValue = strings.Trim(implicitDefaultValue, "'")
+	}
+	if slice[4] != nil && string(slice[4].([]byte)) != implicitDefaultValue {
+		column.DefaultValue = string(slice[4].([]byte))
+	}
+	if slice[5] != nil && string(slice[5].([]byte)) == "auto_increment" {
+		autoIncrement = true
+	}
+	return column, autoIncrement
 }
 
-func (provider *mysqlProvider) readIndexesForTable(table *Table) []*Index {
-	indexQuery := "SHOW INDEXES FROM " + table.Name
-	var indexes []*Index
-	for _, slice := range getValuesFromQuery(provider, indexQuery) {
-		if string(slice[2].([]byte)) == "PRIMARY" {
+func (provider *mysqlProvider) getAutoIncrement(tableName string) int {
+	queryStr := fmt.Sprintf("SELECT `AUTO_INCREMENT` FROM  INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = '%v'", tableName)
+	q := provider.DB().Query(queryStr)
+	q.Next()
+	return int(q.CurrentRow()[0].(int64))
+}
+
+func (provider *mysqlProvider) readIndexes(table *schema.Table) []*schema.Index {
+	queryStr := "SHOW INDEXES FROM " + table.Name
+	var indexes []*schema.Index
+	q := provider.DB().Query(queryStr)
+	for q.Next() {
+		if string(q.CurrentRow()[2].([]byte)) == "PRIMARY" {
 			continue
 		}
-		index := new(Index)
-		index.Name = string(slice[2].([]byte))
+		index := new(schema.Index)
+		index.Name = string(q.CurrentRow()[2].([]byte))
 		if strings.HasPrefix(index.Name, "U_") {
 			index.Unique = true
 		}
-		index.Column = string(slice[4].([]byte))
+		index.Column = string(q.CurrentRow()[4].([]byte))
 		indexes = append(indexes, index)
 	}
 	sort.SliceStable(indexes, func(i, j int) bool {

@@ -1,14 +1,14 @@
-package db
+package schema
 
 import (
 	"github.com/Eve-of-Darkness/db-public/src/utils"
-
-	"golang.org/x/exp/slices"
 
 	"encoding/json"
 	"fmt"
 	"os"
 	"path/filepath"
+
+	"golang.org/x/exp/slices"
 )
 
 type Table struct {

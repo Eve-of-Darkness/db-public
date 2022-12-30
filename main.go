@@ -6,17 +6,17 @@ import (
 )
 
 func main() {
-	config := config.Load()
+	config := config.GetConfig()
 
 	if config.ImportSchemaFlag {
-		tools.ImportSchema(config)
+		tools.ImportSchema(config.DbProvider)
 	}
 
 	if config.ImportFlag {
-		tools.ImportToJson(config)
+		tools.ImportToJson(config.DbProvider, config.GetTables())
 	}
 
 	if !config.ImportFlag && !config.ImportSchemaFlag {
-		tools.ExportToSql(config)
+		tools.ExportToSql(config.DbProvider, config.GetTables())
 	}
 }

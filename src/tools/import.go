@@ -1,12 +1,11 @@
 package tools
 
 import (
-	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
 	"github.com/Eve-of-Darkness/db-public/src/utils"
 
 	"crypto/sha256"
-	"database/sql"
 	"encoding/json"
 	"fmt"
 	"os"
@@ -17,65 +16,31 @@ import (
 	"time"
 )
 
-func ImportToJson(config config.Config) {
-	var dbProvider db.Provider = config.DbProvider
-	dbProvider.GetConnection()
-	defer dbProvider.CloseConnection()
-
-	tables := config.GetTables()
+func ImportToJson(dbProvider db.Provider, tables []schema.Table) {
+	conn := dbProvider.DB()
 
 	for index, table := range tables {
 		if table.Name == "Mob" {
 			for i := 0; i <= 6; i++ {
-				getMobJSON(i, dbProvider)
+				q := conn.Query("SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = " + fmt.Sprint(i))
+				var tableData = convertRowsToTableData(q, table.GetPrimaryColumn().Name)
+				writeJSON(tableData, fmt.Sprintf("Mob.%v", i))
 			}
 			continue
 		}
-		getJSON(table, dbProvider)
+		q := conn.Query("SELECT * FROM " + table.Name)
+		var tableData = convertRowsToTableData(q, table.GetPrimaryColumn().Name)
+		writeJSON(tableData, table.Name)
 		fmt.Printf("Finished " + fmt.Sprint(index+1) + " of " + fmt.Sprint(len(tables)) + " (" + table.Name + ")\n")
 	}
 }
 
-func getMobJSON(expansion int, dbProvider db.Provider) {
-	rows := db.Query(dbProvider, "SELECT Mob.* FROM Mob JOIN Regions on Mob.Region = Regions.RegionId WHERE Regions.Expansion = "+fmt.Sprint(expansion))
-	defer rows.Close()
-	var mobTable db.Table
-	for _, t := range db.GetAllTables() {
-		if t.Name == "Mob" {
-			mobTable = t
-			break
-		}
-	}
-	var tableData = convertRowsToTableData(rows, mobTable.GetPrimaryColumn().Name)
-	writeJSON(tableData, "Mob."+fmt.Sprint(expansion))
-}
-
-func getJSON(table db.Table, dbProvider db.Provider) {
-	rows := db.Query(dbProvider, "SELECT * FROM "+table.Name)
-	defer rows.Close()
-	var tableData = convertRowsToTableData(rows, table.GetPrimaryColumn().Name)
-	writeJSON(tableData, table.Name)
-}
-
-func convertRowsToTableData(rows *sql.Rows, primaryKeyName string) []map[string]any {
-	columns, err := rows.Columns()
-	if err != nil {
-		panic(err)
-	}
-
-	count := len(columns)
-	tableData := make([]map[string]interface{}, 0)
-	values := make([]interface{}, count)
-	valuePtrs := make([]interface{}, count)
-
-	for rows.Next() {
-		for i := 0; i < count; i++ {
-			valuePtrs[i] = &values[i]
-		}
-		rows.Scan(valuePtrs...)
-		entry := make(map[string]interface{})
-		for i, col := range columns {
-			entry[col] = convertDbEntryToJson(values[i])
+func convertRowsToTableData(q *db.QueryResults, primaryKeyName string) []map[string]any {
+	tableData := make([]map[string]any, 0)
+	for q.Next() {
+		entry := make(map[string]any)
+		for i, col := range q.Headers() {
+			entry[col] = convertDbEntryToJson(q.CurrentRow()[i])
 		}
 
 		tableData = append(tableData, entry)

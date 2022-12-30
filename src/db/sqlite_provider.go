@@ -1,7 +1,8 @@
 package db
 
 import (
-	"database/sql"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
+
 	"fmt"
 	"sort"
 	"strings"
@@ -10,7 +11,7 @@ import (
 )
 
 type sqliteProvider struct {
-	db               *sql.DB
+	connection       *database
 	connectionString string
 }
 
@@ -18,23 +19,14 @@ func (provider *sqliteProvider) SetConnectionString(connectionString string) {
 	provider.connectionString = connectionString
 }
 
-func (provider *sqliteProvider) GetConnection() *sql.DB {
-	if provider.db == nil {
-		db, err := sql.Open("sqlite3", provider.connectionString)
-
-		if err != nil {
-			panic(fmt.Errorf("failed to connect to database. %s", err))
-		}
-		provider.db = db
+func (provider *sqliteProvider) DB() *database {
+	if provider.connection == nil {
+		provider.connection = open("sqlite3", provider.connectionString)
 	}
-	return provider.db
+	return provider.connection
 }
 
-func (provider *sqliteProvider) CloseConnection() {
-	provider.db.Close()
-}
-
-func (provider *sqliteProvider) GetCreateStatement(table Table) string {
+func (provider *sqliteProvider) GetCreateStatement(table schema.Table) string {
 	stmt := ""
 	if table.IsStatic() {
 		stmt += fmt.Sprintf("DROP TABLE IF EXISTS `%v`;\n\n", table.Name)
@@ -70,8 +62,6 @@ func (provider *sqliteProvider) GetCreateStatement(table Table) string {
 				stmt += "NULL"
 			} else if col.IsNumber() {
 				stmt += strings.Trim(defaultValue, "'")
-			} else if col.SqlType == "datetime" {
-				stmt += fmt.Sprintf("'%v'", defaultValue)
 			} else {
 				stmt += defaultValue
 			}
@@ -105,30 +95,35 @@ func (provider *sqliteProvider) GetCreateStatement(table Table) string {
 }
 
 func (provider *sqliteProvider) GetAllTableNames() []string {
-	results := getValuesFromQuery(provider, "select name from sqlite_master where `type` = 'table' and name not like 'sqlite_%'")
-	tableNames := make([]string, 0, len(results))
-	for _, r := range results {
-		tableNames = append(tableNames, r[0].(string))
+	query := "select name from sqlite_master where `type` = 'table' and name not like 'sqlite_%'"
+	results := provider.DB().Query(query)
+	var tableNames []string
+	for results.Next() {
+		tableNames = append(tableNames, results.CurrentRow()[0].(string))
 	}
 	return tableNames
 }
 
-func (provider *sqliteProvider) ReadTableSchema(tableName string) *Table {
-	table := NewTable(tableName)
-	sqlite_sequence := getValuesFromQuery(provider, fmt.Sprintf("SELECT seq FROM sqlite_sequence WHERE name = '%v'", tableName))
-	if len(sqlite_sequence) > 0 {
-		table.AutoIncrement = int(sqlite_sequence[0][0].(int64)) + 1
+func (provider *sqliteProvider) ReadSchema(tableName string) *schema.Table {
+	table := schema.NewTable(tableName)
+	results := provider.DB().Query(fmt.Sprintf("SELECT seq FROM sqlite_sequence WHERE name = '%v'", tableName))
+	if results.Next() {
+		table.AutoIncrement = int(results.CurrentRow()[0].(int64)) + 1
 	} else {
-		schemaStatement := getValuesFromQuery(provider, fmt.Sprintf("select sql from sqlite_master where tbl_name = '%v'", tableName))[0][0].(string)
+		results = provider.DB().Query(fmt.Sprintf("select sql from sqlite_master where tbl_name = '%v'", tableName))
+		results.Next()
+		schemaStatement := results.CurrentRow()[0].(string)
 		if strings.Contains(schemaStatement, "AUTOINCREMENT") {
 			table.AutoIncrement = 1
 		}
 	}
 
-	for _, slice := range getValuesFromQuery(provider, fmt.Sprintf("PRAGMA table_info('%v')", tableName)) {
-		column := new(TableColumn)
-		column.Name = slice[1].(string)
-		column.SqlType = strings.ToLower(slice[2].(string))
+	results = provider.DB().Query(fmt.Sprintf("PRAGMA table_info('%v')", tableName))
+	for results.Next() {
+		res := results.CurrentRow()
+		column := new(schema.TableColumn)
+		column.Name = res[1].(string)
+		column.SqlType = strings.ToLower(res[2].(string))
 		if strings.HasPrefix(column.SqlType, "unsigned") {
 			column.SqlType = strings.Join([]string{strings.Split(column.SqlType, " ")[1], strings.Split(column.SqlType, " ")[0]}, " ")
 		}
@@ -136,40 +131,38 @@ func (provider *sqliteProvider) ReadTableSchema(tableName string) *Table {
 			fmt.Printf("Cannot infer specific type from INTEGER for \"%v.%v\". Default to bigint.\n", table.Name, column.Name)
 			column.SqlType = "bigint(20)"
 		}
-		if slice[3].(int64) == 1 {
+		if res[3].(int64) == 1 {
 			column.NotNull = true
 		}
 
 		implicitDefaultValue := column.GetDefaultValue()
-		if column.SqlType == "datetime" {
-			implicitDefaultValue = fmt.Sprintf("'%v'", column.GetDefaultValue())
-		}
 
-		if slice[4] != implicitDefaultValue && slice[4] != nil && slice[4] != "NULL" {
-			column.DefaultValue = slice[4].(string)
+		if res[4] != implicitDefaultValue && res[4] != nil && res[4] != "NULL" {
+			column.DefaultValue = res[4].(string)
 		}
 		table.Columns = append(table.Columns, column)
 
-		if slice[5].(int64) == 1 {
+		if res[5].(int64) == 1 {
 			column.IsPrimary = true
 		}
 	}
-	table.Indexes = provider.readIndexesForTable(table)
+	table.Indexes = provider.readIndexes(table)
 	return table
 }
 
-func (provider *sqliteProvider) readIndexesForTable(table *Table) []*Index {
-	indexNameQuery := fmt.Sprintf("select name from sqlite_schema where `type`='index' and name not like 'sqlite_%%' and tbl_name='%v'", table.Name)
-	var indexes []*Index
-	for _, slice := range getValuesFromQuery(provider, indexNameQuery) {
-		indexName := slice[0].(string)
-		columnRefs := getValuesFromQuery(provider, fmt.Sprintf("PRAGMA index_info('%v')", indexName))
+func (provider *sqliteProvider) readIndexes(table *schema.Table) []*schema.Index {
+	query := fmt.Sprintf("select name from sqlite_schema where `type`='index' and name not like 'sqlite_%%' and tbl_name='%v'", table.Name)
+	results := provider.DB().Query(query)
+	var indexes []*schema.Index
+	for results.Next() {
+		indexName := results.CurrentRow()[0].(string)
+		indexQueryRes := provider.DB().Query(fmt.Sprintf("PRAGMA index_info('%v')", indexName))
 
-		for _, colRef := range columnRefs {
-			index := new(Index)
+		for indexQueryRes.Next() {
+			index := new(schema.Index)
 			index.Name = indexName
 			index.Unique = provider.isIndexUnique(indexName, table.Name)
-			index.Column = colRef[2].(string)
+			index.Column = indexQueryRes.CurrentRow()[2].(string)
 			indexes = append(indexes, index)
 		}
 	}
@@ -180,9 +173,9 @@ func (provider *sqliteProvider) readIndexesForTable(table *Table) []*Index {
 }
 
 func (provider *sqliteProvider) isIndexUnique(indexName string, tableName string) bool {
-	uniqueQueryResults := getValuesFromQuery(provider, fmt.Sprintf("PRAGMA INDEX_LIST('%v')", tableName))
-	for _, r := range uniqueQueryResults {
-		if r[1].(string) == indexName && r[2].(int64) == 1 {
+	res := provider.DB().Query(fmt.Sprintf("PRAGMA INDEX_LIST('%v')", tableName))
+	for res.Next() {
+		if res.CurrentRow()[1].(string) == indexName && res.CurrentRow()[2].(int64) == 1 {
 			return true
 		}
 	}

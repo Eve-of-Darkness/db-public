@@ -3,8 +3,8 @@ package tools
 import (
 	"path/filepath"
 
-	"github.com/Eve-of-Darkness/db-public/src/config"
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
 	"github.com/Eve-of-Darkness/db-public/src/utils"
 
 	"encoding/json"
@@ -14,13 +14,11 @@ import (
 	"strings"
 )
 
-func ExportToSql(config config.Config) {
+func ExportToSql(dbProvider db.Provider, tables []schema.Table) {
 	var buffer strings.Builder
 
-	tables := config.GetTables()
-
 	for _, table := range tables {
-		tableCreateStmt := config.DbProvider.GetCreateStatement(table)
+		tableCreateStmt := dbProvider.GetCreateStatement(table)
 
 		buffer.Write([]byte(tableCreateStmt))
 		buffer.WriteString("\n")
@@ -50,7 +48,7 @@ func getFiles(dir string) []string {
 	return fileNames
 }
 
-func buildBulkInsert(table db.Table) string {
+func buildBulkInsert(table schema.Table) string {
 	data := parseFile(table)
 
 	if len(data) == 0 {
@@ -77,7 +75,7 @@ func buildBulkInsert(table db.Table) string {
 	return buffer.String()
 }
 
-func getValues(table db.Table, data map[string]interface{}) string {
+func getValues(table schema.Table, data map[string]interface{}) string {
 	var buffer strings.Builder
 	colCount := len(table.Columns)
 
@@ -105,7 +103,7 @@ func getValues(table db.Table, data map[string]interface{}) string {
 	return buffer.String()
 }
 
-func getInsertStart(table db.Table) string {
+func getInsertStart(table schema.Table) string {
 	var buffer strings.Builder
 
 	buffer.WriteString("INSERT INTO `")
@@ -127,7 +125,7 @@ func getInsertStart(table db.Table) string {
 	return buffer.String()
 }
 
-func parseFile(table db.Table) []map[string]interface{} {
+func parseFile(table schema.Table) []map[string]interface{} {
 	files := getFiles(filepath.Join(utils.RootFolder(), "data"))
 	var data []map[string]interface{}
 	for _, f := range files {

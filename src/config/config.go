@@ -2,6 +2,7 @@ package config
 
 import (
 	"github.com/Eve-of-Darkness/db-public/src/db"
+	"github.com/Eve-of-Darkness/db-public/src/db/schema"
 
 	"errors"
 	"flag"
@@ -10,6 +11,7 @@ import (
 	"strings"
 
 	"github.com/spf13/viper"
+	"golang.org/x/exp/slices"
 )
 
 type Config struct {
@@ -20,6 +22,16 @@ type Config struct {
 	excludeTables    []string
 	includeTables    []string
 	updateOnly       bool
+	loaded           bool
+}
+
+var LoadedConfig Config
+
+func GetConfig() Config {
+	if LoadedConfig.loaded {
+		return LoadedConfig
+	}
+	return Load()
 }
 
 func Load() Config {
@@ -48,6 +60,7 @@ func Load() Config {
 	config.ignoredTables = ignoredTables
 	config.DbProvider = getDbProvider(*exportType, (*importFlag || *importSchemaFlag))
 	config.updateOnly = *updateOnly
+	config.loaded = true
 	return *config
 }
 
@@ -114,14 +127,14 @@ func getConnectionString() string {
 	}
 }
 
-func (config *Config) GetTables() []db.Table {
-	tables := db.GetAllTables()
+func (config *Config) GetTables() []schema.Table {
+	tables := schema.GetAllTables()
 
 	if len(config.ignoredTables) > 0 {
 		println("\"exportignore\" in config.yml is deprecated use \"exclude\" instead.")
 	}
 
-	result := []db.Table{}
+	result := []schema.Table{}
 	for _, t := range tables {
 		if !config.isTableIncluded(t) {
 			fmt.Println("Found ignored table:", t.Name)
@@ -132,10 +145,10 @@ func (config *Config) GetTables() []db.Table {
 	return result
 }
 
-func (config *Config) isTableIncluded(t db.Table) bool {
-	isIgnored := containsString(config.ignoredTables, t.Name)
-	isExcluded := containsString(config.excludeTables, "all") || containsString(config.excludeTables, t.Name)
-	isIncluded := containsString(config.includeTables, t.Name)
+func (config *Config) isTableIncluded(t schema.Table) bool {
+	isIgnored := slices.Contains(config.ignoredTables, t.Name)
+	isExcluded := slices.Contains(config.excludeTables, "all") || slices.Contains(config.excludeTables, t.Name)
+	isIncluded := slices.Contains(config.includeTables, t.Name)
 	if config.updateOnly && (!t.IsStatic() || isIgnored || isExcluded) {
 		return false
 	}
@@ -146,13 +159,4 @@ func (config *Config) isTableIncluded(t db.Table) bool {
 		return false
 	}
 	return true
-}
-
-func containsString(stringSlice []string, searchString string) bool {
-	for _, s := range stringSlice {
-		if strings.EqualFold(s, searchString) {
-			return true
-		}
-	}
-	return false
 }
