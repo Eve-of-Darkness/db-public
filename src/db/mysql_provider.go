@@ -42,7 +42,8 @@ func (provider *mysqlProvider) GetCreateStatement(table schema.Table) string {
 		}
 		columnIsAutoIncremented := table.AutoIncrement > 0 && col.IsPrimary
 		defaultValue := col.GetDefaultValue()
-		if !columnIsAutoIncremented && defaultValue != "" {
+		// text can't have a default value on MySQL (with default settings on Ubuntu)
+		if !columnIsAutoIncremented && defaultValue != "" && col.SqlType != "text" {
 			stmt += " DEFAULT " + defaultValue
 		}
 		if columnIsAutoIncremented {
