@@ -98,7 +98,7 @@ func (provider *mysqlProvider) ReadSchema(tableName string) *schema.Table {
 func (provider *mysqlProvider) convertToColumn(slice []any) *schema.TableColumn {
 	column := new(schema.TableColumn)
 	column.Name = string(slice[0].([]byte))
-	column.SqlType = string(slice[1].([]byte))
+	column.SqlType = formatSqlType(string(slice[1].([]byte)))
 	if string(slice[2].([]byte)) == "NO" {
 		column.NotNull = true
 	}
@@ -116,6 +116,27 @@ func (provider *mysqlProvider) convertToColumn(slice []any) *schema.TableColumn 
 		column.AutoIncrement = true
 	}
 	return column
+}
+
+func formatSqlType(columnType string) string {
+	switch columnType {
+	case "int":
+		return "int(11)"
+	case "bigint":
+		return "bigint(20)"
+	case "int unsigned":
+		return "int(10) unsigned"
+	case "smallint":
+		return "smallint(6)"
+	case "tinyint":
+		return "tinyint(3)"
+	case "smallint unsigned":
+		return "smallint(5) unsigned"
+	case "tinyint unsigned":
+		return "tinyint(3) unsigned"
+	default:
+		return columnType
+	}
 }
 
 func (provider *mysqlProvider) readIndexes(table *schema.Table) []*schema.Index {
