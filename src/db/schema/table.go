@@ -16,7 +16,6 @@ type Table struct {
 	Columns       []*TableColumn
 	primaryColumn *TableColumn
 	Indexes       []*Index `json:",omitempty"`
-	AutoIncrement int      `json:",omitempty"`
 }
 
 func NewTable(name string) *Table {

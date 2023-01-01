@@ -3,11 +3,12 @@ package schema
 import "strings"
 
 type TableColumn struct {
-	Name         string
-	SqlType      string
-	NotNull      bool   `json:",omitempty"`
-	DefaultValue string `json:",omitempty"`
-	IsPrimary    bool   `json:",omitempty"`
+	Name          string
+	SqlType       string
+	NotNull       bool   `json:",omitempty"`
+	DefaultValue  string `json:",omitempty"`
+	IsPrimary     bool   `json:",omitempty"`
+	AutoIncrement bool   `json:",omitempty"`
 }
 
 func (col *TableColumn) NotNullable() *TableColumn {

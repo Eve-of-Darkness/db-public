@@ -6,7 +6,8 @@
         "Name": "AbilityID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "KeyName",
@@ -49,8 +50,7 @@
         "Column": "KeyName",
         "Unique": true
       }
-    ],
-    "AutoIncrement": 241
+    ]
   },
   {
     "Name": "Account",
@@ -154,7 +154,8 @@
         "Name": "CustomParamID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "LastTimeRowUpdated",
@@ -171,8 +172,7 @@
         "Name": "I_AccountXCustomParam_Name",
         "Column": "Name"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "Appeal",
@@ -560,7 +560,8 @@
         "Name": "AutoXMLUpdateID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "FilePackage",
@@ -592,8 +593,7 @@
         "Name": "I_AutoXMLUpdate_FilePackage",
         "Column": "FilePackage"
       }
-    ],
-    "AutoIncrement": 4
+    ]
   },
   {
     "Name": "Ban",
@@ -800,7 +800,8 @@
         "Name": "ID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "Character_ID",
@@ -837,8 +838,7 @@
         "Name": "I_CharacterXDataQuest_Character_ID",
         "Column": "Character_ID"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "CharacterXMasterLevel",
@@ -955,7 +955,8 @@
         "Name": "ClassXSpecializationID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "ClassID",
@@ -991,8 +992,7 @@
         "Name": "I_ClassXSpecialization_SpecKeyName",
         "Column": "SpecKeyName"
       }
-    ],
-    "AutoIncrement": 538
+    ]
   },
   {
     "Name": "CraftedItem",
@@ -1089,7 +1089,8 @@
         "Name": "ID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "Name",
@@ -1219,8 +1220,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 48
+    ]
   },
   {
     "Name": "DBHouse",
@@ -3058,7 +3058,8 @@
         "Name": "CustomParamID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "LastTimeRowUpdated",
@@ -3075,8 +3076,7 @@
         "Name": "I_DOLCharactersBackupXCustomParam_KeyName",
         "Column": "KeyName"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "DOLCharactersXCustomParam",
@@ -3099,7 +3099,8 @@
         "Name": "CustomParamID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "LastTimeRowUpdated",
@@ -3116,8 +3117,7 @@
         "Name": "I_DOLCharactersXCustomParam_KeyName",
         "Column": "KeyName"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "Door",
@@ -3216,7 +3216,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "TemplateName",
@@ -3249,8 +3250,7 @@
         "Name": "I_DropTemplateXItemTemplate_TemplateName",
         "Column": "TemplateName"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "Faction",
@@ -3626,7 +3626,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "OwnerID",
@@ -3658,8 +3659,7 @@
         "Name": "I_HouseConsignmentMerchant_OwnerID",
         "Column": "OwnerID"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "househookpointitem",
@@ -3668,7 +3668,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "HouseNumber",
@@ -3705,8 +3706,7 @@
         "Name": "I_househookpointitem_HouseNumber",
         "Column": "HouseNumber"
       }
-    ],
-    "AutoIncrement": 10019
+    ]
   },
   {
     "Name": "househookpointoffset",
@@ -3715,7 +3715,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "HouseModel",
@@ -3752,8 +3753,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 144
+    ]
   },
   {
     "Name": "InstanceXElement",
@@ -4867,7 +4867,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "DateTaken",
@@ -4929,8 +4930,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "KeepComponent",
@@ -6042,7 +6042,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "MobName",
@@ -6074,8 +6075,7 @@
         "Name": "I_MobDropTemplate_MobName",
         "Column": "MobName"
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "MobXAmbientBehaviour",
@@ -6764,7 +6764,8 @@
         "Name": "ID",
         "SqlType": "bigint(20)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "DateKilled",
@@ -6825,8 +6826,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 1
+    ]
   },
   {
     "Name": "Quest",
@@ -7163,7 +7163,8 @@
         "Name": "ID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "ObjectType",
@@ -7213,8 +7214,7 @@
         "Name": "I_SalvageYield_SalvageLevel",
         "Column": "SalvageLevel"
       }
-    ],
-    "AutoIncrement": 366
+    ]
   },
   {
     "Name": "ServerInfo",
@@ -7458,7 +7458,8 @@
         "Name": "SpecializationID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "KeyName",
@@ -7495,8 +7496,7 @@
         "Column": "KeyName",
         "Unique": true
       }
-    ],
-    "AutoIncrement": 225
+    ]
   },
   {
     "Name": "SpecXAbility",
@@ -7505,7 +7505,8 @@
         "Name": "SpecXabilityID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "Spec",
@@ -7547,8 +7548,7 @@
         "Name": "I_SpecXAbility_Spec",
         "Column": "Spec"
       }
-    ],
-    "AutoIncrement": 368
+    ]
   },
   {
     "Name": "Spell",
@@ -7779,7 +7779,8 @@
         "Name": "SpellLineID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "KeyName",
@@ -7820,8 +7821,7 @@
         "Column": "KeyName",
         "Unique": true
       }
-    ],
-    "AutoIncrement": 1463
+    ]
   },
   {
     "Name": "SpellXCustomValues",
@@ -7844,7 +7844,8 @@
         "Name": "CustomParamID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "LastTimeRowUpdated",
@@ -7861,8 +7862,7 @@
         "Name": "I_SpellXCustomValues_SpellID",
         "Column": "SpellID"
       }
-    ],
-    "AutoIncrement": 74
+    ]
   },
   {
     "Name": "StarterEquipment",
@@ -7871,7 +7871,8 @@
         "Name": "StarterEquipmentID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "Class",
@@ -7888,8 +7889,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 128
+    ]
   },
   {
     "Name": "StartupLocation",
@@ -7898,7 +7898,8 @@
         "Name": "StartupLoc_ID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "XPos",
@@ -7955,8 +7956,7 @@
         "SqlType": "datetime",
         "NotNull": true
       }
-    ],
-    "AutoIncrement": 137
+    ]
   },
   {
     "Name": "Style",
@@ -7965,7 +7965,8 @@
         "Name": "StyleID",
         "SqlType": "int(11)",
         "NotNull": true,
-        "IsPrimary": true
+        "IsPrimary": true,
+        "AutoIncrement": true
       },
       {
         "Name": "ID",
@@ -8073,8 +8074,7 @@
         "Name": "I_Style_SpecKeyName",
         "Column": "SpecKeyName"
       }
-    ],
-    "AutoIncrement": 50014
+    ]
   },
   {
     "Name": "StyleXSpell",

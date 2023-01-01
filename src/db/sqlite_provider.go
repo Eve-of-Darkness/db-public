@@ -37,7 +37,7 @@ func (provider *sqliteProvider) GetCreateStatement(table schema.Table) string {
 	for _, col := range table.Columns {
 		sqlTypeIsNumber := col.IsNumber()
 		sqlTypeIsText := strings.HasPrefix(col.SqlType, "varchar") || col.SqlType == "text"
-		if col.IsPrimary && sqlTypeIsNumber && table.AutoIncrement > 0 {
+		if col.IsPrimary && sqlTypeIsNumber && col.AutoIncrement {
 			stmt += "`" + col.Name + "` INTEGER"
 		} else {
 			sqlType := strings.Split(col.SqlType, " ")
@@ -49,11 +49,8 @@ func (provider *sqliteProvider) GetCreateStatement(table schema.Table) string {
 		if col.NotNull {
 			stmt += " NOT NULL"
 		}
-		if col.IsPrimary && table.AutoIncrement > 0 {
-			stmt += " PRIMARY KEY"
-			if table.AutoIncrement > 0 {
-				stmt += " AUTOINCREMENT"
-			}
+		if col.IsPrimary && col.AutoIncrement {
+			stmt += " PRIMARY KEY AUTOINCREMENT"
 		} else {
 			defaultValue := col.GetDefaultValue()
 
@@ -72,7 +69,7 @@ func (provider *sqliteProvider) GetCreateStatement(table schema.Table) string {
 		}
 		stmt += ", \n"
 	}
-	if !strings.Contains(table.GetPrimaryColumn().SqlType, "int(") || table.AutoIncrement < 1 {
+	if !strings.Contains(table.GetPrimaryColumn().SqlType, "int(") || !table.GetPrimaryColumn().AutoIncrement {
 		stmt += fmt.Sprintf("PRIMARY KEY (`%v`));\n", table.GetPrimaryColumn().Name)
 	} else {
 		stmt = stmt[:len(stmt)-3] + ");\n"
@@ -106,19 +103,8 @@ func (provider *sqliteProvider) GetAllTableNames() []string {
 
 func (provider *sqliteProvider) ReadSchema(tableName string) *schema.Table {
 	table := schema.NewTable(tableName)
-	results := provider.DB().Query(fmt.Sprintf("SELECT seq FROM sqlite_sequence WHERE name = '%v'", tableName))
-	if results.Next() {
-		table.AutoIncrement = int(results.CurrentRow()[0].(int64)) + 1
-	} else {
-		results = provider.DB().Query(fmt.Sprintf("select sql from sqlite_master where tbl_name = '%v'", tableName))
-		results.Next()
-		schemaStatement := results.CurrentRow()[0].(string)
-		if strings.Contains(schemaStatement, "AUTOINCREMENT") {
-			table.AutoIncrement = 1
-		}
-	}
 
-	results = provider.DB().Query(fmt.Sprintf("PRAGMA table_info('%v')", tableName))
+	results := provider.DB().Query(fmt.Sprintf("PRAGMA table_info('%v')", tableName))
 	for results.Next() {
 		res := results.CurrentRow()
 		column := new(schema.TableColumn)
@@ -144,10 +130,22 @@ func (provider *sqliteProvider) ReadSchema(tableName string) *schema.Table {
 
 		if res[5].(int64) == 1 {
 			column.IsPrimary = true
+			column.AutoIncrement = provider.isPrimaryAutoIncrement(tableName)
 		}
 	}
 	table.Indexes = provider.readIndexes(table)
 	return table
+}
+
+func (provider *sqliteProvider) isPrimaryAutoIncrement(tableName string) bool {
+	results := provider.DB().Query(fmt.Sprintf("select sql from sqlite_master where `type`='table' and tbl_name = '%v'", tableName))
+	results.Next()
+	schemaStatement := results.CurrentRow()[0].(string)
+	if strings.Contains(schemaStatement, "AUTOINCREMENT") {
+		return true
+	} else {
+		return false
+	}
 }
 
 func (provider *sqliteProvider) readIndexes(table *schema.Table) []*schema.Index {

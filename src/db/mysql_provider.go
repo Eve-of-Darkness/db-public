@@ -40,13 +40,12 @@ func (provider *mysqlProvider) GetCreateStatement(table schema.Table) string {
 		if col.NotNull {
 			stmt += " NOT NULL"
 		}
-		columnIsAutoIncremented := table.AutoIncrement > 0 && col.IsPrimary
 		defaultValue := col.GetDefaultValue()
 		// text can't have a default value on MySQL (with default settings on Ubuntu)
-		if !columnIsAutoIncremented && defaultValue != "" && col.SqlType != "text" {
+		if !col.AutoIncrement && defaultValue != "" && col.SqlType != "text" {
 			stmt += " DEFAULT " + defaultValue
 		}
-		if columnIsAutoIncremented {
+		if col.AutoIncrement {
 			stmt += " AUTO_INCREMENT"
 		}
 		stmt += ",\n"
@@ -69,9 +68,6 @@ func (provider *mysqlProvider) GetCreateStatement(table schema.Table) string {
 	}
 	stmt = stmt[0:len(stmt)-2] + "\n"
 	stmt += ") ENGINE=InnoDB"
-	if table.AutoIncrement > 1 {
-		stmt += fmt.Sprintf(" AUTO_INCREMENT=%v", table.AutoIncrement)
-	}
 	stmt += " DEFAULT CHARSET utf8 COLLATE utf8_general_ci;\n"
 	return stmt
 }
@@ -91,10 +87,7 @@ func (provider *mysqlProvider) ReadSchema(tableName string) *schema.Table {
 	table := schema.NewTable(tableName)
 	q := provider.DB().Query("DESCRIBE " + tableName)
 	for q.Next() {
-		column, autoIncrement := provider.convertToColumn(q.CurrentRow())
-		if autoIncrement {
-			table.AutoIncrement = provider.getAutoIncrement(tableName)
-		}
+		column := provider.convertToColumn(q.CurrentRow())
 		table.Columns = append(table.Columns, column)
 	}
 	indexes := provider.readIndexes(table)
@@ -102,11 +95,10 @@ func (provider *mysqlProvider) ReadSchema(tableName string) *schema.Table {
 	return table
 }
 
-func (provider *mysqlProvider) convertToColumn(slice []any) (*schema.TableColumn, bool) {
+func (provider *mysqlProvider) convertToColumn(slice []any) *schema.TableColumn {
 	column := new(schema.TableColumn)
 	column.Name = string(slice[0].([]byte))
 	column.SqlType = string(slice[1].([]byte))
-	var autoIncrement bool
 	if string(slice[2].([]byte)) == "NO" {
 		column.NotNull = true
 	}
@@ -121,16 +113,9 @@ func (provider *mysqlProvider) convertToColumn(slice []any) (*schema.TableColumn
 		column.DefaultValue = string(slice[4].([]byte))
 	}
 	if slice[5] != nil && string(slice[5].([]byte)) == "auto_increment" {
-		autoIncrement = true
+		column.AutoIncrement = true
 	}
-	return column, autoIncrement
-}
-
-func (provider *mysqlProvider) getAutoIncrement(tableName string) int {
-	queryStr := fmt.Sprintf("SELECT `AUTO_INCREMENT` FROM  INFORMATION_SCHEMA.TABLES WHERE TABLE_NAME = '%v'", tableName)
-	q := provider.DB().Query(queryStr)
-	q.Next()
-	return int(q.CurrentRow()[0].(int64))
+	return column
 }
 
 func (provider *mysqlProvider) readIndexes(table *schema.Table) []*schema.Index {
