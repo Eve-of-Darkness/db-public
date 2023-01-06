@@ -1,0 +1,8528 @@
+[
+  {
+    "Name": "Ability",
+    "Columns": [
+      {
+        "Name": "AbilityID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "InternalID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "IconID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Implementation",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Ability_KeyName",
+        "Column": "KeyName",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Account",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Password",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LastLogin",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PrivLevel",
+        "SqlType": "int(10) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Status",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Mail",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastLoginIP",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "LastClientVersion",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Language",
+        "SqlType": "text"
+      },
+      {
+        "Name": "IsMuted",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Account_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Account_LastLoginIP",
+        "Column": "LastLoginIP"
+      },
+      {
+        "Name": "U_Account_Account_ID",
+        "Column": "Account_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "AccountXCustomParam",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "CustomParamID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_AccountXCustomParam_KeyName",
+        "Column": "KeyName"
+      },
+      {
+        "Name": "I_AccountXCustomParam_Name",
+        "Column": "Name"
+      }
+    ]
+  },
+  {
+    "Name": "Appeal",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Account",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Severity",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Status",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Timestamp",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Text",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Appeal_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Appeal_Account",
+        "Column": "Account"
+      },
+      {
+        "Name": "I_Appeal_Name",
+        "Column": "Name"
+      }
+    ]
+  },
+  {
+    "Name": "Area",
+    "Columns": [
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Radius",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "CanBroadcast",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Sound",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "CheckLOS",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Points",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Area_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "Artifact",
+    "Columns": [
+      {
+        "Name": "ArtifactID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "EncounterID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "QuestID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Zone",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ScholarID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ReuseTimer",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "XPRate",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BookID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "BookModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll1",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll2",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll3",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll12",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll13",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Scroll23",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ScrollModel1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ScrollModel2",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ScrollLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MessageUse",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "MessageCombineScrolls",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "MessageCombineBook",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "MessageReceiveScrolls",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "MessageReceiveBook",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Credit",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Artifact_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "ArtifactBonus",
+    "Columns": [
+      {
+        "Name": "ArtifactID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ArtifactBonus_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "ArtifactXItem",
+    "Columns": [
+      {
+        "Name": "ArtifactID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Version",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ArtifactXItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "AuditEntry",
+    "Columns": [
+      {
+        "Name": "AuditTime",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "AccountID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RemoteHost",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AuditType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AuditSubtype",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OldValue",
+        "SqlType": "text"
+      },
+      {
+        "Name": "NewValue",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "AuditEntry_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "AutoXMLUpdate",
+    "Columns": [
+      {
+        "Name": "AutoXMLUpdateID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "FilePackage",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "FileHash",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LoadResult",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_AutoXMLUpdate_FileHash",
+        "Column": "FileHash"
+      },
+      {
+        "Name": "I_AutoXMLUpdate_FilePackage",
+        "Column": "FilePackage"
+      }
+    ]
+  },
+  {
+    "Name": "Ban",
+    "Columns": [
+      {
+        "Name": "Author",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Type",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Ip",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Account",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "DateBan",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Reason",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Ban_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Ban_Account",
+        "Column": "Account"
+      },
+      {
+        "Name": "I_Ban_Ip",
+        "Column": "Ip"
+      },
+      {
+        "Name": "I_Ban_Type",
+        "Column": "Type"
+      }
+    ]
+  },
+  {
+    "Name": "Battleground",
+    "Columns": [
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MinLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxRealmLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Battleground_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "BindPoint",
+    "Columns": [
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Radius",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "BindPoint_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "BugReport",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Message",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Submitter",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "DateSubmitted",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ClosedBy",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "DateClosed",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Category",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "BugReport_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_BugReport_BugReport_ID",
+        "Column": "BugReport_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "CharacterXDataQuest",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "Character_ID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "DataQuestID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Step",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CharacterXDataQuest_Character_ID",
+        "Column": "DataQuestID"
+      },
+      {
+        "Name": "I_CharacterXDataQuest_Character_ID",
+        "Column": "Character_ID"
+      }
+    ]
+  },
+  {
+    "Name": "CharacterXMasterLevel",
+    "Columns": [
+      {
+        "Name": "Character_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLStep",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "StepCompleted",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ValidationDate",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "CharacterXMasterLevel_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CharacterXMasterLevel_Character_ID",
+        "Column": "Character_ID"
+      }
+    ]
+  },
+  {
+    "Name": "CharacterXOneTimeDrop",
+    "Columns": [
+      {
+        "Name": "CharacterID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "CharacterXOneTimeDrop_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CharacterXOneTimeDrop_CharacterID",
+        "Column": "CharacterID"
+      },
+      {
+        "Name": "I_CharacterXOneTimeDrop_ItemTemplateID",
+        "Column": "ItemTemplateID"
+      }
+    ]
+  },
+  {
+    "Name": "ClassXRealmAbility",
+    "Columns": [
+      {
+        "Name": "CharClass",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AbilityKey",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassXRealmAbility_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "ClassXSpecialization",
+    "Columns": [
+      {
+        "Name": "ClassXSpecializationID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "ClassID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpecKeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "LevelAcquired",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_ClassXSpecialization_ClassID",
+        "Column": "ClassID"
+      },
+      {
+        "Name": "I_ClassXSpecialization_LevelAcquired",
+        "Column": "LevelAcquired"
+      },
+      {
+        "Name": "I_ClassXSpecialization_SpecKeyName",
+        "Column": "SpecKeyName"
+      }
+    ]
+  },
+  {
+    "Name": "CraftedItem",
+    "Columns": [
+      {
+        "Name": "CraftedItemID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Id_nb",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftingLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftingSkillType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MakeTemplated",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftedItem_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CraftedItem_Id_nb",
+        "Column": "Id_nb"
+      },
+      {
+        "Name": "U_CraftedItem_CraftedItem_ID",
+        "Column": "CraftedItem_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "CraftedXItem",
+    "Columns": [
+      {
+        "Name": "CraftedItemId_nb",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "IngredientId_nb",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftedXItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CraftedXItem_CraftedItemId_nb",
+        "Column": "CraftedItemId_nb"
+      }
+    ]
+  },
+  {
+    "Name": "DataQuest",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "StartType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "StartName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "StartRegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "AcceptText",
+        "SqlType": "varchar(100)"
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SourceName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SourceText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "StepType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "StepText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "StepItemTemplates",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AdvanceText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TargetName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TargetText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "CollectItemTemplate",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MaxCount",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MinLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "RewardMoney",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RewardXP",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RewardCLXP",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RewardRP",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RewardBP",
+        "SqlType": "text"
+      },
+      {
+        "Name": "OptionalRewardItemTemplates",
+        "SqlType": "text"
+      },
+      {
+        "Name": "FinalRewardItemTemplates",
+        "SqlType": "text"
+      },
+      {
+        "Name": "FinishText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "QuestDependency",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AllowedClasses",
+        "SqlType": "varchar(200)"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "DBHouse",
+    "Columns": [
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationTime",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PorchRoofColor",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PorchMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RoofMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DoorMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "WallMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TrussMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "WindowMaterial",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rug1Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rug2Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rug3Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rug4Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IndoorGuildBanner",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IndoorGuildShield",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OutdoorGuildBanner",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OutdoorGuildShield",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Porch",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OwnerID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastPaid",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "KeptMoney",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "NoPurge",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildHouse",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "HasConsignment",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DBHouse_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DBHouse_RegionID",
+        "Column": "RegionID"
+      },
+      {
+        "Name": "U_DBHouse_DBHouse_ID",
+        "Column": "DBHouse_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "DBHouseCharsXPerms",
+    "Columns": [
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PermissionType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "DisplayName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "PermissionLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationTime",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DBHouseCharsXPerms_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "DBHousePermissions",
+    "Columns": [
+      {
+        "Name": "PermissionLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanEnterHouse",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Vault1",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Vault2",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Vault3",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Vault4",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "CanChangeExternalAppearance",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ChangeInterior",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ChangeGarden",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "CanBanish",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanUseMerchants",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanUseTools",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanBindInHouse",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ConsignmentMerchant",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "CanPayRent",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DBHousePermissions_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "DBIndoorItem",
+    "Columns": [
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Position",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Placemode",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BaseItemID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rotation",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Size",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DBIndoorItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DBIndoorItem_HouseNumber",
+        "Column": "HouseNumber"
+      }
+    ]
+  },
+  {
+    "Name": "DBOutdoorItem",
+    "Columns": [
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Position",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Rotation",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BaseItemID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DBOutdoorItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DBOutdoorItem_HouseNumber",
+        "Column": "HouseNumber"
+      }
+    ]
+  },
+  {
+    "Name": "DOLCharacters",
+    "Columns": [
+      {
+        "Name": "HasGravestone",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GravestoneRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Constitution",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Dexterity",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Strength",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quickness",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Intelligence",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Piety",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Empathy",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charisma",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BountyPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Experience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxEndurance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Health",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Mana",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Endurance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Concentration",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AccountName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "AccountSlot",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LastPlayed",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GuildID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Gender",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Race",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Class",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CurrentModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ActiveWeaponSlot",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Xpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Ypos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Zpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindXpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindYpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindZpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHeading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseXpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseYpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseZpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseHeading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathCount",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ConLostAtDeath",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Direction",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxSpeed",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Copper",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Silver",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Gold",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Platinum",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Mithril",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SerializedCraftingSkills",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedSpecs",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedRealmAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "DisabledSpells",
+        "SqlType": "text"
+      },
+      {
+        "Name": "DisabledAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedFriendsList",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedIgnoreList",
+        "SqlType": "text"
+      },
+      {
+        "Name": "IsCloakHoodUp",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsCloakInvisible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsHelmInvisible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellQueue",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsLevelSecondStage",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "FlagClassName",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Advisor",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildRank",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "PlayedTime",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathTime",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountAllSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountSingleSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountRealmSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountDOL",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountChampionSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsLevelRespecUsed",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecBought",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SafetyFlag",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftingPrimarySkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CancelStyle",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsAnonymous",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CustomisationStep",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EyeSize",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LipSize",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EyeColor",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "HairColor",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "FaceType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "HairStyle",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MoodType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "UsedLevelCommand",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CurrentTitleType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "KillsAlbionPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsAlbionDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsAlbionSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedKeeps",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedTowers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedRelics",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsDragon",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathsPvP",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsLegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsEpicBoss",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GainXP",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GainRP",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Autoloot",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastFreeLeveled",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "LastFreeLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildNote",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ShowXFireInfo",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "NoHelp",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ShowGuildLogins",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Champion",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ChampionLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ChampionExperience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "ML",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MLExperience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLGranted",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "RPFlag",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IgnoreStatistics",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "NotDisplayedInHerald",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ActiveSaddleBags",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DOLCharacters_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DOLCharacters_AccountName",
+        "Column": "AccountName"
+      },
+      {
+        "Name": "I_DOLCharacters_GuildID",
+        "Column": "GuildID"
+      },
+      {
+        "Name": "U_DOLCharacters_Name",
+        "Column": "Name",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "DOLCharactersBackup",
+    "Columns": [
+      {
+        "Name": "DOLCharacters_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeleteDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "HasGravestone",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GravestoneRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Constitution",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Dexterity",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Strength",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quickness",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Intelligence",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Piety",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Empathy",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charisma",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BountyPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Experience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxEndurance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Health",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Mana",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Endurance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Concentration",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AccountName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "AccountSlot",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LastPlayed",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "LastName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GuildID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Gender",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Race",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Class",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreationModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CurrentModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ActiveWeaponSlot",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Xpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Ypos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Zpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindXpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindYpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindZpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHeading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseXpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseYpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseZpos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BindHouseHeading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathCount",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ConLostAtDeath",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Direction",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxSpeed",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Copper",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Silver",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Gold",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Platinum",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Mithril",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SerializedCraftingSkills",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedSpecs",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedRealmAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "DisabledSpells",
+        "SqlType": "text"
+      },
+      {
+        "Name": "DisabledAbilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedFriendsList",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SerializedIgnoreList",
+        "SqlType": "text"
+      },
+      {
+        "Name": "IsCloakHoodUp",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsCloakInvisible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsHelmInvisible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellQueue",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsLevelSecondStage",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "FlagClassName",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Advisor",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildRank",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "PlayedTime",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathTime",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountAllSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountSingleSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountRealmSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountDOL",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecAmountChampionSkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsLevelRespecUsed",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespecBought",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SafetyFlag",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CraftingPrimarySkill",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CancelStyle",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsAnonymous",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CustomisationStep",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EyeSize",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LipSize",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EyeColor",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "HairColor",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "FaceType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "HairStyle",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MoodType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "UsedLevelCommand",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CurrentTitleType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "KillsAlbionPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaPlayers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsAlbionDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaDeathBlows",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsAlbionSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsMidgardSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsHiberniaSolo",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedKeeps",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedTowers",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedRelics",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsDragon",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DeathsPvP",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsLegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KillsEpicBoss",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GainXP",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GainRP",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Autoloot",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastFreeLeveled",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "LastFreeLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildNote",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ShowXFireInfo",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "NoHelp",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ShowGuildLogins",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Champion",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ChampionLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ChampionExperience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "ML",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MLExperience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MLGranted",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "RPFlag",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IgnoreStatistics",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "NotDisplayedInHerald",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ActiveSaddleBags",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "DOLCharactersBackup_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DOLCharactersBackup_AccountName",
+        "Column": "AccountName"
+      },
+      {
+        "Name": "I_DOLCharactersBackup_GuildID",
+        "Column": "GuildID"
+      },
+      {
+        "Name": "I_DOLCharactersBackup_Name",
+        "Column": "Name"
+      }
+    ]
+  },
+  {
+    "Name": "DOLCharactersBackupXCustomParam",
+    "Columns": [
+      {
+        "Name": "DOLCharactersObjectId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "CustomParamID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DOLCharactersBackupXCustomParam_DOLCharactersObjectId",
+        "Column": "DOLCharactersObjectId"
+      },
+      {
+        "Name": "I_DOLCharactersBackupXCustomParam_KeyName",
+        "Column": "KeyName"
+      }
+    ]
+  },
+  {
+    "Name": "DOLCharactersXCustomParam",
+    "Columns": [
+      {
+        "Name": "DOLCharactersObjectId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "CustomParamID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DOLCharactersXCustomParam_DOLCharactersObjectId",
+        "Column": "DOLCharactersObjectId"
+      },
+      {
+        "Name": "I_DOLCharactersXCustomParam_KeyName",
+        "Column": "KeyName"
+      }
+    ]
+  },
+  {
+    "Name": "Door",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "InternalID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Guild",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Level",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Flags",
+        "SqlType": "int(10) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Locked",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Health",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxHealth",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Door_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Door_InternalID",
+        "Column": "InternalID"
+      }
+    ]
+  },
+  {
+    "Name": "DropTemplateXItemTemplate",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "TemplateName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Chance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_DropTemplateXItemTemplate_TemplateName",
+        "Column": "TemplateName"
+      }
+    ]
+  },
+  {
+    "Name": "Faction",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "BaseAggroLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Faction_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Faction_Faction_ID",
+        "Column": "Faction_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "FactionAggroLevel",
+    "Columns": [
+      {
+        "Name": "CharacterID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "FactionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AggroLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "FactionAggroLevel_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_FactionAggroLevel_CharacterID",
+        "Column": "CharacterID"
+      }
+    ]
+  },
+  {
+    "Name": "Guild",
+    "Columns": [
+      {
+        "Name": "GuildID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "GuildName",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildBanner",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildBannerLostTime",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Motd",
+        "SqlType": "text"
+      },
+      {
+        "Name": "oMotd",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AllianceID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "BountyPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "Webpage",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Email",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Dues",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bank",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "DuesPercent",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "HaveGuildHouse",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildHouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildLevel",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusStartTime",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "MeritPoints",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Guild_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Guild_AllianceID",
+        "Column": "AllianceID"
+      },
+      {
+        "Name": "I_Guild_GuildName",
+        "Column": "GuildName"
+      },
+      {
+        "Name": "U_Guild_GuildID",
+        "Column": "GuildID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "GuildAlliance",
+    "Columns": [
+      {
+        "Name": "AllianceName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Motd",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LeaderGuildID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildAlliance_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_GuildAlliance_LeaderGuildID",
+        "Column": "LeaderGuildID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "GuildRank",
+    "Columns": [
+      {
+        "Name": "GuildID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Title",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RankLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Alli",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Buff",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GcHear",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "GcSpeak",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OcHear",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OcSpeak",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "AcHear",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "AcSpeak",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Invite",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Promote",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Remove",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "View",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Claim",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Upgrade",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Release",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Dues",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Withdraw",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildRank_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_GuildRank_GuildID",
+        "Column": "GuildID"
+      }
+    ]
+  },
+  {
+    "Name": "HouseConsignmentMerchant",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "OwnerID",
+        "SqlType": "varchar(128)",
+        "NotNull": true
+      },
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Money",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_HouseConsignmentMerchant_HouseNumber",
+        "Column": "HouseNumber"
+      },
+      {
+        "Name": "I_HouseConsignmentMerchant_OwnerID",
+        "Column": "OwnerID"
+      }
+    ]
+  },
+  {
+    "Name": "househookpointitem",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HookpointID",
+        "SqlType": "int(10) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Index",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_househookpointitem_HouseNumber",
+        "Column": "HouseNumber"
+      }
+    ]
+  },
+  {
+    "Name": "househookpointoffset",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "HouseModel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HookpointID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "InstanceXElement",
+    "Columns": [
+      {
+        "Name": "InstanceID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "NPCTemplate",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "InstanceXElement_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_InstanceXElement_InstanceID",
+        "Column": "InstanceID"
+      }
+    ]
+  },
+  {
+    "Name": "Inventory",
+    "Columns": [
+      {
+        "Name": "OwnerID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "OwnerLot",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ITemplate_Id",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "UTemplate_Id",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "IsCrafted",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Creator",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SlotPosition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SellPrice",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Experience",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Extension",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Condition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Durability",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonMaxCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Cooldown",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Inventory_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Inventory_ITemplate_Id",
+        "Column": "ITemplate_Id"
+      },
+      {
+        "Name": "I_Inventory_OwnerID",
+        "Column": "OwnerID"
+      },
+      {
+        "Name": "I_Inventory_SlotPosition",
+        "Column": "SlotPosition"
+      },
+      {
+        "Name": "I_Inventory_UTemplate_Id",
+        "Column": "UTemplate_Id"
+      }
+    ]
+  },
+  {
+    "Name": "ItemTemplate",
+    "Columns": [
+      {
+        "Name": "Id_nb",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MessageArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Durability",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxDurability",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsNotLosingDur",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Condition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCondition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quality",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DPS_AF",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SPD_ABS",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Hand",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Type_Damage",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Object_Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Item_Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Effect",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Weight",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Extension",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus2",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus3",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus4",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus5",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus6",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus7",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus8",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus9",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus10",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ExtraBonus",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus1Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus2Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus3Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus4Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus5Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus6Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus7Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus8Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus9Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus10Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ExtraBonusType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanUseEvery",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellID1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCharges1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcSpellID1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonMaxCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsPickable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsDropable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanDropAsLoot",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsTradable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Price",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCount",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsIndestructible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackSize",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AllowedClasses",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Flags",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LevelRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "SalvageYieldID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplate_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_ItemTemplate_ItemTemplate_ID",
+        "Column": "ItemTemplate_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "ItemUnique",
+    "Columns": [
+      {
+        "Name": "Id_nb",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MessageArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Durability",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxDurability",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsNotLosingDur",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Condition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCondition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quality",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "DPS_AF",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SPD_ABS",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Hand",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Type_Damage",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Object_Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Item_Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Effect",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Weight",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Extension",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus2",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus3",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus4",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus5",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus6",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus7",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus8",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus9",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus10",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ExtraBonus",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus1Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus2Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus3Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus4Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus5Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus6Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus7Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus8Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus9Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bonus10Type",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ExtraBonusType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanUseEvery",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellID1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charges1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCharges1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ProcSpellID1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PoisonMaxCharges",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsPickable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsDropable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "CanDropAsLoot",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsTradable",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Price",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxCount",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsIndestructible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackSize",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AllowedClasses",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Flags",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LevelRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "SalvageYieldID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemUnique_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_ItemUnique_ItemUnique_ID",
+        "Column": "ItemUnique_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Keep",
+    "Columns": [
+      {
+        "Name": "KeepID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ClaimedGuildName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AlbionDifficultyLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MidgardDifficultyLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HiberniaDifficultyLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OriginalRealm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BaseLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "SkinType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "CreateInfo",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Keep_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Keep_Keep_ID",
+        "Column": "Keep_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "KeepCaptureLog",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "DateTaken",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepType",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "NumEnemies",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CombatTime",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RPReward",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BPReward",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "XPReward",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "MoneyReward",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "CapturedBy",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "RPGainerList",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "KeepComponent",
+    "Columns": [
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Health",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Skin",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CreateInfo",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepComponent_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_KeepComponent_ID",
+        "Column": "ID"
+      },
+      {
+        "Name": "I_KeepComponent_KeepID",
+        "Column": "KeepID"
+      }
+    ]
+  },
+  {
+    "Name": "KeepHookPoint",
+    "Columns": [
+      {
+        "Name": "HookPointID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepComponentSkinID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Height",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepHookPoint_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_KeepHookPoint_Height",
+        "Column": "Height"
+      },
+      {
+        "Name": "I_KeepHookPoint_HookPointID",
+        "Column": "HookPointID"
+      }
+    ]
+  },
+  {
+    "Name": "KeepHookPointItem",
+    "Columns": [
+      {
+        "Name": "KeepID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ComponentID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HookPointID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepHookPointItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_KeepHookPointItem_ComponentID",
+        "Column": "ComponentID"
+      },
+      {
+        "Name": "I_KeepHookPointItem_HookPointID",
+        "Column": "HookPointID"
+      },
+      {
+        "Name": "I_KeepHookPointItem_KeepID",
+        "Column": "KeepID"
+      }
+    ]
+  },
+  {
+    "Name": "KeepPosition",
+    "Columns": [
+      {
+        "Name": "ComponentSkin",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ComponentRotation",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TemplateID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Height",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "XOff",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "YOff",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ZOff",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HOff",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "TemplateType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KeepPosition_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_KeepPosition_ClassType",
+        "Column": "ClassType"
+      },
+      {
+        "Name": "I_KeepPosition_ComponentSkin",
+        "Column": "ComponentSkin"
+      },
+      {
+        "Name": "I_KeepPosition_Height",
+        "Column": "Height"
+      },
+      {
+        "Name": "I_KeepPosition_TemplateID",
+        "Column": "TemplateID"
+      }
+    ]
+  },
+  {
+    "Name": "LanguageArea",
+    "Columns": [
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ScreenDescription",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Language",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Tag",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LanguageArea_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LanguageArea_Language",
+        "Column": "Language"
+      },
+      {
+        "Name": "I_LanguageArea_TranslationId",
+        "Column": "TranslationId"
+      }
+    ]
+  },
+  {
+    "Name": "LanguageGameObject",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Language",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Tag",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LanguageGameObject_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LanguageGameObject_Language",
+        "Column": "Language"
+      },
+      {
+        "Name": "I_LanguageGameObject_TranslationId",
+        "Column": "TranslationId"
+      }
+    ]
+  },
+  {
+    "Name": "LanguageNPC",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Suffix",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GuildName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MessageArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Language",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Tag",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LanguageNPC_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LanguageNPC_Language",
+        "Column": "Language"
+      },
+      {
+        "Name": "I_LanguageNPC_TranslationId",
+        "Column": "TranslationId"
+      }
+    ]
+  },
+  {
+    "Name": "LanguageSystem",
+    "Columns": [
+      {
+        "Name": "Text",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Language",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Tag",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LanguageSystem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LanguageSystem_Language",
+        "Column": "Language"
+      },
+      {
+        "Name": "I_LanguageSystem_TranslationId",
+        "Column": "TranslationId"
+      }
+    ]
+  },
+  {
+    "Name": "LanguageZone",
+    "Columns": [
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ScreenDescription",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Language",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Tag",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LanguageZone_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LanguageZone_Language",
+        "Column": "Language"
+      },
+      {
+        "Name": "I_LanguageZone_TranslationId",
+        "Column": "TranslationId"
+      }
+    ]
+  },
+  {
+    "Name": "LineXSpell",
+    "Columns": [
+      {
+        "Name": "LineName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LineXSpell_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LineXSpell_LineName",
+        "Column": "LineName"
+      }
+    ]
+  },
+  {
+    "Name": "LinkedFaction",
+    "Columns": [
+      {
+        "Name": "FactionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LinkedFactionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsFriend",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LinkedFaction_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "LootGenerator",
+    "Columns": [
+      {
+        "Name": "MobName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MobGuild",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MobFaction",
+        "SqlType": "text"
+      },
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LootGeneratorClass",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ExclusivePriority",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LootGenerator_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "LootOTD",
+    "Columns": [
+      {
+        "Name": "MobName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "MinLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LootOTD_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LootOTD_ItemTemplateID",
+        "Column": "ItemTemplateID"
+      },
+      {
+        "Name": "I_LootOTD_MobName",
+        "Column": "MobName"
+      }
+    ]
+  },
+  {
+    "Name": "LootTemplate",
+    "Columns": [
+      {
+        "Name": "TemplateName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Chance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "LootTemplate_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_LootTemplate_TemplateName",
+        "Column": "TemplateName"
+      }
+    ]
+  },
+  {
+    "Name": "MerchantItem",
+    "Columns": [
+      {
+        "Name": "ItemListID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "ItemTemplateID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "PageNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SlotPosition",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "MerchantItem_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Price",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_MerchantItem_ItemListID",
+        "Column": "ItemListID"
+      },
+      {
+        "Name": "I_MerchantItem_PageNumber",
+        "Column": "PageNumber"
+      },
+      {
+        "Name": "I_MerchantItem_SlotPosition",
+        "Column": "SlotPosition"
+      }
+    ]
+  },
+  {
+    "Name": "Minotaurrelic",
+    "Columns": [
+      {
+        "Name": "relicSpell",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnLocked",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ProtectorClassType",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "relicTarget",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnX",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnY",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnZ",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnHeading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpawnRegion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Effect",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RelicID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Minotaurrelic_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Minotaurrelic_Minotaurrelic_ID",
+        "Column": "Minotaurrelic_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Mob",
+    "Columns": [
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Suffix",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Guild",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MessageArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Speed",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Size",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Strength",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Constitution",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Dexterity",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quickness",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Intelligence",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Piety",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Empathy",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charisma",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EquipmentTemplateID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ItemsListTemplateID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "NPCTemplateID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Race",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Flags",
+        "SqlType": "int(10) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "AggroLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AggroRange",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MeleeDamageType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RespawnInterval",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "FactionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BodyType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HouseNumber",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Brain",
+        "SqlType": "text"
+      },
+      {
+        "Name": "PathID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MaxDistance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OwnerID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "RoamingRange",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsCloakHoodUp",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Gender",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "VisibleWeaponSlots",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Mob_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Mob_HouseNumber",
+        "Column": "HouseNumber"
+      },
+      {
+        "Name": "I_Mob_Name",
+        "Column": "Name"
+      }
+    ]
+  },
+  {
+    "Name": "MobDropTemplate",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "MobName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LootTemplateName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "DropCount",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_MobDropTemplate_LootTemplateName",
+        "Column": "LootTemplateName"
+      },
+      {
+        "Name": "I_MobDropTemplate_MobName",
+        "Column": "MobName"
+      }
+    ]
+  },
+  {
+    "Name": "MobXAmbientBehaviour",
+    "Columns": [
+      {
+        "Name": "Source",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Trigger",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Emote",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Text",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Chance",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Voice",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "MobXAmbientBehaviour_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_MobXAmbientBehaviour_Source",
+        "Column": "Source"
+      }
+    ]
+  },
+  {
+    "Name": "MobXLootTemplate",
+    "Columns": [
+      {
+        "Name": "MobName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LootTemplateName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "DropCount",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "MobXLootTemplate_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_MobXLootTemplate_LootTemplateName",
+        "Column": "LootTemplateName"
+      },
+      {
+        "Name": "I_MobXLootTemplate_MobName",
+        "Column": "MobName"
+      }
+    ]
+  },
+  {
+    "Name": "News",
+    "Columns": [
+      {
+        "Name": "CreationDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Type",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Text",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "News_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "NPCEquipment",
+    "Columns": [
+      {
+        "Name": "TemplateID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Slot",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Color",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Effect",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Extension",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "NPCEquipment_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_NPCEquipment_TemplateID",
+        "Column": "TemplateID"
+      }
+    ]
+  },
+  {
+    "Name": "NpcTemplate",
+    "Columns": [
+      {
+        "Name": "TemplateId",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Suffix",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "GuildName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MessageArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Model",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Gender",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Size",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Level",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxSpeed",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "EquipmentTemplateID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ItemsListTemplateID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Flags",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MeleeDamageType",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ParryChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "EvadeChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "BlockChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LeftHandSwingChance",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Spells",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Styles",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Strength",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Constitution",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Dexterity",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Quickness",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Intelligence",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Piety",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Charisma",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Empathy",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Abilities",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AggroLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "AggroRange",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Race",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BodyType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxDistance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TetherRange",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "VisibleWeaponSlots",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ReplaceMobValues",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "NpcTemplate_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_NpcTemplate_TemplateId",
+        "Column": "TemplateId"
+      }
+    ]
+  },
+  {
+    "Name": "Path",
+    "Columns": [
+      {
+        "Name": "PathID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "PathType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Path_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Path_PathID",
+        "Column": "PathID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "PathPoints",
+    "Columns": [
+      {
+        "Name": "PathID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Step",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxSpeed",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "WaitTime",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "PathPoints_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_PathPoints_PathID",
+        "Column": "PathID"
+      }
+    ]
+  },
+  {
+    "Name": "PlayerBoats",
+    "Columns": [
+      {
+        "Name": "BoatID",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "BoatOwner",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "BoatName",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "BoatModel",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "BoatMaxSpeedBase",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "PlayerBoats_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_PlayerBoats_PlayerBoats_ID",
+        "Column": "PlayerBoats_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "PlayerInfo",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Guild",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Race",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Class",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Alive",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Region",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Level",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "PlayerInfo_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "PlayerXEffect",
+    "Columns": [
+      {
+        "Name": "IsHandler",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var6",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var5",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var4",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var3",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var2",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Var1",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Duration",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "EffectType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "SpellLine",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ChardID",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "PlayerXEffect_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_PlayerXEffect_ChardID",
+        "Column": "ChardID"
+      }
+    ]
+  },
+  {
+    "Name": "PvPKillsLog",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "bigint(20)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "DateKilled",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "KilledName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KillerName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KillerIP",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KilledIP",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KilledRealm",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "KillerRealm",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "RPReward",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SameIP",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "RegionName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "IsInstance",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "Quest",
+    "Columns": [
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Step",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Character_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "CustomPropertiesString",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Quest_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Quest_Character_ID",
+        "Column": "Character_ID"
+      }
+    ]
+  },
+  {
+    "Name": "Race",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistBody",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistCold",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistCrush",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistEnergy",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistHeat",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistMatter",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistNatural",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistSlash",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistSpirit",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResistThrust",
+        "SqlType": "tinyint(3)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Race_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Race_ID",
+        "Column": "ID",
+        "Unique": true
+      },
+      {
+        "Name": "U_Race_Name",
+        "Column": "Name",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Regions",
+    "Columns": [
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "IP",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Port",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Expansion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "HousingEnabled",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "DivingEnabled",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "WaterLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "varchar(200)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsFrontier",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Regions_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Regions_Regions_ID",
+        "Column": "Regions_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Relic",
+    "Columns": [
+      {
+        "Name": "RelicID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OriginalRealm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastRealm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "relicType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Relic_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Relic_Relic_ID",
+        "Column": "Relic_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Salvage",
+    "Columns": [
+      {
+        "Name": "ObjectType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SalvageLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Id_nb",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Salvage_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Salvage_ObjectType",
+        "Column": "ObjectType"
+      },
+      {
+        "Name": "I_Salvage_Realm",
+        "Column": "Realm"
+      },
+      {
+        "Name": "I_Salvage_SalvageLevel",
+        "Column": "SalvageLevel"
+      }
+    ]
+  },
+  {
+    "Name": "SalvageYield",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "ObjectType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SalvageLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MaterialId_nb",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_SalvageYield_ObjectType",
+        "Column": "ObjectType"
+      },
+      {
+        "Name": "I_SalvageYield_Realm",
+        "Column": "Realm"
+      },
+      {
+        "Name": "I_SalvageYield_SalvageLevel",
+        "Column": "SalvageLevel"
+      }
+    ]
+  },
+  {
+    "Name": "ServerInfo",
+    "Columns": [
+      {
+        "Name": "Time",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ServerName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AAC",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ServerType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ServerStatus",
+        "SqlType": "text"
+      },
+      {
+        "Name": "NumClients",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumAccounts",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumMobs",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumInventoryItems",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumPlayerChars",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumMerchantItems",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumItemTemplates",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "NumWorldObjects",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ServerInfo_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "ServerProperty",
+    "Columns": [
+      {
+        "Name": "Category",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Key",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "DefaultValue",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ServerProperty_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_ServerProperty_ServerProperty_ID",
+        "Column": "ServerProperty_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "serverproperty_category",
+    "Columns": [
+      {
+        "Name": "BaseCategory",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ParentCategory",
+        "SqlType": "text"
+      },
+      {
+        "Name": "DisplayName",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "serverproperty_category_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "serverstats",
+    "Columns": [
+      {
+        "Name": "StatDate",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Clients",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CPU",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "Upload",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Download",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Memory",
+        "SqlType": "bigint(20)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "serverstats_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
+  {
+    "Name": "SinglePermission",
+    "Columns": [
+      {
+        "Name": "PlayerID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Command",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "SinglePermission_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_SinglePermission_Command",
+        "Column": "Command"
+      },
+      {
+        "Name": "I_SinglePermission_PlayerID",
+        "Column": "PlayerID"
+      }
+    ]
+  },
+  {
+    "Name": "Specialization",
+    "Columns": [
+      {
+        "Name": "SpecializationID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Icon",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Implementation",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Specialization_KeyName",
+        "Column": "KeyName",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "SpecXAbility",
+    "Columns": [
+      {
+        "Name": "SpecXabilityID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "Spec",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpecLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AbilityKey",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "AbilityLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassId",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_SpecXAbility_AbilityKey",
+        "Column": "AbilityKey"
+      },
+      {
+        "Name": "I_SpecXAbility_Spec",
+        "Column": "Spec"
+      }
+    ]
+  },
+  {
+    "Name": "Spell",
+    "Columns": [
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClientEffect",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Icon",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Description",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Target",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "Range",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Power",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CastTime",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "Damage",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "DamageType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Type",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Duration",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Frequency",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Pulse",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "PulsePower",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Radius",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RecastDelay",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResurrectHealth",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ResurrectMana",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "Concentration",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LifeDrainReturn",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AmnesiaChance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Message1",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Message2",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Message3",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Message4",
+        "SqlType": "text"
+      },
+      {
+        "Name": "InstrumentRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpellGroup",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "EffectGroup",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SubSpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MoveCast",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "Uninterruptible",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsFocus",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "SharedTimerGroup",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsPrimary",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "IsSecondary",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "AllowBolt",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "PackageID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TooltipId",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Spell_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Spell_SpellID",
+        "Column": "SpellID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "SpellLine",
+    "Columns": [
+      {
+        "Name": "SpellLineID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "Spec",
+        "SqlType": "varchar(100)"
+      },
+      {
+        "Name": "IsBaseLine",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassIDHint",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_SpellLine_Spec",
+        "Column": "Spec"
+      },
+      {
+        "Name": "U_SpellLine_KeyName",
+        "Column": "KeyName",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "SpellXCustomValues",
+    "Columns": [
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "KeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "Value",
+        "SqlType": "varchar(255)"
+      },
+      {
+        "Name": "CustomParamID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_SpellXCustomValues_KeyName",
+        "Column": "KeyName"
+      },
+      {
+        "Name": "I_SpellXCustomValues_SpellID",
+        "Column": "SpellID"
+      }
+    ]
+  },
+  {
+    "Name": "StarterEquipment",
+    "Columns": [
+      {
+        "Name": "StarterEquipmentID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "Class",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "TemplateID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "StartupLocation",
+    "Columns": [
+      {
+        "Name": "StartupLoc_ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "XPos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "YPos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ZPos",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "MinVersion",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RealmID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RaceID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClientRegionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },
+  {
+    "Name": "Style",
+    "Columns": [
+      {
+        "Name": "StyleID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassId",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpecKeyName",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "SpecLevelRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Icon",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "EnduranceCost",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "StealthRequirement",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "OpeningRequirementType",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OpeningRequirementValue",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AttackResultRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "WeaponTypeRequirement",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "GrowthOffset",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "GrowthRate",
+        "SqlType": "double",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusToHit",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "BonusToDefense",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TwoHandAnimation",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RandomProc",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "ArmorHitLocation",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Style_SpecKeyName",
+        "Column": "SpecKeyName"
+      }
+    ]
+  },
+  {
+    "Name": "StyleXSpell",
+    "Columns": [
+      {
+        "Name": "SpellID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "StyleID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Chance",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "StyleXSpell_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_StyleXSpell_StyleID",
+        "Column": "StyleID"
+      }
+    ]
+  },
+  {
+    "Name": "Task",
+    "Columns": [
+      {
+        "Name": "Character_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "TimeOut",
+        "SqlType": "datetime"
+      },
+      {
+        "Name": "TaskType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TasksDone",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "CustomPropertiesString",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Task_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_Task_Task_ID",
+        "Column": "Task_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "Teleport",
+    "Columns": [
+      {
+        "Name": "Type",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "TeleportID",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "RegionID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Teleport_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Teleport_TeleportID",
+        "Column": "TeleportID"
+      }
+    ]
+  },
+  {
+    "Name": "TownCrierMessages",
+    "Columns": [
+      {
+        "Name": "TownCrierID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "Message",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "TownCrierMessages_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_TownCrierMessages_TownCrierMessages_ID",
+        "Column": "TownCrierMessages_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
+    "Name": "WorldObject",
+    "Columns": [
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "TranslationId",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "ExamineArticle",
+        "SqlType": "text"
+      },
+      {
+        "Name": "X",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Y",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Z",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Heading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Region",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Model",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Emblem",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "RespawnInterval",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "WorldObject_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_WorldObject_Region",
+        "Column": "Region"
+      }
+    ]
+  },
+  {
+    "Name": "ZonePoint",
+    "Columns": [
+      {
+        "Name": "Id",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetX",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetY",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetZ",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetRegion",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "TargetHeading",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "SourceX",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SourceY",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SourceZ",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "SourceRegion",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ZonePoint_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_ZonePoint_Id",
+        "Column": "Id"
+      },
+      {
+        "Name": "I_ZonePoint_Realm",
+        "Column": "Realm"
+      }
+    ]
+  },
+  {
+    "Name": "Zones",
+    "Columns": [
+      {
+        "Name": "ZoneID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "RegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "IsLava",
+        "SqlType": "tinyint(1)",
+        "NotNull": true
+      },
+      {
+        "Name": "DivingFlag",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "WaterLevel",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OffsetY",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "OffsetX",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Width",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Height",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Experience",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realmpoints",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Bountypoints",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Coin",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Realm",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "Zones_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_Zones_RegionID",
+        "Column": "RegionID"
+      },
+      {
+        "Name": "U_Zones_Zones_ID",
+        "Column": "Zones_ID",
+        "Unique": true
+      }
+    ]
+  }
+]
