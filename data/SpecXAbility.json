@@ -3184,5 +3184,140 @@
     "Spec": "MinstrelCareer",
     "SpecLevel": 1,
     "SpecXabilityID": 367
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 1,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 3,
+    "SpecXabilityID": 368
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 2,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 6,
+    "SpecXabilityID": 369
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 3,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 9,
+    "SpecXabilityID": 370
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 4,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 12,
+    "SpecXabilityID": 371
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 5,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2016-05-30 14:12:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 15,
+    "SpecXabilityID": 372
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 6,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 18,
+    "SpecXabilityID": 373
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 7,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 21,
+    "SpecXabilityID": 374
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 8,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 24,
+    "SpecXabilityID": 375
+  },
+  {
+    "AbilityKey": "Critical Shot",
+    "AbilityLevel": 9,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 27,
+    "SpecXabilityID": 376
+  },
+  {
+    "AbilityKey": "Penetrating Arrow",
+    "AbilityLevel": 1,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 30,
+    "SpecXabilityID": 377
+  },
+  {
+    "AbilityKey": "Penetrating Arrow",
+    "AbilityLevel": 2,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 40,
+    "SpecXabilityID": 378
+  },
+  {
+    "AbilityKey": "Penetrating Arrow",
+    "AbilityLevel": 3,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 50,
+    "SpecXabilityID": 379
+  },
+  {
+    "AbilityKey": "Rapid Fire",
+    "AbilityLevel": 1,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 35,
+    "SpecXabilityID": 380
+  },
+  {
+    "AbilityKey": "Rapid Fire",
+    "AbilityLevel": 2,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 45,
+    "SpecXabilityID": 381
+  },
+  {
+    "AbilityKey": "Sure Shot",
+    "AbilityLevel": 0,
+    "ClassId": 0,
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Spec": "OldArchery",
+    "SpecLevel": 45,
+    "SpecXabilityID": 382
   }
 ]
