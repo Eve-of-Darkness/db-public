@@ -794,6 +794,53 @@
     ]
   },
   {
+    "Name": "CharacterClass",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true
+      },
+      {
+        "Name": "SpecPointMultiplier",
+        "SqlType": "int(11)"
+      },
+      {
+        "Name": "BaseHP",
+        "SqlType": "int(11)"
+      },
+      {
+        "Name": "BaseWeaponSkill",
+        "SqlType": "int(11)"
+      },
+      {
+        "Name": "AutoTrainSkills",
+        "SqlType": "text"
+      },
+      {
+        "Name": "EligibleRaces",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "CharacterClass_ID",
+        "SqlType": "varchar(255)"
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "U_CharacterClass_CharacterClass_ID",
+        "Column": "CharacterClass_ID",
+        "Unique": true
+      }
+    ]
+  },
+  {
     "Name": "CharacterXDataQuest",
     "Columns": [
       {
