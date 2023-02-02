@@ -2005,5 +2005,14 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "Name": "Champion Abilities",
     "SpecializationID": 224
+  },
+  {
+    "Description": "no",
+    "Icon": 0,
+    "Implementation": null,
+    "KeyName": "OldArchery",
+    "LastTimeRowUpdated": "2000-01-01 00:00:00",
+    "Name": "Archery",
+    "SpecializationID": 225
   }
 ]
