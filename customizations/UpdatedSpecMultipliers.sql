@@ -1,8 +1,5 @@
 # Updated specialization multipliers to match live
 
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (9, 29, 'Infiltrator');
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (23, 28, 'Shadowblade');
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (49, 28, 'Nightshade');
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (60, 18, 'MaulerAlb');
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (61, 18, 'MaulerMid');
-REPLACE INTO `CharacterClass` (`ID`,`SpecPointMultiplier`,`CharacterClass_ID`) VALUES (62, 18, 'MaulerHib');
+UPDATE `CharacterClass` SET `SpecPointMultiplier`=29 WHERE CharacterClass.ID IN (9); # Infiltrator
+UPDATE `CharacterClass` SET `SpecPointMultiplier`=28 WHERE CharacterClass.ID IN (23,49); # Shadowblade, Nightshade
+UPDATE `CharacterClass` SET `SpecPointMultiplier`=18 WHERE CharacterClass.ID IN (60,61,62); # Maulers
