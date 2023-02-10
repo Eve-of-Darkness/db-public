@@ -89,7 +89,7 @@ UPDATE ItemTemplate SET ExtraBonusType=168 WHERE ExtraBonusType IN (36,68,83);
 
 
 # Look for duplicate acuity
-SELECT Id_nb#, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
+SELECT Id_nb, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
 FROM ItemTemplate WHERE
 ((Bonus1Type=156 AND (Bonus1Type = Bonus2Type OR Bonus1Type = Bonus3Type OR Bonus1Type = Bonus4Type OR Bonus1Type = Bonus5Type OR Bonus1Type = Bonus6Type OR Bonus1Type = Bonus7Type OR Bonus1Type = Bonus8Type OR Bonus1Type = Bonus9Type OR Bonus1Type = Bonus10Type OR Bonus1Type = ExtraBonusType))
 OR (Bonus2Type=156 AND ( Bonus2Type = Bonus1Type OR Bonus2Type = Bonus3Type OR Bonus2Type = Bonus4Type OR Bonus2Type = Bonus5Type OR Bonus2Type = Bonus6Type OR Bonus2Type = Bonus7Type OR Bonus2Type = Bonus8Type OR Bonus2Type = Bonus9Type OR Bonus2Type = Bonus10Type OR Bonus2Type = ExtraBonusType))
@@ -104,7 +104,7 @@ OR (Bonus10Type=156 AND (Bonus10Type = Bonus2Type OR Bonus10Type = Bonus3Type OR
 OR (ExtraBonusType=156 AND (ExtraBonusType = Bonus2Type OR ExtraBonusType = Bonus3Type OR ExtraBonusType = Bonus4Type OR ExtraBonusType = Bonus5Type OR ExtraBonusType = Bonus6Type OR ExtraBonusType = Bonus7Type OR ExtraBonusType = Bonus8Type OR ExtraBonusType = Bonus9Type OR ExtraBonusType = Bonus10Type OR ExtraBonusType = Bonus1Type)));
 
 # Look for duplicate acuity cap
-SELECT Id_nb#, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
+SELECT Id_nb, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
 FROM ItemTemplate WHERE
 ((Bonus1Type=209 AND (Bonus1Type = Bonus2Type OR Bonus1Type = Bonus3Type OR Bonus1Type = Bonus4Type OR Bonus1Type = Bonus5Type OR Bonus1Type = Bonus6Type OR Bonus1Type = Bonus7Type OR Bonus1Type = Bonus8Type OR Bonus1Type = Bonus9Type OR Bonus1Type = Bonus10Type OR Bonus1Type = ExtraBonusType))
 OR (Bonus2Type=209 AND ( Bonus2Type = Bonus1Type OR Bonus2Type = Bonus3Type OR Bonus2Type = Bonus4Type OR Bonus2Type = Bonus5Type OR Bonus2Type = Bonus6Type OR Bonus2Type = Bonus7Type OR Bonus2Type = Bonus8Type OR Bonus2Type = Bonus9Type OR Bonus2Type = Bonus10Type OR Bonus2Type = ExtraBonusType))
@@ -119,7 +119,7 @@ OR (Bonus10Type=209 AND (Bonus10Type = Bonus2Type OR Bonus10Type = Bonus3Type OR
 OR (ExtraBonusType=209 AND (ExtraBonusType = Bonus2Type OR ExtraBonusType = Bonus3Type OR ExtraBonusType = Bonus4Type OR ExtraBonusType = Bonus5Type OR ExtraBonusType = Bonus6Type OR ExtraBonusType = Bonus7Type OR ExtraBonusType = Bonus8Type OR ExtraBonusType = Bonus9Type OR ExtraBonusType = Bonus10Type OR ExtraBonusType = Bonus1Type)));
 
 # Look for duplicate all melee
-SELECT Id_nb#, Realm, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
+SELECT Id_nb, Realm, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
 FROM ItemTemplate WHERE
 ((Bonus1Type=164 AND (Bonus1Type = Bonus2Type OR Bonus1Type = Bonus3Type OR Bonus1Type = Bonus4Type OR Bonus1Type = Bonus5Type OR Bonus1Type = Bonus6Type OR Bonus1Type = Bonus7Type OR Bonus1Type = Bonus8Type OR Bonus1Type = Bonus9Type OR Bonus1Type = Bonus10Type OR Bonus1Type = ExtraBonusType))
 OR (Bonus2Type=164 AND ( Bonus2Type = Bonus1Type OR Bonus2Type = Bonus3Type OR Bonus2Type = Bonus4Type OR Bonus2Type = Bonus5Type OR Bonus2Type = Bonus6Type OR Bonus2Type = Bonus7Type OR Bonus2Type = Bonus8Type OR Bonus2Type = Bonus9Type OR Bonus2Type = Bonus10Type OR Bonus2Type = ExtraBonusType))
@@ -134,7 +134,7 @@ OR (Bonus10Type=164 AND (Bonus10Type = Bonus2Type OR Bonus10Type = Bonus3Type OR
 OR (ExtraBonusType=164 AND (ExtraBonusType = Bonus2Type OR ExtraBonusType = Bonus3Type OR ExtraBonusType = Bonus4Type OR ExtraBonusType = Bonus5Type OR ExtraBonusType = Bonus6Type OR ExtraBonusType = Bonus7Type OR ExtraBonusType = Bonus8Type OR ExtraBonusType = Bonus9Type OR ExtraBonusType = Bonus10Type OR ExtraBonusType = Bonus1Type)));
 
 # Look for duplicate dual wield
-SELECT Id_nb#, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
+SELECT Id_nb, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
 FROM ItemTemplate WHERE
 ((Bonus1Type=167 AND (Bonus1Type = Bonus2Type OR Bonus1Type = Bonus3Type OR Bonus1Type = Bonus4Type OR Bonus1Type = Bonus5Type OR Bonus1Type = Bonus6Type OR Bonus1Type = Bonus7Type OR Bonus1Type = Bonus8Type OR Bonus1Type = Bonus9Type OR Bonus1Type = Bonus10Type OR Bonus1Type = ExtraBonusType))
 OR (Bonus2Type=167 AND ( Bonus2Type = Bonus1Type OR Bonus2Type = Bonus3Type OR Bonus2Type = Bonus4Type OR Bonus2Type = Bonus5Type OR Bonus2Type = Bonus6Type OR Bonus2Type = Bonus7Type OR Bonus2Type = Bonus8Type OR Bonus2Type = Bonus9Type OR Bonus2Type = Bonus10Type OR Bonus2Type = ExtraBonusType))
@@ -149,7 +149,7 @@ OR (Bonus10Type=167 AND (Bonus10Type = Bonus2Type OR Bonus10Type = Bonus3Type OR
 OR (ExtraBonusType=167 AND (ExtraBonusType = Bonus2Type OR ExtraBonusType = Bonus3Type OR ExtraBonusType = Bonus4Type OR ExtraBonusType = Bonus5Type OR ExtraBonusType = Bonus6Type OR ExtraBonusType = Bonus7Type OR ExtraBonusType = Bonus8Type OR ExtraBonusType = Bonus9Type OR ExtraBonusType = Bonus10Type OR ExtraBonusType = Bonus1Type)));
 
 # Look for duplicate archery
-SELECT Id_nb#, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
+SELECT Id_nb, Bonus1Type, Bonus1, Bonus2Type, Bonus2, Bonus3Type, Bonus3, Bonus4Type, Bonus4, Bonus5Type, Bonus5, Bonus6Type, Bonus6, Bonus7Type, Bonus7, Bonus8Type, Bonus8, Bonus9Type, Bonus9, Bonus10Type, Bonus10, ExtraBonusType, ExtraBonus
 FROM ItemTemplate WHERE
 ((Bonus1Type=168 AND (Bonus1Type = Bonus2Type OR Bonus1Type = Bonus3Type OR Bonus1Type = Bonus4Type OR Bonus1Type = Bonus5Type OR Bonus1Type = Bonus6Type OR Bonus1Type = Bonus7Type OR Bonus1Type = Bonus8Type OR Bonus1Type = Bonus9Type OR Bonus1Type = Bonus10Type OR Bonus1Type = ExtraBonusType))
 OR (Bonus2Type=168 AND ( Bonus2Type = Bonus1Type OR Bonus2Type = Bonus3Type OR Bonus2Type = Bonus4Type OR Bonus2Type = Bonus5Type OR Bonus2Type = Bonus6Type OR Bonus2Type = Bonus7Type OR Bonus2Type = Bonus8Type OR Bonus2Type = Bonus9Type OR Bonus2Type = Bonus10Type OR Bonus2Type = ExtraBonusType))
