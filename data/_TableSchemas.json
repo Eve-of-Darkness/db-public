@@ -798,28 +798,68 @@
     "Columns": [
       {
         "Name": "ID",
-        "SqlType": "int(11)",
+        "SqlType": "tinyint(3) unsigned",
         "NotNull": true,
         "IsPrimary": true
       },
       {
+        "Name": "BaseClassID",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "Name",
+        "SqlType": "text"
+      },
+      {
+        "Name": "FemaleName",
+        "SqlType": "text"
+      },
+      {
         "Name": "SpecPointMultiplier",
-        "SqlType": "int(11)"
-      },
-      {
-        "Name": "BaseHP",
-        "SqlType": "int(11)"
-      },
-      {
-        "Name": "BaseWeaponSkill",
-        "SqlType": "int(11)"
+        "SqlType": "tinyint(3) unsigned"
       },
       {
         "Name": "AutoTrainSkills",
         "SqlType": "text"
       },
       {
+        "Name": "PrimaryStat",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "SecondaryStat",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "TertiaryStat",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "ManaStat",
+        "SqlType": "tinyint(3) unsigned"
+      },
+      {
+        "Name": "BaseHP",
+        "SqlType": "smallint(6)"
+      },
+      {
+        "Name": "BaseWeaponSkill",
+        "SqlType": "smallint(6)"
+      },
+      {
         "Name": "EligibleRaces",
+        "SqlType": "text"
+      },
+      {
+        "Name": "CanUseLeftHandedWeapon",
+        "SqlType": "tinyint(1)"
+      },
+      {
+        "Name": "ProfessionTranslationID",
         "SqlType": "text"
       },
       {
