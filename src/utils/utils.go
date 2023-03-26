@@ -1,12 +1,18 @@
 package utils
 
 import (
+	"os"
 	"path/filepath"
-	"runtime"
+	"strings"
 )
 
 func RootFolder() string {
-	_, b, _, _ := runtime.Caller(0)
-	basepath := filepath.Dir(filepath.Dir(filepath.Dir(b)))
-	return basepath
+	if strings.Contains(os.Args[0], "go-build") {
+		return "."
+	}
+	exePath, err := os.Executable()
+	if err != nil {
+		panic(err)
+	}
+	return filepath.Dir(exePath)
 }
