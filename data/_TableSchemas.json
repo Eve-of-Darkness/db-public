@@ -1036,6 +1036,57 @@
     ]
   },
   {
+    "Name": "CharacterXRewardQuest",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "Character_ID",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "DataQuestID",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "Step",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "Count",
+        "SqlType": "smallint(6)",
+        "NotNull": true
+      },
+      {
+        "Name": "CustomPropertiesString",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ],
+    "Indexes": [
+      {
+        "Name": "I_CharacterXRewardQuest_Character_ID",
+        "Column": "DataQuestID"
+      },
+      {
+        "Name": "I_CharacterXRewardQuest_Character_ID",
+        "Column": "Character_ID"
+      }
+    ]
+  },  
+  {
     "Name": "ClassXSpecialization",
     "Columns": [
       {
@@ -7193,6 +7244,157 @@
       }
     ]
   },
+  {
+    "Name": "RewardWuest",
+    "Columns": [
+      {
+        "Name": "ID",
+        "SqlType": "int(11)",
+        "NotNull": true,
+        "IsPrimary": true,
+        "AutoIncrement": true
+      },
+      {
+        "Name": "QuestName",
+        "SqlType": "varchar(255)",
+        "NotNull": true
+      },
+      {
+        "Name": "StartNPC",
+        "SqlType": "varchar(100)",
+        "NotNull": true
+      },
+      {
+        "Name": "StartRegionID",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "StoryText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "Summary",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AcceptText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "QuestGoals",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GoalType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GoalRepeatNo",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GoalTargetName",
+        "SqlType": "text"
+      },
+      {
+        "Name": "GoalTargetText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "StepCount",
+        "SqlType": "int(11)"
+      },
+      {
+        "Name": "FinishNPC",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AdvanceText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "CollectItemTemplate",
+        "SqlType": "text"
+      },
+      {
+        "Name": "MaxCount",
+        "SqlType": "smallint(5) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MinLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "MaxLevel",
+        "SqlType": "tinyint(3) unsigned",
+        "NotNull": true
+      },
+      {
+        "Name": "RewardMoney",
+        "SqlType": "bigint(20)"
+      },
+      {
+        "Name": "RewardXP",
+        "SqlType": "bigint(20)"
+      },
+      {
+        "Name": "RewardCLXP",
+        "SqlType": "bigint(20)"
+      },
+      {
+        "Name": "RewardRP",
+        "SqlType": "bigint(20)"
+      },
+      {
+        "Name": "RewardBP",
+        "SqlType": "bigint(20)"
+      },
+      {
+        "Name": "OptionalRewardItemTemplates",
+        "SqlType": "text"
+      },
+      {
+        "Name": "FinalRewardItemTemplates",
+        "SqlType": "text"
+      },
+      {
+        "Name": "FinishText",
+        "SqlType": "text"
+      },
+      {
+        "Name": "QuestDependency",
+        "SqlType": "text"
+      },
+      {
+        "Name": "AllowedClasses",
+        "SqlType": "varchar(200)"
+      },
+      {
+        "Name": "ClassType",
+        "SqlType": "text"
+      },
+      {
+        "Name": "XOffset",
+        "SqlType": "text"
+      },
+      {
+        "Name": "YOffset",
+        "SqlType": "text"
+      },
+      {
+        "Name": "ZoneID",
+        "SqlType": "text"
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      }
+    ]
+  },  
   {
     "Name": "Salvage",
     "Columns": [
