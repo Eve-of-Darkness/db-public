@@ -1864,43 +1864,43 @@
   {
     "ClassID": 0,
     "ClientRegionID": 27,
-    "Heading": 1024,
+    "Heading": 40,
     "LastTimeRowUpdated": "2017-01-08 18:50:46",
     "MinVersion": 0,
     "RaceID": 0,
     "RealmID": 3,
     "Region": 27,
     "StartupLoc_ID": 134,
-    "XPos": 357788,
-    "YPos": 363457,
-    "ZPos": 5340
+    "XPos": 359691,
+    "YPos": 353464,
+    "ZPos": 5688
   },
   {
     "ClassID": 0,
     "ClientRegionID": 27,
-    "Heading": 1024,
+    "Heading": 3869,
     "LastTimeRowUpdated": "2017-01-08 18:50:46",
     "MinVersion": 0,
     "RaceID": 0,
     "RealmID": 2,
     "Region": 27,
     "StartupLoc_ID": 135,
-    "XPos": 226716,
-    "YPos": 232385,
-    "ZPos": 5340
+    "XPos": 228854,
+    "YPos": 222584,
+    "ZPos": 5696
   },
   {
     "ClassID": 0,
     "ClientRegionID": 27,
-    "Heading": 998,
+    "Heading": 14,
     "LastTimeRowUpdated": "2017-01-08 18:50:46",
     "MinVersion": 0,
     "RaceID": 0,
     "RealmID": 1,
     "Region": 27,
     "StartupLoc_ID": 136,
-    "XPos": 95638,
-    "YPos": 101322,
-    "ZPos": 5340
+    "XPos": 97696,
+    "YPos": 91776,
+    "ZPos": 5696
   }
 ]
