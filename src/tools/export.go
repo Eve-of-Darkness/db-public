@@ -10,7 +10,6 @@ import (
 	"encoding/json"
 	"fmt"
 	"os"
-	"strconv"
 	"strings"
 )
 
@@ -85,8 +84,24 @@ func getValues(table schema.Table, data map[string]interface{}) string {
 		value := data[column.Name]
 
 		if strValue, ok := value.(string); ok {
-			strValue := strings.Replace(strconv.QuoteToGraphic(strValue), "\\\"", "\"\"", -1)
-			buffer.WriteString(strValue)
+			buffer.WriteRune('\'')
+			for _, c := range strValue {
+				switch c {
+				case '\'':
+					buffer.WriteString(`''`)
+				case '\\':
+					buffer.WriteString(`\\`)
+				case '\n':
+					buffer.WriteString(`\n`)
+				case '\r':
+					buffer.WriteString(`\r`)
+				case '\t':
+					buffer.WriteString(`\t`)
+				default:
+					buffer.WriteRune(c)
+				}
+			}
+			buffer.WriteRune('\'')
 		} else if value == nil {
 			buffer.WriteString("NULL")
 		} else {
