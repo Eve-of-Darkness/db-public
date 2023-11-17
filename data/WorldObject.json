@@ -12376,6 +12376,23 @@
     "Z": 509
   },
   {
+    "ClassType": "DOL.GS.GameStaticItem",
+    "Emblem": 0,
+    "ExamineArticle": "",
+    "Heading": 2850,
+    "LastTimeRowUpdated": "2023-11-15 21:52:43",
+    "Model": 2606,
+    "Name": "Trebuchet",
+    "Realm": 0,
+    "Region": 27,
+    "RespawnInterval": 0,
+    "TranslationId": "",
+    "WorldObject_ID": "be4e505f-4910-449c-87ec-97b58830ec08",
+    "X": 351757,
+    "Y": 353315,
+    "Z": 4787
+  },
+  {
     "ClassType": "DOL.GS.StormWorldDataQuestItem",
     "Emblem": 0,
     "ExamineArticle": null,
