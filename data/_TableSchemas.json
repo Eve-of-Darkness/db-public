@@ -1010,32 +1010,6 @@
     ]
   },
   {
-    "Name": "ClassXRealmAbility",
-    "Columns": [
-      {
-        "Name": "CharClass",
-        "SqlType": "int(11)",
-        "NotNull": true
-      },
-      {
-        "Name": "AbilityKey",
-        "SqlType": "text",
-        "NotNull": true
-      },
-      {
-        "Name": "LastTimeRowUpdated",
-        "SqlType": "datetime",
-        "NotNull": true
-      },
-      {
-        "Name": "ClassXRealmAbility_ID",
-        "SqlType": "varchar(255)",
-        "NotNull": true,
-        "IsPrimary": true
-      }
-    ]
-  },
-  {
     "Name": "CharacterXRewardQuest",
     "Columns": [
       {
@@ -1085,7 +1059,33 @@
         "Column": "Character_ID"
       }
     ]
-  },  
+  },
+  {
+    "Name": "ClassXRealmAbility",
+    "Columns": [
+      {
+        "Name": "CharClass",
+        "SqlType": "int(11)",
+        "NotNull": true
+      },
+      {
+        "Name": "AbilityKey",
+        "SqlType": "text",
+        "NotNull": true
+      },
+      {
+        "Name": "LastTimeRowUpdated",
+        "SqlType": "datetime",
+        "NotNull": true
+      },
+      {
+        "Name": "ClassXRealmAbility_ID",
+        "SqlType": "varchar(255)",
+        "NotNull": true,
+        "IsPrimary": true
+      }
+    ]
+  },
   {
     "Name": "ClassXSpecialization",
     "Columns": [
@@ -7394,7 +7394,7 @@
         "NotNull": true
       }
     ]
-  },  
+  },
   {
     "Name": "Salvage",
     "Columns": [
