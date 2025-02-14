@@ -19,7 +19,7 @@ The resulting file is `public-db.sql`.
 ## Contributing
 1. `git clone https://github.com/Eve-of-Darkness/db-public`
 2. `cd db-public`
-3. `go run . -import`
+3. `cargo run -- -import`
 
 Afterwards you need to push your changes to your fork of the repository.
 
