@@ -155,7 +155,7 @@ func (config *Config) isTableIncluded(t schema.Table) bool {
 	if config.ImportFlag && (!isIncluded && (!t.IsStatic() || isExcluded)) { // include > exclude
 		return false
 	}
-	if !config.ImportFlag && isExcluded {
+	if !config.ImportFlag && !isIncluded && isExcluded {
 		return false
 	}
 	return true
