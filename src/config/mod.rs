@@ -1,7 +1,6 @@
 mod cli_options;
 mod yml_parser;
 
-use core::panic;
 use std::{collections::HashSet, process};
 
 use cli_options::CliOptions;
