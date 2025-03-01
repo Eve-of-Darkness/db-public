@@ -1,3 +1,4 @@
-# We don't want to check in this artifact by mistake
-public-db.sql
-config.yml
+target/
+/*.sql
+/*.db
+/config/config.yml

@@ -14,30 +14,42 @@ jobs:
       MYSQL_PORT: 3306
       CONFIG_FILE: config/config.yml
     name: Build and Test DB
-    runs-on: ubuntu-22.04
+    runs-on: ubuntu-24.04
     steps:
       - name: Checkout
         uses: actions/checkout@v4
       - name: Setup Build Environment
-        uses: actions/setup-go@v4
+        uses: dtolnay/rust-toolchain@stable
+      - name: Set up cargo cache
+        uses: actions/cache@v4
+        continue-on-error: false
         with:
-          go-version: '1.21'
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            ~/.rustup/
+            target/
+          key: cargo-test-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: cargo-test-
       - name: Build public-db-tools
-        run: go build .
+        run: |
+          cargo build
       - name: Test SQLite
         run: |
           set -eux
-          go run . -export sqlite
-          sqlite3 test.db < public-db.sql
           printf 'db:\n    file_path: ./test.db' > config/config.yml
-          go run . -import
+          cargo run -- --export sqlite
+          sqlite3 test.db < public-db.sql
+          cargo run -- --import
           [[ -z "$(git diff)" ]]
       - name: Test Customization Queries
         run: for i in customizations/*.sql; do echo "Execute $i"; sqlite3 test.db < "$i"; done
       - name: Test MySQL
         run: |
           set -eux
-          go run . -export mysql
+          cargo run -- --export mysql
           sudo systemctl start mysql.service
           mysql_cmd="mysql -h 127.0.0.1 -u${{env.MYSQL_USER}} -p${{env.MYSQL_PW}} -P${{env.MYSQL_PORT}}"
           $mysql_cmd -e 'CREATE DATABASE ${{env.MYSQL_DB}};'
@@ -46,5 +58,5 @@ jobs:
           cp config/config.example.yml "$CONFIG_FILE"
           sed -rbi 's/(user:).+/\1 root/' "$CONFIG_FILE"
           sed -rbi 's/(password:).+/\1 root/' "$CONFIG_FILE"
-          go run . -import
+          cargo run -- --import
           [[ -z "$(git diff)" ]]
