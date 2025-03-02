@@ -1,8 +1,9 @@
 mod cli_options;
 mod yml_parser;
 
-use std::{collections::HashSet, process};
+use std::{collections::HashSet, env::Args};
 
+use clap::Parser;
 use cli_options::CliOptions;
 use yml_parser::ConfigYml;
 
@@ -15,37 +16,19 @@ pub struct Config<'a> {
 
 impl<'a> Config<'a> {
     pub fn load() -> Config<'a> {
-        let args: Vec<String> = std::env::args().collect();
-        let args = args.iter().map(|arg| arg.as_str()).collect::<Vec<_>>();
+        let args = std::env::args();
         let file_config = ConfigYml::parse();
-        match Self::build(&args, file_config) {
-            Ok(c) => c,
-            Err(msg) => {
-                eprintln!("{msg}\n");
-                eprint!("{}", CliOptions::usage_text(args[0]));
-                process::exit(2);
-            }
-        }
+        Self::build(args, file_config)
     }
 
-    fn build(args: &Vec<&str>, file_config: ConfigYml) -> Result<Config<'a>, String> {
-        let cli_options = match CliOptions::new(args) {
-            Ok(opts) => opts,
-            Err(msg) => return Err(msg),
-        };
-
-        if cli_options.help {
-            let task = Task::Help {
-                text: CliOptions::usage_text(&args[0]),
-            };
-            return Ok(Config { task });
-        }
+    fn build(args: Args, file_config: ConfigYml) -> Config<'a> {
+        let cli_options = CliOptions::parse_from(args);
 
         if cli_options.import_schema {
             let task = Task::ImportSchema {
                 db_credentials: file_config.db,
             };
-            return Ok(Config { task });
+            return Config { task };
         }
 
         if cli_options.import {
@@ -57,7 +40,7 @@ impl<'a> Config<'a> {
                 ),
                 db_credentials: file_config.db,
             };
-            return Ok(Config { task });
+            return Config { task };
         }
 
         let task = Task::ExportToSql {
@@ -72,7 +55,7 @@ impl<'a> Config<'a> {
                 cli_options.update_only,
             ),
         };
-        return Ok(Config { task });
+        return Config { task };
     }
 
     fn get_selected_table_schemas(
@@ -126,9 +109,6 @@ impl<'a> Config<'a> {
 
 #[derive(Debug)]
 enum Task<'a> {
-    Help {
-        text: String,
-    },
     ImportSchema {
         db_credentials: DbCred,
     },
@@ -145,10 +125,6 @@ enum Task<'a> {
 impl<'a> Task<'a> {
     fn execute(&self) {
         match self {
-            Task::Help { text } => {
-                println!("{text}");
-                std::process::exit(0);
-            }
             Task::ImportSchema { db_credentials } => {
                 let schemas = get_db(db_credentials).get_all_schemas();
                 INTERNAL_DB.replace_schemas(schemas);
