@@ -20,19 +20,6 @@ jobs:
         uses: actions/checkout@v4
       - name: Setup Build Environment
         uses: dtolnay/rust-toolchain@stable
-      - name: Set up cargo cache
-        uses: actions/cache@v4
-        continue-on-error: false
-        with:
-          path: |
-            ~/.cargo/bin/
-            ~/.cargo/registry/index/
-            ~/.cargo/registry/cache/
-            ~/.cargo/git/db/
-            ~/.rustup/
-            target/
-          key: cargo-test-${{ hashFiles('**/Cargo.lock') }}
-          restore-keys: cargo-test-
       - name: Build public-db-tools
         run: |
           cargo build
