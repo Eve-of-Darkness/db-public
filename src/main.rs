@@ -1,4 +1,4 @@
-use config::Config;
+use config::{Config, Task};
 
 mod config;
 mod db;
@@ -6,5 +6,5 @@ mod db;
 pub fn main() {
     let config = Config::load();
 
-    config.execute_task();
+    Task::build(config).execute();
 }
