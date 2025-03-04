@@ -190,8 +190,8 @@ impl Db for Sqlite {
         return results;
 
         fn escape_special_chars(input: &str) -> String {
-            let unescaped_strings = &["&", "<", ">", "\\\\"];
-            let replace_with = &["\\u0026", "\\u003c", "\\u003e", "\\"];
+            let unescaped_strings = &["\\\\"];
+            let replace_with = &["\\"];
             let replacer = AhoCorasick::new(unescaped_strings).unwrap();
             replacer.replace_all(input, replace_with)
         }
