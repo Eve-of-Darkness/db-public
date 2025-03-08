@@ -59,7 +59,7 @@ jobs:
         run: |
           LINUX_TARGET=x86_64-unknown-linux-gnu
           cargo build -r --target $LINUX_TARGET
-          mv target/$LINUX_TARGET/release/${{ env.TOOL_NAME }} .
+          7z a ${{ env.TOOL_NAME }}_linux.zip target/$LINUX_TARGET/release/${{ env.TOOL_NAME }}
       - name: Set up MinGW
         run: sudo apt install gcc-mingw-w64 --no-install-recommends
       - name: Windows Build
@@ -67,7 +67,7 @@ jobs:
           WINDOWS_TARGET=x86_64-pc-windows-gnu
           rustup target add $WINDOWS_TARGET
           cargo build -r --target $WINDOWS_TARGET
-          mv target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe .
+          7z a ${{ env.TOOL_NAME }}_windows.zip target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe
       - name: Setup MacOS XCode SDK
         uses: mbround18/setup-osxcross@v2
         with:
@@ -77,7 +77,7 @@ jobs:
           MACOS_TARGET=x86_64-apple-darwin
           rustup target add $MACOS_TARGET
           CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
-          mv target/$MACOS_TARGET/release/${{ env.TOOL_NAME }} ${{ env.TOOL_NAME }}_mac
+          7z a ${{ env.TOOL_NAME }}_macos.zip target/$MACOS_TARGET/release/${{ env.TOOL_NAME }}
       - name: Create Release
         run: |
           gh release create "${{ env.new_build_number }}" \
