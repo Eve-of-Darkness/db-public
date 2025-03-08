@@ -131,7 +131,7 @@
   },
   {
     "AbilityID": 14,
-    "Description": "Must be fired from stealth, very high damage, average range and average draw time.\u003cbr\u003e\u003cbr\u003eTarget get 10sec 50% resistance against critical or power shots.\u003cbr\u003e\u003cbr\u003eWill bypass Bladeturn, but not break it; as well as bypassing Brittle Guards, Intercept, Guard and Block.",
+    "Description": "Must be fired from stealth, very high damage, average range and average draw time.<br><br>Target get 10sec 50% resistance against critical or power shots.<br><br>Will bypass Bladeturn, but not break it; as well as bypassing Brittle Guards, Intercept, Guard and Block.",
     "IconID": 413,
     "Implementation": null,
     "InternalID": 142,
@@ -761,7 +761,7 @@
   },
   {
     "AbilityID": 77,
-    "Description": "30 second group damage add that stacks with all other damage adds \u0026 ignores caps. DPS bonus as listed.",
+    "Description": "30 second group damage add that stacks with all other damage adds & ignores caps. DPS bonus as listed.",
     "IconID": 3022,
     "Implementation": "DOL.GS.RealmAbilities.AngerOfTheGodsAbility",
     "InternalID": 194,

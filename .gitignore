@@ -1,4 +1,5 @@
 target/
 /*.sql
 /*.db
+/config.yml
 /config/config.yml

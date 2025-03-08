@@ -148,26 +148,6 @@ impl Sqlite {
         }
         panic!("AUTOINCREMENT could not be determined");
     }
-
-    // fn get_default_value(current_default: &str, not_null: bool, sql_type: &str) -> String {
-    //     if !(current_default == "" || current_default.to_lowercase() == "null") {
-    //         return current_default.to_string();
-    //     }
-
-    //     if !not_null {
-    //         return String::new();
-    //     } else if sql_type.contains("int")
-    //         || sql_type.contains("double")
-    //         || sql_type.contains("real")
-    //         || sql_type.contains("float")
-    //     {
-    //         return String::from("0");
-    //     } else if sql_type == "datetime" {
-    //         return String::from("'2000-01-01 00:00:00'");
-    //     } else {
-    //         return String::from("''");
-    //     }
-    // }
 }
 
 impl Db for Sqlite {
@@ -210,8 +190,8 @@ impl Db for Sqlite {
         return results;
 
         fn escape_special_chars(input: &str) -> String {
-            let unescaped_strings = &["&", "<", ">", "\\\\"];
-            let replace_with = &["\\u0026", "\\u003c", "\\u003e", "\\"];
+            let unescaped_strings = &["\\\\"];
+            let replace_with = &["\\"];
             let replacer = AhoCorasick::new(unescaped_strings).unwrap();
             replacer.replace_all(input, replace_with)
         }

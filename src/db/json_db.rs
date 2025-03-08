@@ -1,5 +1,4 @@
 use std::{
-    fs::OpenOptions,
     io::Write,
     sync::{LazyLock, OnceLock},
 };
@@ -38,13 +37,38 @@ impl JsonDB {
         serde_json::from_str(&json_str).unwrap()
     }
 
-    pub fn export_to_sql(&self, schemas: &Vec<&TableSchema>, db_provider: &SqlProvider) {
-        let mut file = OpenOptions::new()
-            .truncate(true)
-            .create(true)
-            .write(true)
-            .open("public-db.sql")
-            .unwrap();
+    pub fn get_filtered_schemas(
+        &self,
+        included_tables: Vec<&str>,
+        excluded_tables: Vec<&str>,
+        ignored_tables: Vec<&str>,
+        only_static: bool,
+    ) -> Vec<TableSchema> {
+        let mut result = vec![];
+        for schema in self.get_all_schemas() {
+            let is_excluded = contains_case_insensitive(&excluded_tables, &schema.name)
+                || excluded_tables.contains(&"all");
+            let is_included = contains_case_insensitive(&included_tables, &schema.name)
+                || included_tables.contains(&"all");
+            let is_static =
+                schema.is_static || contains_case_insensitive(&ignored_tables, &schema.name);
+            if is_included || !(is_excluded || (only_static && !is_static)) {
+                result.push(schema.clone());
+            }
+        }
+        return result;
+
+        fn contains_case_insensitive(haystack: &Vec<&str>, needle: &str) -> bool {
+            let m = haystack.iter().find(|s| s.eq_ignore_ascii_case(needle));
+            match m {
+                Some(_) => true,
+                None => false,
+            }
+        }
+    }
+
+    pub fn export_to_sql(&self, schemas: &Vec<TableSchema>, db_provider: &SqlProvider) {
+        let mut file = std::fs::File::create("public-db.sql").unwrap();
         for s in schemas {
             file.write_all(Self::convert_to_sql_text(s, db_provider).as_bytes())
                 .expect("Failed to write file");
@@ -183,13 +207,169 @@ impl JsonDB {
     }
 
     fn write_text_to_file(text: &str, file_path: &str) {
-        let mut file = OpenOptions::new()
-            .create(true)
-            .truncate(true)
-            .write(true)
-            .open(file_path)
-            .unwrap();
+        let mut file = std::fs::File::create(file_path).unwrap();
         file.write_all(text.as_bytes())
             .expect("Failed to write file");
+    }
+}
+
+#[cfg(test)]
+mod tests {
+    use super::*;
+
+    #[test]
+    /// Return all schemas when no includes and excludes are given
+    fn get_filtered_schemas_with_no_includes_and_excludes() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec![];
+        let excluded_tables = vec![];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, all_schemas);
+    }
+
+    #[test]
+    /// Return empty Vector when only schema is excluded
+    fn get_filtered_schemas_with_only_schema_excluded() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec![];
+        let excluded_tables = vec!["schema1"];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, vec![]);
+    }
+
+    #[test]
+    /// Return empty Vector when all schemas are excluded
+    fn get_filtered_schemas_with_excluded_all() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec![];
+        let excluded_tables = vec!["all"];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, vec![]);
+    }
+
+    #[test]
+    /// Return all schemas when no includes and excludes are given
+    fn get_filtered_schemas_exclude_all_but_include_with_wrong_case() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec!["SCHEMA1"];
+        let excluded_tables = vec!["all"];
+        let ignored_tables = vec![];
+
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, all_schemas);
+    }
+
+    #[test]
+    /// Return empty Vector because there is no static schema
+    fn get_filtered_schemas_with_only_statics() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec![];
+        let excluded_tables = vec![];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, true);
+        assert_eq!(actual, vec![]);
+    }
+
+    #[test]
+    /// Return the static schema
+    fn get_filtered_schemas_with_only_statics_where_it_contains_one() {
+        let schema1 = new_static_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec![];
+        let excluded_tables = vec![];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, true);
+        assert_eq!(actual, all_schemas);
+    }
+
+    #[test]
+    /// Return the only (included) schema
+    fn get_filtered_schemas_with_all_excluded_and_only_schema_included() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec!["schema1"];
+        let excluded_tables = vec!["all"];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, all_schemas);
+    }
+
+    #[test]
+    /// Return all schemas
+    fn get_filtered_schemas_with_all_excluded_and_all_included() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec!["all"];
+        let excluded_tables = vec!["all"];
+        let ignored_tables = vec![];
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, false);
+        assert_eq!(actual, all_schemas);
+    }
+
+    #[test]
+    /// Return all schemas
+    fn get_filtered_schemas_with_only_statics_but_all_included() {
+        let schema1 = new_schema("schema1");
+        let all_schemas = vec![schema1];
+        let db = create_db_with_schemas(&all_schemas);
+        let included_tables = vec!["all"];
+        let excluded_tables = vec![];
+        let ignored_tables = vec![];
+
+        let actual =
+            db.get_filtered_schemas(included_tables, excluded_tables, ignored_tables, true);
+
+        assert_eq!(actual, all_schemas);
+    }
+
+    fn new_schema(name: &str) -> TableSchema {
+        TableSchema {
+            name: name.to_string(),
+            columns: vec![],
+            is_static: false,
+            indexes: vec![],
+        }
+    }
+
+    fn new_static_schema(name: &str) -> TableSchema {
+        TableSchema {
+            name: name.to_string(),
+            columns: vec![],
+            is_static: true,
+            indexes: vec![],
+        }
+    }
+
+    fn create_db_with_schemas(schemas: &Vec<TableSchema>) -> JsonDB {
+        let foo = OnceLock::new();
+        foo.get_or_init(|| schemas.iter().cloned().collect());
+        JsonDB {
+            location: "".to_string(),
+            schemas: foo,
+        }
     }
 }

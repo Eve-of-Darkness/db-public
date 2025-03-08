@@ -12,7 +12,7 @@ jobs:
       MYSQL_PW: root
       MYSQL_DB: dol
       MYSQL_PORT: 3306
-      CONFIG_FILE: config/config.yml
+      CONFIG_FILE: config.yml
     name: Build and Test DB
     runs-on: ubuntu-24.04
     steps:
@@ -22,28 +22,32 @@ jobs:
         uses: dtolnay/rust-toolchain@stable
       - name: Build public-db-tools
         run: |
-          cargo build
+          cargo build -r
       - name: Test SQLite
         run: |
           set -eux
-          printf 'db:\n    file_path: ./test.db' > config/config.yml
-          cargo run -- --export sqlite
+          printf 'db:\n    file_path: ./test.db' > ${{env.CONFIG_FILE}}
+          cargo run -r -- --export sqlite
           sqlite3 test.db < public-db.sql
-          cargo run -- --import
+          cargo run -r -- --import
           [[ -z "$(git diff)" ]]
       - name: Test Customization Queries
         run: for i in customizations/*.sql; do echo "Execute $i"; sqlite3 test.db < "$i"; done
       - name: Test MySQL
         run: |
           set -eux
-          cargo run -- --export mysql
+          cargo run -r -- --export mysql
           sudo systemctl start mysql.service
           mysql_cmd="mysql -h 127.0.0.1 -u${{env.MYSQL_USER}} -p${{env.MYSQL_PW}} -P${{env.MYSQL_PORT}}"
           $mysql_cmd -e 'CREATE DATABASE ${{env.MYSQL_DB}};'
           cat public-db.sql | $mysql_cmd -D${{env.MYSQL_DB}}
           $mysql_cmd -e 'USE ${{env.MYSQL_DB}}; SHOW TABLES;'
-          cp config/config.example.yml "$CONFIG_FILE"
-          sed -rbi 's/(user:).+/\1 root/' "$CONFIG_FILE"
-          sed -rbi 's/(password:).+/\1 root/' "$CONFIG_FILE"
-          cargo run -- --import
+          cat <<EOF > ${{env.CONFIG_FILE}}
+          db:
+            host: localhost
+            user: ${{env.MYSQL_USER}}
+            password: ${{env.MYSQL_PW}}
+            database: ${{env.MYSQL_DB}}
+            port: ${{env.MYSQL_PORT}}
+          cargo run -r -- --import
           [[ -z "$(git diff)" ]]

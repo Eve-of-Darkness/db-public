@@ -7981,7 +7981,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "AdventureWing Beastmasters Den=\u003eTepoks Mine entrancedoor"
+    "ZonePoint_ID": "AdventureWing Beastmasters Den=>Tepoks Mine entrancedoor"
   },
   {
     "ClassType": "",
@@ -7997,7 +7997,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "AdventureWing Beastmasters Den=\u003eTepoks Mine exitdoor"
+    "ZonePoint_ID": "AdventureWing Beastmasters Den=>Tepoks Mine exitdoor"
   },
   {
     "ClassType": "",
@@ -8013,7 +8013,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "AdventureWing Betrayers Den =\u003e KeltoiFogou"
+    "ZonePoint_ID": "AdventureWing Betrayers Den => KeltoiFogou"
   },
   {
     "ClassType": "",
@@ -8029,7 +8029,7 @@
     "TargetX": 37521,
     "TargetY": 33550,
     "TargetZ": 15711,
-    "ZonePoint_ID": "AdventureWing Betrayers Den =\u003e KeltoiFogou entrance AW"
+    "ZonePoint_ID": "AdventureWing Betrayers Den => KeltoiFogou entrance AW"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -8061,7 +8061,7 @@
     "TargetX": 31734,
     "TargetY": 30351,
     "TargetZ": 14954,
-    "ZonePoint_ID": "AdventureWing Goblins Cookery=\u003eTepoks Mine entrancedoor"
+    "ZonePoint_ID": "AdventureWing Goblins Cookery=>Tepoks Mine entrancedoor"
   },
   {
     "ClassType": "",
@@ -8077,7 +8077,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "AdventureWing Goblins Cookery=\u003eTepoks Mine exitdoor"
+    "ZonePoint_ID": "AdventureWing Goblins Cookery=>Tepoks Mine exitdoor"
   },
   {
     "ClassType": "",
@@ -8093,7 +8093,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "AdventureWing Hall of Reawakening=\u003eTomb of Mithra entrancedoor"
+    "ZonePoint_ID": "AdventureWing Hall of Reawakening=>Tomb of Mithra entrancedoor"
   },
   {
     "ClassType": "",
@@ -8109,7 +8109,7 @@
     "TargetX": 29309,
     "TargetY": 30364,
     "TargetZ": 15519,
-    "ZonePoint_ID": "AdventureWing Hall of Reawakening=\u003eTomb of Mithra exitdoor"
+    "ZonePoint_ID": "AdventureWing Hall of Reawakening=>Tomb of Mithra exitdoor"
   },
   {
     "ClassType": "",
@@ -8125,7 +8125,7 @@
     "TargetX": 25186,
     "TargetY": 30684,
     "TargetZ": 15039,
-    "ZonePoint_ID": "AdventureWing Hidden Crypt=\u003eTomb of Mithra entrancedoor"
+    "ZonePoint_ID": "AdventureWing Hidden Crypt=>Tomb of Mithra entrancedoor"
   },
   {
     "ClassType": "",
@@ -8141,7 +8141,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "AdventureWing Hidden Crypt=\u003eTomb of Mithra exitdoor"
+    "ZonePoint_ID": "AdventureWing Hidden Crypt=>Tomb of Mithra exitdoor"
   },
   {
     "ClassType": "",
@@ -8157,7 +8157,7 @@
     "TargetX": 33151,
     "TargetY": 34343,
     "TargetZ": 16000,
-    "ZonePoint_ID": "AdventureWing RitualHall =\u003e KeltoiFogou"
+    "ZonePoint_ID": "AdventureWing RitualHall => KeltoiFogou"
   },
   {
     "ClassType": "",
@@ -8173,7 +8173,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "AdventureWing RitualHall =\u003e KeltoiFogou entrance AW"
+    "ZonePoint_ID": "AdventureWing RitualHall => KeltoiFogou entrance AW"
   },
   {
     "ClassType": null,
@@ -8237,7 +8237,7 @@
     "TargetX": 27017,
     "TargetY": 30103,
     "TargetZ": 16223,
-    "ZonePoint_ID": "AW-DeliahsSanctuary =\u003e Stonehenge AWentryDoor"
+    "ZonePoint_ID": "AW-DeliahsSanctuary => Stonehenge AWentryDoor"
   },
   {
     "ClassType": "",
@@ -8253,7 +8253,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "AW-DeliahsSanctuary =\u003e Stonehenge AWexitDoor"
+    "ZonePoint_ID": "AW-DeliahsSanctuary => Stonehenge AWexitDoor"
   },
   {
     "ClassType": "",
@@ -8269,7 +8269,7 @@
     "TargetX": 34141,
     "TargetY": 30808,
     "TargetZ": 15760,
-    "ZonePoint_ID": "AW-LairOfDoom =\u003e Cardova AWEntryDoor"
+    "ZonePoint_ID": "AW-LairOfDoom => Cardova AWEntryDoor"
   },
   {
     "ClassType": "",
@@ -8285,7 +8285,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "AW-LairOfDoom =\u003e Cardova AWExitDoor"
+    "ZonePoint_ID": "AW-LairOfDoom => Cardova AWExitDoor"
   },
   {
     "ClassType": "",
@@ -8301,7 +8301,7 @@
     "TargetX": 30669,
     "TargetY": 33153,
     "TargetZ": 15951,
-    "ZonePoint_ID": "AW-LostWing =\u003e StoneHenge AWentryDoor"
+    "ZonePoint_ID": "AW-LostWing => StoneHenge AWentryDoor"
   },
   {
     "ClassType": "",
@@ -8317,7 +8317,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "AW-LostWing =\u003e StoneHenge AWexitDoor"
+    "ZonePoint_ID": "AW-LostWing => StoneHenge AWexitDoor"
   },
   {
     "ClassType": "",
@@ -8669,7 +8669,7 @@
     "TargetX": 32906,
     "TargetY": 31856,
     "TargetZ": 16215,
-    "ZonePoint_ID": "Cardova =\u003e AdventureWing Lair of Doom"
+    "ZonePoint_ID": "Cardova => AdventureWing Lair of Doom"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -8685,7 +8685,7 @@
     "TargetX": 48778,
     "TargetY": 31364,
     "TargetZ": 16955,
-    "ZonePoint_ID": "Cardova =\u003e AdventureWing The Arena"
+    "ZonePoint_ID": "Cardova => AdventureWing The Arena"
   },
   {
     "ClassType": "",
@@ -8701,7 +8701,7 @@
     "TargetX": 390550,
     "TargetY": 685249,
     "TargetZ": 5467,
-    "ZonePoint_ID": "Cardova =\u003e DragonSwornCamp"
+    "ZonePoint_ID": "Cardova => DragonSwornCamp"
   },
   {
     "ClassType": "",
@@ -8717,7 +8717,7 @@
     "TargetX": 371995,
     "TargetY": 671908,
     "TargetZ": 5954,
-    "ZonePoint_ID": "Cardova =\u003e Fallen Tower"
+    "ZonePoint_ID": "Cardova => Fallen Tower"
   },
   {
     "ClassType": "",
@@ -8765,7 +8765,7 @@
     "TargetX": 372029,
     "TargetY": 672141,
     "TargetZ": 5913,
-    "ZonePoint_ID": "Cardova=\u003efallen tower A"
+    "ZonePoint_ID": "Cardova=>fallen tower A"
   },
   {
     "ClassType": "",
@@ -8781,7 +8781,7 @@
     "TargetX": 372029,
     "TargetY": 672141,
     "TargetZ": 5913,
-    "ZonePoint_ID": "Cardova=\u003efallen tower H"
+    "ZonePoint_ID": "Cardova=>fallen tower H"
   },
   {
     "ClassType": "",
@@ -8797,7 +8797,7 @@
     "TargetX": 372029,
     "TargetY": 672141,
     "TargetZ": 5913,
-    "ZonePoint_ID": "Cardova=\u003efallen tower M"
+    "ZonePoint_ID": "Cardova=>fallen tower M"
   },
   {
     "ClassType": "",
@@ -8813,7 +8813,7 @@
     "TargetX": 31556,
     "TargetY": 38229,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A annwn=\u003ecrypt A"
+    "ZonePoint_ID": "Cata A annwn=>crypt A"
   },
   {
     "ClassType": "",
@@ -8829,7 +8829,7 @@
     "TargetX": 31556,
     "TargetY": 38229,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A annwn=\u003ecrypt H"
+    "ZonePoint_ID": "Cata A annwn=>crypt H"
   },
   {
     "ClassType": "",
@@ -8845,7 +8845,7 @@
     "TargetX": 31556,
     "TargetY": 38229,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A annwn=\u003ecrypt M"
+    "ZonePoint_ID": "Cata A annwn=>crypt M"
   },
   {
     "ClassType": "",
@@ -8861,7 +8861,7 @@
     "TargetX": 36912,
     "TargetY": 29042,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A annwn=\u003einnconu A"
+    "ZonePoint_ID": "Cata A annwn=>innconu A"
   },
   {
     "ClassType": "",
@@ -8877,7 +8877,7 @@
     "TargetX": 36912,
     "TargetY": 29042,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A annwn=\u003einnconu H"
+    "ZonePoint_ID": "Cata A annwn=>innconu H"
   },
   {
     "ClassType": "",
@@ -8893,7 +8893,7 @@
     "TargetX": 36912,
     "TargetY": 29042,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A annwn=\u003einnconu M"
+    "ZonePoint_ID": "Cata A annwn=>innconu M"
   },
   {
     "ClassType": "",
@@ -8909,7 +8909,7 @@
     "TargetX": 40317,
     "TargetY": 27420,
     "TargetZ": 8241,
-    "ZonePoint_ID": "Cata A aqua=\u003ecamelot A"
+    "ZonePoint_ID": "Cata A aqua=>camelot A"
   },
   {
     "ClassType": "",
@@ -8925,7 +8925,7 @@
     "TargetX": 40317,
     "TargetY": 27420,
     "TargetZ": 8241,
-    "ZonePoint_ID": "Cata A aqua=\u003ecamelot H"
+    "ZonePoint_ID": "Cata A aqua=>camelot H"
   },
   {
     "ClassType": "",
@@ -8941,7 +8941,7 @@
     "TargetX": 40317,
     "TargetY": 27420,
     "TargetZ": 8241,
-    "ZonePoint_ID": "Cata A aqua=\u003ecamelot M"
+    "ZonePoint_ID": "Cata A aqua=>camelot M"
   },
   {
     "ClassType": "",
@@ -8957,7 +8957,7 @@
     "TargetX": 34438,
     "TargetY": 47390,
     "TargetZ": 16149,
-    "ZonePoint_ID": "Cata A aqua=\u003einnconu A"
+    "ZonePoint_ID": "Cata A aqua=>innconu A"
   },
   {
     "ClassType": "",
@@ -8973,7 +8973,7 @@
     "TargetX": 34437,
     "TargetY": 47390,
     "TargetZ": 16149,
-    "ZonePoint_ID": "Cata A aqua=\u003einnconu H"
+    "ZonePoint_ID": "Cata A aqua=>innconu H"
   },
   {
     "ClassType": "",
@@ -8989,7 +8989,7 @@
     "TargetX": 34437,
     "TargetY": 47390,
     "TargetZ": 16149,
-    "ZonePoint_ID": "Cata A aqua=\u003einnconu M"
+    "ZonePoint_ID": "Cata A aqua=>innconu M"
   },
   {
     "ClassType": "",
@@ -9005,7 +9005,7 @@
     "TargetX": 37579,
     "TargetY": 29962,
     "TargetZ": 17070,
-    "ZonePoint_ID": "Cata A aqua=\u003eplutonian A"
+    "ZonePoint_ID": "Cata A aqua=>plutonian A"
   },
   {
     "ClassType": "",
@@ -9021,7 +9021,7 @@
     "TargetX": 37438,
     "TargetY": 29933,
     "TargetZ": 17049,
-    "ZonePoint_ID": "Cata A aqua=\u003eplutonian H"
+    "ZonePoint_ID": "Cata A aqua=>plutonian H"
   },
   {
     "ClassType": "",
@@ -9037,7 +9037,7 @@
     "TargetX": 37438,
     "TargetY": 29933,
     "TargetZ": 17049,
-    "ZonePoint_ID": "Cata A aqua=\u003eplutonian M"
+    "ZonePoint_ID": "Cata A aqua=>plutonian M"
   },
   {
     "ClassType": "",
@@ -9053,7 +9053,7 @@
     "TargetX": 25355,
     "TargetY": 35895,
     "TargetZ": 18150,
-    "ZonePoint_ID": "Cata A aqua=\u003esuyblem A"
+    "ZonePoint_ID": "Cata A aqua=>suyblem A"
   },
   {
     "ClassType": "",
@@ -9069,7 +9069,7 @@
     "TargetX": 25333,
     "TargetY": 36054,
     "TargetZ": 18150,
-    "ZonePoint_ID": "Cata A aqua=\u003esuyblem H"
+    "ZonePoint_ID": "Cata A aqua=>suyblem H"
   },
   {
     "ClassType": "",
@@ -9085,7 +9085,7 @@
     "TargetX": 25333,
     "TargetY": 36054,
     "TargetZ": 18150,
-    "ZonePoint_ID": "Cata A aqua=\u003esuyblem M"
+    "ZonePoint_ID": "Cata A aqua=>suyblem M"
   },
   {
     "ClassType": "",
@@ -9101,7 +9101,7 @@
     "TargetX": 33654,
     "TargetY": 16799,
     "TargetZ": 20830,
-    "ZonePoint_ID": "Cata A bmt=\u003emine A"
+    "ZonePoint_ID": "Cata A bmt=>mine A"
   },
   {
     "ClassType": "",
@@ -9117,7 +9117,7 @@
     "TargetX": 33704,
     "TargetY": 16804,
     "TargetZ": 20830,
-    "ZonePoint_ID": "Cata A bmt=\u003emine H"
+    "ZonePoint_ID": "Cata A bmt=>mine H"
   },
   {
     "ClassType": "",
@@ -9133,7 +9133,7 @@
     "TargetX": 33704,
     "TargetY": 16804,
     "TargetZ": 20830,
-    "ZonePoint_ID": "Cata A bmt=\u003emine M"
+    "ZonePoint_ID": "Cata A bmt=>mine M"
   },
   {
     "ClassType": "",
@@ -9149,7 +9149,7 @@
     "TargetX": 32664,
     "TargetY": 17508,
     "TargetZ": 17285,
-    "ZonePoint_ID": "Cata A Camelot=\u003eaqua A"
+    "ZonePoint_ID": "Cata A Camelot=>aqua A"
   },
   {
     "ClassType": "",
@@ -9165,7 +9165,7 @@
     "TargetX": 32664,
     "TargetY": 17508,
     "TargetZ": 17285,
-    "ZonePoint_ID": "Cata A Camelot=\u003eaqua H"
+    "ZonePoint_ID": "Cata A Camelot=>aqua H"
   },
   {
     "ClassType": "",
@@ -9181,7 +9181,7 @@
     "TargetX": 32664,
     "TargetY": 17508,
     "TargetZ": 17285,
-    "ZonePoint_ID": "Cata A Camelot=\u003eaqua M"
+    "ZonePoint_ID": "Cata A Camelot=>aqua M"
   },
   {
     "ClassType": "",
@@ -9197,7 +9197,7 @@
     "TargetX": 32221,
     "TargetY": 45605,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A cardova=\u003emine A"
+    "ZonePoint_ID": "Cata A cardova=>mine A"
   },
   {
     "ClassType": "",
@@ -9213,7 +9213,7 @@
     "TargetX": 32221,
     "TargetY": 45605,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A cardova=\u003emine H"
+    "ZonePoint_ID": "Cata A cardova=>mine H"
   },
   {
     "ClassType": "",
@@ -9229,7 +9229,7 @@
     "TargetX": 32221,
     "TargetY": 45605,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A cardova=\u003emine M"
+    "ZonePoint_ID": "Cata A cardova=>mine M"
   },
   {
     "ClassType": "",
@@ -9245,7 +9245,7 @@
     "TargetX": 19571,
     "TargetY": 37308,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A crypt=\u003eannwn A"
+    "ZonePoint_ID": "Cata A crypt=>annwn A"
   },
   {
     "ClassType": "",
@@ -9261,7 +9261,7 @@
     "TargetX": 19571,
     "TargetY": 37308,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A crypt=\u003eannwn H"
+    "ZonePoint_ID": "Cata A crypt=>annwn H"
   },
   {
     "ClassType": "",
@@ -9277,7 +9277,7 @@
     "TargetX": 19571,
     "TargetY": 37308,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A crypt=\u003eannwn M"
+    "ZonePoint_ID": "Cata A crypt=>annwn M"
   },
   {
     "ClassType": "",
@@ -9293,7 +9293,7 @@
     "TargetX": 27670,
     "TargetY": 28056,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A crypt=\u003edespairs A"
+    "ZonePoint_ID": "Cata A crypt=>despairs A"
   },
   {
     "ClassType": "",
@@ -9309,7 +9309,7 @@
     "TargetX": 27670,
     "TargetY": 28056,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A crypt=\u003edespairs H"
+    "ZonePoint_ID": "Cata A crypt=>despairs H"
   },
   {
     "ClassType": "",
@@ -9325,7 +9325,7 @@
     "TargetX": 27670,
     "TargetY": 28056,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A crypt=\u003edespairs M"
+    "ZonePoint_ID": "Cata A crypt=>despairs M"
   },
   {
     "ClassType": "",
@@ -9341,7 +9341,7 @@
     "TargetX": 15356,
     "TargetY": 40742,
     "TargetZ": 16299,
-    "ZonePoint_ID": "Cata A crypt=\u003eforest A"
+    "ZonePoint_ID": "Cata A crypt=>forest A"
   },
   {
     "ClassType": "",
@@ -9357,7 +9357,7 @@
     "TargetX": 15356,
     "TargetY": 40742,
     "TargetZ": 16299,
-    "ZonePoint_ID": "Cata A crypt=\u003eforest H"
+    "ZonePoint_ID": "Cata A crypt=>forest H"
   },
   {
     "ClassType": "",
@@ -9373,7 +9373,7 @@
     "TargetX": 15356,
     "TargetY": 40742,
     "TargetZ": 16299,
-    "ZonePoint_ID": "Cata A crypt=\u003eforest M"
+    "ZonePoint_ID": "Cata A crypt=>forest M"
   },
   {
     "ClassType": "",
@@ -9389,7 +9389,7 @@
     "TargetX": 37588,
     "TargetY": 34000,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata A crypt=\u003erealm A"
+    "ZonePoint_ID": "Cata A crypt=>realm A"
   },
   {
     "ClassType": "",
@@ -9405,7 +9405,7 @@
     "TargetX": 37588,
     "TargetY": 34000,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata A crypt=\u003erealm H"
+    "ZonePoint_ID": "Cata A crypt=>realm H"
   },
   {
     "ClassType": "",
@@ -9421,7 +9421,7 @@
     "TargetX": 37588,
     "TargetY": 34000,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata A crypt=\u003erealm M"
+    "ZonePoint_ID": "Cata A crypt=>realm M"
   },
   {
     "ClassType": "",
@@ -9437,7 +9437,7 @@
     "TargetX": 48602,
     "TargetY": 31283,
     "TargetZ": 16398,
-    "ZonePoint_ID": "Cata A dark=\u003eforest A"
+    "ZonePoint_ID": "Cata A dark=>forest A"
   },
   {
     "ClassType": "",
@@ -9453,7 +9453,7 @@
     "TargetX": 48602,
     "TargetY": 31283,
     "TargetZ": 16398,
-    "ZonePoint_ID": "Cata A dark=\u003eforest H"
+    "ZonePoint_ID": "Cata A dark=>forest H"
   },
   {
     "ClassType": "",
@@ -9469,7 +9469,7 @@
     "TargetX": 48602,
     "TargetY": 31283,
     "TargetZ": 16398,
-    "ZonePoint_ID": "Cata A dark=\u003eforest M"
+    "ZonePoint_ID": "Cata A dark=>forest M"
   },
   {
     "ClassType": "",
@@ -9485,7 +9485,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt A"
+    "ZonePoint_ID": "Cata A despairs=>crypt A"
   },
   {
     "ClassType": "",
@@ -9501,7 +9501,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt H"
+    "ZonePoint_ID": "Cata A despairs=>crypt H"
   },
   {
     "ClassType": "",
@@ -9517,7 +9517,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt M"
+    "ZonePoint_ID": "Cata A despairs=>crypt M"
   },
   {
     "ClassType": "",
@@ -9533,7 +9533,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt/e A"
+    "ZonePoint_ID": "Cata A despairs=>crypt/e A"
   },
   {
     "ClassType": "",
@@ -9549,7 +9549,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt/e H"
+    "ZonePoint_ID": "Cata A despairs=>crypt/e H"
   },
   {
     "ClassType": "",
@@ -9565,7 +9565,7 @@
     "TargetX": 29628,
     "TargetY": 35414,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A despairs=\u003ecrypt/e M"
+    "ZonePoint_ID": "Cata A despairs=>crypt/e M"
   },
   {
     "ClassType": "",
@@ -9581,7 +9581,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine A"
+    "ZonePoint_ID": "Cata A exiled=>mine A"
   },
   {
     "ClassType": "",
@@ -9597,7 +9597,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine H"
+    "ZonePoint_ID": "Cata A exiled=>mine H"
   },
   {
     "ClassType": "",
@@ -9613,7 +9613,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine M"
+    "ZonePoint_ID": "Cata A exiled=>mine M"
   },
   {
     "ClassType": "",
@@ -9629,7 +9629,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine/e A"
+    "ZonePoint_ID": "Cata A exiled=>mine/e A"
   },
   {
     "ClassType": "",
@@ -9645,7 +9645,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine/e H"
+    "ZonePoint_ID": "Cata A exiled=>mine/e H"
   },
   {
     "ClassType": "",
@@ -9661,7 +9661,7 @@
     "TargetX": 21660,
     "TargetY": 28649,
     "TargetZ": 16828,
-    "ZonePoint_ID": "Cata A exiled=\u003emine/e M"
+    "ZonePoint_ID": "Cata A exiled=>mine/e M"
   },
   {
     "ClassType": "",
@@ -9677,7 +9677,7 @@
     "TargetX": 36874,
     "TargetY": 28128,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge A"
+    "ZonePoint_ID": "Cata A fof=>forge A"
   },
   {
     "ClassType": "",
@@ -9693,7 +9693,7 @@
     "TargetX": 36875,
     "TargetY": 28243,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge H"
+    "ZonePoint_ID": "Cata A fof=>forge H"
   },
   {
     "ClassType": "",
@@ -9709,7 +9709,7 @@
     "TargetX": 36875,
     "TargetY": 28243,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge M"
+    "ZonePoint_ID": "Cata A fof=>forge M"
   },
   {
     "ClassType": "",
@@ -9725,7 +9725,7 @@
     "TargetX": 36875,
     "TargetY": 28243,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge/e A"
+    "ZonePoint_ID": "Cata A fof=>forge/e A"
   },
   {
     "ClassType": "",
@@ -9741,7 +9741,7 @@
     "TargetX": 36875,
     "TargetY": 28243,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge/e H"
+    "ZonePoint_ID": "Cata A fof=>forge/e H"
   },
   {
     "ClassType": "",
@@ -9757,7 +9757,7 @@
     "TargetX": 36875,
     "TargetY": 28243,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata A fof=\u003eforge/e M"
+    "ZonePoint_ID": "Cata A fof=>forge/e M"
   },
   {
     "ClassType": "",
@@ -9773,7 +9773,7 @@
     "TargetX": 21646,
     "TargetY": 21256,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A forest=\u003ecrypt A"
+    "ZonePoint_ID": "Cata A forest=>crypt A"
   },
   {
     "ClassType": "",
@@ -9789,7 +9789,7 @@
     "TargetX": 21646,
     "TargetY": 21256,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A forest=\u003ecrypt H"
+    "ZonePoint_ID": "Cata A forest=>crypt H"
   },
   {
     "ClassType": "",
@@ -9805,7 +9805,7 @@
     "TargetX": 21646,
     "TargetY": 21256,
     "TargetZ": 16477,
-    "ZonePoint_ID": "Cata A forest=\u003ecrypt M"
+    "ZonePoint_ID": "Cata A forest=>crypt M"
   },
   {
     "ClassType": "",
@@ -9821,7 +9821,7 @@
     "TargetX": 16711,
     "TargetY": 32302,
     "TargetZ": 19582,
-    "ZonePoint_ID": "Cata A forest=\u003edark A"
+    "ZonePoint_ID": "Cata A forest=>dark A"
   },
   {
     "ClassType": "",
@@ -9837,7 +9837,7 @@
     "TargetX": 16711,
     "TargetY": 32302,
     "TargetZ": 19582,
-    "ZonePoint_ID": "Cata A forest=\u003edark H"
+    "ZonePoint_ID": "Cata A forest=>dark H"
   },
   {
     "ClassType": "",
@@ -9853,7 +9853,7 @@
     "TargetX": 16711,
     "TargetY": 32302,
     "TargetZ": 19582,
-    "ZonePoint_ID": "Cata A forest=\u003edark M"
+    "ZonePoint_ID": "Cata A forest=>dark M"
   },
   {
     "ClassType": "",
@@ -9869,7 +9869,7 @@
     "TargetX": 35869,
     "TargetY": 22646,
     "TargetZ": 16390,
-    "ZonePoint_ID": "Cata A forest=\u003eforge A"
+    "ZonePoint_ID": "Cata A forest=>forge A"
   },
   {
     "ClassType": "",
@@ -9885,7 +9885,7 @@
     "TargetX": 36845,
     "TargetY": 22622,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata A forest=\u003eforge H"
+    "ZonePoint_ID": "Cata A forest=>forge H"
   },
   {
     "ClassType": "",
@@ -9901,7 +9901,7 @@
     "TargetX": 36845,
     "TargetY": 22622,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata A forest=\u003eforge M"
+    "ZonePoint_ID": "Cata A forest=>forge M"
   },
   {
     "ClassType": "",
@@ -9917,7 +9917,7 @@
     "TargetX": 28423,
     "TargetY": 21795,
     "TargetZ": 15846,
-    "ZonePoint_ID": "Cata A forest=\u003efront A"
+    "ZonePoint_ID": "Cata A forest=>front A"
   },
   {
     "ClassType": "",
@@ -9933,7 +9933,7 @@
     "TargetX": 28423,
     "TargetY": 21795,
     "TargetZ": 15846,
-    "ZonePoint_ID": "Cata A forest=\u003efront H"
+    "ZonePoint_ID": "Cata A forest=>front H"
   },
   {
     "ClassType": "",
@@ -9949,7 +9949,7 @@
     "TargetX": 28423,
     "TargetY": 21795,
     "TargetZ": 15846,
-    "ZonePoint_ID": "Cata A forest=\u003efront M"
+    "ZonePoint_ID": "Cata A forest=>front M"
   },
   {
     "ClassType": "",
@@ -9965,7 +9965,7 @@
     "TargetX": 25914,
     "TargetY": 21216,
     "TargetZ": 15660,
-    "ZonePoint_ID": "Cata A forest=\u003eother A"
+    "ZonePoint_ID": "Cata A forest=>other A"
   },
   {
     "ClassType": "",
@@ -9981,7 +9981,7 @@
     "TargetX": 25914,
     "TargetY": 21216,
     "TargetZ": 15660,
-    "ZonePoint_ID": "Cata A forest=\u003eother H"
+    "ZonePoint_ID": "Cata A forest=>other H"
   },
   {
     "ClassType": "",
@@ -9997,7 +9997,7 @@
     "TargetX": 25914,
     "TargetY": 21216,
     "TargetZ": 15660,
-    "ZonePoint_ID": "Cata A forest=\u003eother M"
+    "ZonePoint_ID": "Cata A forest=>other M"
   },
   {
     "ClassType": "",
@@ -10013,7 +10013,7 @@
     "TargetX": 29501,
     "TargetY": 30492,
     "TargetZ": 16378,
-    "ZonePoint_ID": "Cata A forge=\u003efof A"
+    "ZonePoint_ID": "Cata A forge=>fof A"
   },
   {
     "ClassType": "",
@@ -10029,7 +10029,7 @@
     "TargetX": 36492,
     "TargetY": 36355,
     "TargetZ": 16765,
-    "ZonePoint_ID": "Cata A forge=\u003efof H"
+    "ZonePoint_ID": "Cata A forge=>fof H"
   },
   {
     "ClassType": "",
@@ -10045,7 +10045,7 @@
     "TargetX": 36492,
     "TargetY": 36355,
     "TargetZ": 16765,
-    "ZonePoint_ID": "Cata A forge=\u003efof M"
+    "ZonePoint_ID": "Cata A forge=>fof M"
   },
   {
     "ClassType": "",
@@ -10061,7 +10061,7 @@
     "TargetX": 13829,
     "TargetY": 32386,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata A forge=\u003eforest A"
+    "ZonePoint_ID": "Cata A forge=>forest A"
   },
   {
     "ClassType": "",
@@ -10077,7 +10077,7 @@
     "TargetX": 13829,
     "TargetY": 32386,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata A forge=\u003eforest H"
+    "ZonePoint_ID": "Cata A forge=>forest H"
   },
   {
     "ClassType": "",
@@ -10093,7 +10093,7 @@
     "TargetX": 13829,
     "TargetY": 32386,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata A forge=\u003eforest M"
+    "ZonePoint_ID": "Cata A forge=>forest M"
   },
   {
     "ClassType": "",
@@ -10109,7 +10109,7 @@
     "TargetX": 17991,
     "TargetY": 46428,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata A forge=\u003emine A"
+    "ZonePoint_ID": "Cata A forge=>mine A"
   },
   {
     "ClassType": "",
@@ -10125,7 +10125,7 @@
     "TargetX": 17991,
     "TargetY": 46428,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata A forge=\u003emine H"
+    "ZonePoint_ID": "Cata A forge=>mine H"
   },
   {
     "ClassType": "",
@@ -10141,7 +10141,7 @@
     "TargetX": 17991,
     "TargetY": 46428,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata A forge=\u003emine M"
+    "ZonePoint_ID": "Cata A forge=>mine M"
   },
   {
     "ClassType": "",
@@ -10157,7 +10157,7 @@
     "TargetX": 30014,
     "TargetY": 33503,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata A forge=\u003esmelting A"
+    "ZonePoint_ID": "Cata A forge=>smelting A"
   },
   {
     "ClassType": "",
@@ -10173,7 +10173,7 @@
     "TargetX": 30131,
     "TargetY": 33501,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata A forge=\u003esmelting H"
+    "ZonePoint_ID": "Cata A forge=>smelting H"
   },
   {
     "ClassType": "",
@@ -10189,7 +10189,7 @@
     "TargetX": 30131,
     "TargetY": 33501,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata A forge=\u003esmelting M"
+    "ZonePoint_ID": "Cata A forge=>smelting M"
   },
   {
     "ClassType": "",
@@ -10205,7 +10205,7 @@
     "TargetX": 39269,
     "TargetY": 15298,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata A front=\u003eforest A"
+    "ZonePoint_ID": "Cata A front=>forest A"
   },
   {
     "ClassType": "",
@@ -10221,7 +10221,7 @@
     "TargetX": 39269,
     "TargetY": 15298,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata A front=\u003eforest H"
+    "ZonePoint_ID": "Cata A front=>forest H"
   },
   {
     "ClassType": "",
@@ -10237,7 +10237,7 @@
     "TargetX": 39269,
     "TargetY": 15298,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata A front=\u003eforest M"
+    "ZonePoint_ID": "Cata A front=>forest M"
   },
   {
     "ClassType": "",
@@ -10253,7 +10253,7 @@
     "TargetX": 21727,
     "TargetY": 36389,
     "TargetZ": 16007,
-    "ZonePoint_ID": "Cata A front=\u003esnarg A"
+    "ZonePoint_ID": "Cata A front=>snarg A"
   },
   {
     "ClassType": "",
@@ -10269,7 +10269,7 @@
     "TargetX": 21727,
     "TargetY": 36389,
     "TargetZ": 16007,
-    "ZonePoint_ID": "Cata A front=\u003esnarg H"
+    "ZonePoint_ID": "Cata A front=>snarg H"
   },
   {
     "ClassType": "",
@@ -10285,7 +10285,7 @@
     "TargetX": 21727,
     "TargetY": 36389,
     "TargetZ": 16007,
-    "ZonePoint_ID": "Cata A front=\u003esnarg M"
+    "ZonePoint_ID": "Cata A front=>snarg M"
   },
   {
     "ClassType": "",
@@ -10301,7 +10301,7 @@
     "TargetX": 40556,
     "TargetY": 16884,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A innconu=\u003eannwn A"
+    "ZonePoint_ID": "Cata A innconu=>annwn A"
   },
   {
     "ClassType": "",
@@ -10317,7 +10317,7 @@
     "TargetX": 40556,
     "TargetY": 16884,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A innconu=\u003eannwn H"
+    "ZonePoint_ID": "Cata A innconu=>annwn H"
   },
   {
     "ClassType": "",
@@ -10333,7 +10333,7 @@
     "TargetX": 40556,
     "TargetY": 16884,
     "TargetZ": 15887,
-    "ZonePoint_ID": "Cata A innconu=\u003eannwn M"
+    "ZonePoint_ID": "Cata A innconu=>annwn M"
   },
   {
     "ClassType": "",
@@ -10349,7 +10349,7 @@
     "TargetX": 20199,
     "TargetY": 43291,
     "TargetZ": 10980,
-    "ZonePoint_ID": "Cata A innconu=\u003eaqua A"
+    "ZonePoint_ID": "Cata A innconu=>aqua A"
   },
   {
     "ClassType": "",
@@ -10365,7 +10365,7 @@
     "TargetX": 19814,
     "TargetY": 43337,
     "TargetZ": 10926,
-    "ZonePoint_ID": "Cata A innconu=\u003eaqua H"
+    "ZonePoint_ID": "Cata A innconu=>aqua H"
   },
   {
     "ClassType": "",
@@ -10381,7 +10381,7 @@
     "TargetX": 19814,
     "TargetY": 43337,
     "TargetZ": 10926,
-    "ZonePoint_ID": "Cata A innconu=\u003eaqua M"
+    "ZonePoint_ID": "Cata A innconu=>aqua M"
   },
   {
     "ClassType": "",
@@ -10397,7 +10397,7 @@
     "TargetX": 32798,
     "TargetY": 23956,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata A innconu=\u003emine A"
+    "ZonePoint_ID": "Cata A innconu=>mine A"
   },
   {
     "ClassType": "",
@@ -10413,7 +10413,7 @@
     "TargetX": 32798,
     "TargetY": 23956,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata A innconu=\u003emine H"
+    "ZonePoint_ID": "Cata A innconu=>mine H"
   },
   {
     "ClassType": "",
@@ -10429,7 +10429,7 @@
     "TargetX": 32798,
     "TargetY": 23956,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata A innconu=\u003emine M"
+    "ZonePoint_ID": "Cata A innconu=>mine M"
   },
   {
     "ClassType": "",
@@ -10445,7 +10445,7 @@
     "TargetX": 45032,
     "TargetY": 45620,
     "TargetZ": 17633,
-    "ZonePoint_ID": "Cata A keltoi=\u003emine A"
+    "ZonePoint_ID": "Cata A keltoi=>mine A"
   },
   {
     "ClassType": "",
@@ -10461,7 +10461,7 @@
     "TargetX": 45032,
     "TargetY": 45620,
     "TargetZ": 17633,
-    "ZonePoint_ID": "Cata A keltoi=\u003emine H"
+    "ZonePoint_ID": "Cata A keltoi=>mine H"
   },
   {
     "ClassType": "",
@@ -10477,7 +10477,7 @@
     "TargetX": 45032,
     "TargetY": 45620,
     "TargetZ": 17633,
-    "ZonePoint_ID": "Cata A keltoi=\u003emine M"
+    "ZonePoint_ID": "Cata A keltoi=>mine M"
   },
   {
     "ClassType": "",
@@ -10493,7 +10493,7 @@
     "TargetX": 531519,
     "TargetY": 400009,
     "TargetZ": 9018,
-    "ZonePoint_ID": "Cata A mine=\u003ebmt A"
+    "ZonePoint_ID": "Cata A mine=>bmt A"
   },
   {
     "ClassType": "",
@@ -10509,7 +10509,7 @@
     "TargetX": 531569,
     "TargetY": 400185,
     "TargetZ": 9021,
-    "ZonePoint_ID": "Cata A mine=\u003ebmt H"
+    "ZonePoint_ID": "Cata A mine=>bmt H"
   },
   {
     "ClassType": "",
@@ -10525,7 +10525,7 @@
     "TargetX": 531569,
     "TargetY": 400185,
     "TargetZ": 9021,
-    "ZonePoint_ID": "Cata A mine=\u003ebmt M"
+    "ZonePoint_ID": "Cata A mine=>bmt M"
   },
   {
     "ClassType": "",
@@ -10541,7 +10541,7 @@
     "TargetX": 31685,
     "TargetY": 30363,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata A mine=\u003ecardova A"
+    "ZonePoint_ID": "Cata A mine=>cardova A"
   },
   {
     "ClassType": "",
@@ -10557,7 +10557,7 @@
     "TargetX": 31685,
     "TargetY": 30363,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata A mine=\u003ecardova H"
+    "ZonePoint_ID": "Cata A mine=>cardova H"
   },
   {
     "ClassType": "",
@@ -10573,7 +10573,7 @@
     "TargetX": 31685,
     "TargetY": 30363,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata A mine=\u003ecardova M"
+    "ZonePoint_ID": "Cata A mine=>cardova M"
   },
   {
     "ClassType": "",
@@ -10589,7 +10589,7 @@
     "TargetX": 37459,
     "TargetY": 35213,
     "TargetZ": 17779,
-    "ZonePoint_ID": "Cata A mine=\u003eexiled A"
+    "ZonePoint_ID": "Cata A mine=>exiled A"
   },
   {
     "ClassType": "",
@@ -10605,7 +10605,7 @@
     "TargetX": 37459,
     "TargetY": 35213,
     "TargetZ": 17779,
-    "ZonePoint_ID": "Cata A mine=\u003eexiled H"
+    "ZonePoint_ID": "Cata A mine=>exiled H"
   },
   {
     "ClassType": "",
@@ -10621,7 +10621,7 @@
     "TargetX": 37459,
     "TargetY": 35213,
     "TargetZ": 17779,
-    "ZonePoint_ID": "Cata A mine=\u003eexiled M"
+    "ZonePoint_ID": "Cata A mine=>exiled M"
   },
   {
     "ClassType": "",
@@ -10637,7 +10637,7 @@
     "TargetX": 28677,
     "TargetY": 22621,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata A mine=\u003eforge A"
+    "ZonePoint_ID": "Cata A mine=>forge A"
   },
   {
     "ClassType": "",
@@ -10653,7 +10653,7 @@
     "TargetX": 28677,
     "TargetY": 22621,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata A mine=\u003eforge H"
+    "ZonePoint_ID": "Cata A mine=>forge H"
   },
   {
     "ClassType": "",
@@ -10669,7 +10669,7 @@
     "TargetX": 28677,
     "TargetY": 22621,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata A mine=\u003eforge M"
+    "ZonePoint_ID": "Cata A mine=>forge M"
   },
   {
     "ClassType": "",
@@ -10685,7 +10685,7 @@
     "TargetX": 38699,
     "TargetY": 44350,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A mine=\u003einnconu A"
+    "ZonePoint_ID": "Cata A mine=>innconu A"
   },
   {
     "ClassType": "",
@@ -10701,7 +10701,7 @@
     "TargetX": 38699,
     "TargetY": 44350,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A mine=\u003einnconu H"
+    "ZonePoint_ID": "Cata A mine=>innconu H"
   },
   {
     "ClassType": "",
@@ -10717,7 +10717,7 @@
     "TargetX": 38699,
     "TargetY": 44350,
     "TargetZ": 16412,
-    "ZonePoint_ID": "Cata A mine=\u003einnconu M"
+    "ZonePoint_ID": "Cata A mine=>innconu M"
   },
   {
     "ClassType": "",
@@ -10733,7 +10733,7 @@
     "TargetX": 31184,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003ekeltoi A"
+    "ZonePoint_ID": "Cata A mine=>keltoi A"
   },
   {
     "ClassType": "",
@@ -10749,7 +10749,7 @@
     "TargetX": 31184,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003ekeltoi H"
+    "ZonePoint_ID": "Cata A mine=>keltoi H"
   },
   {
     "ClassType": "",
@@ -10765,7 +10765,7 @@
     "TargetX": 31184,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003ekeltoi M"
+    "ZonePoint_ID": "Cata A mine=>keltoi M"
   },
   {
     "ClassType": "",
@@ -10781,7 +10781,7 @@
     "TargetX": 32029,
     "TargetY": 32166,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003emithra A"
+    "ZonePoint_ID": "Cata A mine=>mithra A"
   },
   {
     "ClassType": "",
@@ -10797,7 +10797,7 @@
     "TargetX": 32029,
     "TargetY": 32166,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003emithra H"
+    "ZonePoint_ID": "Cata A mine=>mithra H"
   },
   {
     "ClassType": "",
@@ -10813,7 +10813,7 @@
     "TargetX": 32029,
     "TargetY": 32166,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata A mine=\u003emithra M"
+    "ZonePoint_ID": "Cata A mine=>mithra M"
   },
   {
     "ClassType": "",
@@ -10829,7 +10829,7 @@
     "TargetX": 42325,
     "TargetY": 37022,
     "TargetZ": 16983,
-    "ZonePoint_ID": "Cata A mine=\u003eshafts A"
+    "ZonePoint_ID": "Cata A mine=>shafts A"
   },
   {
     "ClassType": "",
@@ -10845,7 +10845,7 @@
     "TargetX": 42325,
     "TargetY": 37022,
     "TargetZ": 16983,
-    "ZonePoint_ID": "Cata A mine=\u003eshafts H"
+    "ZonePoint_ID": "Cata A mine=>shafts H"
   },
   {
     "ClassType": "",
@@ -10861,7 +10861,7 @@
     "TargetX": 42325,
     "TargetY": 37022,
     "TargetZ": 16983,
-    "ZonePoint_ID": "Cata A mine=\u003eshafts M"
+    "ZonePoint_ID": "Cata A mine=>shafts M"
   },
   {
     "ClassType": "",
@@ -10877,7 +10877,7 @@
     "TargetX": 32187,
     "TargetY": 33118,
     "TargetZ": 16280,
-    "ZonePoint_ID": "Cata A mine=\u003estone A"
+    "ZonePoint_ID": "Cata A mine=>stone A"
   },
   {
     "ClassType": "",
@@ -10893,7 +10893,7 @@
     "TargetX": 32187,
     "TargetY": 33118,
     "TargetZ": 16280,
-    "ZonePoint_ID": "Cata A mine=\u003estone H"
+    "ZonePoint_ID": "Cata A mine=>stone H"
   },
   {
     "ClassType": "",
@@ -10909,7 +10909,7 @@
     "TargetX": 32187,
     "TargetY": 33118,
     "TargetZ": 16280,
-    "ZonePoint_ID": "Cata A mine=\u003estone M"
+    "ZonePoint_ID": "Cata A mine=>stone M"
   },
   {
     "ClassType": "",
@@ -10925,7 +10925,7 @@
     "TargetX": 32153,
     "TargetY": 33553,
     "TargetZ": 14987,
-    "ZonePoint_ID": "Cata A mine=\u003etepok A"
+    "ZonePoint_ID": "Cata A mine=>tepok A"
   },
   {
     "ClassType": "",
@@ -10941,7 +10941,7 @@
     "TargetX": 32153,
     "TargetY": 33553,
     "TargetZ": 14987,
-    "ZonePoint_ID": "Cata A mine=\u003etepok H"
+    "ZonePoint_ID": "Cata A mine=>tepok H"
   },
   {
     "ClassType": "",
@@ -10957,7 +10957,7 @@
     "TargetX": 32153,
     "TargetY": 33553,
     "TargetZ": 14987,
-    "ZonePoint_ID": "Cata A mine=\u003etepok M"
+    "ZonePoint_ID": "Cata A mine=>tepok M"
   },
   {
     "ClassType": "",
@@ -10973,7 +10973,7 @@
     "TargetX": 30194,
     "TargetY": 45596,
     "TargetZ": 18431,
-    "ZonePoint_ID": "Cata A mithra=\u003emine A"
+    "ZonePoint_ID": "Cata A mithra=>mine A"
   },
   {
     "ClassType": "",
@@ -10989,7 +10989,7 @@
     "TargetX": 30194,
     "TargetY": 45596,
     "TargetZ": 18431,
-    "ZonePoint_ID": "Cata A mithra=\u003emine H"
+    "ZonePoint_ID": "Cata A mithra=>mine H"
   },
   {
     "ClassType": "",
@@ -11005,7 +11005,7 @@
     "TargetX": 30194,
     "TargetY": 45596,
     "TargetZ": 18431,
-    "ZonePoint_ID": "Cata A mithra=\u003emine M"
+    "ZonePoint_ID": "Cata A mithra=>mine M"
   },
   {
     "ClassType": "",
@@ -11021,7 +11021,7 @@
     "TargetX": 40776,
     "TargetY": 48665,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata A other=\u003eforest A"
+    "ZonePoint_ID": "Cata A other=>forest A"
   },
   {
     "ClassType": "",
@@ -11037,7 +11037,7 @@
     "TargetX": 40776,
     "TargetY": 48665,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata A other=\u003eforest H"
+    "ZonePoint_ID": "Cata A other=>forest H"
   },
   {
     "ClassType": "",
@@ -11053,7 +11053,7 @@
     "TargetX": 40776,
     "TargetY": 48665,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata A other=\u003eforest M"
+    "ZonePoint_ID": "Cata A other=>forest M"
   },
   {
     "ClassType": "",
@@ -11069,7 +11069,7 @@
     "TargetX": 32325,
     "TargetY": 33126,
     "TargetZ": 21868,
-    "ZonePoint_ID": "Cata A other=\u003etribulation A"
+    "ZonePoint_ID": "Cata A other=>tribulation A"
   },
   {
     "ClassType": "",
@@ -11085,7 +11085,7 @@
     "TargetX": 32325,
     "TargetY": 33126,
     "TargetZ": 21868,
-    "ZonePoint_ID": "Cata A other=\u003etribulation H"
+    "ZonePoint_ID": "Cata A other=>tribulation H"
   },
   {
     "ClassType": "",
@@ -11101,7 +11101,7 @@
     "TargetX": 32325,
     "TargetY": 33126,
     "TargetZ": 21868,
-    "ZonePoint_ID": "Cata A other=\u003etribulation M"
+    "ZonePoint_ID": "Cata A other=>tribulation M"
   },
   {
     "ClassType": "",
@@ -11117,7 +11117,7 @@
     "TargetX": 27825,
     "TargetY": 36499,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua A"
+    "ZonePoint_ID": "Cata A plutonian=>aqua A"
   },
   {
     "ClassType": "",
@@ -11133,7 +11133,7 @@
     "TargetX": 27825,
     "TargetY": 36499,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua H"
+    "ZonePoint_ID": "Cata A plutonian=>aqua H"
   },
   {
     "ClassType": "",
@@ -11149,7 +11149,7 @@
     "TargetX": 27825,
     "TargetY": 36499,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua M"
+    "ZonePoint_ID": "Cata A plutonian=>aqua M"
   },
   {
     "ClassType": "",
@@ -11165,7 +11165,7 @@
     "TargetX": 27754,
     "TargetY": 36504,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua/e A"
+    "ZonePoint_ID": "Cata A plutonian=>aqua/e A"
   },
   {
     "ClassType": "",
@@ -11181,7 +11181,7 @@
     "TargetX": 27825,
     "TargetY": 36499,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua/e H"
+    "ZonePoint_ID": "Cata A plutonian=>aqua/e H"
   },
   {
     "ClassType": "",
@@ -11197,7 +11197,7 @@
     "TargetX": 27825,
     "TargetY": 36499,
     "TargetZ": 14084,
-    "ZonePoint_ID": "Cata A plutonian=\u003eaqua/e M"
+    "ZonePoint_ID": "Cata A plutonian=>aqua/e M"
   },
   {
     "ClassType": "",
@@ -11213,7 +11213,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt A"
+    "ZonePoint_ID": "Cata A realm=>crypt A"
   },
   {
     "ClassType": "",
@@ -11229,7 +11229,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt H"
+    "ZonePoint_ID": "Cata A realm=>crypt H"
   },
   {
     "ClassType": "",
@@ -11245,7 +11245,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt M"
+    "ZonePoint_ID": "Cata A realm=>crypt M"
   },
   {
     "ClassType": "",
@@ -11261,7 +11261,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt/e A"
+    "ZonePoint_ID": "Cata A realm=>crypt/e A"
   },
   {
     "ClassType": "",
@@ -11277,7 +11277,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt/e H"
+    "ZonePoint_ID": "Cata A realm=>crypt/e H"
   },
   {
     "ClassType": "",
@@ -11293,7 +11293,7 @@
     "TargetX": 34364,
     "TargetY": 27406,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata A realm=\u003ecrypt/e M"
+    "ZonePoint_ID": "Cata A realm=>crypt/e M"
   },
   {
     "ClassType": "",
@@ -11309,7 +11309,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine A"
+    "ZonePoint_ID": "Cata A shafts=>mine A"
   },
   {
     "ClassType": "",
@@ -11325,7 +11325,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine H"
+    "ZonePoint_ID": "Cata A shafts=>mine H"
   },
   {
     "ClassType": "",
@@ -11341,7 +11341,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine M"
+    "ZonePoint_ID": "Cata A shafts=>mine M"
   },
   {
     "ClassType": "",
@@ -11357,7 +11357,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine/e A"
+    "ZonePoint_ID": "Cata A shafts=>mine/e A"
   },
   {
     "ClassType": "",
@@ -11373,7 +11373,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine/e H"
+    "ZonePoint_ID": "Cata A shafts=>mine/e H"
   },
   {
     "ClassType": "",
@@ -11389,7 +11389,7 @@
     "TargetX": 39908,
     "TargetY": 37068,
     "TargetZ": 18438,
-    "ZonePoint_ID": "Cata A shafts=\u003emine/e M"
+    "ZonePoint_ID": "Cata A shafts=>mine/e M"
   },
   {
     "ClassType": "",
@@ -11405,7 +11405,7 @@
     "TargetX": 33121,
     "TargetY": 40369,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge A"
+    "ZonePoint_ID": "Cata A smelting=>forge A"
   },
   {
     "ClassType": "",
@@ -11421,7 +11421,7 @@
     "TargetX": 33125,
     "TargetY": 40302,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge H"
+    "ZonePoint_ID": "Cata A smelting=>forge H"
   },
   {
     "ClassType": "",
@@ -11437,7 +11437,7 @@
     "TargetX": 33125,
     "TargetY": 40302,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge M"
+    "ZonePoint_ID": "Cata A smelting=>forge M"
   },
   {
     "ClassType": "",
@@ -11453,7 +11453,7 @@
     "TargetX": 33125,
     "TargetY": 40302,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge/e A"
+    "ZonePoint_ID": "Cata A smelting=>forge/e A"
   },
   {
     "ClassType": "",
@@ -11469,7 +11469,7 @@
     "TargetX": 33125,
     "TargetY": 40302,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge/e H"
+    "ZonePoint_ID": "Cata A smelting=>forge/e H"
   },
   {
     "ClassType": "",
@@ -11485,7 +11485,7 @@
     "TargetX": 33125,
     "TargetY": 40302,
     "TargetZ": 15617,
-    "ZonePoint_ID": "Cata A smelting=\u003eforge/e M"
+    "ZonePoint_ID": "Cata A smelting=>forge/e M"
   },
   {
     "ClassType": "",
@@ -11501,7 +11501,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront A"
+    "ZonePoint_ID": "Cata A snarg=>front A"
   },
   {
     "ClassType": "",
@@ -11517,7 +11517,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront H"
+    "ZonePoint_ID": "Cata A snarg=>front H"
   },
   {
     "ClassType": "",
@@ -11533,7 +11533,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront M"
+    "ZonePoint_ID": "Cata A snarg=>front M"
   },
   {
     "ClassType": "",
@@ -11549,7 +11549,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront/e A"
+    "ZonePoint_ID": "Cata A snarg=>front/e A"
   },
   {
     "ClassType": "",
@@ -11565,7 +11565,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront/e H"
+    "ZonePoint_ID": "Cata A snarg=>front/e H"
   },
   {
     "ClassType": "",
@@ -11581,7 +11581,7 @@
     "TargetX": 35567,
     "TargetY": 47900,
     "TargetZ": 15807,
-    "ZonePoint_ID": "Cata A snarg=\u003efront/e M"
+    "ZonePoint_ID": "Cata A snarg=>front/e M"
   },
   {
     "ClassType": "",
@@ -11597,7 +11597,7 @@
     "TargetX": 18994,
     "TargetY": 29597,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A stone=\u003emine A"
+    "ZonePoint_ID": "Cata A stone=>mine A"
   },
   {
     "ClassType": "",
@@ -11613,7 +11613,7 @@
     "TargetX": 18994,
     "TargetY": 29597,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A stone=\u003emine H"
+    "ZonePoint_ID": "Cata A stone=>mine H"
   },
   {
     "ClassType": "",
@@ -11629,7 +11629,7 @@
     "TargetX": 18994,
     "TargetY": 29597,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata A stone=\u003emine M"
+    "ZonePoint_ID": "Cata A stone=>mine M"
   },
   {
     "ClassType": "",
@@ -11645,7 +11645,7 @@
     "TargetX": 28608,
     "TargetY": 26858,
     "TargetZ": 16781,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua A"
+    "ZonePoint_ID": "Cata A suyblem=>aqua A"
   },
   {
     "ClassType": "",
@@ -11661,7 +11661,7 @@
     "TargetX": 28489,
     "TargetY": 26859,
     "TargetZ": 16760,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua H"
+    "ZonePoint_ID": "Cata A suyblem=>aqua H"
   },
   {
     "ClassType": "",
@@ -11677,7 +11677,7 @@
     "TargetX": 28489,
     "TargetY": 26859,
     "TargetZ": 16760,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua M"
+    "ZonePoint_ID": "Cata A suyblem=>aqua M"
   },
   {
     "ClassType": "",
@@ -11693,7 +11693,7 @@
     "TargetX": 28608,
     "TargetY": 26858,
     "TargetZ": 16781,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua/e A"
+    "ZonePoint_ID": "Cata A suyblem=>aqua/e A"
   },
   {
     "ClassType": "",
@@ -11709,7 +11709,7 @@
     "TargetX": 28489,
     "TargetY": 26859,
     "TargetZ": 16760,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua/e H"
+    "ZonePoint_ID": "Cata A suyblem=>aqua/e H"
   },
   {
     "ClassType": "",
@@ -11725,7 +11725,7 @@
     "TargetX": 28489,
     "TargetY": 26859,
     "TargetZ": 16760,
-    "ZonePoint_ID": "Cata A suyblem=\u003eaqua/e M"
+    "ZonePoint_ID": "Cata A suyblem=>aqua/e M"
   },
   {
     "ClassType": "",
@@ -11741,7 +11741,7 @@
     "TargetX": 45604,
     "TargetY": 31780,
     "TargetZ": 18433,
-    "ZonePoint_ID": "Cata A tepok=\u003emine A"
+    "ZonePoint_ID": "Cata A tepok=>mine A"
   },
   {
     "ClassType": "",
@@ -11757,7 +11757,7 @@
     "TargetX": 45604,
     "TargetY": 31780,
     "TargetZ": 18433,
-    "ZonePoint_ID": "Cata A tepok=\u003emine H"
+    "ZonePoint_ID": "Cata A tepok=>mine H"
   },
   {
     "ClassType": "",
@@ -11773,7 +11773,7 @@
     "TargetX": 45604,
     "TargetY": 31780,
     "TargetZ": 18433,
-    "ZonePoint_ID": "Cata A tepok=\u003emine M"
+    "ZonePoint_ID": "Cata A tepok=>mine M"
   },
   {
     "ClassType": "",
@@ -11789,7 +11789,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother A"
+    "ZonePoint_ID": "Cata A tribulation=>other A"
   },
   {
     "ClassType": "",
@@ -11805,7 +11805,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother H"
+    "ZonePoint_ID": "Cata A tribulation=>other H"
   },
   {
     "ClassType": "",
@@ -11821,7 +11821,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother M"
+    "ZonePoint_ID": "Cata A tribulation=>other M"
   },
   {
     "ClassType": "",
@@ -11837,7 +11837,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother/e A"
+    "ZonePoint_ID": "Cata A tribulation=>other/e A"
   },
   {
     "ClassType": "",
@@ -11853,7 +11853,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother/e H"
+    "ZonePoint_ID": "Cata A tribulation=>other/e H"
   },
   {
     "ClassType": "",
@@ -11869,7 +11869,7 @@
     "TargetX": 40639,
     "TargetY": 39864,
     "TargetZ": 14986,
-    "ZonePoint_ID": "Cata A tribulation=\u003eother/e M"
+    "ZonePoint_ID": "Cata A tribulation=>other/e M"
   },
   {
     "ClassType": "",
@@ -11885,7 +11885,7 @@
     "TargetX": 39272,
     "TargetY": 15297,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H annwn=\u003eforest A"
+    "ZonePoint_ID": "Cata H annwn=>forest A"
   },
   {
     "ClassType": "",
@@ -11901,7 +11901,7 @@
     "TargetX": 39272,
     "TargetY": 15297,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H annwn=\u003eforest H"
+    "ZonePoint_ID": "Cata H annwn=>forest H"
   },
   {
     "ClassType": "",
@@ -11917,7 +11917,7 @@
     "TargetX": 39272,
     "TargetY": 15297,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H annwn=\u003eforest M"
+    "ZonePoint_ID": "Cata H annwn=>forest M"
   },
   {
     "ClassType": "",
@@ -11933,7 +11933,7 @@
     "TargetX": 25550,
     "TargetY": 45598,
     "TargetZ": 20029,
-    "ZonePoint_ID": "Cata H bri leith=\u003emine A"
+    "ZonePoint_ID": "Cata H bri leith=>mine A"
   },
   {
     "ClassType": "",
@@ -11949,7 +11949,7 @@
     "TargetX": 25550,
     "TargetY": 45598,
     "TargetZ": 20029,
-    "ZonePoint_ID": "Cata H bri leith=\u003emine H"
+    "ZonePoint_ID": "Cata H bri leith=>mine H"
   },
   {
     "ClassType": "",
@@ -11965,7 +11965,7 @@
     "TargetX": 25550,
     "TargetY": 45598,
     "TargetZ": 20029,
-    "ZonePoint_ID": "Cata H bri leith=\u003emine M"
+    "ZonePoint_ID": "Cata H bri leith=>mine M"
   },
   {
     "ClassType": "",
@@ -11981,7 +11981,7 @@
     "TargetX": 16959,
     "TargetY": 28507,
     "TargetZ": 16857,
-    "ZonePoint_ID": "Cata H Corus=\u003emine A"
+    "ZonePoint_ID": "Cata H Corus=>mine A"
   },
   {
     "ClassType": "",
@@ -11997,7 +11997,7 @@
     "TargetX": 16959,
     "TargetY": 28507,
     "TargetZ": 16857,
-    "ZonePoint_ID": "Cata H Corus=\u003emine H"
+    "ZonePoint_ID": "Cata H Corus=>mine H"
   },
   {
     "ClassType": "",
@@ -12013,7 +12013,7 @@
     "TargetX": 16959,
     "TargetY": 28507,
     "TargetZ": 16857,
-    "ZonePoint_ID": "Cata H Corus=\u003emine M"
+    "ZonePoint_ID": "Cata H Corus=>mine M"
   },
   {
     "ClassType": "",
@@ -12029,7 +12029,7 @@
     "TargetX": 48215,
     "TargetY": 31254,
     "TargetZ": 16358,
-    "ZonePoint_ID": "Cata H darksp=\u003eforest A"
+    "ZonePoint_ID": "Cata H darksp=>forest A"
   },
   {
     "ClassType": "",
@@ -12045,7 +12045,7 @@
     "TargetX": 48215,
     "TargetY": 31254,
     "TargetZ": 16358,
-    "ZonePoint_ID": "Cata H darksp=\u003eforest H"
+    "ZonePoint_ID": "Cata H darksp=>forest H"
   },
   {
     "ClassType": "",
@@ -12061,7 +12061,7 @@
     "TargetX": 48215,
     "TargetY": 31254,
     "TargetZ": 16358,
-    "ZonePoint_ID": "Cata H darksp=\u003eforest M"
+    "ZonePoint_ID": "Cata H darksp=>forest M"
   },
   {
     "ClassType": "",
@@ -12077,7 +12077,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront A"
+    "ZonePoint_ID": "Cata H deep=>front A"
   },
   {
     "ClassType": "",
@@ -12093,7 +12093,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront H"
+    "ZonePoint_ID": "Cata H deep=>front H"
   },
   {
     "ClassType": "",
@@ -12109,7 +12109,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront M"
+    "ZonePoint_ID": "Cata H deep=>front M"
   },
   {
     "ClassType": "",
@@ -12125,7 +12125,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront/e A"
+    "ZonePoint_ID": "Cata H deep=>front/e A"
   },
   {
     "ClassType": "",
@@ -12141,7 +12141,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront/e H"
+    "ZonePoint_ID": "Cata H deep=>front/e H"
   },
   {
     "ClassType": "",
@@ -12157,7 +12157,7 @@
     "TargetX": 33353,
     "TargetY": 49808,
     "TargetZ": 15811,
-    "ZonePoint_ID": "Cata H deep=\u003efront/e M"
+    "ZonePoint_ID": "Cata H deep=>front/e M"
   },
   {
     "ClassType": "",
@@ -12173,7 +12173,7 @@
     "TargetX": 37051,
     "TargetY": 29651,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003eannwn A"
+    "ZonePoint_ID": "Cata H forest=>annwn A"
   },
   {
     "ClassType": "",
@@ -12189,7 +12189,7 @@
     "TargetX": 37051,
     "TargetY": 29641,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003eannwn H"
+    "ZonePoint_ID": "Cata H forest=>annwn H"
   },
   {
     "ClassType": "",
@@ -12205,7 +12205,7 @@
     "TargetX": 37051,
     "TargetY": 29651,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003eannwn M"
+    "ZonePoint_ID": "Cata H forest=>annwn M"
   },
   {
     "ClassType": "",
@@ -12221,7 +12221,7 @@
     "TargetX": 16657,
     "TargetY": 32338,
     "TargetZ": 19587,
-    "ZonePoint_ID": "Cata H forest=\u003edarksp A"
+    "ZonePoint_ID": "Cata H forest=>darksp A"
   },
   {
     "ClassType": "",
@@ -12237,7 +12237,7 @@
     "TargetX": 16657,
     "TargetY": 32338,
     "TargetZ": 19587,
-    "ZonePoint_ID": "Cata H forest=\u003edarksp H"
+    "ZonePoint_ID": "Cata H forest=>darksp H"
   },
   {
     "ClassType": "",
@@ -12253,7 +12253,7 @@
     "TargetX": 16657,
     "TargetY": 32338,
     "TargetZ": 19587,
-    "ZonePoint_ID": "Cata H forest=\u003edarksp M"
+    "ZonePoint_ID": "Cata H forest=>darksp M"
   },
   {
     "ClassType": "",
@@ -12269,7 +12269,7 @@
     "TargetX": 38081,
     "TargetY": 24106,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H forest=\u003eforge A"
+    "ZonePoint_ID": "Cata H forest=>forge A"
   },
   {
     "ClassType": "",
@@ -12285,7 +12285,7 @@
     "TargetX": 38081,
     "TargetY": 24106,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H forest=\u003eforge H"
+    "ZonePoint_ID": "Cata H forest=>forge H"
   },
   {
     "ClassType": "",
@@ -12301,7 +12301,7 @@
     "TargetX": 38081,
     "TargetY": 24106,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata H forest=\u003eforge M"
+    "ZonePoint_ID": "Cata H forest=>forge M"
   },
   {
     "ClassType": "",
@@ -12317,7 +12317,7 @@
     "TargetX": 28209,
     "TargetY": 21801,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003efront A"
+    "ZonePoint_ID": "Cata H forest=>front A"
   },
   {
     "ClassType": "",
@@ -12333,7 +12333,7 @@
     "TargetX": 28209,
     "TargetY": 21801,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003efront H"
+    "ZonePoint_ID": "Cata H forest=>front H"
   },
   {
     "ClassType": "",
@@ -12349,7 +12349,7 @@
     "TargetX": 28209,
     "TargetY": 21801,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata H forest=\u003efront M"
+    "ZonePoint_ID": "Cata H forest=>front M"
   },
   {
     "ClassType": "",
@@ -12365,7 +12365,7 @@
     "TargetX": 40548,
     "TargetY": 24487,
     "TargetZ": 21167,
-    "ZonePoint_ID": "Cata H forest=\u003equeen A"
+    "ZonePoint_ID": "Cata H forest=>queen A"
   },
   {
     "ClassType": "",
@@ -12381,7 +12381,7 @@
     "TargetX": 40548,
     "TargetY": 24487,
     "TargetZ": 21167,
-    "ZonePoint_ID": "Cata H forest=\u003equeen H"
+    "ZonePoint_ID": "Cata H forest=>queen H"
   },
   {
     "ClassType": "",
@@ -12397,7 +12397,7 @@
     "TargetX": 40548,
     "TargetY": 24487,
     "TargetZ": 21167,
-    "ZonePoint_ID": "Cata H forest=\u003equeen M"
+    "ZonePoint_ID": "Cata H forest=>queen M"
   },
   {
     "ClassType": "",
@@ -12413,7 +12413,7 @@
     "TargetX": 13793,
     "TargetY": 32388,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata H forge=\u003eforest A"
+    "ZonePoint_ID": "Cata H forge=>forest A"
   },
   {
     "ClassType": "",
@@ -12429,7 +12429,7 @@
     "TargetX": 13793,
     "TargetY": 32388,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata H forge=\u003eforest H"
+    "ZonePoint_ID": "Cata H forge=>forest H"
   },
   {
     "ClassType": "",
@@ -12445,7 +12445,7 @@
     "TargetX": 13793,
     "TargetY": 32388,
     "TargetZ": 16352,
-    "ZonePoint_ID": "Cata H forge=\u003eforest M"
+    "ZonePoint_ID": "Cata H forge=>forest M"
   },
   {
     "ClassType": "",
@@ -12461,7 +12461,7 @@
     "TargetX": 31992,
     "TargetY": 28565,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003egobl A"
+    "ZonePoint_ID": "Cata H forge=>gobl A"
   },
   {
     "ClassType": "",
@@ -12477,7 +12477,7 @@
     "TargetX": 31992,
     "TargetY": 28565,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003egobl H"
+    "ZonePoint_ID": "Cata H forge=>gobl H"
   },
   {
     "ClassType": "",
@@ -12493,7 +12493,7 @@
     "TargetX": 31992,
     "TargetY": 28565,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003egobl M"
+    "ZonePoint_ID": "Cata H forge=>gobl M"
   },
   {
     "ClassType": "",
@@ -12509,7 +12509,7 @@
     "TargetX": 39493,
     "TargetY": 34526,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003ehugak A"
+    "ZonePoint_ID": "Cata H forge=>hugak A"
   },
   {
     "ClassType": "",
@@ -12525,7 +12525,7 @@
     "TargetX": 39493,
     "TargetY": 34526,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003ehugak H"
+    "ZonePoint_ID": "Cata H forge=>hugak H"
   },
   {
     "ClassType": "",
@@ -12541,7 +12541,7 @@
     "TargetX": 39493,
     "TargetY": 34526,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata H forge=\u003ehugak M"
+    "ZonePoint_ID": "Cata H forge=>hugak M"
   },
   {
     "ClassType": "",
@@ -12557,7 +12557,7 @@
     "TargetX": 16051,
     "TargetY": 19591,
     "TargetZ": 17644,
-    "ZonePoint_ID": "Cata H forge=\u003emine A"
+    "ZonePoint_ID": "Cata H forge=>mine A"
   },
   {
     "ClassType": "",
@@ -12573,7 +12573,7 @@
     "TargetX": 16051,
     "TargetY": 19591,
     "TargetZ": 17644,
-    "ZonePoint_ID": "Cata H forge=\u003emine H"
+    "ZonePoint_ID": "Cata H forge=>mine H"
   },
   {
     "ClassType": "",
@@ -12589,7 +12589,7 @@
     "TargetX": 16051,
     "TargetY": 19591,
     "TargetZ": 17644,
-    "ZonePoint_ID": "Cata H forge=\u003emine M"
+    "ZonePoint_ID": "Cata H forge=>mine M"
   },
   {
     "ClassType": "",
@@ -12605,7 +12605,7 @@
     "TargetX": 51184,
     "TargetY": 35524,
     "TargetZ": 15999,
-    "ZonePoint_ID": "Cata H front=\u003edeep A"
+    "ZonePoint_ID": "Cata H front=>deep A"
   },
   {
     "ClassType": "",
@@ -12621,7 +12621,7 @@
     "TargetX": 51184,
     "TargetY": 35524,
     "TargetZ": 15999,
-    "ZonePoint_ID": "Cata H front=\u003edeep H"
+    "ZonePoint_ID": "Cata H front=>deep H"
   },
   {
     "ClassType": "",
@@ -12637,7 +12637,7 @@
     "TargetX": 51184,
     "TargetY": 35524,
     "TargetZ": 15999,
-    "ZonePoint_ID": "Cata H front=\u003edeep M"
+    "ZonePoint_ID": "Cata H front=>deep M"
   },
   {
     "ClassType": "",
@@ -12653,7 +12653,7 @@
     "TargetX": 40733,
     "TargetY": 48674,
     "TargetZ": 16395,
-    "ZonePoint_ID": "Cata H front=\u003eforest A"
+    "ZonePoint_ID": "Cata H front=>forest A"
   },
   {
     "ClassType": "",
@@ -12669,7 +12669,7 @@
     "TargetX": 40733,
     "TargetY": 48674,
     "TargetZ": 16395,
-    "ZonePoint_ID": "Cata H front=\u003eforest H"
+    "ZonePoint_ID": "Cata H front=>forest H"
   },
   {
     "ClassType": "",
@@ -12685,7 +12685,7 @@
     "TargetX": 40733,
     "TargetY": 48674,
     "TargetZ": 16395,
-    "ZonePoint_ID": "Cata H front=\u003eforest M"
+    "ZonePoint_ID": "Cata H front=>forest M"
   },
   {
     "ClassType": "",
@@ -12701,7 +12701,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge A"
+    "ZonePoint_ID": "Cata H gobl=>forge A"
   },
   {
     "ClassType": "",
@@ -12717,7 +12717,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge H"
+    "ZonePoint_ID": "Cata H gobl=>forge H"
   },
   {
     "ClassType": "",
@@ -12733,7 +12733,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge M"
+    "ZonePoint_ID": "Cata H gobl=>forge M"
   },
   {
     "ClassType": "",
@@ -12749,7 +12749,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge/e A"
+    "ZonePoint_ID": "Cata H gobl=>forge/e A"
   },
   {
     "ClassType": "",
@@ -12765,7 +12765,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge/e H"
+    "ZonePoint_ID": "Cata H gobl=>forge/e H"
   },
   {
     "ClassType": "",
@@ -12781,7 +12781,7 @@
     "TargetX": 40254,
     "TargetY": 31500,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H gobl=\u003eforge/e M"
+    "ZonePoint_ID": "Cata H gobl=>forge/e M"
   },
   {
     "ClassType": "",
@@ -12797,7 +12797,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge A"
+    "ZonePoint_ID": "Cata H hugak=>forge A"
   },
   {
     "ClassType": "",
@@ -12813,7 +12813,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge H"
+    "ZonePoint_ID": "Cata H hugak=>forge H"
   },
   {
     "ClassType": "",
@@ -12829,7 +12829,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge M"
+    "ZonePoint_ID": "Cata H hugak=>forge M"
   },
   {
     "ClassType": "",
@@ -12845,7 +12845,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge/e A"
+    "ZonePoint_ID": "Cata H hugak=>forge/e A"
   },
   {
     "ClassType": "",
@@ -12861,7 +12861,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge/e H"
+    "ZonePoint_ID": "Cata H hugak=>forge/e H"
   },
   {
     "ClassType": "",
@@ -12877,7 +12877,7 @@
     "TargetX": 30048,
     "TargetY": 35001,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata H hugak=\u003eforge/e M"
+    "ZonePoint_ID": "Cata H hugak=>forge/e M"
   },
   {
     "ClassType": "",
@@ -12893,7 +12893,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner =\u003enecro H"
+    "ZonePoint_ID": "Cata H inner =>necro H"
   },
   {
     "ClassType": "",
@@ -12909,7 +12909,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner =\u003enecro/e H"
+    "ZonePoint_ID": "Cata H inner =>necro/e H"
   },
   {
     "ClassType": "",
@@ -12925,7 +12925,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner=\u003enecro A"
+    "ZonePoint_ID": "Cata H inner=>necro A"
   },
   {
     "ClassType": "",
@@ -12941,7 +12941,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner=\u003enecro M"
+    "ZonePoint_ID": "Cata H inner=>necro M"
   },
   {
     "ClassType": "",
@@ -12957,7 +12957,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner=\u003enecro/e A"
+    "ZonePoint_ID": "Cata H inner=>necro/e A"
   },
   {
     "ClassType": "",
@@ -12973,7 +12973,7 @@
     "TargetX": 21297,
     "TargetY": 11346,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata H inner=\u003enecro/e M"
+    "ZonePoint_ID": "Cata H inner=>necro/e M"
   },
   {
     "ClassType": "",
@@ -12989,7 +12989,7 @@
     "TargetX": 47292,
     "TargetY": 31720,
     "TargetZ": 18434,
-    "ZonePoint_ID": "Cata H koalinith=\u003emine A"
+    "ZonePoint_ID": "Cata H koalinith=>mine A"
   },
   {
     "ClassType": "",
@@ -13005,7 +13005,7 @@
     "TargetX": 47292,
     "TargetY": 31720,
     "TargetZ": 18434,
-    "ZonePoint_ID": "Cata H koalinith=\u003emine H"
+    "ZonePoint_ID": "Cata H koalinith=>mine H"
   },
   {
     "ClassType": "",
@@ -13021,7 +13021,7 @@
     "TargetX": 47292,
     "TargetY": 31720,
     "TargetZ": 18434,
-    "ZonePoint_ID": "Cata H koalinith=\u003emine M"
+    "ZonePoint_ID": "Cata H koalinith=>mine M"
   },
   {
     "ClassType": "",
@@ -13037,7 +13037,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen A"
+    "ZonePoint_ID": "Cata H maze=>queen A"
   },
   {
     "ClassType": "",
@@ -13053,7 +13053,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen H"
+    "ZonePoint_ID": "Cata H maze=>queen H"
   },
   {
     "ClassType": "",
@@ -13069,7 +13069,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen M"
+    "ZonePoint_ID": "Cata H maze=>queen M"
   },
   {
     "ClassType": "",
@@ -13085,7 +13085,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen/e A"
+    "ZonePoint_ID": "Cata H maze=>queen/e A"
   },
   {
     "ClassType": "",
@@ -13101,7 +13101,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen/e H"
+    "ZonePoint_ID": "Cata H maze=>queen/e H"
   },
   {
     "ClassType": "",
@@ -13117,7 +13117,7 @@
     "TargetX": 38412,
     "TargetY": 28546,
     "TargetZ": 20952,
-    "ZonePoint_ID": "Cata H maze=\u003equeen/e M"
+    "ZonePoint_ID": "Cata H maze=>queen/e M"
   },
   {
     "ClassType": "",
@@ -13133,7 +13133,7 @@
     "TargetX": 415072,
     "TargetY": 489355,
     "TargetZ": 1753,
-    "ZonePoint_ID": "Cata H mine=\u003ebri A"
+    "ZonePoint_ID": "Cata H mine=>bri A"
   },
   {
     "ClassType": "",
@@ -13149,7 +13149,7 @@
     "TargetX": 415072,
     "TargetY": 489355,
     "TargetZ": 1753,
-    "ZonePoint_ID": "Cata H mine=\u003ebri H"
+    "ZonePoint_ID": "Cata H mine=>bri H"
   },
   {
     "ClassType": "",
@@ -13165,7 +13165,7 @@
     "TargetX": 415072,
     "TargetY": 489355,
     "TargetZ": 1753,
-    "ZonePoint_ID": "Cata H mine=\u003ebri M"
+    "ZonePoint_ID": "Cata H mine=>bri M"
   },
   {
     "ClassType": "",
@@ -13181,7 +13181,7 @@
     "TargetX": 32782,
     "TargetY": 34015,
     "TargetZ": 16030,
-    "ZonePoint_ID": "Cata H mine=\u003ecorus A"
+    "ZonePoint_ID": "Cata H mine=>corus A"
   },
   {
     "ClassType": "",
@@ -13197,7 +13197,7 @@
     "TargetX": 32782,
     "TargetY": 34015,
     "TargetZ": 16030,
-    "ZonePoint_ID": "Cata H mine=\u003ecorus H"
+    "ZonePoint_ID": "Cata H mine=>corus H"
   },
   {
     "ClassType": "",
@@ -13213,7 +13213,7 @@
     "TargetX": 32782,
     "TargetY": 34015,
     "TargetZ": 16030,
-    "ZonePoint_ID": "Cata H mine=\u003ecorus M"
+    "ZonePoint_ID": "Cata H mine=>corus M"
   },
   {
     "ClassType": "",
@@ -13229,7 +13229,7 @@
     "TargetX": 28853,
     "TargetY": 22635,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata H mine=\u003eforge A"
+    "ZonePoint_ID": "Cata H mine=>forge A"
   },
   {
     "ClassType": "",
@@ -13245,7 +13245,7 @@
     "TargetX": 28863,
     "TargetY": 22635,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata H mine=\u003eforge H"
+    "ZonePoint_ID": "Cata H mine=>forge H"
   },
   {
     "ClassType": "",
@@ -13261,7 +13261,7 @@
     "TargetX": 28853,
     "TargetY": 22635,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata H mine=\u003eforge M"
+    "ZonePoint_ID": "Cata H mine=>forge M"
   },
   {
     "ClassType": "",
@@ -13277,7 +13277,7 @@
     "TargetX": 28716,
     "TargetY": 33027,
     "TargetZ": 17022,
-    "ZonePoint_ID": "Cata H mine=\u003ekoalinith A"
+    "ZonePoint_ID": "Cata H mine=>koalinith A"
   },
   {
     "ClassType": "",
@@ -13293,7 +13293,7 @@
     "TargetX": 28716,
     "TargetY": 33027,
     "TargetZ": 17022,
-    "ZonePoint_ID": "Cata H mine=\u003ekoalinith H"
+    "ZonePoint_ID": "Cata H mine=>koalinith H"
   },
   {
     "ClassType": "",
@@ -13309,7 +13309,7 @@
     "TargetX": 28716,
     "TargetY": 33027,
     "TargetZ": 17022,
-    "ZonePoint_ID": "Cata H mine=\u003ekoalinith M"
+    "ZonePoint_ID": "Cata H mine=>koalinith M"
   },
   {
     "ClassType": "",
@@ -13325,7 +13325,7 @@
     "TargetX": 351263,
     "TargetY": 489303,
     "TargetZ": 6114,
-    "ZonePoint_ID": "Cata H mine=\u003emagmel A"
+    "ZonePoint_ID": "Cata H mine=>magmel A"
   },
   {
     "ClassType": "",
@@ -13341,7 +13341,7 @@
     "TargetX": 351263,
     "TargetY": 489303,
     "TargetZ": 6114,
-    "ZonePoint_ID": "Cata H mine=\u003emagmel H"
+    "ZonePoint_ID": "Cata H mine=>magmel H"
   },
   {
     "ClassType": "",
@@ -13357,7 +13357,7 @@
     "TargetX": 351263,
     "TargetY": 489303,
     "TargetZ": 6114,
-    "ZonePoint_ID": "Cata H mine=\u003emagmel M"
+    "ZonePoint_ID": "Cata H mine=>magmel M"
   },
   {
     "ClassType": "",
@@ -13373,7 +13373,7 @@
     "TargetX": 31794,
     "TargetY": 30341,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata H mine=\u003emuire A"
+    "ZonePoint_ID": "Cata H mine=>muire A"
   },
   {
     "ClassType": "",
@@ -13389,7 +13389,7 @@
     "TargetX": 31794,
     "TargetY": 30341,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata H mine=\u003emuire H"
+    "ZonePoint_ID": "Cata H mine=>muire H"
   },
   {
     "ClassType": "",
@@ -13405,7 +13405,7 @@
     "TargetX": 31794,
     "TargetY": 30341,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata H mine=\u003emuire M"
+    "ZonePoint_ID": "Cata H mine=>muire M"
   },
   {
     "ClassType": "",
@@ -13421,7 +13421,7 @@
     "TargetX": 23013,
     "TargetY": 30909,
     "TargetZ": 16934,
-    "ZonePoint_ID": "Cata H mine=\u003eshar1 A"
+    "ZonePoint_ID": "Cata H mine=>shar1 A"
   },
   {
     "ClassType": "",
@@ -13437,7 +13437,7 @@
     "TargetX": 23013,
     "TargetY": 30909,
     "TargetZ": 16934,
-    "ZonePoint_ID": "Cata H mine=\u003eshar1 H"
+    "ZonePoint_ID": "Cata H mine=>shar1 H"
   },
   {
     "ClassType": "",
@@ -13453,7 +13453,7 @@
     "TargetX": 23013,
     "TargetY": 30909,
     "TargetZ": 16934,
-    "ZonePoint_ID": "Cata H mine=\u003eshar1 M"
+    "ZonePoint_ID": "Cata H mine=>shar1 M"
   },
   {
     "ClassType": "",
@@ -13469,7 +13469,7 @@
     "TargetX": 23013,
     "TargetY": 30909,
     "TargetZ": 16934,
-    "ZonePoint_ID": "Cata H mine=\u003eshar2 A"
+    "ZonePoint_ID": "Cata H mine=>shar2 A"
   },
   {
     "ClassType": "",
@@ -13485,7 +13485,7 @@
     "TargetX": 23013,
     "TargetY": 30909,
     "TargetZ": 16934,
-    "ZonePoint_ID": "Cata H mine=\u003eshar2 H"
+    "ZonePoint_ID": "Cata H mine=>shar2 H"
   },
   {
     "ClassType": "",
@@ -13501,7 +13501,7 @@
     "TargetX": 26344,
     "TargetY": 27854,
     "TargetZ": 17597,
-    "ZonePoint_ID": "Cata H mine=\u003eshar2 M"
+    "ZonePoint_ID": "Cata H mine=>shar2 M"
   },
   {
     "ClassType": "",
@@ -13517,7 +13517,7 @@
     "TargetX": 31844,
     "TargetY": 32542,
     "TargetZ": 14988,
-    "ZonePoint_ID": "Cata H mine=\u003espraggon A"
+    "ZonePoint_ID": "Cata H mine=>spraggon A"
   },
   {
     "ClassType": "",
@@ -13533,7 +13533,7 @@
     "TargetX": 31844,
     "TargetY": 32542,
     "TargetZ": 14988,
-    "ZonePoint_ID": "Cata H mine=\u003espraggon H"
+    "ZonePoint_ID": "Cata H mine=>spraggon H"
   },
   {
     "ClassType": "",
@@ -13549,7 +13549,7 @@
     "TargetX": 31844,
     "TargetY": 32542,
     "TargetZ": 14988,
-    "ZonePoint_ID": "Cata H mine=\u003espraggon M"
+    "ZonePoint_ID": "Cata H mine=>spraggon M"
   },
   {
     "ClassType": "",
@@ -13565,7 +13565,7 @@
     "TargetX": 34195,
     "TargetY": 31381,
     "TargetZ": 14737,
-    "ZonePoint_ID": "Cata H mine=\u003etreibh A"
+    "ZonePoint_ID": "Cata H mine=>treibh A"
   },
   {
     "ClassType": "",
@@ -13581,7 +13581,7 @@
     "TargetX": 34359,
     "TargetY": 31479,
     "TargetZ": 14758,
-    "ZonePoint_ID": "Cata H mine=\u003etreibh H"
+    "ZonePoint_ID": "Cata H mine=>treibh H"
   },
   {
     "ClassType": "",
@@ -13597,7 +13597,7 @@
     "TargetX": 34359,
     "TargetY": 31479,
     "TargetZ": 14758,
-    "ZonePoint_ID": "Cata H mine=\u003etreibh M"
+    "ZonePoint_ID": "Cata H mine=>treibh M"
   },
   {
     "ClassType": "",
@@ -13613,7 +13613,7 @@
     "TargetX": 33880,
     "TargetY": 18512,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata H muire=\u003emine A"
+    "ZonePoint_ID": "Cata H muire=>mine A"
   },
   {
     "ClassType": "",
@@ -13629,7 +13629,7 @@
     "TargetX": 33880,
     "TargetY": 18512,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata H muire=\u003emine H"
+    "ZonePoint_ID": "Cata H muire=>mine H"
   },
   {
     "ClassType": "",
@@ -13645,7 +13645,7 @@
     "TargetX": 33880,
     "TargetY": 18512,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata H muire=\u003emine M"
+    "ZonePoint_ID": "Cata H muire=>mine M"
   },
   {
     "ClassType": "",
@@ -13661,7 +13661,7 @@
     "TargetX": 35000,
     "TargetY": 37257,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata H necro=\u003einner A"
+    "ZonePoint_ID": "Cata H necro=>inner A"
   },
   {
     "ClassType": "",
@@ -13677,7 +13677,7 @@
     "TargetX": 35000,
     "TargetY": 37257,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata H necro=\u003einner H"
+    "ZonePoint_ID": "Cata H necro=>inner H"
   },
   {
     "ClassType": "",
@@ -13693,7 +13693,7 @@
     "TargetX": 35000,
     "TargetY": 37257,
     "TargetZ": 16464,
-    "ZonePoint_ID": "Cata H necro=\u003einner M"
+    "ZonePoint_ID": "Cata H necro=>inner M"
   },
   {
     "ClassType": "",
@@ -13709,7 +13709,7 @@
     "TargetX": 34774,
     "TargetY": 22344,
     "TargetZ": 20470,
-    "ZonePoint_ID": "Cata H other=\u003equeen A"
+    "ZonePoint_ID": "Cata H other=>queen A"
   },
   {
     "ClassType": "",
@@ -13725,7 +13725,7 @@
     "TargetX": 34774,
     "TargetY": 22344,
     "TargetZ": 20470,
-    "ZonePoint_ID": "Cata H other=\u003equeen H"
+    "ZonePoint_ID": "Cata H other=>queen H"
   },
   {
     "ClassType": "",
@@ -13741,7 +13741,7 @@
     "TargetX": 34774,
     "TargetY": 22344,
     "TargetZ": 20470,
-    "ZonePoint_ID": "Cata H other=\u003equeen M"
+    "ZonePoint_ID": "Cata H other=>queen M"
   },
   {
     "ClassType": "",
@@ -13757,7 +13757,7 @@
     "TargetX": 19506,
     "TargetY": 24014,
     "TargetZ": 15477,
-    "ZonePoint_ID": "Cata H other=\u003eshar A"
+    "ZonePoint_ID": "Cata H other=>shar A"
   },
   {
     "ClassType": "",
@@ -13773,7 +13773,7 @@
     "TargetX": 19506,
     "TargetY": 24014,
     "TargetZ": 15477,
-    "ZonePoint_ID": "Cata H other=\u003eshar H"
+    "ZonePoint_ID": "Cata H other=>shar H"
   },
   {
     "ClassType": "",
@@ -13789,7 +13789,7 @@
     "TargetX": 19506,
     "TargetY": 24014,
     "TargetZ": 15477,
-    "ZonePoint_ID": "Cata H other=\u003eshar M"
+    "ZonePoint_ID": "Cata H other=>shar M"
   },
   {
     "ClassType": "",
@@ -13805,7 +13805,7 @@
     "TargetX": 15971,
     "TargetY": 40786,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata H queen=\u003eforest A"
+    "ZonePoint_ID": "Cata H queen=>forest A"
   },
   {
     "ClassType": "",
@@ -13821,7 +13821,7 @@
     "TargetX": 15971,
     "TargetY": 40786,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata H queen=\u003eforest H"
+    "ZonePoint_ID": "Cata H queen=>forest H"
   },
   {
     "ClassType": "",
@@ -13837,7 +13837,7 @@
     "TargetX": 15971,
     "TargetY": 40786,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata H queen=\u003eforest M"
+    "ZonePoint_ID": "Cata H queen=>forest M"
   },
   {
     "ClassType": "",
@@ -13853,7 +13853,7 @@
     "TargetX": 35348,
     "TargetY": 37540,
     "TargetZ": 18290,
-    "ZonePoint_ID": "Cata H queen=\u003emaze A"
+    "ZonePoint_ID": "Cata H queen=>maze A"
   },
   {
     "ClassType": "",
@@ -13869,7 +13869,7 @@
     "TargetX": 35348,
     "TargetY": 37540,
     "TargetZ": 18290,
-    "ZonePoint_ID": "Cata H queen=\u003emaze H"
+    "ZonePoint_ID": "Cata H queen=>maze H"
   },
   {
     "ClassType": "",
@@ -13885,7 +13885,7 @@
     "TargetX": 35348,
     "TargetY": 37540,
     "TargetZ": 18290,
-    "ZonePoint_ID": "Cata H queen=\u003emaze M"
+    "ZonePoint_ID": "Cata H queen=>maze M"
   },
   {
     "ClassType": "",
@@ -13901,7 +13901,7 @@
     "TargetX": 49814,
     "TargetY": 32734,
     "TargetZ": 15383,
-    "ZonePoint_ID": "Cata H queen=\u003eother A"
+    "ZonePoint_ID": "Cata H queen=>other A"
   },
   {
     "ClassType": "",
@@ -13917,7 +13917,7 @@
     "TargetX": 49814,
     "TargetY": 32734,
     "TargetZ": 15383,
-    "ZonePoint_ID": "Cata H queen=\u003eother H"
+    "ZonePoint_ID": "Cata H queen=>other H"
   },
   {
     "ClassType": "",
@@ -13933,7 +13933,7 @@
     "TargetX": 49814,
     "TargetY": 32734,
     "TargetZ": 15383,
-    "ZonePoint_ID": "Cata H queen=\u003eother M"
+    "ZonePoint_ID": "Cata H queen=>other M"
   },
   {
     "ClassType": "",
@@ -13949,7 +13949,7 @@
     "TargetX": 29912,
     "TargetY": 39323,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata H queen=\u003eshattred A"
+    "ZonePoint_ID": "Cata H queen=>shattred A"
   },
   {
     "ClassType": "",
@@ -13965,7 +13965,7 @@
     "TargetX": 29912,
     "TargetY": 39323,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata H queen=\u003eshattred H"
+    "ZonePoint_ID": "Cata H queen=>shattred H"
   },
   {
     "ClassType": "",
@@ -13981,7 +13981,7 @@
     "TargetX": 29912,
     "TargetY": 39323,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata H queen=\u003eshattred M"
+    "ZonePoint_ID": "Cata H queen=>shattred M"
   },
   {
     "ClassType": "",
@@ -13997,7 +13997,7 @@
     "TargetX": 35698,
     "TargetY": 31254,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003ebroken A"
+    "ZonePoint_ID": "Cata H rift=>broken A"
   },
   {
     "ClassType": "",
@@ -14013,7 +14013,7 @@
     "TargetX": 35698,
     "TargetY": 31254,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003ebroken H"
+    "ZonePoint_ID": "Cata H rift=>broken H"
   },
   {
     "ClassType": "",
@@ -14029,7 +14029,7 @@
     "TargetX": 35698,
     "TargetY": 31254,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003ebroken M"
+    "ZonePoint_ID": "Cata H rift=>broken M"
   },
   {
     "ClassType": "",
@@ -14045,7 +14045,7 @@
     "TargetX": 35587,
     "TargetY": 36623,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003erefuge A"
+    "ZonePoint_ID": "Cata H rift=>refuge A"
   },
   {
     "ClassType": "",
@@ -14061,7 +14061,7 @@
     "TargetX": 35587,
     "TargetY": 36623,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003erefuge H"
+    "ZonePoint_ID": "Cata H rift=>refuge H"
   },
   {
     "ClassType": "",
@@ -14077,7 +14077,7 @@
     "TargetX": 35587,
     "TargetY": 36623,
     "TargetZ": 15822,
-    "ZonePoint_ID": "Cata H rift=\u003erefuge M"
+    "ZonePoint_ID": "Cata H rift=>refuge M"
   },
   {
     "ClassType": "",
@@ -14093,7 +14093,7 @@
     "TargetX": 34405,
     "TargetY": 24015,
     "TargetZ": 16832,
-    "ZonePoint_ID": "Cata H Shar=\u003emine A"
+    "ZonePoint_ID": "Cata H Shar=>mine A"
   },
   {
     "ClassType": "",
@@ -14109,7 +14109,7 @@
     "TargetX": 34405,
     "TargetY": 24015,
     "TargetZ": 16832,
-    "ZonePoint_ID": "Cata H Shar=\u003emine H"
+    "ZonePoint_ID": "Cata H Shar=>mine H"
   },
   {
     "ClassType": "",
@@ -14125,7 +14125,7 @@
     "TargetX": 32783,
     "TargetY": 24313,
     "TargetZ": 17650,
-    "ZonePoint_ID": "Cata H Shar=\u003emine M"
+    "ZonePoint_ID": "Cata H Shar=>mine M"
   },
   {
     "ClassType": "",
@@ -14141,7 +14141,7 @@
     "TargetX": 32452,
     "TargetY": 31090,
     "TargetZ": 17036,
-    "ZonePoint_ID": "Cata H Shar=\u003eother A"
+    "ZonePoint_ID": "Cata H Shar=>other A"
   },
   {
     "ClassType": "",
@@ -14157,7 +14157,7 @@
     "TargetX": 32452,
     "TargetY": 31090,
     "TargetZ": 17036,
-    "ZonePoint_ID": "Cata H Shar=\u003eother H"
+    "ZonePoint_ID": "Cata H Shar=>other H"
   },
   {
     "ClassType": "",
@@ -14173,7 +14173,7 @@
     "TargetX": 32452,
     "TargetY": 31090,
     "TargetZ": 17036,
-    "ZonePoint_ID": "Cata H Shar=\u003eother M"
+    "ZonePoint_ID": "Cata H Shar=>other M"
   },
   {
     "ClassType": "",
@@ -14189,7 +14189,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen A"
+    "ZonePoint_ID": "Cata H shattered=>queen A"
   },
   {
     "ClassType": "",
@@ -14205,7 +14205,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen H"
+    "ZonePoint_ID": "Cata H shattered=>queen H"
   },
   {
     "ClassType": "",
@@ -14221,7 +14221,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen M"
+    "ZonePoint_ID": "Cata H shattered=>queen M"
   },
   {
     "ClassType": "",
@@ -14237,7 +14237,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen/e A"
+    "ZonePoint_ID": "Cata H shattered=>queen/e A"
   },
   {
     "ClassType": "",
@@ -14253,7 +14253,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen/e H"
+    "ZonePoint_ID": "Cata H shattered=>queen/e H"
   },
   {
     "ClassType": "",
@@ -14269,7 +14269,7 @@
     "TargetX": 44647,
     "TargetY": 26694,
     "TargetZ": 20949,
-    "ZonePoint_ID": "Cata H shattered=\u003equeen/e M"
+    "ZonePoint_ID": "Cata H shattered=>queen/e M"
   },
   {
     "ClassType": "",
@@ -14285,7 +14285,7 @@
     "TargetX": 47057,
     "TargetY": 48270,
     "TargetZ": 17634,
-    "ZonePoint_ID": "Cata H spraggon=\u003emine A"
+    "ZonePoint_ID": "Cata H spraggon=>mine A"
   },
   {
     "ClassType": "",
@@ -14301,7 +14301,7 @@
     "TargetX": 47057,
     "TargetY": 48270,
     "TargetZ": 17634,
-    "ZonePoint_ID": "Cata H spraggon=\u003emine H"
+    "ZonePoint_ID": "Cata H spraggon=>mine H"
   },
   {
     "ClassType": "",
@@ -14317,7 +14317,7 @@
     "TargetX": 47057,
     "TargetY": 48270,
     "TargetZ": 17634,
-    "ZonePoint_ID": "Cata H spraggon=\u003emine M"
+    "ZonePoint_ID": "Cata H spraggon=>mine M"
   },
   {
     "ClassType": "",
@@ -14333,7 +14333,7 @@
     "TargetX": 58461,
     "TargetY": 28753,
     "TargetZ": 11277,
-    "ZonePoint_ID": "Cata H tnn=\u003eveil A"
+    "ZonePoint_ID": "Cata H tnn=>veil A"
   },
   {
     "ClassType": "",
@@ -14349,7 +14349,7 @@
     "TargetX": 58461,
     "TargetY": 28753,
     "TargetZ": 11277,
-    "ZonePoint_ID": "Cata H tnn=\u003eveil H"
+    "ZonePoint_ID": "Cata H tnn=>veil H"
   },
   {
     "ClassType": "",
@@ -14365,7 +14365,7 @@
     "TargetX": 58461,
     "TargetY": 28753,
     "TargetZ": 11277,
-    "ZonePoint_ID": "Cata H tnn=\u003eveil M"
+    "ZonePoint_ID": "Cata H tnn=>veil M"
   },
   {
     "ClassType": "",
@@ -14381,7 +14381,7 @@
     "TargetX": 29591,
     "TargetY": 47205,
     "TargetZ": 16829,
-    "ZonePoint_ID": "Cata H treibh=\u003emine A"
+    "ZonePoint_ID": "Cata H treibh=>mine A"
   },
   {
     "ClassType": "",
@@ -14397,7 +14397,7 @@
     "TargetX": 29308,
     "TargetY": 47175,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata H treibh=\u003emine H"
+    "ZonePoint_ID": "Cata H treibh=>mine H"
   },
   {
     "ClassType": "",
@@ -14413,7 +14413,7 @@
     "TargetX": 29308,
     "TargetY": 47175,
     "TargetZ": 16831,
-    "ZonePoint_ID": "Cata H treibh=\u003emine M"
+    "ZonePoint_ID": "Cata H treibh=>mine M"
   },
   {
     "ClassType": "",
@@ -14429,7 +14429,7 @@
     "TargetX": 39279,
     "TargetY": 15061,
     "TargetZ": 16382,
-    "ZonePoint_ID": "Cata M annwn=\u003eforest A"
+    "ZonePoint_ID": "Cata M annwn=>forest A"
   },
   {
     "ClassType": "",
@@ -14445,7 +14445,7 @@
     "TargetX": 39279,
     "TargetY": 15061,
     "TargetZ": 16382,
-    "ZonePoint_ID": "Cata M annwn=\u003eforest H"
+    "ZonePoint_ID": "Cata M annwn=>forest H"
   },
   {
     "ClassType": "",
@@ -14461,7 +14461,7 @@
     "TargetX": 39279,
     "TargetY": 15061,
     "TargetZ": 16382,
-    "ZonePoint_ID": "Cata M annwn=\u003eforest M"
+    "ZonePoint_ID": "Cata M annwn=>forest M"
   },
   {
     "ClassType": "",
@@ -14477,7 +14477,7 @@
     "TargetX": 36249,
     "TargetY": 27334,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata M annwn=\u003etomb A"
+    "ZonePoint_ID": "Cata M annwn=>tomb A"
   },
   {
     "ClassType": "",
@@ -14493,7 +14493,7 @@
     "TargetX": 36249,
     "TargetY": 27334,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata M annwn=\u003etomb H"
+    "ZonePoint_ID": "Cata M annwn=>tomb H"
   },
   {
     "ClassType": "",
@@ -14509,7 +14509,7 @@
     "TargetX": 36249,
     "TargetY": 27334,
     "TargetZ": 16155,
-    "ZonePoint_ID": "Cata M annwn=\u003etomb M"
+    "ZonePoint_ID": "Cata M annwn=>tomb M"
   },
   {
     "ClassType": "",
@@ -14525,7 +14525,7 @@
     "TargetX": 30370,
     "TargetY": 35182,
     "TargetZ": 17601,
-    "ZonePoint_ID": "Cata M burial=\u003ejarlsberg A"
+    "ZonePoint_ID": "Cata M burial=>jarlsberg A"
   },
   {
     "ClassType": "",
@@ -14541,7 +14541,7 @@
     "TargetX": 30370,
     "TargetY": 35182,
     "TargetZ": 17601,
-    "ZonePoint_ID": "Cata M burial=\u003ejarlsberg H"
+    "ZonePoint_ID": "Cata M burial=>jarlsberg H"
   },
   {
     "ClassType": "",
@@ -14557,7 +14557,7 @@
     "TargetX": 30635,
     "TargetY": 27531,
     "TargetZ": 8719,
-    "ZonePoint_ID": "Cata M burial=\u003ejarlsberg M"
+    "ZonePoint_ID": "Cata M burial=>jarlsberg M"
   },
   {
     "ClassType": "",
@@ -14573,7 +14573,7 @@
     "TargetX": 30648,
     "TargetY": 26599,
     "TargetZ": 8502,
-    "ZonePoint_ID": "Cata M burial=\u003ejord A"
+    "ZonePoint_ID": "Cata M burial=>jord A"
   },
   {
     "ClassType": "",
@@ -14589,7 +14589,7 @@
     "TargetX": 30648,
     "TargetY": 26599,
     "TargetZ": 8502,
-    "ZonePoint_ID": "Cata M burial=\u003ejord H"
+    "ZonePoint_ID": "Cata M burial=>jord H"
   },
   {
     "ClassType": "",
@@ -14605,7 +14605,7 @@
     "TargetX": 30648,
     "TargetY": 26599,
     "TargetZ": 8502,
-    "ZonePoint_ID": "Cata M burial=\u003ejord M"
+    "ZonePoint_ID": "Cata M burial=>jord M"
   },
   {
     "ClassType": "",
@@ -14621,7 +14621,7 @@
     "TargetX": 25980,
     "TargetY": 45480,
     "TargetZ": 20163,
-    "ZonePoint_ID": "Cata M burial=\u003ekobold A"
+    "ZonePoint_ID": "Cata M burial=>kobold A"
   },
   {
     "ClassType": "",
@@ -14637,7 +14637,7 @@
     "TargetX": 25980,
     "TargetY": 45480,
     "TargetZ": 20163,
-    "ZonePoint_ID": "Cata M burial=\u003ekobold H"
+    "ZonePoint_ID": "Cata M burial=>kobold H"
   },
   {
     "ClassType": "",
@@ -14653,7 +14653,7 @@
     "TargetX": 34199,
     "TargetY": 45524,
     "TargetZ": 20161,
-    "ZonePoint_ID": "Cata M burial=\u003ekobold M"
+    "ZonePoint_ID": "Cata M burial=>kobold M"
   },
   {
     "ClassType": "",
@@ -14669,7 +14669,7 @@
     "TargetX": 33583,
     "TargetY": 37480,
     "TargetZ": 17795,
-    "ZonePoint_ID": "Cata M burial=\u003ethieves A"
+    "ZonePoint_ID": "Cata M burial=>thieves A"
   },
   {
     "ClassType": "",
@@ -14685,7 +14685,7 @@
     "TargetX": 33583,
     "TargetY": 37480,
     "TargetZ": 17795,
-    "ZonePoint_ID": "Cata M burial=\u003ethieves H"
+    "ZonePoint_ID": "Cata M burial=>thieves H"
   },
   {
     "ClassType": "",
@@ -14701,7 +14701,7 @@
     "TargetX": 33583,
     "TargetY": 37486,
     "TargetZ": 17796,
-    "ZonePoint_ID": "Cata M burial=\u003ethieves M"
+    "ZonePoint_ID": "Cata M burial=>thieves M"
   },
   {
     "ClassType": "",
@@ -14717,7 +14717,7 @@
     "TargetX": 45615,
     "TargetY": 31796,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M cursed=\u003emine A"
+    "ZonePoint_ID": "Cata M cursed=>mine A"
   },
   {
     "ClassType": "",
@@ -14733,7 +14733,7 @@
     "TargetX": 45615,
     "TargetY": 31796,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M cursed=\u003emine H"
+    "ZonePoint_ID": "Cata M cursed=>mine H"
   },
   {
     "ClassType": "",
@@ -14749,7 +14749,7 @@
     "TargetX": 45615,
     "TargetY": 31796,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M cursed=\u003emine M"
+    "ZonePoint_ID": "Cata M cursed=>mine M"
   },
   {
     "ClassType": "",
@@ -14765,7 +14765,7 @@
     "TargetX": 48585,
     "TargetY": 31280,
     "TargetZ": 16399,
-    "ZonePoint_ID": "Cata M dark=\u003eforest A"
+    "ZonePoint_ID": "Cata M dark=>forest A"
   },
   {
     "ClassType": "",
@@ -14781,7 +14781,7 @@
     "TargetX": 48585,
     "TargetY": 31280,
     "TargetZ": 16399,
-    "ZonePoint_ID": "Cata M dark=\u003eforest H"
+    "ZonePoint_ID": "Cata M dark=>forest H"
   },
   {
     "ClassType": "",
@@ -14797,7 +14797,7 @@
     "TargetX": 48585,
     "TargetY": 31280,
     "TargetZ": 16399,
-    "ZonePoint_ID": "Cata M dark=\u003eforest M"
+    "ZonePoint_ID": "Cata M dark=>forest M"
   },
   {
     "ClassType": "",
@@ -14813,7 +14813,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim A"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim A"
   },
   {
     "ClassType": "",
@@ -14829,7 +14829,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim H"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim H"
   },
   {
     "ClassType": "",
@@ -14845,7 +14845,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim M"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim M"
   },
   {
     "ClassType": "",
@@ -14861,7 +14861,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim/e A"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim/e A"
   },
   {
     "ClassType": "",
@@ -14877,7 +14877,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim/e H"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim/e H"
   },
   {
     "ClassType": "",
@@ -14893,7 +14893,7 @@
     "TargetX": 31387,
     "TargetY": 28627,
     "TargetZ": 15998,
-    "ZonePoint_ID": "Cata M echoes=\u003enyttheim/e M"
+    "ZonePoint_ID": "Cata M echoes=>nyttheim/e M"
   },
   {
     "ClassType": "",
@@ -14909,7 +14909,7 @@
     "TargetX": 27085,
     "TargetY": 29649,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata M forest=\u003eannwn A"
+    "ZonePoint_ID": "Cata M forest=>annwn A"
   },
   {
     "ClassType": "",
@@ -14925,7 +14925,7 @@
     "TargetX": 27085,
     "TargetY": 29649,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata M forest=\u003eannwn H"
+    "ZonePoint_ID": "Cata M forest=>annwn H"
   },
   {
     "ClassType": "",
@@ -14941,7 +14941,7 @@
     "TargetX": 27085,
     "TargetY": 29649,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Cata M forest=\u003eannwn M"
+    "ZonePoint_ID": "Cata M forest=>annwn M"
   },
   {
     "ClassType": "",
@@ -14957,7 +14957,7 @@
     "TargetX": 16775,
     "TargetY": 32304,
     "TargetZ": 19575,
-    "ZonePoint_ID": "Cata M forest=\u003edark A"
+    "ZonePoint_ID": "Cata M forest=>dark A"
   },
   {
     "ClassType": "",
@@ -14973,7 +14973,7 @@
     "TargetX": 16775,
     "TargetY": 32304,
     "TargetZ": 19575,
-    "ZonePoint_ID": "Cata M forest=\u003edark H"
+    "ZonePoint_ID": "Cata M forest=>dark H"
   },
   {
     "ClassType": "",
@@ -14989,7 +14989,7 @@
     "TargetX": 16775,
     "TargetY": 32304,
     "TargetZ": 19575,
-    "ZonePoint_ID": "Cata M forest=\u003edark M"
+    "ZonePoint_ID": "Cata M forest=>dark M"
   },
   {
     "ClassType": "",
@@ -15005,7 +15005,7 @@
     "TargetX": 38261,
     "TargetY": 24121,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata M forest=\u003eforge A"
+    "ZonePoint_ID": "Cata M forest=>forge A"
   },
   {
     "ClassType": "",
@@ -15021,7 +15021,7 @@
     "TargetX": 38261,
     "TargetY": 24121,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata M forest=\u003eforge H"
+    "ZonePoint_ID": "Cata M forest=>forge H"
   },
   {
     "ClassType": "",
@@ -15037,7 +15037,7 @@
     "TargetX": 38261,
     "TargetY": 24121,
     "TargetZ": 16394,
-    "ZonePoint_ID": "Cata M forest=\u003eforge M"
+    "ZonePoint_ID": "Cata M forest=>forge M"
   },
   {
     "ClassType": "",
@@ -15053,7 +15053,7 @@
     "TargetX": 23853,
     "TargetY": 16210,
     "TargetZ": 14821,
-    "ZonePoint_ID": "Cata M forest=\u003enyttheim A"
+    "ZonePoint_ID": "Cata M forest=>nyttheim A"
   },
   {
     "ClassType": "",
@@ -15069,7 +15069,7 @@
     "TargetX": 23853,
     "TargetY": 16210,
     "TargetZ": 14821,
-    "ZonePoint_ID": "Cata M forest=\u003enyttheim H"
+    "ZonePoint_ID": "Cata M forest=>nyttheim H"
   },
   {
     "ClassType": "",
@@ -15085,7 +15085,7 @@
     "TargetX": 23853,
     "TargetY": 16210,
     "TargetZ": 14821,
-    "ZonePoint_ID": "Cata M forest=\u003enyttheim M"
+    "ZonePoint_ID": "Cata M forest=>nyttheim M"
   },
   {
     "ClassType": "",
@@ -15101,7 +15101,7 @@
     "TargetX": 32688,
     "TargetY": 14811,
     "TargetZ": 15602,
-    "ZonePoint_ID": "Cata M forest=\u003eother A"
+    "ZonePoint_ID": "Cata M forest=>other A"
   },
   {
     "ClassType": "",
@@ -15117,7 +15117,7 @@
     "TargetX": 32688,
     "TargetY": 14811,
     "TargetZ": 15602,
-    "ZonePoint_ID": "Cata M forest=\u003eother H"
+    "ZonePoint_ID": "Cata M forest=>other H"
   },
   {
     "ClassType": "",
@@ -15133,7 +15133,7 @@
     "TargetX": 32688,
     "TargetY": 14811,
     "TargetZ": 15602,
-    "ZonePoint_ID": "Cata M forest=\u003eother M"
+    "ZonePoint_ID": "Cata M forest=>other M"
   },
   {
     "ClassType": "",
@@ -15149,7 +15149,7 @@
     "TargetX": 13745,
     "TargetY": 32393,
     "TargetZ": 16343,
-    "ZonePoint_ID": "Cata M forge=\u003eforest A"
+    "ZonePoint_ID": "Cata M forge=>forest A"
   },
   {
     "ClassType": "",
@@ -15165,7 +15165,7 @@
     "TargetX": 13745,
     "TargetY": 32393,
     "TargetZ": 16343,
-    "ZonePoint_ID": "Cata M forge=\u003eforest H"
+    "ZonePoint_ID": "Cata M forge=>forest H"
   },
   {
     "ClassType": "",
@@ -15181,7 +15181,7 @@
     "TargetX": 13745,
     "TargetY": 32393,
     "TargetZ": 16343,
-    "ZonePoint_ID": "Cata M forge=\u003eforest M"
+    "ZonePoint_ID": "Cata M forge=>forest M"
   },
   {
     "ClassType": "",
@@ -15197,7 +15197,7 @@
     "TargetX": 32002,
     "TargetY": 30119,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata M forge=\u003emarik A"
+    "ZonePoint_ID": "Cata M forge=>marik A"
   },
   {
     "ClassType": "",
@@ -15213,7 +15213,7 @@
     "TargetX": 32002,
     "TargetY": 30119,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata M forge=\u003emarik H"
+    "ZonePoint_ID": "Cata M forge=>marik H"
   },
   {
     "ClassType": "",
@@ -15229,7 +15229,7 @@
     "TargetX": 32002,
     "TargetY": 30119,
     "TargetZ": 15990,
-    "ZonePoint_ID": "Cata M forge=\u003emarik M"
+    "ZonePoint_ID": "Cata M forge=>marik M"
   },
   {
     "ClassType": "",
@@ -15245,7 +15245,7 @@
     "TargetX": 46460,
     "TargetY": 45999,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata M forge=\u003emine A"
+    "ZonePoint_ID": "Cata M forge=>mine A"
   },
   {
     "ClassType": "",
@@ -15261,7 +15261,7 @@
     "TargetX": 46460,
     "TargetY": 45999,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata M forge=\u003emine H"
+    "ZonePoint_ID": "Cata M forge=>mine H"
   },
   {
     "ClassType": "",
@@ -15277,7 +15277,7 @@
     "TargetX": 46460,
     "TargetY": 45999,
     "TargetZ": 17635,
-    "ZonePoint_ID": "Cata M forge=\u003emine M"
+    "ZonePoint_ID": "Cata M forge=>mine M"
   },
   {
     "ClassType": "",
@@ -15293,7 +15293,7 @@
     "TargetX": 33504,
     "TargetY": 36920,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata M forge=\u003ewolak A"
+    "ZonePoint_ID": "Cata M forge=>wolak A"
   },
   {
     "ClassType": "",
@@ -15309,7 +15309,7 @@
     "TargetX": 33504,
     "TargetY": 36920,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata M forge=\u003ewolak H"
+    "ZonePoint_ID": "Cata M forge=>wolak H"
   },
   {
     "ClassType": "",
@@ -15325,7 +15325,7 @@
     "TargetX": 33504,
     "TargetY": 36920,
     "TargetZ": 16377,
-    "ZonePoint_ID": "Cata M forge=\u003ewolak M"
+    "ZonePoint_ID": "Cata M forge=>wolak M"
   },
   {
     "ClassType": "",
@@ -15341,7 +15341,7 @@
     "TargetX": 47003,
     "TargetY": 30027,
     "TargetZ": 14985,
-    "ZonePoint_ID": "Cata M front=\u003ekobold A"
+    "ZonePoint_ID": "Cata M front=>kobold A"
   },
   {
     "ClassType": "",
@@ -15357,7 +15357,7 @@
     "TargetX": 47003,
     "TargetY": 30027,
     "TargetZ": 14985,
-    "ZonePoint_ID": "Cata M front=\u003ekobold H"
+    "ZonePoint_ID": "Cata M front=>kobold H"
   },
   {
     "ClassType": "",
@@ -15373,7 +15373,7 @@
     "TargetX": 47003,
     "TargetY": 30027,
     "TargetZ": 14985,
-    "ZonePoint_ID": "Cata M front=\u003ekobold M"
+    "ZonePoint_ID": "Cata M front=>kobold M"
   },
   {
     "ClassType": "",
@@ -15389,7 +15389,7 @@
     "TargetX": 39596,
     "TargetY": 33443,
     "TargetZ": 15916,
-    "ZonePoint_ID": "Cata M front=\u003enyttheim A"
+    "ZonePoint_ID": "Cata M front=>nyttheim A"
   },
   {
     "ClassType": "",
@@ -15405,7 +15405,7 @@
     "TargetX": 39596,
     "TargetY": 33443,
     "TargetZ": 15916,
-    "ZonePoint_ID": "Cata M front=\u003enyttheim H"
+    "ZonePoint_ID": "Cata M front=>nyttheim H"
   },
   {
     "ClassType": "",
@@ -15421,7 +15421,7 @@
     "TargetX": 39596,
     "TargetY": 33443,
     "TargetZ": 15916,
-    "ZonePoint_ID": "Cata M front=\u003enyttheim M"
+    "ZonePoint_ID": "Cata M front=>nyttheim M"
   },
   {
     "ClassType": "",
@@ -15437,7 +15437,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine A"
+    "ZonePoint_ID": "Cata M halforc=>mine A"
   },
   {
     "ClassType": "",
@@ -15453,7 +15453,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine H"
+    "ZonePoint_ID": "Cata M halforc=>mine H"
   },
   {
     "ClassType": "",
@@ -15469,7 +15469,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine M"
+    "ZonePoint_ID": "Cata M halforc=>mine M"
   },
   {
     "ClassType": "",
@@ -15485,7 +15485,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine/e A"
+    "ZonePoint_ID": "Cata M halforc=>mine/e A"
   },
   {
     "ClassType": "",
@@ -15501,7 +15501,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine/e H"
+    "ZonePoint_ID": "Cata M halforc=>mine/e H"
   },
   {
     "ClassType": "",
@@ -15517,7 +15517,7 @@
     "TargetX": 29882,
     "TargetY": 43579,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M halforc=\u003emine/e M"
+    "ZonePoint_ID": "Cata M halforc=>mine/e M"
   },
   {
     "ClassType": "",
@@ -15533,7 +15533,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine A"
+    "ZonePoint_ID": "Cata M haunted=>mine A"
   },
   {
     "ClassType": "",
@@ -15549,7 +15549,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine H"
+    "ZonePoint_ID": "Cata M haunted=>mine H"
   },
   {
     "ClassType": "",
@@ -15565,7 +15565,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine M"
+    "ZonePoint_ID": "Cata M haunted=>mine M"
   },
   {
     "ClassType": "",
@@ -15581,7 +15581,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine/e A"
+    "ZonePoint_ID": "Cata M haunted=>mine/e A"
   },
   {
     "ClassType": "",
@@ -15597,7 +15597,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine/e H"
+    "ZonePoint_ID": "Cata M haunted=>mine/e H"
   },
   {
     "ClassType": "",
@@ -15613,7 +15613,7 @@
     "TargetX": 34825,
     "TargetY": 41386,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M haunted=\u003emine/e M"
+    "ZonePoint_ID": "Cata M haunted=>mine/e M"
   },
   {
     "ClassType": "",
@@ -15629,7 +15629,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial A"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial A"
   },
   {
     "ClassType": "",
@@ -15645,7 +15645,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial H"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial H"
   },
   {
     "ClassType": "",
@@ -15661,7 +15661,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial M"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial M"
   },
   {
     "ClassType": "",
@@ -15677,7 +15677,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial/e A"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial/e A"
   },
   {
     "ClassType": "",
@@ -15693,7 +15693,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial/e H"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial/e H"
   },
   {
     "ClassType": "",
@@ -15709,7 +15709,7 @@
     "TargetX": 48865,
     "TargetY": 41795,
     "TargetZ": 16609,
-    "ZonePoint_ID": "Cata M jarlsberg=\u003eburial/e M"
+    "ZonePoint_ID": "Cata M jarlsberg=>burial/e M"
   },
   {
     "ClassType": "",
@@ -15725,7 +15725,7 @@
     "TargetX": 48119,
     "TargetY": 37469,
     "TargetZ": 21811,
-    "ZonePoint_ID": "Cata M jord=\u003eburial A"
+    "ZonePoint_ID": "Cata M jord=>burial A"
   },
   {
     "ClassType": "",
@@ -15741,7 +15741,7 @@
     "TargetX": 48119,
     "TargetY": 37469,
     "TargetZ": 21811,
-    "ZonePoint_ID": "Cata M jord=\u003eburial H"
+    "ZonePoint_ID": "Cata M jord=>burial H"
   },
   {
     "ClassType": "",
@@ -15757,7 +15757,7 @@
     "TargetX": 47822,
     "TargetY": 37402,
     "TargetZ": 21792,
-    "ZonePoint_ID": "Cata M jord=\u003eburial M"
+    "ZonePoint_ID": "Cata M jord=>burial M"
   },
   {
     "ClassType": "",
@@ -15773,7 +15773,7 @@
     "TargetX": 29112,
     "TargetY": 12821,
     "TargetZ": 13012,
-    "ZonePoint_ID": "Cata M kobold=\u003eburial A"
+    "ZonePoint_ID": "Cata M kobold=>burial A"
   },
   {
     "ClassType": "",
@@ -15789,7 +15789,7 @@
     "TargetX": 29112,
     "TargetY": 12821,
     "TargetZ": 13012,
-    "ZonePoint_ID": "Cata M kobold=\u003eburial H"
+    "ZonePoint_ID": "Cata M kobold=>burial H"
   },
   {
     "ClassType": "",
@@ -15805,7 +15805,7 @@
     "TargetX": 29112,
     "TargetY": 12821,
     "TargetZ": 13012,
-    "ZonePoint_ID": "Cata M kobold=\u003eburial M"
+    "ZonePoint_ID": "Cata M kobold=>burial M"
   },
   {
     "ClassType": "",
@@ -15821,7 +15821,7 @@
     "TargetX": 42542,
     "TargetY": 51264,
     "TargetZ": 16115,
-    "ZonePoint_ID": "Cata M kobold=\u003efront A"
+    "ZonePoint_ID": "Cata M kobold=>front A"
   },
   {
     "ClassType": "",
@@ -15837,7 +15837,7 @@
     "TargetX": 42542,
     "TargetY": 51264,
     "TargetZ": 16115,
-    "ZonePoint_ID": "Cata M kobold=\u003efront H"
+    "ZonePoint_ID": "Cata M kobold=>front H"
   },
   {
     "ClassType": "",
@@ -15853,7 +15853,7 @@
     "TargetX": 42542,
     "TargetY": 51264,
     "TargetZ": 16115,
-    "ZonePoint_ID": "Cata M kobold=\u003efront M"
+    "ZonePoint_ID": "Cata M kobold=>front M"
   },
   {
     "ClassType": "",
@@ -15869,7 +15869,7 @@
     "TargetX": 32794,
     "TargetY": 25695,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata M kobold=\u003emine1 A"
+    "ZonePoint_ID": "Cata M kobold=>mine1 A"
   },
   {
     "ClassType": "",
@@ -15885,7 +15885,7 @@
     "TargetX": 32794,
     "TargetY": 25695,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata M kobold=\u003emine1 H"
+    "ZonePoint_ID": "Cata M kobold=>mine1 H"
   },
   {
     "ClassType": "",
@@ -15901,7 +15901,7 @@
     "TargetX": 32794,
     "TargetY": 25695,
     "TargetZ": 18429,
-    "ZonePoint_ID": "Cata M kobold=\u003emine1 M"
+    "ZonePoint_ID": "Cata M kobold=>mine1 M"
   },
   {
     "ClassType": "",
@@ -15917,7 +15917,7 @@
     "TargetX": 35094,
     "TargetY": 31198,
     "TargetZ": 17629,
-    "ZonePoint_ID": "Cata M kobold=\u003emine2 A"
+    "ZonePoint_ID": "Cata M kobold=>mine2 A"
   },
   {
     "ClassType": "",
@@ -15933,7 +15933,7 @@
     "TargetX": 35094,
     "TargetY": 31198,
     "TargetZ": 17629,
-    "ZonePoint_ID": "Cata M kobold=\u003emine2 H"
+    "ZonePoint_ID": "Cata M kobold=>mine2 H"
   },
   {
     "ClassType": "",
@@ -15949,7 +15949,7 @@
     "TargetX": 35094,
     "TargetY": 31198,
     "TargetZ": 17629,
-    "ZonePoint_ID": "Cata M kobold=\u003emine2 M"
+    "ZonePoint_ID": "Cata M kobold=>mine2 M"
   },
   {
     "ClassType": "",
@@ -15965,7 +15965,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim A"
+    "ZonePoint_ID": "Cata M madness=>nyttheim A"
   },
   {
     "ClassType": "",
@@ -15981,7 +15981,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim H"
+    "ZonePoint_ID": "Cata M madness=>nyttheim H"
   },
   {
     "ClassType": "",
@@ -15997,7 +15997,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim M"
+    "ZonePoint_ID": "Cata M madness=>nyttheim M"
   },
   {
     "ClassType": "",
@@ -16013,7 +16013,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim/e A"
+    "ZonePoint_ID": "Cata M madness=>nyttheim/e A"
   },
   {
     "ClassType": "",
@@ -16029,7 +16029,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim/e H"
+    "ZonePoint_ID": "Cata M madness=>nyttheim/e H"
   },
   {
     "ClassType": "",
@@ -16045,7 +16045,7 @@
     "TargetX": 35475,
     "TargetY": 26804,
     "TargetZ": 16022,
-    "ZonePoint_ID": "Cata M madness=\u003enyttheim/e M"
+    "ZonePoint_ID": "Cata M madness=>nyttheim/e M"
   },
   {
     "ClassType": "",
@@ -16061,7 +16061,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge A"
+    "ZonePoint_ID": "Cata M marik=>forge A"
   },
   {
     "ClassType": "",
@@ -16077,7 +16077,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge H"
+    "ZonePoint_ID": "Cata M marik=>forge H"
   },
   {
     "ClassType": "",
@@ -16093,7 +16093,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge M"
+    "ZonePoint_ID": "Cata M marik=>forge M"
   },
   {
     "ClassType": "",
@@ -16109,7 +16109,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge/e A"
+    "ZonePoint_ID": "Cata M marik=>forge/e A"
   },
   {
     "ClassType": "",
@@ -16125,7 +16125,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge/e H"
+    "ZonePoint_ID": "Cata M marik=>forge/e H"
   },
   {
     "ClassType": "",
@@ -16141,7 +16141,7 @@
     "TargetX": 41380,
     "TargetY": 32003,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M marik=\u003eforge/e M"
+    "ZonePoint_ID": "Cata M marik=>forge/e M"
   },
   {
     "ClassType": "",
@@ -16157,7 +16157,7 @@
     "TargetX": 31197,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata M mine=\u003ecursed A"
+    "ZonePoint_ID": "Cata M mine=>cursed A"
   },
   {
     "ClassType": "",
@@ -16173,7 +16173,7 @@
     "TargetX": 31197,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata M mine=\u003ecursed H"
+    "ZonePoint_ID": "Cata M mine=>cursed H"
   },
   {
     "ClassType": "",
@@ -16189,7 +16189,7 @@
     "TargetX": 31197,
     "TargetY": 32640,
     "TargetZ": 16026,
-    "ZonePoint_ID": "Cata M mine=\u003ecursed M"
+    "ZonePoint_ID": "Cata M mine=>cursed M"
   },
   {
     "ClassType": "",
@@ -16205,7 +16205,7 @@
     "TargetX": 28665,
     "TargetY": 22633,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata M mine=\u003eforge A"
+    "ZonePoint_ID": "Cata M mine=>forge A"
   },
   {
     "ClassType": "",
@@ -16221,7 +16221,7 @@
     "TargetX": 28665,
     "TargetY": 22633,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata M mine=\u003eforge H"
+    "ZonePoint_ID": "Cata M mine=>forge H"
   },
   {
     "ClassType": "",
@@ -16237,7 +16237,7 @@
     "TargetX": 28665,
     "TargetY": 22633,
     "TargetZ": 15229,
-    "ZonePoint_ID": "Cata M mine=\u003eforge M"
+    "ZonePoint_ID": "Cata M mine=>forge M"
   },
   {
     "ClassType": "",
@@ -16253,7 +16253,7 @@
     "TargetX": 33012,
     "TargetY": 34399,
     "TargetZ": 16521,
-    "ZonePoint_ID": "Cata M mine=\u003ehalforc A"
+    "ZonePoint_ID": "Cata M mine=>halforc A"
   },
   {
     "ClassType": "",
@@ -16269,7 +16269,7 @@
     "TargetX": 33012,
     "TargetY": 34399,
     "TargetZ": 16521,
-    "ZonePoint_ID": "Cata M mine=\u003ehalforc H"
+    "ZonePoint_ID": "Cata M mine=>halforc H"
   },
   {
     "ClassType": "",
@@ -16285,7 +16285,7 @@
     "TargetX": 33012,
     "TargetY": 34399,
     "TargetZ": 16521,
-    "ZonePoint_ID": "Cata M mine=\u003ehalforc M"
+    "ZonePoint_ID": "Cata M mine=>halforc M"
   },
   {
     "ClassType": "",
@@ -16301,7 +16301,7 @@
     "TargetX": 31120,
     "TargetY": 32149,
     "TargetZ": 16176,
-    "ZonePoint_ID": "Cata M mine=\u003ehaunted A"
+    "ZonePoint_ID": "Cata M mine=>haunted A"
   },
   {
     "ClassType": "",
@@ -16317,7 +16317,7 @@
     "TargetX": 31120,
     "TargetY": 32149,
     "TargetZ": 16176,
-    "ZonePoint_ID": "Cata M mine=\u003ehaunted H"
+    "ZonePoint_ID": "Cata M mine=>haunted H"
   },
   {
     "ClassType": "",
@@ -16333,7 +16333,7 @@
     "TargetX": 31120,
     "TargetY": 32149,
     "TargetZ": 16176,
-    "ZonePoint_ID": "Cata M mine=\u003ehaunted M"
+    "ZonePoint_ID": "Cata M mine=>haunted M"
   },
   {
     "ClassType": "",
@@ -16349,7 +16349,7 @@
     "TargetX": 28380,
     "TargetY": 36795,
     "TargetZ": 20224,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold1 A"
+    "ZonePoint_ID": "Cata M mine=>kobold1 A"
   },
   {
     "ClassType": "",
@@ -16365,7 +16365,7 @@
     "TargetX": 28380,
     "TargetY": 36795,
     "TargetZ": 20224,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold1 H"
+    "ZonePoint_ID": "Cata M mine=>kobold1 H"
   },
   {
     "ClassType": "",
@@ -16381,7 +16381,7 @@
     "TargetX": 28380,
     "TargetY": 36795,
     "TargetZ": 20224,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold1 M"
+    "ZonePoint_ID": "Cata M mine=>kobold1 M"
   },
   {
     "ClassType": "",
@@ -16397,7 +16397,7 @@
     "TargetX": 34561,
     "TargetY": 24502,
     "TargetZ": 16948,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold2 A"
+    "ZonePoint_ID": "Cata M mine=>kobold2 A"
   },
   {
     "ClassType": "",
@@ -16413,7 +16413,7 @@
     "TargetX": 34561,
     "TargetY": 24502,
     "TargetZ": 16948,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold2 H"
+    "ZonePoint_ID": "Cata M mine=>kobold2 H"
   },
   {
     "ClassType": "",
@@ -16429,7 +16429,7 @@
     "TargetX": 34561,
     "TargetY": 24502,
     "TargetZ": 16948,
-    "ZonePoint_ID": "Cata M mine=\u003ekobold2 M"
+    "ZonePoint_ID": "Cata M mine=>kobold2 M"
   },
   {
     "ClassType": "",
@@ -16445,7 +16445,7 @@
     "TargetX": 33031,
     "TargetY": 32323,
     "TargetZ": 16216,
-    "ZonePoint_ID": "Cata M mine=\u003enisse A"
+    "ZonePoint_ID": "Cata M mine=>nisse A"
   },
   {
     "ClassType": "",
@@ -16461,7 +16461,7 @@
     "TargetX": 33031,
     "TargetY": 32323,
     "TargetZ": 16216,
-    "ZonePoint_ID": "Cata M mine=\u003enisse H"
+    "ZonePoint_ID": "Cata M mine=>nisse H"
   },
   {
     "ClassType": "",
@@ -16477,7 +16477,7 @@
     "TargetX": 33031,
     "TargetY": 32323,
     "TargetZ": 16216,
-    "ZonePoint_ID": "Cata M mine=\u003enisse M"
+    "ZonePoint_ID": "Cata M mine=>nisse M"
   },
   {
     "ClassType": "",
@@ -16493,7 +16493,7 @@
     "TargetX": 31161,
     "TargetY": 30723,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata M mine=\u003espin A"
+    "ZonePoint_ID": "Cata M mine=>spin A"
   },
   {
     "ClassType": "",
@@ -16509,7 +16509,7 @@
     "TargetX": 31161,
     "TargetY": 30723,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata M mine=\u003espin H"
+    "ZonePoint_ID": "Cata M mine=>spin H"
   },
   {
     "ClassType": "",
@@ -16525,7 +16525,7 @@
     "TargetX": 31161,
     "TargetY": 30723,
     "TargetZ": 16027,
-    "ZonePoint_ID": "Cata M mine=\u003espin M"
+    "ZonePoint_ID": "Cata M mine=>spin M"
   },
   {
     "ClassType": "",
@@ -16541,7 +16541,7 @@
     "TargetX": 34392,
     "TargetY": 31479,
     "TargetZ": 14757,
-    "ZonePoint_ID": "Cata M mine=\u003evarhu A"
+    "ZonePoint_ID": "Cata M mine=>varhu A"
   },
   {
     "ClassType": "",
@@ -16557,7 +16557,7 @@
     "TargetX": 34392,
     "TargetY": 31479,
     "TargetZ": 14757,
-    "ZonePoint_ID": "Cata M mine=\u003evarhu H"
+    "ZonePoint_ID": "Cata M mine=>varhu H"
   },
   {
     "ClassType": "",
@@ -16573,7 +16573,7 @@
     "TargetX": 34392,
     "TargetY": 31479,
     "TargetZ": 14757,
-    "ZonePoint_ID": "Cata M mine=\u003evarhu M"
+    "ZonePoint_ID": "Cata M mine=>varhu M"
   },
   {
     "ClassType": "",
@@ -16589,7 +16589,7 @@
     "TargetX": 30515,
     "TargetY": 32691,
     "TargetZ": 16576,
-    "ZonePoint_ID": "Cata M mine=\u003evendo A"
+    "ZonePoint_ID": "Cata M mine=>vendo A"
   },
   {
     "ClassType": "",
@@ -16605,7 +16605,7 @@
     "TargetX": 30515,
     "TargetY": 32691,
     "TargetZ": 16576,
-    "ZonePoint_ID": "Cata M mine=\u003evendo H"
+    "ZonePoint_ID": "Cata M mine=>vendo H"
   },
   {
     "ClassType": "",
@@ -16621,7 +16621,7 @@
     "TargetX": 30515,
     "TargetY": 32691,
     "TargetZ": 16576,
-    "ZonePoint_ID": "Cata M mine=\u003evendo M"
+    "ZonePoint_ID": "Cata M mine=>vendo M"
   },
   {
     "ClassType": "",
@@ -16637,7 +16637,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 1 A"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 1 A"
   },
   {
     "ClassType": "",
@@ -16653,7 +16653,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 1 H"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 1 H"
   },
   {
     "ClassType": "",
@@ -16669,7 +16669,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 1 M"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 1 M"
   },
   {
     "ClassType": "",
@@ -16685,7 +16685,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 2 A"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 2 A"
   },
   {
     "ClassType": "",
@@ -16701,7 +16701,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 2 H"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 2 H"
   },
   {
     "ClassType": "",
@@ -16717,7 +16717,7 @@
     "TargetX": 717929,
     "TargetY": 744517,
     "TargetZ": 4597,
-    "ZonePoint_ID": "Cata M mine=\u003ew.svealand 2 M"
+    "ZonePoint_ID": "Cata M mine=>w.svealand 2 M"
   },
   {
     "ClassType": "",
@@ -16733,7 +16733,7 @@
     "TargetX": 30218,
     "TargetY": 45605,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M nisse=\u003emine A"
+    "ZonePoint_ID": "Cata M nisse=>mine A"
   },
   {
     "ClassType": "",
@@ -16749,7 +16749,7 @@
     "TargetX": 30218,
     "TargetY": 45605,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M nisse=\u003emine H"
+    "ZonePoint_ID": "Cata M nisse=>mine H"
   },
   {
     "ClassType": "",
@@ -16765,7 +16765,7 @@
     "TargetX": 30218,
     "TargetY": 45605,
     "TargetZ": 18430,
-    "ZonePoint_ID": "Cata M nisse=\u003emine M"
+    "ZonePoint_ID": "Cata M nisse=>mine M"
   },
   {
     "ClassType": "",
@@ -16781,7 +16781,7 @@
     "TargetX": 32305,
     "TargetY": 29562,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eechoes A"
+    "ZonePoint_ID": "Cata M nyttheim=>echoes A"
   },
   {
     "ClassType": "",
@@ -16797,7 +16797,7 @@
     "TargetX": 32305,
     "TargetY": 29562,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eechoes H"
+    "ZonePoint_ID": "Cata M nyttheim=>echoes H"
   },
   {
     "ClassType": "",
@@ -16813,7 +16813,7 @@
     "TargetX": 32305,
     "TargetY": 29562,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eechoes M"
+    "ZonePoint_ID": "Cata M nyttheim=>echoes M"
   },
   {
     "ClassType": "",
@@ -16829,7 +16829,7 @@
     "TargetX": 12419,
     "TargetY": 40529,
     "TargetZ": 16323,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eforest A"
+    "ZonePoint_ID": "Cata M nyttheim=>forest A"
   },
   {
     "ClassType": "",
@@ -16845,7 +16845,7 @@
     "TargetX": 12419,
     "TargetY": 40529,
     "TargetZ": 16323,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eforest H"
+    "ZonePoint_ID": "Cata M nyttheim=>forest H"
   },
   {
     "ClassType": "",
@@ -16861,7 +16861,7 @@
     "TargetX": 12419,
     "TargetY": 40529,
     "TargetZ": 16323,
-    "ZonePoint_ID": "Cata M nyttheim=\u003eforest M"
+    "ZonePoint_ID": "Cata M nyttheim=>forest M"
   },
   {
     "ClassType": "",
@@ -16877,7 +16877,7 @@
     "TargetX": 20848,
     "TargetY": 18372,
     "TargetZ": 16346,
-    "ZonePoint_ID": "Cata M nyttheim=\u003efront A"
+    "ZonePoint_ID": "Cata M nyttheim=>front A"
   },
   {
     "ClassType": "",
@@ -16893,7 +16893,7 @@
     "TargetX": 20848,
     "TargetY": 18372,
     "TargetZ": 16346,
-    "ZonePoint_ID": "Cata M nyttheim=\u003efront H"
+    "ZonePoint_ID": "Cata M nyttheim=>front H"
   },
   {
     "ClassType": "",
@@ -16909,7 +16909,7 @@
     "TargetX": 20848,
     "TargetY": 18372,
     "TargetZ": 16346,
-    "ZonePoint_ID": "Cata M nyttheim=\u003efront M"
+    "ZonePoint_ID": "Cata M nyttheim=>front M"
   },
   {
     "ClassType": "",
@@ -16925,7 +16925,7 @@
     "TargetX": 34143,
     "TargetY": 31410,
     "TargetZ": 17649,
-    "ZonePoint_ID": "Cata M nyttheim=\u003emadness A"
+    "ZonePoint_ID": "Cata M nyttheim=>madness A"
   },
   {
     "ClassType": "",
@@ -16941,7 +16941,7 @@
     "TargetX": 34143,
     "TargetY": 31410,
     "TargetZ": 17649,
-    "ZonePoint_ID": "Cata M nyttheim=\u003emadness H"
+    "ZonePoint_ID": "Cata M nyttheim=>madness H"
   },
   {
     "ClassType": "",
@@ -16957,7 +16957,7 @@
     "TargetX": 34143,
     "TargetY": 31410,
     "TargetZ": 17649,
-    "ZonePoint_ID": "Cata M nyttheim=\u003emadness M"
+    "ZonePoint_ID": "Cata M nyttheim=>madness M"
   },
   {
     "ClassType": "",
@@ -16973,7 +16973,7 @@
     "TargetX": 40776,
     "TargetY": 48402,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata M other=\u003eforest A"
+    "ZonePoint_ID": "Cata M other=>forest A"
   },
   {
     "ClassType": "",
@@ -16989,7 +16989,7 @@
     "TargetX": 40776,
     "TargetY": 48402,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata M other=\u003eforest H"
+    "ZonePoint_ID": "Cata M other=>forest H"
   },
   {
     "ClassType": "",
@@ -17005,7 +17005,7 @@
     "TargetX": 40776,
     "TargetY": 48402,
     "TargetZ": 16301,
-    "ZonePoint_ID": "Cata M other=\u003eforest M"
+    "ZonePoint_ID": "Cata M other=>forest M"
   },
   {
     "ClassType": "",
@@ -17021,7 +17021,7 @@
     "TargetX": 36819,
     "TargetY": 38284,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata M other=\u003epassages A"
+    "ZonePoint_ID": "Cata M other=>passages A"
   },
   {
     "ClassType": "",
@@ -17037,7 +17037,7 @@
     "TargetX": 36819,
     "TargetY": 38284,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata M other=\u003epassages H"
+    "ZonePoint_ID": "Cata M other=>passages H"
   },
   {
     "ClassType": "",
@@ -17053,7 +17053,7 @@
     "TargetX": 36819,
     "TargetY": 38284,
     "TargetZ": 18282,
-    "ZonePoint_ID": "Cata M other=\u003epassages M"
+    "ZonePoint_ID": "Cata M other=>passages M"
   },
   {
     "ClassType": "",
@@ -17069,7 +17069,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother A"
+    "ZonePoint_ID": "Cata M passages=>other A"
   },
   {
     "ClassType": "",
@@ -17085,7 +17085,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother H"
+    "ZonePoint_ID": "Cata M passages=>other H"
   },
   {
     "ClassType": "",
@@ -17101,7 +17101,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother M"
+    "ZonePoint_ID": "Cata M passages=>other M"
   },
   {
     "ClassType": "",
@@ -17117,7 +17117,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother/e A"
+    "ZonePoint_ID": "Cata M passages=>other/e A"
   },
   {
     "ClassType": "",
@@ -17133,7 +17133,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother/e H"
+    "ZonePoint_ID": "Cata M passages=>other/e H"
   },
   {
     "ClassType": "",
@@ -17149,7 +17149,7 @@
     "TargetX": 44243,
     "TargetY": 36300,
     "TargetZ": 14971,
-    "ZonePoint_ID": "Cata M passages=\u003eother/e M"
+    "ZonePoint_ID": "Cata M passages=>other/e M"
   },
   {
     "ClassType": "",
@@ -17165,7 +17165,7 @@
     "TargetX": 19009,
     "TargetY": 29609,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M spin=\u003emine A"
+    "ZonePoint_ID": "Cata M spin=>mine A"
   },
   {
     "ClassType": "",
@@ -17181,7 +17181,7 @@
     "TargetX": 19009,
     "TargetY": 29609,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M spin=\u003emine H"
+    "ZonePoint_ID": "Cata M spin=>mine H"
   },
   {
     "ClassType": "",
@@ -17197,7 +17197,7 @@
     "TargetX": 19009,
     "TargetY": 29609,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M spin=\u003emine M"
+    "ZonePoint_ID": "Cata M spin=>mine M"
   },
   {
     "ClassType": "",
@@ -17213,7 +17213,7 @@
     "TargetX": 29549,
     "TargetY": 14449,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial A"
+    "ZonePoint_ID": "Cata M thieves=>burial A"
   },
   {
     "ClassType": "",
@@ -17229,7 +17229,7 @@
     "TargetX": 29549,
     "TargetY": 14449,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial H"
+    "ZonePoint_ID": "Cata M thieves=>burial H"
   },
   {
     "ClassType": "",
@@ -17245,7 +17245,7 @@
     "TargetX": 29549,
     "TargetY": 14449,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial M"
+    "ZonePoint_ID": "Cata M thieves=>burial M"
   },
   {
     "ClassType": "",
@@ -17261,7 +17261,7 @@
     "TargetX": 29549,
     "TargetY": 14449,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial/e A"
+    "ZonePoint_ID": "Cata M thieves=>burial/e A"
   },
   {
     "ClassType": "",
@@ -17277,7 +17277,7 @@
     "TargetX": 29549,
     "TargetY": 14449,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial/e H"
+    "ZonePoint_ID": "Cata M thieves=>burial/e H"
   },
   {
     "ClassType": "",
@@ -17293,7 +17293,7 @@
     "TargetX": 29462,
     "TargetY": 14460,
     "TargetZ": 14612,
-    "ZonePoint_ID": "Cata M thieves=\u003eburial/e M"
+    "ZonePoint_ID": "Cata M thieves=>burial/e M"
   },
   {
     "ClassType": "",
@@ -17309,7 +17309,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn A"
+    "ZonePoint_ID": "Cata M tomb=>annwn A"
   },
   {
     "ClassType": "",
@@ -17325,7 +17325,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn H"
+    "ZonePoint_ID": "Cata M tomb=>annwn H"
   },
   {
     "ClassType": "",
@@ -17341,7 +17341,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn M"
+    "ZonePoint_ID": "Cata M tomb=>annwn M"
   },
   {
     "ClassType": "",
@@ -17357,7 +17357,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn/e A"
+    "ZonePoint_ID": "Cata M tomb=>annwn/e A"
   },
   {
     "ClassType": "",
@@ -17373,7 +17373,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn/e H"
+    "ZonePoint_ID": "Cata M tomb=>annwn/e H"
   },
   {
     "ClassType": "",
@@ -17389,7 +17389,7 @@
     "TargetX": 20413,
     "TargetY": 10852,
     "TargetZ": 16126,
-    "ZonePoint_ID": "Cata M tomb=\u003eannwn/e M"
+    "ZonePoint_ID": "Cata M tomb=>annwn/e M"
   },
   {
     "ClassType": "",
@@ -17405,7 +17405,7 @@
     "TargetX": 30209,
     "TargetY": 47213,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M varhu=\u003emine A"
+    "ZonePoint_ID": "Cata M varhu=>mine A"
   },
   {
     "ClassType": "",
@@ -17421,7 +17421,7 @@
     "TargetX": 30209,
     "TargetY": 47213,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M varhu=\u003emine H"
+    "ZonePoint_ID": "Cata M varhu=>mine H"
   },
   {
     "ClassType": "",
@@ -17437,7 +17437,7 @@
     "TargetX": 30209,
     "TargetY": 47213,
     "TargetZ": 16830,
-    "ZonePoint_ID": "Cata M varhu=\u003emine M"
+    "ZonePoint_ID": "Cata M varhu=>mine M"
   },
   {
     "ClassType": "",
@@ -17453,7 +17453,7 @@
     "TargetX": 18377,
     "TargetY": 45001,
     "TargetZ": 17630,
-    "ZonePoint_ID": "Cata M vendo=\u003emine A"
+    "ZonePoint_ID": "Cata M vendo=>mine A"
   },
   {
     "ClassType": "",
@@ -17469,7 +17469,7 @@
     "TargetX": 18377,
     "TargetY": 45001,
     "TargetZ": 17630,
-    "ZonePoint_ID": "Cata M vendo=\u003emine H"
+    "ZonePoint_ID": "Cata M vendo=>mine H"
   },
   {
     "ClassType": "",
@@ -17485,7 +17485,7 @@
     "TargetX": 18377,
     "TargetY": 45001,
     "TargetZ": 17630,
-    "ZonePoint_ID": "Cata M vendo=\u003emine M"
+    "ZonePoint_ID": "Cata M vendo=>mine M"
   },
   {
     "ClassType": "",
@@ -17501,7 +17501,7 @@
     "TargetX": 27227,
     "TargetY": 26401,
     "TargetZ": 18424,
-    "ZonePoint_ID": "Cata M w.svealand=\u003emine A"
+    "ZonePoint_ID": "Cata M w.svealand=>mine A"
   },
   {
     "ClassType": "",
@@ -17517,7 +17517,7 @@
     "TargetX": 27227,
     "TargetY": 26401,
     "TargetZ": 18424,
-    "ZonePoint_ID": "Cata M w.svealand=\u003emine H"
+    "ZonePoint_ID": "Cata M w.svealand=>mine H"
   },
   {
     "ClassType": "",
@@ -17533,7 +17533,7 @@
     "TargetX": 27227,
     "TargetY": 26401,
     "TargetZ": 18424,
-    "ZonePoint_ID": "Cata M w.svealand=\u003emine M"
+    "ZonePoint_ID": "Cata M w.svealand=>mine M"
   },
   {
     "ClassType": "",
@@ -17549,7 +17549,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge A"
+    "ZonePoint_ID": "Cata M wolak=>forge A"
   },
   {
     "ClassType": "",
@@ -17565,7 +17565,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge H"
+    "ZonePoint_ID": "Cata M wolak=>forge H"
   },
   {
     "ClassType": "",
@@ -17581,7 +17581,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge M"
+    "ZonePoint_ID": "Cata M wolak=>forge M"
   },
   {
     "ClassType": "",
@@ -17597,7 +17597,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge/e A"
+    "ZonePoint_ID": "Cata M wolak=>forge/e A"
   },
   {
     "ClassType": "",
@@ -17613,7 +17613,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge/e H"
+    "ZonePoint_ID": "Cata M wolak=>forge/e H"
   },
   {
     "ClassType": "",
@@ -17629,7 +17629,7 @@
     "TargetX": 30116,
     "TargetY": 35000,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Cata M wolak=\u003eforge/e M"
+    "ZonePoint_ID": "Cata M wolak=>forge/e M"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -17645,7 +17645,7 @@
     "TargetX": 42110,
     "TargetY": 31815,
     "TargetZ": 16247,
-    "ZonePoint_ID": "corus =\u003e vein"
+    "ZonePoint_ID": "corus => vein"
   },
   {
     "ClassType": "",
@@ -17661,7 +17661,7 @@
     "TargetX": 780886,
     "TargetY": 856808,
     "TargetZ": 7780,
-    "ZonePoint_ID": "Cursed Tomb =\u003e Gotar"
+    "ZonePoint_ID": "Cursed Tomb => Gotar"
   },
   {
     "ClassType": "",
@@ -18077,7 +18077,7 @@
     "TargetX": 34693,
     "TargetY": 33173,
     "TargetZ": 16447,
-    "ZonePoint_ID": "Entrance East Svealand =\u003e Nisse's lair"
+    "ZonePoint_ID": "Entrance East Svealand => Nisse's lair"
   },
   {
     "ClassType": "",
@@ -18237,7 +18237,7 @@
     "TargetX": 595196,
     "TargetY": 533535,
     "TargetZ": 2607,
-    "ZonePoint_ID": "Exit Tomb of Mithra=\u003eCamelot Hills"
+    "ZonePoint_ID": "Exit Tomb of Mithra=>Camelot Hills"
   },
   {
     "ClassType": "",
@@ -18253,7 +18253,7 @@
     "TargetX": 588441,
     "TargetY": 515322,
     "TargetZ": 2888,
-    "ZonePoint_ID": "Exit Tomb of Mithra=\u003eTower"
+    "ZonePoint_ID": "Exit Tomb of Mithra=>Tower"
   },
   {
     "ClassType": "",
@@ -18589,7 +18589,7 @@
     "TargetX": 30116,
     "TargetY": 31234,
     "TargetZ": 16523,
-    "ZonePoint_ID": "Gotar =\u003e Cursed Tomb"
+    "ZonePoint_ID": "Gotar => Cursed Tomb"
   },
   {
     "ClassType": "",
@@ -18653,7 +18653,7 @@
     "TargetX": 32618,
     "TargetY": 38664,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo A"
+    "ZonePoint_ID": "Inst A arena=>cardo A"
   },
   {
     "ClassType": "",
@@ -18669,7 +18669,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo H"
+    "ZonePoint_ID": "Inst A arena=>cardo H"
   },
   {
     "ClassType": "",
@@ -18685,7 +18685,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo M"
+    "ZonePoint_ID": "Inst A arena=>cardo M"
   },
   {
     "ClassType": "",
@@ -18701,7 +18701,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo/e A"
+    "ZonePoint_ID": "Inst A arena=>cardo/e A"
   },
   {
     "ClassType": "",
@@ -18717,7 +18717,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo/e H"
+    "ZonePoint_ID": "Inst A arena=>cardo/e H"
   },
   {
     "ClassType": "",
@@ -18733,7 +18733,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "Inst A arena=\u003ecardo/e M"
+    "ZonePoint_ID": "Inst A arena=>cardo/e M"
   },
   {
     "ClassType": "",
@@ -18749,7 +18749,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok A"
+    "ZonePoint_ID": "Inst A beastman=>tepok A"
   },
   {
     "ClassType": "",
@@ -18765,7 +18765,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok H"
+    "ZonePoint_ID": "Inst A beastman=>tepok H"
   },
   {
     "ClassType": "",
@@ -18781,7 +18781,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok M"
+    "ZonePoint_ID": "Inst A beastman=>tepok M"
   },
   {
     "ClassType": "",
@@ -18797,7 +18797,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok/e A"
+    "ZonePoint_ID": "Inst A beastman=>tepok/e A"
   },
   {
     "ClassType": "",
@@ -18813,7 +18813,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok/e H"
+    "ZonePoint_ID": "Inst A beastman=>tepok/e H"
   },
   {
     "ClassType": "",
@@ -18829,7 +18829,7 @@
     "TargetX": 37188,
     "TargetY": 30332,
     "TargetZ": 14437,
-    "ZonePoint_ID": "Inst A beastman=\u003etepok/e M"
+    "ZonePoint_ID": "Inst A beastman=>tepok/e M"
   },
   {
     "ClassType": "",
@@ -18845,7 +18845,7 @@
     "TargetX": 37521,
     "TargetY": 33550,
     "TargetZ": 15711,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi A"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi A"
   },
   {
     "ClassType": "",
@@ -18861,7 +18861,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi H"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi H"
   },
   {
     "ClassType": "",
@@ -18877,7 +18877,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi M"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi M"
   },
   {
     "ClassType": "",
@@ -18893,7 +18893,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi/e A"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi/e A"
   },
   {
     "ClassType": "",
@@ -18909,7 +18909,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi/e H"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi/e H"
   },
   {
     "ClassType": "",
@@ -18925,7 +18925,7 @@
     "TargetX": 37403,
     "TargetY": 33533,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst A betrayer=\u003ekeltoi/e M"
+    "ZonePoint_ID": "Inst A betrayer=>keltoi/e M"
   },
   {
     "ClassType": "DOL.GS.Scripts.TheArena",
@@ -18941,7 +18941,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A cardo=\u003earena A"
+    "ZonePoint_ID": "Inst A cardo=>arena A"
   },
   {
     "ClassType": "",
@@ -18957,7 +18957,7 @@
     "TargetX": 48778,
     "TargetY": 31364,
     "TargetZ": 16955,
-    "ZonePoint_ID": "Inst A cardo=\u003earena H"
+    "ZonePoint_ID": "Inst A cardo=>arena H"
   },
   {
     "ClassType": "",
@@ -18973,7 +18973,7 @@
     "TargetX": 48778,
     "TargetY": 31364,
     "TargetZ": 16955,
-    "ZonePoint_ID": "Inst A cardo=\u003earena M"
+    "ZonePoint_ID": "Inst A cardo=>arena M"
   },
   {
     "ClassType": "DOL.GS.Scripts.LairOfDoom",
@@ -18989,7 +18989,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A cardo=\u003edoom A"
+    "ZonePoint_ID": "Inst A cardo=>doom A"
   },
   {
     "ClassType": "",
@@ -19005,7 +19005,7 @@
     "TargetX": 32906,
     "TargetY": 31856,
     "TargetZ": 16215,
-    "ZonePoint_ID": "Inst A cardo=\u003edoom H"
+    "ZonePoint_ID": "Inst A cardo=>doom H"
   },
   {
     "ClassType": "",
@@ -19021,7 +19021,7 @@
     "TargetX": 32906,
     "TargetY": 31856,
     "TargetZ": 16215,
-    "ZonePoint_ID": "Inst A cardo=\u003edoom M"
+    "ZonePoint_ID": "Inst A cardo=>doom M"
   },
   {
     "ClassType": "",
@@ -19037,7 +19037,7 @@
     "TargetX": 31734,
     "TargetY": 30351,
     "TargetZ": 14954,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok A"
+    "ZonePoint_ID": "Inst A cookery=>tepok A"
   },
   {
     "ClassType": "",
@@ -19053,7 +19053,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok H"
+    "ZonePoint_ID": "Inst A cookery=>tepok H"
   },
   {
     "ClassType": "",
@@ -19069,7 +19069,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok M"
+    "ZonePoint_ID": "Inst A cookery=>tepok M"
   },
   {
     "ClassType": "",
@@ -19085,7 +19085,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok/e A"
+    "ZonePoint_ID": "Inst A cookery=>tepok/e A"
   },
   {
     "ClassType": "",
@@ -19101,7 +19101,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok/e H"
+    "ZonePoint_ID": "Inst A cookery=>tepok/e H"
   },
   {
     "ClassType": "",
@@ -19117,7 +19117,7 @@
     "TargetX": 31717,
     "TargetY": 30346,
     "TargetZ": 14953,
-    "ZonePoint_ID": "Inst A cookery=\u003etepok/e M"
+    "ZonePoint_ID": "Inst A cookery=>tepok/e M"
   },
   {
     "ClassType": "",
@@ -19133,7 +19133,7 @@
     "TargetX": 27017,
     "TargetY": 30103,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone A"
+    "ZonePoint_ID": "Inst A deliah=>stone A"
   },
   {
     "ClassType": "",
@@ -19149,7 +19149,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone H"
+    "ZonePoint_ID": "Inst A deliah=>stone H"
   },
   {
     "ClassType": "",
@@ -19165,7 +19165,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone M"
+    "ZonePoint_ID": "Inst A deliah=>stone M"
   },
   {
     "ClassType": "",
@@ -19181,7 +19181,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone/e A"
+    "ZonePoint_ID": "Inst A deliah=>stone/e A"
   },
   {
     "ClassType": "",
@@ -19197,7 +19197,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone/e H"
+    "ZonePoint_ID": "Inst A deliah=>stone/e H"
   },
   {
     "ClassType": "",
@@ -19213,7 +19213,7 @@
     "TargetX": 26984,
     "TargetY": 30107,
     "TargetZ": 16223,
-    "ZonePoint_ID": "Inst A deliah=\u003estone/e M"
+    "ZonePoint_ID": "Inst A deliah=>stone/e M"
   },
   {
     "ClassType": "",
@@ -19229,7 +19229,7 @@
     "TargetX": 34141,
     "TargetY": 30808,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo A"
+    "ZonePoint_ID": "Inst A doom=>cardo A"
   },
   {
     "ClassType": "",
@@ -19245,7 +19245,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo H"
+    "ZonePoint_ID": "Inst A doom=>cardo H"
   },
   {
     "ClassType": "",
@@ -19261,7 +19261,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo M"
+    "ZonePoint_ID": "Inst A doom=>cardo M"
   },
   {
     "ClassType": "",
@@ -19277,7 +19277,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo/e A"
+    "ZonePoint_ID": "Inst A doom=>cardo/e A"
   },
   {
     "ClassType": "",
@@ -19293,7 +19293,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo/e H"
+    "ZonePoint_ID": "Inst A doom=>cardo/e H"
   },
   {
     "ClassType": "",
@@ -19309,7 +19309,7 @@
     "TargetX": 34133,
     "TargetY": 31002,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst A doom=\u003ecardo/e M"
+    "ZonePoint_ID": "Inst A doom=>cardo/e M"
   },
   {
     "ClassType": "",
@@ -19325,7 +19325,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra A"
+    "ZonePoint_ID": "Inst A hidden=>mithra A"
   },
   {
     "ClassType": "",
@@ -19341,7 +19341,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra H"
+    "ZonePoint_ID": "Inst A hidden=>mithra H"
   },
   {
     "ClassType": "",
@@ -19357,7 +19357,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra M"
+    "ZonePoint_ID": "Inst A hidden=>mithra M"
   },
   {
     "ClassType": "",
@@ -19373,7 +19373,7 @@
     "TargetX": 25186,
     "TargetY": 30684,
     "TargetZ": 15039,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra/e A"
+    "ZonePoint_ID": "Inst A hidden=>mithra/e A"
   },
   {
     "ClassType": "",
@@ -19389,7 +19389,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra/e H"
+    "ZonePoint_ID": "Inst A hidden=>mithra/e H"
   },
   {
     "ClassType": "",
@@ -19405,7 +19405,7 @@
     "TargetX": 25317,
     "TargetY": 30678,
     "TargetZ": 15007,
-    "ZonePoint_ID": "Inst A hidden=\u003emithra/e M"
+    "ZonePoint_ID": "Inst A hidden=>mithra/e M"
   },
   {
     "ClassType": "DOL.GS.Scripts.BetrayersDen",
@@ -19421,7 +19421,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A keltoi=\u003ebetrayer A"
+    "ZonePoint_ID": "Inst A keltoi=>betrayer A"
   },
   {
     "ClassType": "",
@@ -19437,7 +19437,7 @@
     "TargetX": 33268,
     "TargetY": 37117,
     "TargetZ": 15755,
-    "ZonePoint_ID": "Inst A keltoi=\u003ebetrayer H"
+    "ZonePoint_ID": "Inst A keltoi=>betrayer H"
   },
   {
     "ClassType": "",
@@ -19453,7 +19453,7 @@
     "TargetX": 33268,
     "TargetY": 37117,
     "TargetZ": 15755,
-    "ZonePoint_ID": "Inst A keltoi=\u003ebetrayer M"
+    "ZonePoint_ID": "Inst A keltoi=>betrayer M"
   },
   {
     "ClassType": "DOL.GS.Scripts.RitualHall",
@@ -19469,7 +19469,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A keltoi=\u003eritual A"
+    "ZonePoint_ID": "Inst A keltoi=>ritual A"
   },
   {
     "ClassType": "",
@@ -19485,7 +19485,7 @@
     "TargetX": 41105,
     "TargetY": 33947,
     "TargetZ": 15936,
-    "ZonePoint_ID": "Inst A keltoi=\u003eritual H"
+    "ZonePoint_ID": "Inst A keltoi=>ritual H"
   },
   {
     "ClassType": "",
@@ -19501,7 +19501,7 @@
     "TargetX": 41105,
     "TargetY": 33947,
     "TargetZ": 15936,
-    "ZonePoint_ID": "Inst A keltoi=\u003eritual M"
+    "ZonePoint_ID": "Inst A keltoi=>ritual M"
   },
   {
     "ClassType": "",
@@ -19517,7 +19517,7 @@
     "TargetX": 30669,
     "TargetY": 33153,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone A"
+    "ZonePoint_ID": "Inst A lost=>stone A"
   },
   {
     "ClassType": "",
@@ -19533,7 +19533,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone H"
+    "ZonePoint_ID": "Inst A lost=>stone H"
   },
   {
     "ClassType": "",
@@ -19549,7 +19549,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone M"
+    "ZonePoint_ID": "Inst A lost=>stone M"
   },
   {
     "ClassType": "",
@@ -19565,7 +19565,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone/e A"
+    "ZonePoint_ID": "Inst A lost=>stone/e A"
   },
   {
     "ClassType": "",
@@ -19581,7 +19581,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone/e H"
+    "ZonePoint_ID": "Inst A lost=>stone/e H"
   },
   {
     "ClassType": "",
@@ -19597,7 +19597,7 @@
     "TargetX": 30681,
     "TargetY": 33123,
     "TargetZ": 15951,
-    "ZonePoint_ID": "Inst A lost=\u003estone/e M"
+    "ZonePoint_ID": "Inst A lost=>stone/e M"
   },
   {
     "ClassType": "DOL.GS.Scripts.HiddenCrypt",
@@ -19613,7 +19613,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A mithra=\u003ehidden A"
+    "ZonePoint_ID": "Inst A mithra=>hidden A"
   },
   {
     "ClassType": "",
@@ -19629,7 +19629,7 @@
     "TargetX": 25097,
     "TargetY": 30572,
     "TargetZ": 16127,
-    "ZonePoint_ID": "Inst A mithra=\u003ehidden H"
+    "ZonePoint_ID": "Inst A mithra=>hidden H"
   },
   {
     "ClassType": "",
@@ -19645,7 +19645,7 @@
     "TargetX": 25097,
     "TargetY": 30572,
     "TargetZ": 16127,
-    "ZonePoint_ID": "Inst A mithra=\u003ehidden M"
+    "ZonePoint_ID": "Inst A mithra=>hidden M"
   },
   {
     "ClassType": "DOL.GS.Scripts.HallOfReawakening",
@@ -19661,7 +19661,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A mithra=\u003ereawak A"
+    "ZonePoint_ID": "Inst A mithra=>reawak A"
   },
   {
     "ClassType": "",
@@ -19677,7 +19677,7 @@
     "TargetX": 37835,
     "TargetY": 29128,
     "TargetZ": 16736,
-    "ZonePoint_ID": "Inst A mithra=\u003ereawak H"
+    "ZonePoint_ID": "Inst A mithra=>reawak H"
   },
   {
     "ClassType": "",
@@ -19693,7 +19693,7 @@
     "TargetX": 37835,
     "TargetY": 29128,
     "TargetZ": 16736,
-    "ZonePoint_ID": "Inst A mithra=\u003ereawak M"
+    "ZonePoint_ID": "Inst A mithra=>reawak M"
   },
   {
     "ClassType": "",
@@ -19709,7 +19709,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra A"
+    "ZonePoint_ID": "Inst A reawak=>mithra A"
   },
   {
     "ClassType": "",
@@ -19725,7 +19725,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra H"
+    "ZonePoint_ID": "Inst A reawak=>mithra H"
   },
   {
     "ClassType": "",
@@ -19741,7 +19741,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra M"
+    "ZonePoint_ID": "Inst A reawak=>mithra M"
   },
   {
     "ClassType": "",
@@ -19757,7 +19757,7 @@
     "TargetX": 29309,
     "TargetY": 30364,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra/e A"
+    "ZonePoint_ID": "Inst A reawak=>mithra/e A"
   },
   {
     "ClassType": "",
@@ -19773,7 +19773,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra/e H"
+    "ZonePoint_ID": "Inst A reawak=>mithra/e H"
   },
   {
     "ClassType": "",
@@ -19789,7 +19789,7 @@
     "TargetX": 29303,
     "TargetY": 30468,
     "TargetZ": 15519,
-    "ZonePoint_ID": "Inst A reawak=\u003emithra/e M"
+    "ZonePoint_ID": "Inst A reawak=>mithra/e M"
   },
   {
     "ClassType": "",
@@ -19805,7 +19805,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi A"
+    "ZonePoint_ID": "Inst A ritual=>keltoi A"
   },
   {
     "ClassType": "",
@@ -19821,7 +19821,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi H"
+    "ZonePoint_ID": "Inst A ritual=>keltoi H"
   },
   {
     "ClassType": "",
@@ -19837,7 +19837,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi M"
+    "ZonePoint_ID": "Inst A ritual=>keltoi M"
   },
   {
     "ClassType": "",
@@ -19853,7 +19853,7 @@
     "TargetX": 33151,
     "TargetY": 34343,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi/e A"
+    "ZonePoint_ID": "Inst A ritual=>keltoi/e A"
   },
   {
     "ClassType": "",
@@ -19869,7 +19869,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi/e H"
+    "ZonePoint_ID": "Inst A ritual=>keltoi/e H"
   },
   {
     "ClassType": "",
@@ -19885,7 +19885,7 @@
     "TargetX": 33147,
     "TargetY": 34206,
     "TargetZ": 16003,
-    "ZonePoint_ID": "Inst A ritual=\u003ekeltoi/e M"
+    "ZonePoint_ID": "Inst A ritual=>keltoi/e M"
   },
   {
     "ClassType": "DOL.GS.Scripts.DeliahsSanctuary",
@@ -19901,7 +19901,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A stone=\u003edeliah A"
+    "ZonePoint_ID": "Inst A stone=>deliah A"
   },
   {
     "ClassType": "",
@@ -19917,7 +19917,7 @@
     "TargetX": 16500,
     "TargetY": 30899,
     "TargetZ": 14991,
-    "ZonePoint_ID": "Inst A stone=\u003edeliah H"
+    "ZonePoint_ID": "Inst A stone=>deliah H"
   },
   {
     "ClassType": "",
@@ -19933,7 +19933,7 @@
     "TargetX": 16500,
     "TargetY": 30899,
     "TargetZ": 14991,
-    "ZonePoint_ID": "Inst A stone=\u003edeliah M"
+    "ZonePoint_ID": "Inst A stone=>deliah M"
   },
   {
     "ClassType": "DOL.GS.Scripts.LostWing",
@@ -19949,7 +19949,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A stone=\u003elost A"
+    "ZonePoint_ID": "Inst A stone=>lost A"
   },
   {
     "ClassType": "",
@@ -19965,7 +19965,7 @@
     "TargetX": 17882,
     "TargetY": 30984,
     "TargetZ": 15231,
-    "ZonePoint_ID": "Inst A stone=\u003elost H"
+    "ZonePoint_ID": "Inst A stone=>lost H"
   },
   {
     "ClassType": "",
@@ -19981,7 +19981,7 @@
     "TargetX": 17882,
     "TargetY": 30984,
     "TargetZ": 15231,
-    "ZonePoint_ID": "Inst A stone=\u003elost M"
+    "ZonePoint_ID": "Inst A stone=>lost M"
   },
   {
     "ClassType": "DOL.GS.Scripts.BeastmastersDen",
@@ -19997,7 +19997,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A tepok=\u003ebeastman A"
+    "ZonePoint_ID": "Inst A tepok=>beastman A"
   },
   {
     "ClassType": "",
@@ -20013,7 +20013,7 @@
     "TargetX": 33695,
     "TargetY": 33402,
     "TargetZ": 15737,
-    "ZonePoint_ID": "Inst A tepok=\u003ebeastman H"
+    "ZonePoint_ID": "Inst A tepok=>beastman H"
   },
   {
     "ClassType": "",
@@ -20029,7 +20029,7 @@
     "TargetX": 33695,
     "TargetY": 33402,
     "TargetZ": 15737,
-    "ZonePoint_ID": "Inst A tepok=\u003ebeastman M"
+    "ZonePoint_ID": "Inst A tepok=>beastman M"
   },
   {
     "ClassType": "DOL.GS.Scripts.GoblinsCookery",
@@ -20045,7 +20045,7 @@
     "TargetX": 0,
     "TargetY": 0,
     "TargetZ": 0,
-    "ZonePoint_ID": "Inst A tepok=\u003ecookery A"
+    "ZonePoint_ID": "Inst A tepok=>cookery A"
   },
   {
     "ClassType": "",
@@ -20061,7 +20061,7 @@
     "TargetX": 32916,
     "TargetY": 32128,
     "TargetZ": 16250,
-    "ZonePoint_ID": "Inst A tepok=\u003ecookery H"
+    "ZonePoint_ID": "Inst A tepok=>cookery H"
   },
   {
     "ClassType": "",
@@ -20077,7 +20077,7 @@
     "TargetX": 32916,
     "TargetY": 32128,
     "TargetZ": 16250,
-    "ZonePoint_ID": "Inst A tepok=\u003ecookery M"
+    "ZonePoint_ID": "Inst A tepok=>cookery M"
   },
   {
     "ClassType": "",
@@ -20093,7 +20093,7 @@
     "TargetX": 32904,
     "TargetY": 30591,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh A"
+    "ZonePoint_ID": "Inst H ancient=>treibh A"
   },
   {
     "ClassType": "",
@@ -20109,7 +20109,7 @@
     "TargetX": 32904,
     "TargetY": 30591,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh H"
+    "ZonePoint_ID": "Inst H ancient=>treibh H"
   },
   {
     "ClassType": "",
@@ -20125,7 +20125,7 @@
     "TargetX": 32904,
     "TargetY": 30591,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh M"
+    "ZonePoint_ID": "Inst H ancient=>treibh M"
   },
   {
     "ClassType": "",
@@ -20141,7 +20141,7 @@
     "TargetX": 32878,
     "TargetY": 30711,
     "TargetZ": 14730,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh/e A"
+    "ZonePoint_ID": "Inst H ancient=>treibh/e A"
   },
   {
     "ClassType": "",
@@ -20157,7 +20157,7 @@
     "TargetX": 32904,
     "TargetY": 30591,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh/e H"
+    "ZonePoint_ID": "Inst H ancient=>treibh/e H"
   },
   {
     "ClassType": "",
@@ -20173,7 +20173,7 @@
     "TargetX": 32904,
     "TargetY": 30591,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst H ancient=\u003etreibh/e M"
+    "ZonePoint_ID": "Inst H ancient=>treibh/e M"
   },
   {
     "ClassType": "",
@@ -20189,7 +20189,7 @@
     "TargetX": 29748,
     "TargetY": 35928,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa A"
+    "ZonePoint_ID": "Inst H brawler=>koa A"
   },
   {
     "ClassType": "",
@@ -20205,7 +20205,7 @@
     "TargetX": 29746,
     "TargetY": 35877,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa H"
+    "ZonePoint_ID": "Inst H brawler=>koa H"
   },
   {
     "ClassType": "",
@@ -20221,7 +20221,7 @@
     "TargetX": 29746,
     "TargetY": 35877,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa M"
+    "ZonePoint_ID": "Inst H brawler=>koa M"
   },
   {
     "ClassType": "",
@@ -20237,7 +20237,7 @@
     "TargetX": 29746,
     "TargetY": 35877,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa/e A"
+    "ZonePoint_ID": "Inst H brawler=>koa/e A"
   },
   {
     "ClassType": "",
@@ -20253,7 +20253,7 @@
     "TargetX": 29746,
     "TargetY": 35877,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa/e H"
+    "ZonePoint_ID": "Inst H brawler=>koa/e H"
   },
   {
     "ClassType": "",
@@ -20269,7 +20269,7 @@
     "TargetX": 29746,
     "TargetY": 35877,
     "TargetZ": 17011,
-    "ZonePoint_ID": "Inst H brawler=\u003ekoa/e M"
+    "ZonePoint_ID": "Inst H brawler=>koa/e M"
   },
   {
     "ClassType": "",
@@ -20285,7 +20285,7 @@
     "TargetX": 32604,
     "TargetY": 31212,
     "TargetZ": 14964,
-    "ZonePoint_ID": "Inst H corus=\u003edespair A"
+    "ZonePoint_ID": "Inst H corus=>despair A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -20301,7 +20301,7 @@
     "TargetX": 32525,
     "TargetY": 31232,
     "TargetZ": 14970,
-    "ZonePoint_ID": "Inst H corus=\u003edespair H"
+    "ZonePoint_ID": "Inst H corus=>despair H"
   },
   {
     "ClassType": "",
@@ -20317,7 +20317,7 @@
     "TargetX": 32525,
     "TargetY": 31232,
     "TargetZ": 14970,
-    "ZonePoint_ID": "Inst H corus=\u003edespair M"
+    "ZonePoint_ID": "Inst H corus=>despair M"
   },
   {
     "ClassType": "",
@@ -20333,7 +20333,7 @@
     "TargetX": 30954,
     "TargetY": 31489,
     "TargetZ": 15737,
-    "ZonePoint_ID": "Inst H corus=\u003evein A"
+    "ZonePoint_ID": "Inst H corus=>vein A"
   },
   {
     "ClassType": "",
@@ -20349,7 +20349,7 @@
     "TargetX": 30989,
     "TargetY": 31495,
     "TargetZ": 15740,
-    "ZonePoint_ID": "Inst H corus=\u003evein H"
+    "ZonePoint_ID": "Inst H corus=>vein H"
   },
   {
     "ClassType": "",
@@ -20365,7 +20365,7 @@
     "TargetX": 30989,
     "TargetY": 31495,
     "TargetZ": 15740,
-    "ZonePoint_ID": "Inst H corus=\u003evein M"
+    "ZonePoint_ID": "Inst H corus=>vein M"
   },
   {
     "ClassType": "",
@@ -20381,7 +20381,7 @@
     "TargetX": 33475,
     "TargetY": 34337,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire A"
+    "ZonePoint_ID": "Inst H crypt=>muire A"
   },
   {
     "ClassType": "",
@@ -20397,7 +20397,7 @@
     "TargetX": 33503,
     "TargetY": 34341,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire H"
+    "ZonePoint_ID": "Inst H crypt=>muire H"
   },
   {
     "ClassType": "",
@@ -20413,7 +20413,7 @@
     "TargetX": 33503,
     "TargetY": 34341,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire M"
+    "ZonePoint_ID": "Inst H crypt=>muire M"
   },
   {
     "ClassType": "",
@@ -20429,7 +20429,7 @@
     "TargetX": 33503,
     "TargetY": 34341,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire/e A"
+    "ZonePoint_ID": "Inst H crypt=>muire/e A"
   },
   {
     "ClassType": "",
@@ -20445,7 +20445,7 @@
     "TargetX": 33503,
     "TargetY": 34341,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire/e H"
+    "ZonePoint_ID": "Inst H crypt=>muire/e H"
   },
   {
     "ClassType": "",
@@ -20461,7 +20461,7 @@
     "TargetX": 33503,
     "TargetY": 34341,
     "TargetZ": 15760,
-    "ZonePoint_ID": "Inst H crypt=\u003emuire/e M"
+    "ZonePoint_ID": "Inst H crypt=>muire/e M"
   },
   {
     "ClassType": "",
@@ -20477,7 +20477,7 @@
     "TargetX": 33809,
     "TargetY": 31008,
     "TargetZ": 16253,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus A"
+    "ZonePoint_ID": "Inst H despair=>corus A"
   },
   {
     "ClassType": "",
@@ -20493,7 +20493,7 @@
     "TargetX": 33809,
     "TargetY": 31008,
     "TargetZ": 16253,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus H"
+    "ZonePoint_ID": "Inst H despair=>corus H"
   },
   {
     "ClassType": "",
@@ -20509,7 +20509,7 @@
     "TargetX": 33809,
     "TargetY": 31008,
     "TargetZ": 16253,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus M"
+    "ZonePoint_ID": "Inst H despair=>corus M"
   },
   {
     "ClassType": "",
@@ -20525,7 +20525,7 @@
     "TargetX": 33793,
     "TargetY": 31310,
     "TargetZ": 16245,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus/e A"
+    "ZonePoint_ID": "Inst H despair=>corus/e A"
   },
   {
     "ClassType": "",
@@ -20541,7 +20541,7 @@
     "TargetX": 33809,
     "TargetY": 31008,
     "TargetZ": 16253,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus/e H"
+    "ZonePoint_ID": "Inst H despair=>corus/e H"
   },
   {
     "ClassType": "",
@@ -20557,7 +20557,7 @@
     "TargetX": 33809,
     "TargetY": 31008,
     "TargetZ": 16253,
-    "ZonePoint_ID": "Inst H despair=\u003ecorus/e M"
+    "ZonePoint_ID": "Inst H despair=>corus/e M"
   },
   {
     "ClassType": "",
@@ -20573,7 +20573,7 @@
     "TargetX": 32309,
     "TargetY": 34643,
     "TargetZ": 15981,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa A"
+    "ZonePoint_ID": "Inst H felena=>koa A"
   },
   {
     "ClassType": "",
@@ -20589,7 +20589,7 @@
     "TargetX": 32314,
     "TargetY": 34604,
     "TargetZ": 15987,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa H"
+    "ZonePoint_ID": "Inst H felena=>koa H"
   },
   {
     "ClassType": "",
@@ -20605,7 +20605,7 @@
     "TargetX": 32314,
     "TargetY": 34604,
     "TargetZ": 15987,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa M"
+    "ZonePoint_ID": "Inst H felena=>koa M"
   },
   {
     "ClassType": "",
@@ -20621,7 +20621,7 @@
     "TargetX": 32314,
     "TargetY": 34604,
     "TargetZ": 15987,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa/e A"
+    "ZonePoint_ID": "Inst H felena=>koa/e A"
   },
   {
     "ClassType": "",
@@ -20637,7 +20637,7 @@
     "TargetX": 32314,
     "TargetY": 34604,
     "TargetZ": 15987,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa/e H"
+    "ZonePoint_ID": "Inst H felena=>koa/e H"
   },
   {
     "ClassType": "",
@@ -20653,7 +20653,7 @@
     "TargetX": 32314,
     "TargetY": 34604,
     "TargetZ": 15987,
-    "ZonePoint_ID": "Inst H felena=\u003ekoa/e M"
+    "ZonePoint_ID": "Inst H felena=>koa/e M"
   },
   {
     "ClassType": "",
@@ -20669,7 +20669,7 @@
     "TargetX": 28228,
     "TargetY": 32437,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire A"
+    "ZonePoint_ID": "Inst H folly=>muire A"
   },
   {
     "ClassType": "",
@@ -20685,7 +20685,7 @@
     "TargetX": 28260,
     "TargetY": 32297,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire H"
+    "ZonePoint_ID": "Inst H folly=>muire H"
   },
   {
     "ClassType": "",
@@ -20701,7 +20701,7 @@
     "TargetX": 28260,
     "TargetY": 32297,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire M"
+    "ZonePoint_ID": "Inst H folly=>muire M"
   },
   {
     "ClassType": "",
@@ -20717,7 +20717,7 @@
     "TargetX": 28260,
     "TargetY": 32297,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire/e A"
+    "ZonePoint_ID": "Inst H folly=>muire/e A"
   },
   {
     "ClassType": "",
@@ -20733,7 +20733,7 @@
     "TargetX": 28260,
     "TargetY": 32297,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire/e H"
+    "ZonePoint_ID": "Inst H folly=>muire/e H"
   },
   {
     "ClassType": "",
@@ -20749,7 +20749,7 @@
     "TargetX": 28260,
     "TargetY": 32297,
     "TargetZ": 15247,
-    "ZonePoint_ID": "Inst H folly=\u003emuire/e M"
+    "ZonePoint_ID": "Inst H folly=>muire/e M"
   },
   {
     "ClassType": "",
@@ -20765,7 +20765,7 @@
     "TargetX": 32022,
     "TargetY": 31989,
     "TargetZ": 16010,
-    "ZonePoint_ID": "Inst H koa=\u003ebrawler A"
+    "ZonePoint_ID": "Inst H koa=>brawler A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -20781,7 +20781,7 @@
     "TargetX": 31997,
     "TargetY": 31979,
     "TargetZ": 16010,
-    "ZonePoint_ID": "Inst H koa=\u003ebrawler H"
+    "ZonePoint_ID": "Inst H koa=>brawler H"
   },
   {
     "ClassType": "",
@@ -20797,7 +20797,7 @@
     "TargetX": 31997,
     "TargetY": 31979,
     "TargetZ": 16010,
-    "ZonePoint_ID": "Inst H koa=\u003ebrawler M"
+    "ZonePoint_ID": "Inst H koa=>brawler M"
   },
   {
     "ClassType": "",
@@ -20813,7 +20813,7 @@
     "TargetX": 28229,
     "TargetY": 40195,
     "TargetZ": 16269,
-    "ZonePoint_ID": "Inst H koa=\u003efelena A"
+    "ZonePoint_ID": "Inst H koa=>felena A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -20829,7 +20829,7 @@
     "TargetX": 28174,
     "TargetY": 40185,
     "TargetZ": 16268,
-    "ZonePoint_ID": "Inst H koa=\u003efelena H"
+    "ZonePoint_ID": "Inst H koa=>felena H"
   },
   {
     "ClassType": "",
@@ -20845,7 +20845,7 @@
     "TargetX": 28174,
     "TargetY": 40185,
     "TargetZ": 16268,
-    "ZonePoint_ID": "Inst H koa=\u003efelena M"
+    "ZonePoint_ID": "Inst H koa=>felena M"
   },
   {
     "ClassType": "",
@@ -20861,7 +20861,7 @@
     "TargetX": 32896,
     "TargetY": 31997,
     "TargetZ": 15040,
-    "ZonePoint_ID": "Inst H muire=\u003ecrypt A"
+    "ZonePoint_ID": "Inst H muire=>crypt A"
   },
   {
     "ClassType": "",
@@ -20877,7 +20877,7 @@
     "TargetX": 32778,
     "TargetY": 31999,
     "TargetZ": 15040,
-    "ZonePoint_ID": "Inst H muire=\u003ecrypt H"
+    "ZonePoint_ID": "Inst H muire=>crypt H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -20893,7 +20893,7 @@
     "TargetX": 32778,
     "TargetY": 31999,
     "TargetZ": 15040,
-    "ZonePoint_ID": "Inst H muire=\u003ecrypt M"
+    "ZonePoint_ID": "Inst H muire=>crypt M"
   },
   {
     "ClassType": "",
@@ -20909,7 +20909,7 @@
     "TargetX": 30772,
     "TargetY": 32131,
     "TargetZ": 16479,
-    "ZonePoint_ID": "Inst H muire=\u003efolly A"
+    "ZonePoint_ID": "Inst H muire=>folly A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -20925,7 +20925,7 @@
     "TargetX": 30853,
     "TargetY": 32131,
     "TargetZ": 16445,
-    "ZonePoint_ID": "Inst H muire=\u003efolly H"
+    "ZonePoint_ID": "Inst H muire=>folly H"
   },
   {
     "ClassType": "",
@@ -20941,7 +20941,7 @@
     "TargetX": 30853,
     "TargetY": 32131,
     "TargetZ": 16445,
-    "ZonePoint_ID": "Inst H muire=\u003efolly M"
+    "ZonePoint_ID": "Inst H muire=>folly M"
   },
   {
     "ClassType": "",
@@ -20957,7 +20957,7 @@
     "TargetX": 33082,
     "TargetY": 32121,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H rise=\u003esprag A"
+    "ZonePoint_ID": "Inst H rise=>sprag A"
   },
   {
     "ClassType": "",
@@ -20973,7 +20973,7 @@
     "TargetX": 33082,
     "TargetY": 32121,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H rise=\u003esprag H"
+    "ZonePoint_ID": "Inst H rise=>sprag H"
   },
   {
     "ClassType": "",
@@ -20989,7 +20989,7 @@
     "TargetX": 33082,
     "TargetY": 32121,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H rise=\u003esprag M"
+    "ZonePoint_ID": "Inst H rise=>sprag M"
   },
   {
     "ClassType": "",
@@ -21005,7 +21005,7 @@
     "TargetX": 33122,
     "TargetY": 32130,
     "TargetZ": 14947,
-    "ZonePoint_ID": "Inst H rise=\u003esprag/e A"
+    "ZonePoint_ID": "Inst H rise=>sprag/e A"
   },
   {
     "ClassType": "",
@@ -21021,7 +21021,7 @@
     "TargetX": 33082,
     "TargetY": 32121,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H rise=\u003esprag/e H"
+    "ZonePoint_ID": "Inst H rise=>sprag/e H"
   },
   {
     "ClassType": "",
@@ -21037,7 +21037,7 @@
     "TargetX": 33082,
     "TargetY": 32121,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H rise=\u003esprag/e M"
+    "ZonePoint_ID": "Inst H rise=>sprag/e M"
   },
   {
     "ClassType": "",
@@ -21053,7 +21053,7 @@
     "TargetX": 29833,
     "TargetY": 35393,
     "TargetZ": 13978,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh A"
+    "ZonePoint_ID": "Inst H shaman=>treibh A"
   },
   {
     "ClassType": "",
@@ -21069,7 +21069,7 @@
     "TargetX": 29852,
     "TargetY": 35400,
     "TargetZ": 13980,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh H"
+    "ZonePoint_ID": "Inst H shaman=>treibh H"
   },
   {
     "ClassType": "",
@@ -21085,7 +21085,7 @@
     "TargetX": 29852,
     "TargetY": 35400,
     "TargetZ": 13980,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh M"
+    "ZonePoint_ID": "Inst H shaman=>treibh M"
   },
   {
     "ClassType": "",
@@ -21101,7 +21101,7 @@
     "TargetX": 29852,
     "TargetY": 35400,
     "TargetZ": 13980,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh/e A"
+    "ZonePoint_ID": "Inst H shaman=>treibh/e A"
   },
   {
     "ClassType": "",
@@ -21117,7 +21117,7 @@
     "TargetX": 29852,
     "TargetY": 35400,
     "TargetZ": 13980,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh/e H"
+    "ZonePoint_ID": "Inst H shaman=>treibh/e H"
   },
   {
     "ClassType": "",
@@ -21133,7 +21133,7 @@
     "TargetX": 29852,
     "TargetY": 35400,
     "TargetZ": 13980,
-    "ZonePoint_ID": "Inst H shaman=\u003etreibh/e M"
+    "ZonePoint_ID": "Inst H shaman=>treibh/e M"
   },
   {
     "ClassType": "",
@@ -21149,7 +21149,7 @@
     "TargetX": 32619,
     "TargetY": 31412,
     "TargetZ": 16246,
-    "ZonePoint_ID": "Inst H sprag=\u003erise A"
+    "ZonePoint_ID": "Inst H sprag=>rise A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21165,7 +21165,7 @@
     "TargetX": 32627,
     "TargetY": 31438,
     "TargetZ": 16248,
-    "ZonePoint_ID": "Inst H sprag=\u003erise H"
+    "ZonePoint_ID": "Inst H sprag=>rise H"
   },
   {
     "ClassType": "",
@@ -21181,7 +21181,7 @@
     "TargetX": 32627,
     "TargetY": 31438,
     "TargetZ": 16248,
-    "ZonePoint_ID": "Inst H sprag=\u003erise M"
+    "ZonePoint_ID": "Inst H sprag=>rise M"
   },
   {
     "ClassType": "",
@@ -21197,7 +21197,7 @@
     "TargetX": 33367,
     "TargetY": 363882,
     "TargetZ": 16245,
-    "ZonePoint_ID": "Inst H sprag=\u003ewarrens A"
+    "ZonePoint_ID": "Inst H sprag=>warrens A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21213,7 +21213,7 @@
     "TargetX": 33295,
     "TargetY": 36199,
     "TargetZ": 16250,
-    "ZonePoint_ID": "Inst H sprag=\u003ewarrens H"
+    "ZonePoint_ID": "Inst H sprag=>warrens H"
   },
   {
     "ClassType": "",
@@ -21229,7 +21229,7 @@
     "TargetX": 33295,
     "TargetY": 36199,
     "TargetZ": 16250,
-    "ZonePoint_ID": "Inst H sprag=\u003ewarrens M"
+    "ZonePoint_ID": "Inst H sprag=>warrens M"
   },
   {
     "ClassType": "",
@@ -21245,7 +21245,7 @@
     "TargetX": 25790,
     "TargetY": 27186,
     "TargetZ": 16268,
-    "ZonePoint_ID": "Inst H treibh=\u003eancient A"
+    "ZonePoint_ID": "Inst H treibh=>ancient A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21261,7 +21261,7 @@
     "TargetX": 25767,
     "TargetY": 27264,
     "TargetZ": 16275,
-    "ZonePoint_ID": "Inst H treibh=\u003eancient H"
+    "ZonePoint_ID": "Inst H treibh=>ancient H"
   },
   {
     "ClassType": "",
@@ -21277,7 +21277,7 @@
     "TargetX": 25767,
     "TargetY": 27264,
     "TargetZ": 16275,
-    "ZonePoint_ID": "Inst H treibh=\u003eancient M"
+    "ZonePoint_ID": "Inst H treibh=>ancient M"
   },
   {
     "ClassType": "",
@@ -21293,7 +21293,7 @@
     "TargetX": 30953,
     "TargetY": 30753,
     "TargetZ": 15753,
-    "ZonePoint_ID": "Inst H treibh=\u003eshaman A"
+    "ZonePoint_ID": "Inst H treibh=>shaman A"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21309,7 +21309,7 @@
     "TargetX": 30968,
     "TargetY": 30575,
     "TargetZ": 15771,
-    "ZonePoint_ID": "Inst H treibh=\u003eshaman H"
+    "ZonePoint_ID": "Inst H treibh=>shaman H"
   },
   {
     "ClassType": "",
@@ -21325,7 +21325,7 @@
     "TargetX": 30968,
     "TargetY": 30575,
     "TargetZ": 15771,
-    "ZonePoint_ID": "Inst H treibh=\u003eshaman M"
+    "ZonePoint_ID": "Inst H treibh=>shaman M"
   },
   {
     "ClassType": "",
@@ -21341,7 +21341,7 @@
     "TargetX": 32518,
     "TargetY": 25768,
     "TargetZ": 14202,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus A"
+    "ZonePoint_ID": "Inst H vein=>corus A"
   },
   {
     "ClassType": "",
@@ -21357,7 +21357,7 @@
     "TargetX": 32518,
     "TargetY": 25768,
     "TargetZ": 14202,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus H"
+    "ZonePoint_ID": "Inst H vein=>corus H"
   },
   {
     "ClassType": "",
@@ -21373,7 +21373,7 @@
     "TargetX": 32518,
     "TargetY": 25768,
     "TargetZ": 14202,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus M"
+    "ZonePoint_ID": "Inst H vein=>corus M"
   },
   {
     "ClassType": "",
@@ -21389,7 +21389,7 @@
     "TargetX": 313145,
     "TargetY": 469202,
     "TargetZ": 5200,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus/e A"
+    "ZonePoint_ID": "Inst H vein=>corus/e A"
   },
   {
     "ClassType": "",
@@ -21405,7 +21405,7 @@
     "TargetX": 32518,
     "TargetY": 25768,
     "TargetZ": 14202,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus/e H"
+    "ZonePoint_ID": "Inst H vein=>corus/e H"
   },
   {
     "ClassType": "",
@@ -21421,7 +21421,7 @@
     "TargetX": 32518,
     "TargetY": 25768,
     "TargetZ": 14202,
-    "ZonePoint_ID": "Inst H vein=\u003ecorus/e M"
+    "ZonePoint_ID": "Inst H vein=>corus/e M"
   },
   {
     "ClassType": "",
@@ -21437,7 +21437,7 @@
     "TargetX": 35466,
     "TargetY": 35644,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag A"
+    "ZonePoint_ID": "Inst H warrens=>sprag A"
   },
   {
     "ClassType": "",
@@ -21453,7 +21453,7 @@
     "TargetX": 35466,
     "TargetY": 35644,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag H"
+    "ZonePoint_ID": "Inst H warrens=>sprag H"
   },
   {
     "ClassType": "",
@@ -21469,7 +21469,7 @@
     "TargetX": 35466,
     "TargetY": 35644,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag M"
+    "ZonePoint_ID": "Inst H warrens=>sprag M"
   },
   {
     "ClassType": "",
@@ -21485,7 +21485,7 @@
     "TargetX": 35460,
     "TargetY": 35639,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag/e A"
+    "ZonePoint_ID": "Inst H warrens=>sprag/e A"
   },
   {
     "ClassType": "",
@@ -21501,7 +21501,7 @@
     "TargetX": 35466,
     "TargetY": 35644,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag/e H"
+    "ZonePoint_ID": "Inst H warrens=>sprag/e H"
   },
   {
     "ClassType": "",
@@ -21517,7 +21517,7 @@
     "TargetX": 35466,
     "TargetY": 35644,
     "TargetZ": 14950,
-    "ZonePoint_ID": "Inst H warrens=\u003esprag/e M"
+    "ZonePoint_ID": "Inst H warrens=>sprag/e M"
   },
   {
     "ClassType": "",
@@ -21533,7 +21533,7 @@
     "TargetX": 35709,
     "TargetY": 32312,
     "TargetZ": 15997,
-    "ZonePoint_ID": "Inst M arach=\u003espin A"
+    "ZonePoint_ID": "Inst M arach=>spin A"
   },
   {
     "ClassType": "",
@@ -21549,7 +21549,7 @@
     "TargetX": 35704,
     "TargetY": 32459,
     "TargetZ": 15991,
-    "ZonePoint_ID": "Inst M arach=\u003espin H"
+    "ZonePoint_ID": "Inst M arach=>spin H"
   },
   {
     "ClassType": "",
@@ -21565,7 +21565,7 @@
     "TargetX": 35704,
     "TargetY": 32459,
     "TargetZ": 15991,
-    "ZonePoint_ID": "Inst M arach=\u003espin M"
+    "ZonePoint_ID": "Inst M arach=>spin M"
   },
   {
     "ClassType": "",
@@ -21581,7 +21581,7 @@
     "TargetX": 35704,
     "TargetY": 32459,
     "TargetZ": 15991,
-    "ZonePoint_ID": "Inst M arach=\u003espin/e A"
+    "ZonePoint_ID": "Inst M arach=>spin/e A"
   },
   {
     "ClassType": "",
@@ -21597,7 +21597,7 @@
     "TargetX": 35704,
     "TargetY": 32459,
     "TargetZ": 15991,
-    "ZonePoint_ID": "Inst M arach=\u003espin/e H"
+    "ZonePoint_ID": "Inst M arach=>spin/e H"
   },
   {
     "ClassType": "",
@@ -21613,7 +21613,7 @@
     "TargetX": 35704,
     "TargetY": 32459,
     "TargetZ": 15991,
-    "ZonePoint_ID": "Inst M arach=\u003espin/e M"
+    "ZonePoint_ID": "Inst M arach=>spin/e M"
   },
   {
     "ClassType": "",
@@ -21629,7 +21629,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo A"
+    "ZonePoint_ID": "Inst M bones=>vendo A"
   },
   {
     "ClassType": "",
@@ -21645,7 +21645,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo H"
+    "ZonePoint_ID": "Inst M bones=>vendo H"
   },
   {
     "ClassType": "",
@@ -21661,7 +21661,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo M"
+    "ZonePoint_ID": "Inst M bones=>vendo M"
   },
   {
     "ClassType": "",
@@ -21677,7 +21677,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo/e A"
+    "ZonePoint_ID": "Inst M bones=>vendo/e A"
   },
   {
     "ClassType": "",
@@ -21693,7 +21693,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo/e H"
+    "ZonePoint_ID": "Inst M bones=>vendo/e H"
   },
   {
     "ClassType": "",
@@ -21709,7 +21709,7 @@
     "TargetX": 31111,
     "TargetY": 32312,
     "TargetZ": 16551,
-    "ZonePoint_ID": "Inst M bones=\u003evendo/e M"
+    "ZonePoint_ID": "Inst M bones=>vendo/e M"
   },
   {
     "ClassType": "",
@@ -21725,7 +21725,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu A"
+    "ZonePoint_ID": "Inst M burrow=>varhu A"
   },
   {
     "ClassType": "",
@@ -21741,7 +21741,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu H"
+    "ZonePoint_ID": "Inst M burrow=>varhu H"
   },
   {
     "ClassType": "",
@@ -21757,7 +21757,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu M"
+    "ZonePoint_ID": "Inst M burrow=>varhu M"
   },
   {
     "ClassType": "",
@@ -21773,7 +21773,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu/e A"
+    "ZonePoint_ID": "Inst M burrow=>varhu/e A"
   },
   {
     "ClassType": "",
@@ -21789,7 +21789,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu/e H"
+    "ZonePoint_ID": "Inst M burrow=>varhu/e H"
   },
   {
     "ClassType": "",
@@ -21805,7 +21805,7 @@
     "TargetX": 32592,
     "TargetY": 28567,
     "TargetZ": 13963,
-    "ZonePoint_ID": "Inst M burrow=\u003evarhu/e M"
+    "ZonePoint_ID": "Inst M burrow=>varhu/e M"
   },
   {
     "ClassType": "",
@@ -21821,7 +21821,7 @@
     "TargetX": 31015,
     "TargetY": 31158,
     "TargetZ": 16575,
-    "ZonePoint_ID": "Inst M cursed=\u003eeternal A"
+    "ZonePoint_ID": "Inst M cursed=>eternal A"
   },
   {
     "ClassType": "",
@@ -21837,7 +21837,7 @@
     "TargetX": 31094,
     "TargetY": 31103,
     "TargetZ": 16578,
-    "ZonePoint_ID": "Inst M cursed=\u003eeternal H"
+    "ZonePoint_ID": "Inst M cursed=>eternal H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21853,7 +21853,7 @@
     "TargetX": 31094,
     "TargetY": 31103,
     "TargetZ": 16578,
-    "ZonePoint_ID": "Inst M cursed=\u003eeternal M"
+    "ZonePoint_ID": "Inst M cursed=>eternal M"
   },
   {
     "ClassType": "",
@@ -21869,7 +21869,7 @@
     "TargetX": 29553,
     "TargetY": 33535,
     "TargetZ": 16515,
-    "ZonePoint_ID": "Inst M cursed=\u003eliche A"
+    "ZonePoint_ID": "Inst M cursed=>liche A"
   },
   {
     "ClassType": "",
@@ -21885,7 +21885,7 @@
     "TargetX": 29612,
     "TargetY": 33449,
     "TargetZ": 16516,
-    "ZonePoint_ID": "Inst M cursed=\u003eliche H"
+    "ZonePoint_ID": "Inst M cursed=>liche H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -21901,7 +21901,7 @@
     "TargetX": 29612,
     "TargetY": 33449,
     "TargetZ": 16516,
-    "ZonePoint_ID": "Inst M cursed=\u003eliche M"
+    "ZonePoint_ID": "Inst M cursed=>liche M"
   },
   {
     "ClassType": "",
@@ -21917,7 +21917,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu A"
+    "ZonePoint_ID": "Inst M cursed=>varhu A"
   },
   {
     "ClassType": "",
@@ -21933,7 +21933,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu H"
+    "ZonePoint_ID": "Inst M cursed=>varhu H"
   },
   {
     "ClassType": "",
@@ -21949,7 +21949,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu M"
+    "ZonePoint_ID": "Inst M cursed=>varhu M"
   },
   {
     "ClassType": "",
@@ -21965,7 +21965,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu/e A"
+    "ZonePoint_ID": "Inst M cursed=>varhu/e A"
   },
   {
     "ClassType": "",
@@ -21981,7 +21981,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu/e H"
+    "ZonePoint_ID": "Inst M cursed=>varhu/e H"
   },
   {
     "ClassType": "",
@@ -21997,7 +21997,7 @@
     "TargetX": 32914,
     "TargetY": 30540,
     "TargetZ": 14731,
-    "ZonePoint_ID": "Inst M cursed=\u003evarhu/e M"
+    "ZonePoint_ID": "Inst M cursed=>varhu/e M"
   },
   {
     "ClassType": "",
@@ -22013,7 +22013,7 @@
     "TargetX": 33138,
     "TargetY": 34196,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed A"
+    "ZonePoint_ID": "Inst M eternal=>cursed A"
   },
   {
     "ClassType": "",
@@ -22029,7 +22029,7 @@
     "TargetX": 33138,
     "TargetY": 34196,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed H"
+    "ZonePoint_ID": "Inst M eternal=>cursed H"
   },
   {
     "ClassType": "",
@@ -22045,7 +22045,7 @@
     "TargetX": 33138,
     "TargetY": 34196,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed M"
+    "ZonePoint_ID": "Inst M eternal=>cursed M"
   },
   {
     "ClassType": "",
@@ -22061,7 +22061,7 @@
     "TargetX": 33157,
     "TargetY": 34299,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed/e A"
+    "ZonePoint_ID": "Inst M eternal=>cursed/e A"
   },
   {
     "ClassType": "",
@@ -22077,7 +22077,7 @@
     "TargetX": 33138,
     "TargetY": 34196,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed/e H"
+    "ZonePoint_ID": "Inst M eternal=>cursed/e H"
   },
   {
     "ClassType": "",
@@ -22093,7 +22093,7 @@
     "TargetX": 33138,
     "TargetY": 34196,
     "TargetZ": 16002,
-    "ZonePoint_ID": "Inst M eternal=\u003ecursed/e M"
+    "ZonePoint_ID": "Inst M eternal=>cursed/e M"
   },
   {
     "ClassType": "",
@@ -22109,7 +22109,7 @@
     "TargetX": 37555,
     "TargetY": 33553,
     "TargetZ": 15711,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed A"
+    "ZonePoint_ID": "Inst M liche=>cursed A"
   },
   {
     "ClassType": "",
@@ -22125,7 +22125,7 @@
     "TargetX": 37325,
     "TargetY": 33527,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed H"
+    "ZonePoint_ID": "Inst M liche=>cursed H"
   },
   {
     "ClassType": "",
@@ -22141,7 +22141,7 @@
     "TargetX": 37325,
     "TargetY": 33527,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed M"
+    "ZonePoint_ID": "Inst M liche=>cursed M"
   },
   {
     "ClassType": "",
@@ -22157,7 +22157,7 @@
     "TargetX": 37325,
     "TargetY": 33527,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed/e A"
+    "ZonePoint_ID": "Inst M liche=>cursed/e A"
   },
   {
     "ClassType": "",
@@ -22173,7 +22173,7 @@
     "TargetX": 37325,
     "TargetY": 33527,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed/e H"
+    "ZonePoint_ID": "Inst M liche=>cursed/e H"
   },
   {
     "ClassType": "",
@@ -22189,7 +22189,7 @@
     "TargetX": 37325,
     "TargetY": 33527,
     "TargetZ": 15680,
-    "ZonePoint_ID": "Inst M liche=\u003ecursed/e M"
+    "ZonePoint_ID": "Inst M liche=>cursed/e M"
   },
   {
     "ClassType": "",
@@ -22205,7 +22205,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo A"
+    "ZonePoint_ID": "Inst M lost=>vendo A"
   },
   {
     "ClassType": "",
@@ -22221,7 +22221,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo H"
+    "ZonePoint_ID": "Inst M lost=>vendo H"
   },
   {
     "ClassType": "",
@@ -22237,7 +22237,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo M"
+    "ZonePoint_ID": "Inst M lost=>vendo M"
   },
   {
     "ClassType": "",
@@ -22253,7 +22253,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo/e A"
+    "ZonePoint_ID": "Inst M lost=>vendo/e A"
   },
   {
     "ClassType": "",
@@ -22269,7 +22269,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo/e H"
+    "ZonePoint_ID": "Inst M lost=>vendo/e H"
   },
   {
     "ClassType": "",
@@ -22285,7 +22285,7 @@
     "TargetX": 30234,
     "TargetY": 32689,
     "TargetZ": 16066,
-    "ZonePoint_ID": "Inst M lost=\u003evendo/e M"
+    "ZonePoint_ID": "Inst M lost=>vendo/e M"
   },
   {
     "ClassType": "",
@@ -22301,7 +22301,7 @@
     "TargetX": 30690,
     "TargetY": 32650,
     "TargetZ": 14976,
-    "ZonePoint_ID": "Inst M master=\u003espin A"
+    "ZonePoint_ID": "Inst M master=>spin A"
   },
   {
     "ClassType": "",
@@ -22317,7 +22317,7 @@
     "TargetX": 30525,
     "TargetY": 32634,
     "TargetZ": 14977,
-    "ZonePoint_ID": "Inst M master=\u003espin H"
+    "ZonePoint_ID": "Inst M master=>spin H"
   },
   {
     "ClassType": "",
@@ -22333,7 +22333,7 @@
     "TargetX": 30525,
     "TargetY": 32634,
     "TargetZ": 14977,
-    "ZonePoint_ID": "Inst M master=\u003espin M"
+    "ZonePoint_ID": "Inst M master=>spin M"
   },
   {
     "ClassType": "",
@@ -22349,7 +22349,7 @@
     "TargetX": 30525,
     "TargetY": 32634,
     "TargetZ": 14977,
-    "ZonePoint_ID": "Inst M master=\u003espin/e A"
+    "ZonePoint_ID": "Inst M master=>spin/e A"
   },
   {
     "ClassType": "",
@@ -22365,7 +22365,7 @@
     "TargetX": 30525,
     "TargetY": 32634,
     "TargetZ": 14977,
-    "ZonePoint_ID": "Inst M master=\u003espin/e H"
+    "ZonePoint_ID": "Inst M master=>spin/e H"
   },
   {
     "ClassType": "",
@@ -22381,7 +22381,7 @@
     "TargetX": 30525,
     "TargetY": 32634,
     "TargetZ": 14977,
-    "ZonePoint_ID": "Inst M master=\u003espin/e M"
+    "ZonePoint_ID": "Inst M master=>spin/e M"
   },
   {
     "ClassType": "",
@@ -22397,7 +22397,7 @@
     "TargetX": 32352,
     "TargetY": 31613,
     "TargetZ": 16261,
-    "ZonePoint_ID": "Inst M nisse=\u003eretreat A"
+    "ZonePoint_ID": "Inst M nisse=>retreat A"
   },
   {
     "ClassType": "",
@@ -22413,7 +22413,7 @@
     "TargetX": 32228,
     "TargetY": 31601,
     "TargetZ": 16271,
-    "ZonePoint_ID": "Inst M nisse=\u003eretreat H"
+    "ZonePoint_ID": "Inst M nisse=>retreat H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22429,7 +22429,7 @@
     "TargetX": 32228,
     "TargetY": 31601,
     "TargetZ": 16271,
-    "ZonePoint_ID": "Inst M nisse=\u003eretreat M"
+    "ZonePoint_ID": "Inst M nisse=>retreat M"
   },
   {
     "ClassType": "",
@@ -22445,7 +22445,7 @@
     "TargetX": 33771,
     "TargetY": 32394,
     "TargetZ": 16000,
-    "ZonePoint_ID": "Inst M nisse=\u003etomte A"
+    "ZonePoint_ID": "Inst M nisse=>tomte A"
   },
   {
     "ClassType": "",
@@ -22461,7 +22461,7 @@
     "TargetX": 33777,
     "TargetY": 32531,
     "TargetZ": 16001,
-    "ZonePoint_ID": "Inst M nisse=\u003etomte H"
+    "ZonePoint_ID": "Inst M nisse=>tomte H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22477,7 +22477,7 @@
     "TargetX": 33777,
     "TargetY": 32531,
     "TargetZ": 16001,
-    "ZonePoint_ID": "Inst M nisse=\u003etomte M"
+    "ZonePoint_ID": "Inst M nisse=>tomte M"
   },
   {
     "ClassType": "",
@@ -22493,7 +22493,7 @@
     "TargetX": 36709,
     "TargetY": 39572,
     "TargetZ": 16188,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse A"
+    "ZonePoint_ID": "Inst M retreat=>nisse A"
   },
   {
     "ClassType": "",
@@ -22509,7 +22509,7 @@
     "TargetX": 36709,
     "TargetY": 39572,
     "TargetZ": 16188,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse H"
+    "ZonePoint_ID": "Inst M retreat=>nisse H"
   },
   {
     "ClassType": "",
@@ -22525,7 +22525,7 @@
     "TargetX": 36709,
     "TargetY": 39572,
     "TargetZ": 16188,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse M"
+    "ZonePoint_ID": "Inst M retreat=>nisse M"
   },
   {
     "ClassType": "",
@@ -22541,7 +22541,7 @@
     "TargetX": 36824,
     "TargetY": 39565,
     "TargetZ": 16182,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse/e A"
+    "ZonePoint_ID": "Inst M retreat=>nisse/e A"
   },
   {
     "ClassType": "",
@@ -22557,7 +22557,7 @@
     "TargetX": 36709,
     "TargetY": 39572,
     "TargetZ": 16188,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse/e H"
+    "ZonePoint_ID": "Inst M retreat=>nisse/e H"
   },
   {
     "ClassType": "",
@@ -22573,7 +22573,7 @@
     "TargetX": 36709,
     "TargetY": 39572,
     "TargetZ": 16188,
-    "ZonePoint_ID": "Inst M retreat=\u003enisse/e M"
+    "ZonePoint_ID": "Inst M retreat=>nisse/e M"
   },
   {
     "ClassType": "",
@@ -22589,7 +22589,7 @@
     "TargetX": 30455,
     "TargetY": 31749,
     "TargetZ": 17024,
-    "ZonePoint_ID": "Inst M spin=\u003earach A"
+    "ZonePoint_ID": "Inst M spin=>arach A"
   },
   {
     "ClassType": "",
@@ -22605,7 +22605,7 @@
     "TargetX": 30459,
     "TargetY": 31591,
     "TargetZ": 17046,
-    "ZonePoint_ID": "Inst M spin=\u003earach H"
+    "ZonePoint_ID": "Inst M spin=>arach H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22621,7 +22621,7 @@
     "TargetX": 30459,
     "TargetY": 31591,
     "TargetZ": 17046,
-    "ZonePoint_ID": "Inst M spin=\u003earach M"
+    "ZonePoint_ID": "Inst M spin=>arach M"
   },
   {
     "ClassType": "",
@@ -22637,7 +22637,7 @@
     "TargetX": 30112,
     "TargetY": 32289,
     "TargetZ": 16053,
-    "ZonePoint_ID": "Inst M spin=\u003emaster A"
+    "ZonePoint_ID": "Inst M spin=>master A"
   },
   {
     "ClassType": "",
@@ -22653,7 +22653,7 @@
     "TargetX": 30252,
     "TargetY": 32310,
     "TargetZ": 16065,
-    "ZonePoint_ID": "Inst M spin=\u003emaster H"
+    "ZonePoint_ID": "Inst M spin=>master H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22669,7 +22669,7 @@
     "TargetX": 30252,
     "TargetY": 32310,
     "TargetZ": 16065,
-    "ZonePoint_ID": "Inst M spin=\u003emaster M"
+    "ZonePoint_ID": "Inst M spin=>master M"
   },
   {
     "ClassType": "",
@@ -22685,7 +22685,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse A"
+    "ZonePoint_ID": "Inst M tomte=>nisse A"
   },
   {
     "ClassType": "",
@@ -22701,7 +22701,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse H"
+    "ZonePoint_ID": "Inst M tomte=>nisse H"
   },
   {
     "ClassType": "",
@@ -22717,7 +22717,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse M"
+    "ZonePoint_ID": "Inst M tomte=>nisse M"
   },
   {
     "ClassType": "",
@@ -22733,7 +22733,7 @@
     "TargetX": 31492,
     "TargetY": 32128,
     "TargetZ": 16444,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse/e A"
+    "ZonePoint_ID": "Inst M tomte=>nisse/e A"
   },
   {
     "ClassType": "",
@@ -22749,7 +22749,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse/e H"
+    "ZonePoint_ID": "Inst M tomte=>nisse/e H"
   },
   {
     "ClassType": "",
@@ -22765,7 +22765,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "Inst M tomte=\u003enisse/e M"
+    "ZonePoint_ID": "Inst M tomte=>nisse/e M"
   },
   {
     "ClassType": "",
@@ -22781,7 +22781,7 @@
     "TargetX": 29952,
     "TargetY": 26756,
     "TargetZ": 15232,
-    "ZonePoint_ID": "Inst M varhu=\u003eburrow A"
+    "ZonePoint_ID": "Inst M varhu=>burrow A"
   },
   {
     "ClassType": "",
@@ -22797,7 +22797,7 @@
     "TargetX": 30154,
     "TargetY": 26757,
     "TargetZ": 15235,
-    "ZonePoint_ID": "Inst M varhu=\u003eburrow H"
+    "ZonePoint_ID": "Inst M varhu=>burrow H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22813,7 +22813,7 @@
     "TargetX": 30154,
     "TargetY": 26757,
     "TargetZ": 15235,
-    "ZonePoint_ID": "Inst M varhu=\u003eburrow M"
+    "ZonePoint_ID": "Inst M varhu=>burrow M"
   },
   {
     "ClassType": "",
@@ -22829,7 +22829,7 @@
     "TargetX": 36438,
     "TargetY": 27687,
     "TargetZ": 15981,
-    "ZonePoint_ID": "Inst M varhu=\u003ecursed A"
+    "ZonePoint_ID": "Inst M varhu=>cursed A"
   },
   {
     "ClassType": "",
@@ -22845,7 +22845,7 @@
     "TargetX": 36438,
     "TargetY": 27687,
     "TargetZ": 15981,
-    "ZonePoint_ID": "Inst M varhu=\u003ecursed H"
+    "ZonePoint_ID": "Inst M varhu=>cursed H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22861,7 +22861,7 @@
     "TargetX": 36438,
     "TargetY": 27687,
     "TargetZ": 15981,
-    "ZonePoint_ID": "Inst M varhu=\u003ecursed M"
+    "ZonePoint_ID": "Inst M varhu=>cursed M"
   },
   {
     "ClassType": "",
@@ -22877,7 +22877,7 @@
     "TargetX": 30790,
     "TargetY": 31592,
     "TargetZ": 12258,
-    "ZonePoint_ID": "Inst M vendo=\u003ebones A"
+    "ZonePoint_ID": "Inst M vendo=>bones A"
   },
   {
     "ClassType": "",
@@ -22893,7 +22893,7 @@
     "TargetX": 30790,
     "TargetY": 31592,
     "TargetZ": 12258,
-    "ZonePoint_ID": "Inst M vendo=\u003ebones H"
+    "ZonePoint_ID": "Inst M vendo=>bones H"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22909,7 +22909,7 @@
     "TargetX": 30838,
     "TargetY": 31573,
     "TargetZ": 16261,
-    "ZonePoint_ID": "Inst M vendo=\u003ebones M"
+    "ZonePoint_ID": "Inst M vendo=>bones M"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -22925,7 +22925,7 @@
     "TargetX": 30819,
     "TargetY": 31905,
     "TargetZ": 16259,
-    "ZonePoint_ID": "Inst M vendo=\u003elost A"
+    "ZonePoint_ID": "Inst M vendo=>lost A"
   },
   {
     "ClassType": "",
@@ -22941,7 +22941,7 @@
     "TargetX": 30819,
     "TargetY": 31905,
     "TargetZ": 16259,
-    "ZonePoint_ID": "Inst M vendo=\u003elost H"
+    "ZonePoint_ID": "Inst M vendo=>lost H"
   },
   {
     "ClassType": "",
@@ -22957,7 +22957,7 @@
     "TargetX": 30819,
     "TargetY": 31905,
     "TargetZ": 16259,
-    "ZonePoint_ID": "Inst M vendo=\u003elost M"
+    "ZonePoint_ID": "Inst M vendo=>lost M"
   },
   {
     "ClassType": "DOL.GS.ServerRules.InstanceDoorJumpPoint",
@@ -23245,7 +23245,7 @@
     "TargetX": 33268,
     "TargetY": 37117,
     "TargetZ": 15755,
-    "ZonePoint_ID": "Keltoi =\u003e AdventureWing Betrayers Den"
+    "ZonePoint_ID": "Keltoi => AdventureWing Betrayers Den"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -23261,7 +23261,7 @@
     "TargetX": 41105,
     "TargetY": 33947,
     "TargetZ": 15936,
-    "ZonePoint_ID": "Keltoi =\u003e AdventureWing Ritual Hall"
+    "ZonePoint_ID": "Keltoi => AdventureWing Ritual Hall"
   },
   {
     "ClassType": "",
@@ -23501,7 +23501,7 @@
     "TargetX": 709125,
     "TargetY": 941529,
     "TargetZ": 2726,
-    "ZonePoint_ID": "MainEntrance Varulvham =\u003e Skona Ravina"
+    "ZonePoint_ID": "MainEntrance Varulvham => Skona Ravina"
   },
   {
     "ClassType": "",
@@ -23581,7 +23581,7 @@
     "TargetX": 32737,
     "TargetY": 33173,
     "TargetZ": 16624,
-    "ZonePoint_ID": "MularnVale =\u003e Vendo Caverns"
+    "ZonePoint_ID": "MularnVale => Vendo Caverns"
   },
   {
     "ClassType": "",
@@ -23597,7 +23597,7 @@
     "TargetX": 32152,
     "TargetY": 31841,
     "TargetZ": 16375,
-    "ZonePoint_ID": "Myrkwood Forrest =\u003e Spindelhalla"
+    "ZonePoint_ID": "Myrkwood Forrest => Spindelhalla"
   },
   {
     "ClassType": "DOL.GS.ServerRules.NergalsBreachJumpPoint",
@@ -24285,7 +24285,7 @@
     "TargetX": 756038,
     "TargetY": 791352,
     "TargetZ": 4683,
-    "ZonePoint_ID": "Nisse's Lair =\u003e East Svealand"
+    "ZonePoint_ID": "Nisse's Lair => East Svealand"
   },
   {
     "ClassType": "",
@@ -24429,7 +24429,7 @@
     "TargetX": 31424,
     "TargetY": 34307,
     "TargetZ": 16496,
-    "ZonePoint_ID": "Salisbury =\u003e Stonehenge"
+    "ZonePoint_ID": "Salisbury => Stonehenge"
   },
   {
     "ClassType": "",
@@ -24445,7 +24445,7 @@
     "TargetX": 35342,
     "TargetY": 30885,
     "TargetZ": 14992,
-    "ZonePoint_ID": "Skona Ravina =\u003e Varulvham"
+    "ZonePoint_ID": "Skona Ravina => Varulvham"
   },
   {
     "ClassType": "",
@@ -24461,7 +24461,7 @@
     "TargetX": 757759,
     "TargetY": 884229,
     "TargetZ": 5344,
-    "ZonePoint_ID": "Spindlhalla =\u003e Myrkwood Forrest"
+    "ZonePoint_ID": "Spindlhalla => Myrkwood Forrest"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -24477,7 +24477,7 @@
     "TargetX": 16500,
     "TargetY": 30899,
     "TargetZ": 14991,
-    "ZonePoint_ID": "StoneHenge =\u003e AWDeliahsSanctuary"
+    "ZonePoint_ID": "StoneHenge => AWDeliahsSanctuary"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -24493,7 +24493,7 @@
     "TargetX": 17882,
     "TargetY": 30984,
     "TargetZ": 15231,
-    "ZonePoint_ID": "StoneHenge =\u003e AWLostWing"
+    "ZonePoint_ID": "StoneHenge => AWLostWing"
   },
   {
     "ClassType": "",
@@ -24509,7 +24509,7 @@
     "TargetX": 585994,
     "TargetY": 585029,
     "TargetZ": 2096,
-    "ZonePoint_ID": "Stonehenge =\u003e Salisbury"
+    "ZonePoint_ID": "Stonehenge => Salisbury"
   },
   {
     "ClassType": "",
@@ -26685,7 +26685,7 @@
     "TargetX": 32618,
     "TargetY": 38664,
     "TargetZ": 14767,
-    "ZonePoint_ID": "The Arena =\u003e Cardova AWEntryDoor"
+    "ZonePoint_ID": "The Arena => Cardova AWEntryDoor"
   },
   {
     "ClassType": "",
@@ -26701,7 +26701,7 @@
     "TargetX": 32613,
     "TargetY": 38632,
     "TargetZ": 14767,
-    "ZonePoint_ID": "The Arena =\u003e Cardova AWExitDoor"
+    "ZonePoint_ID": "The Arena => Cardova AWExitDoor"
   },
   {
     "ClassType": "",
@@ -27565,7 +27565,7 @@
     "TargetX": 37824,
     "TargetY": 29139,
     "TargetZ": 16736,
-    "ZonePoint_ID": "Tomb of Mithra=\u003eAdventureWing Hall of Reawakening"
+    "ZonePoint_ID": "Tomb of Mithra=>AdventureWing Hall of Reawakening"
   },
   {
     "ClassType": "DOL.GS.Scripts.AdventureWingJumpPoint",
@@ -27581,7 +27581,7 @@
     "TargetX": 32013,
     "TargetY": 34348,
     "TargetZ": 15648,
-    "ZonePoint_ID": "Tomb of Mithra=\u003eAdventureWing Hidden Crypt"
+    "ZonePoint_ID": "Tomb of Mithra=>AdventureWing Hidden Crypt"
   },
   {
     "ClassType": "",
@@ -27597,7 +27597,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "TomtePrison =\u003e NissesLair TPEntranceDoor"
+    "ZonePoint_ID": "TomtePrison => NissesLair TPEntranceDoor"
   },
   {
     "ClassType": "",
@@ -27613,7 +27613,7 @@
     "TargetX": 31596,
     "TargetY": 32139,
     "TargetZ": 16456,
-    "ZonePoint_ID": "TomtePrison =\u003e NissesLair TPExitDoor"
+    "ZonePoint_ID": "TomtePrison => NissesLair TPExitDoor"
   },
   {
     "ClassType": "",
@@ -27757,7 +27757,7 @@
     "TargetX": 749258,
     "TargetY": 943846,
     "TargetZ": 4280,
-    "ZonePoint_ID": "Varulvham =\u003e Skona Ravina 2"
+    "ZonePoint_ID": "Varulvham => Skona Ravina 2"
   },
   {
     "ClassType": "",
@@ -27773,7 +27773,7 @@
     "TargetX": 724234,
     "TargetY": 936799,
     "TargetZ": 5034,
-    "ZonePoint_ID": "Varulvham =\u003e Skona Ravina 3"
+    "ZonePoint_ID": "Varulvham => Skona Ravina 3"
   },
   {
     "ClassType": "",
@@ -27789,6 +27789,6 @@
     "TargetX": 778630,
     "TargetY": 679004,
     "TargetZ": 6583,
-    "ZonePoint_ID": "Vendo Caverns =\u003e Vale of Mularn"
+    "ZonePoint_ID": "Vendo Caverns => Vale of Mularn"
   }
 ]

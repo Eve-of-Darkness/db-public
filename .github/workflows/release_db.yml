@@ -1,0 +1,68 @@
+name: Release Database
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - .github/workflows/release_db.yml
+      - data/**
+      - customizations/**
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Build and Release Database
+    runs-on: ubuntu-24.04
+    env:
+      ARTIFACT_FOLDER: build_artifacts
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Rust Toolchain
+        uses: dtolnay/rust-toolchain@stable
+      - name: Set up cargo cache
+        uses: actions/cache@v4
+        continue-on-error: false
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            ~/.rustup/
+            target/
+          key: cargo-release-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: cargo-release-
+      - name: Generate Release Info
+        run: |
+          last_build_number=$(git tag -l --sort=creatordate | grep -E '^[0-9]+$' | tail -n1);
+          
+          if [ -n "$last_build_number" ]; \
+          then git log origin/master --first-parent  --format="%s%n%w(0,4,4)%b" "$last_build_number".. | grep -v "^$" > patch_notes.txt; \
+          sed -i '1s/^/```\n/' patch_notes.txt; \
+          new_build_number=$((1+$last_build_number)); \
+          else new_build_number=1; printf '```\nInitial Release' > patch_notes.txt; \
+          fi;
+          echo "new_build_number=$new_build_number" >> $GITHUB_ENV
+      - name: Build Queries
+        run: |
+          for i in mysql sqlite; \
+          do cargo run -r --target x86_64-unknown-linux-gnu -- --export $i \
+          && mv public-db.sql public-db.$i.sql; \
+          done
+      - name: Compress Artifacts
+        run: |
+          mkdir "${{ env.ARTIFACT_FOLDER }}"
+          for sql in *.sql; do \
+          ZIP_CMD="7z a -t7z"
+          $ZIP_CMD "${{ env.ARTIFACT_FOLDER }}/$sql.7z" "$sql"; \
+          done
+
+          $ZIP_CMD "${{ env.ARTIFACT_FOLDER }}/json_db.7z" data customizations
+      - name: Create Release
+        run: |
+          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" --latest=true -F patch_notes.txt ${{ env.ARTIFACT_FOLDER }}/*
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

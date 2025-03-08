@@ -1,6 +1,5 @@
 use super::json_db::INTERNAL_DB;
 use super::{Db, MySqlCredentials, TableColumn, TableIndex, TableSchema};
-use aho_corasick::AhoCorasick;
 use mysql::{consts::ColumnType, prelude::Queryable, Pool, Row};
 use std::{collections::BTreeMap, str};
 
@@ -146,19 +145,10 @@ impl Db for Mysql {
             if json_values.len() == 0 {
                 continue;
             }
-            results.push(escape_special_chars(
-                &serde_json::to_string_pretty(&json_values).unwrap(),
-            ));
+            results.push(serde_json::to_string_pretty(&json_values).unwrap());
         }
 
         return results;
-
-        fn escape_special_chars(input: &str) -> String {
-            let unescaped_strings = &["&", "<", ">", "\\\\r"];
-            let replace_with = &["\\u0026", "\\u003c", "\\u003e", "\\r"];
-            let replacer = AhoCorasick::new(unescaped_strings).unwrap();
-            replacer.replace_all(input, replace_with)
-        }
 
         fn row_to_map(row: &mysql::Row) -> BTreeMap<String, serde_json::Value> {
             let mut tuple_array: Vec<(String, serde_json::Value)> = Vec::with_capacity(row.len());

@@ -49,14 +49,14 @@ WHERE Regions.Expansion = {1}",
 
 
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq)]
 #[serde(untagged)]
 pub enum DbCred {
     Mysql(MySqlCredentials),
     Sqlite(SqliteCredentials),
 }
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq)]
 pub struct MySqlCredentials {
     pub host: String,
     pub user: String,
@@ -65,12 +65,12 @@ pub struct MySqlCredentials {
     pub port: u16,
 }
 
-#[derive(Serialize, Deserialize, Debug, Clone)]
+#[derive(Serialize, Deserialize, Debug, Clone, PartialEq)]
 pub struct SqliteCredentials {
     pub file_path: String,
 }
 
-#[derive(Debug)]
+#[derive(Debug, PartialEq)]
 pub enum SqlProvider {
     MySql,
     Sqlite,
@@ -202,7 +202,7 @@ impl SqlProvider {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "PascalCase")]
 pub struct TableSchema {
     pub name: String,
@@ -211,7 +211,7 @@ pub struct TableSchema {
     pub is_static: bool,
     #[serde(default)]
     #[serde(skip_serializing_if = "std::vec::Vec::is_empty")]
-    indexes: Vec<TableIndex>,
+    pub indexes: Vec<TableIndex>,
 }
 
 impl Eq for TableSchema {
@@ -247,7 +247,7 @@ impl TableSchema {
     }
 }
 
-#[derive(Deserialize, Debug)]
+#[derive(Deserialize, Debug, Clone)]
 #[serde(rename_all = "PascalCase")]
 pub struct TableColumn {
     pub name: String,
@@ -327,9 +327,9 @@ impl TableColumn {
     }
 }
 
-#[derive(Serialize, Deserialize, Debug)]
+#[derive(Serialize, Deserialize, Debug, Clone)]
 #[serde(rename_all = "PascalCase")]
-struct TableIndex {
+pub struct TableIndex {
     name: String,
     column: String,
     #[serde(default)]
