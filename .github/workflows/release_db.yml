@@ -1,23 +1,26 @@
-name: Release DB
+name: Release Database
 
 on:
   push:
     branches: [ master ]
+    paths:
+      - .github/workflows/release_db.yml
+      - data/**
+      - customizations/**
   workflow_dispatch:
 
 jobs:
-  build_db:
-    name: Build and Release DB
+  build:
+    name: Build and Release Database
     runs-on: ubuntu-24.04
     env:
       ARTIFACT_FOLDER: build_artifacts
-      TOOL_NAME: public-db-tools
     steps:
       - name: Checkout
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-      - name: Setup Build Environment
+      - name: Setup Rust Toolchain
         uses: dtolnay/rust-toolchain@stable
       - name: Set up cargo cache
         uses: actions/cache@v4
@@ -43,29 +46,10 @@ jobs:
           else new_build_number=1; printf '```\nInitial Release' > patch_notes.txt; \
           fi;
           echo "new_build_number=$new_build_number" >> $GITHUB_ENV
-      - name: Set up MinGW
-        run: sudo apt install gcc-mingw-w64 --no-install-recommends
-      - name: Setup MacOS XCode SDK
-        uses: mbround18/setup-osxcross@v2
-        with:
-          osx-version: "14.5"
-      - name: Compile binaries
-        run: |
-          LINUX_TARGET=x86_64-unknown-linux-gnu
-          WINDOWS_TARGET=x86_64-pc-windows-gnu
-          MACOS_TARGET=x86_64-apple-darwin
-          rustup target add $WINDOWS_TARGET
-          rustup target add $MACOS_TARGET
-          cargo build -r --target $LINUX_TARGET
-          cargo build -r --target $WINDOWS_TARGET
-          CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
-          mv target/$LINUX_TARGET/release/${{ env.TOOL_NAME }} .
-          mv target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe .
-          mv target/$MACOS_TARGET/release/${{ env.TOOL_NAME }} ${{ env.TOOL_NAME }}_mac
       - name: Build Queries
         run: |
           for i in mysql sqlite; \
-          do ./${{ env.TOOL_NAME }} --export $i \
+          do cargo run -r --target x86_64-unknown-linux-gnu -- --export $i \
           && mv public-db.sql public-db.$i.sql; \
           done
       - name: Compress Artifacts
@@ -76,9 +60,9 @@ jobs:
           $ZIP_CMD "${{ env.ARTIFACT_FOLDER }}/$sql.7z" "$sql"; \
           done
 
-          $ZIP_CMD "${{ env.ARTIFACT_FOLDER }}/${{ env.TOOL_NAME }}.7z" data customizations ${{ env.TOOL_NAME }}* README.md
+          $ZIP_CMD "${{ env.ARTIFACT_FOLDER }}/json_db.7z" data customizations
       - name: Create Release
         run: |
-          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" -F patch_notes.txt ${{ env.ARTIFACT_FOLDER }}/*
+          gh release create "${{ env.new_build_number }}" --title "EoD Public-DB Release ${{ env.new_build_number }}" --latest=true -F patch_notes.txt ${{ env.ARTIFACT_FOLDER }}/*
         env: 
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
