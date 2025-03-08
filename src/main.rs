@@ -10,8 +10,8 @@ pub fn main() {
     let config = Config::load();
 
     if !std::fs::exists("data").unwrap() {
-        eprintln!("Data folder missing. Downloading database from Github.");
-        utils::download_database_from_github();
+        eprintln!("Data folder missing, downloading database from Github");
+        utils::download_database_from_github().unwrap();
     }
 
     Task::build(config).execute();
