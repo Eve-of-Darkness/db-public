@@ -58,7 +58,7 @@ jobs:
           rustup target add $MACOS_TARGET
           cargo build -r --target $LINUX_TARGET
           cargo build -r --target $WINDOWS_TARGET
-          LIBZ_SYS_STATIC=1 CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
+          CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
           mv target/$LINUX_TARGET/release/${{ env.TOOL_NAME }} .
           mv target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe .
           mv target/$MACOS_TARGET/release/${{ env.TOOL_NAME }} ${{ env.TOOL_NAME }}_mac
