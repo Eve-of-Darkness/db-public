@@ -39,11 +39,11 @@ jobs:
       - name: Generate Release Info
         run: |
           tools_version=$(grep -oP '^version = "\K.+(?="$)' Cargo.toml)
-          last_version=$(git tag -l --sort=creatordate | grep -oP '^v\K[0-9]+\.[0-9]+\.[0-9]+$' | tail -n1)
+          last_version=$(git tag -l --sort=creatordate | grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' | tail -n1)
 
           if [ -z "$last_version" ]; then
             printf '```\nInitial Release' > patch_notes.txt
-            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+            echo "new_version=${tools_version%.*}.0" >> "$GITHUB_ENV"
             exit 0
           fi
 
@@ -51,15 +51,18 @@ jobs:
           sed -i '1s/^/```\n/' patch_notes.txt
 
           if [ "${tools_version%.*}" = "${last_version%.*}" ]; then
-            echo "new_build_number=${last_version%.*}.$((${last_version##*.}+1))" >> "$GITHUB_ENV"
+            new_version=${last_version%.*}.$((${last_version##*.}+1))
+            echo "new_version=$new_version" >> "$GITHUB_ENV"
           else
-            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+            new_version=${tools_version%.*}.0
+            echo "new_version=$new_version" >> "$GITHUB_ENV"
           fi
+          sed -Ei "s/(^version = )\".+\"/\1\"$new_version\"/" Cargo.toml
       - name: Linux Build
         run: |
           LINUX_TARGET=x86_64-unknown-linux-gnu
           cargo build -r --target $LINUX_TARGET
-          7z a ${{ env.TOOL_NAME }}_linux.zip target/$LINUX_TARGET/release/${{ env.TOOL_NAME }}
+          7z a ${{ env.TOOL_NAME }}_linux.zip ./target/$LINUX_TARGET/release/${{ env.TOOL_NAME }}
       - name: Set up MinGW
         run: sudo apt install gcc-mingw-w64 --no-install-recommends
       - name: Windows Build
@@ -67,7 +70,7 @@ jobs:
           WINDOWS_TARGET=x86_64-pc-windows-gnu
           rustup target add $WINDOWS_TARGET
           cargo build -r --target $WINDOWS_TARGET
-          7z a ${{ env.TOOL_NAME }}_windows.zip target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe
+          7z a ${{ env.TOOL_NAME }}_windows.zip ./target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe
       - name: Setup MacOS XCode SDK
         uses: mbround18/setup-osxcross@v2
         with:
@@ -77,11 +80,11 @@ jobs:
           MACOS_TARGET=x86_64-apple-darwin
           rustup target add $MACOS_TARGET
           CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
-          7z a ${{ env.TOOL_NAME }}_macos.zip target/$MACOS_TARGET/release/${{ env.TOOL_NAME }}
+          7z a ${{ env.TOOL_NAME }}_macos.zip ./target/$MACOS_TARGET/release/${{ env.TOOL_NAME }}
       - name: Create Release
         run: |
-          gh release create "${{ env.new_build_number }}" \
-            --title "Public DB Tools ${{ env.new_build_number }}" \
+          gh release create "${{ env.new_version }}" \
+            --title "Public DB Tools ${{ env.new_version }}" \
             --latest=false \
             -F patch_notes.txt \
             ${{ env.TOOL_NAME }}*
