@@ -39,7 +39,7 @@ jobs:
       - name: Generate Release Info
         run: |
           tools_version=$(grep -oP '^version = "\K.+(?="$)' Cargo.toml)
-          last_version=$(git tag -l --sort=creatordate | grep -oP '^v\K[0-9]+\.[0-9]+\.[0-9]+$' | tail -n1)
+          last_version=$(git tag -l --sort=creatordate | grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' | tail -n1)
 
           if [ -z "$last_version" ]; then
             printf '```\nInitial Release' > patch_notes.txt
