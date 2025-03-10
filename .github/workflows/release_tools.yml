@@ -43,7 +43,7 @@ jobs:
 
           if [ -z "$last_version" ]; then
             printf '```\nInitial Release' > patch_notes.txt
-            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+            echo "new_version=${tools_version%.*}.0" >> "$GITHUB_ENV"
             exit 0
           fi
 
@@ -51,10 +51,13 @@ jobs:
           sed -i '1s/^/```\n/' patch_notes.txt
 
           if [ "${tools_version%.*}" = "${last_version%.*}" ]; then
-            echo "new_build_number=${last_version%.*}.$((${last_version##*.}+1))" >> "$GITHUB_ENV"
+            new_version=${last_version%.*}.$((${last_version##*.}+1))
+            echo "new_version=$new_version" >> "$GITHUB_ENV"
           else
-            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+            new_version=${tools_version%.*}.0
+            echo "new_version=$new_version" >> "$GITHUB_ENV"
           fi
+          sed -Ei "s/(^version = )\".+\"/\1\"$new_version\"/" Cargo.toml
       - name: Linux Build
         run: |
           LINUX_TARGET=x86_64-unknown-linux-gnu
@@ -80,8 +83,8 @@ jobs:
           7z a ${{ env.TOOL_NAME }}_macos.zip ./target/$MACOS_TARGET/release/${{ env.TOOL_NAME }}
       - name: Create Release
         run: |
-          gh release create "${{ env.new_build_number }}" \
-            --title "Public DB Tools ${{ env.new_build_number }}" \
+          gh release create "${{ env.new_version }}" \
+            --title "Public DB Tools ${{ env.new_version }}" \
             --latest=false \
             -F patch_notes.txt \
             ${{ env.TOOL_NAME }}*
