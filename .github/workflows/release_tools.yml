@@ -1,0 +1,89 @@
+name: Release Public DB Tools
+
+on:
+  push:
+    branches: [ master ]
+    paths:
+      - .github/workflows/release_tools.yml
+      - src/**
+      - Cargo.toml
+      - Cargo.lock
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: Compile and Release Public DB Tools
+    runs-on: ubuntu-24.04
+    env:
+      TOOL_NAME: public-db-tools
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Build Environment
+        uses: dtolnay/rust-toolchain@stable
+      - name: Set up cargo cache
+        uses: actions/cache@v4
+        continue-on-error: false
+        with:
+          path: |
+            ~/.cargo/bin/
+            ~/.cargo/registry/index/
+            ~/.cargo/registry/cache/
+            ~/.cargo/git/db/
+            ~/.rustup/
+            target/
+          key: cargo-release-${{ hashFiles('**/Cargo.lock') }}
+          restore-keys: cargo-release-
+      - name: Generate Release Info
+        run: |
+          tools_version=$(grep -oP '^version = "\K.+(?="$)' Cargo.toml)
+          last_version=$(git tag -l --sort=creatordate | grep -oP '^v\K[0-9]+\.[0-9]+\.[0-9]+$' | tail -n1)
+
+          if [ -z "$last_version" ]; then
+            printf '```\nInitial Release' > patch_notes.txt
+            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+            exit 0
+          fi
+
+          git log origin/master --first-parent  --format="%s%n%w(0,4,4)%b" "$last_version".. | grep -v "^$" > patch_notes.txt
+          sed -i '1s/^/```\n/' patch_notes.txt
+
+          if [ "${tools_version%.*}" = "${last_version%.*}" ]; then
+            echo "new_build_number=${last_version%.*}.$((${last_version##*.}+1))" >> "$GITHUB_ENV"
+          else
+            echo "new_build_number=${tools_version%.*}.0" >> "$GITHUB_ENV"
+          fi
+      - name: Linux Build
+        run: |
+          LINUX_TARGET=x86_64-unknown-linux-gnu
+          cargo build -r --target $LINUX_TARGET
+          7z a ${{ env.TOOL_NAME }}_linux.zip target/$LINUX_TARGET/release/${{ env.TOOL_NAME }}
+      - name: Set up MinGW
+        run: sudo apt install gcc-mingw-w64 --no-install-recommends
+      - name: Windows Build
+        run: |
+          WINDOWS_TARGET=x86_64-pc-windows-gnu
+          rustup target add $WINDOWS_TARGET
+          cargo build -r --target $WINDOWS_TARGET
+          7z a ${{ env.TOOL_NAME }}_windows.zip target/$WINDOWS_TARGET/release/${{ env.TOOL_NAME }}.exe
+      - name: Setup MacOS XCode SDK
+        uses: mbround18/setup-osxcross@v2
+        with:
+          osx-version: "14.5"
+      - name: MacOS Build
+        run: |
+          MACOS_TARGET=x86_64-apple-darwin
+          rustup target add $MACOS_TARGET
+          CC=o64-clang CXX=o64-clang++ cargo build -r --target $MACOS_TARGET
+          7z a ${{ env.TOOL_NAME }}_macos.zip target/$MACOS_TARGET/release/${{ env.TOOL_NAME }}
+      - name: Create Release
+        run: |
+          gh release create "${{ env.new_build_number }}" \
+            --title "Public DB Tools ${{ env.new_build_number }}" \
+            --latest=false \
+            -F patch_notes.txt \
+            ${{ env.TOOL_NAME }}*
+        env: 
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
