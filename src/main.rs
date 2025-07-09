@@ -4,6 +4,10 @@ mod config;
 mod db;
 mod utils;
 
+#[cfg(target_env = "musl")]
+#[global_allocator]
+static GLOBAL: mimalloc::MiMalloc = mimalloc::MiMalloc;
+
 pub fn main() {
     std::env::set_current_dir(&utils::get_root_directory()).unwrap();
 
