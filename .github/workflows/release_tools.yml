@@ -23,6 +23,8 @@ jobs:
           fetch-depth: 0
       - name: Setup Build Environment
         uses: dtolnay/rust-toolchain@stable
+        with:
+          targets: x86_64-unknown-linux-musl
       - name: Set up cargo cache
         uses: actions/cache@v4
         continue-on-error: false
@@ -60,7 +62,8 @@ jobs:
           sed -Ei "s/(^version = )\".+\"/\1\"$new_version\"/" Cargo.toml
       - name: Linux Build
         run: |
-          LINUX_TARGET=x86_64-unknown-linux-gnu
+          sudo apt update && sudo apt install musl-dev musl-tools
+          LINUX_TARGET=x86_64-unknown-linux-musl
           cargo build -r --target $LINUX_TARGET
           7z a ${{ env.TOOL_NAME }}_linux.zip ./target/$LINUX_TARGET/release/${{ env.TOOL_NAME }}
       - name: Set up MinGW
