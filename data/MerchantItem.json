@@ -2277,6 +2277,15 @@
     "SlotPosition": 5
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:20:53",
+    "MerchantItem_ID": "01bdf74a-e62e-4dd7-9c99-b88c46a99158",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 8
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Leather_Leggings",
     "LastTimeRowUpdated": "2022-12-22 15:20:53",
@@ -3055,6 +3064,15 @@
     "ItemTemplateID": "Alb_Thidranki_Cloth_Gloves",
     "LastTimeRowUpdated": "2022-12-22 11:57:08",
     "MerchantItem_ID": "0263a7ba-5779-4af9-b23e-b2e1b7a7f56b",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Gloves",
+    "LastTimeRowUpdated": "2026-02-01 11:57:08",
+    "MerchantItem_ID": "0263a7ba-5779-4af9-b43e-b2e1b7a7f56b",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 4
@@ -4221,6 +4239,15 @@
     "SlotPosition": 18
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_MoonFang",
+    "LastTimeRowUpdated": "2026-02-04 15:32:59",
+    "MerchantItem_ID": "034eba56-5dfc-41b1-ba13-1484d46b967d",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_MoonFang",
     "LastTimeRowUpdated": "2022-12-22 15:32:59",
@@ -4372,6 +4399,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 27
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:18:19",
+    "MerchantItem_ID": "037282dc-8538-4ff9-9b4e-1bd98428361e",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 2
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -4858,6 +4894,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Sleeves",
+    "LastTimeRowUpdated": "2026-02-01 11:58:14",
+    "MerchantItem_ID": "03f7aaf0-f589-4896-8e14-c1fa54c1040a",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 7
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -7495,6 +7540,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Tunic",
+    "LastTimeRowUpdated": "2026-02-04 15:49:43",
+    "MerchantItem_ID": "0680f4a5-f91c-402a-a933-1cdb0395f49d",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 12
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -10944,6 +10998,15 @@
     "SlotPosition": 21
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Fist_Wrap",
+    "LastTimeRowUpdated": "2026-02-01 11:50:10",
+    "MerchantItem_ID": "096e5f79-46fb-4f3b-b7a9-edc658a18723",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Fist_Wrap",
     "LastTimeRowUpdated": "2022-12-22 11:50:10",
@@ -11356,6 +11419,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 14
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Recurse_Bow",
+    "LastTimeRowUpdated": "2026-02-04 14:39:15",
+    "MerchantItem_ID": "09c25dd3-8ad7-438d-a76c-08e3d34ef6b0",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 17
   },
   {
     "ItemListID": "alb_lotmarker",
@@ -12177,6 +12249,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mace",
+    "LastTimeRowUpdated": "2026-02-01 11:45:26",
+    "MerchantItem_ID": "0a6463bc-cdee-4754-b09e-1559dedbe29b",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Mace",
     "LastTimeRowUpdated": "2022-12-22 11:45:26",
@@ -12265,6 +12346,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Mystic_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:52:23",
+    "MerchantItem_ID": "0a7134c3-1f68-4ed1-a31e-2a82bc479c0d",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 0
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -15993,6 +16083,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Variant",
+    "LastTimeRowUpdated": "2026-02-01 12:20:48",
+    "MerchantItem_ID": "0d762845-4c88-43d7-a03e-180d11501cac",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 14
+  },
+  {
     "ItemListID": "573c98d9-99e2-467a-b44e-fefd57ca924b",
     "ItemTemplateID": "rigid_siluric_jerkin_lining",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -17413,6 +17512,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 13
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Shrouded_Gemstone",
+    "LastTimeRowUpdated": "2026-02-01 12:19:25",
+    "MerchantItem_ID": "0ecda13b-4fd5-4e0b-8ca6-38d015de72eb",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "d35f00f0-b2d0-4ee1-b7f4-a2841c93dba0",
@@ -19152,6 +19260,15 @@
     "SlotPosition": 13
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Sleeves",
+    "LastTimeRowUpdated": "2026-02-01 12:00:24",
+    "MerchantItem_ID": "1044417f-28f8-4300-b7fb-11b144b8a256",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "4bfe3ca0-c7b9-4ca0-9d27-733c9602fafe",
     "ItemTemplateID": "tanned_torsion_cables",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -20295,6 +20412,15 @@
     "SlotPosition": 13
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Chestpiece",
+    "LastTimeRowUpdated": "2026-02-04 15:23:48",
+    "MerchantItem_ID": "11450a50-dd78-433e-a278-65dcf7835ef3",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Chain_Chestpiece",
     "LastTimeRowUpdated": "2022-12-22 15:23:48",
@@ -20473,6 +20599,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 5
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:49:24",
+    "MerchantItem_ID": "11738e46-7122-45cc-8f1c-e453035234eb",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 10
   },
   {
     "ItemListID": "a97b3fe0-acdc-40bd-b785-ade606149f63",
@@ -20997,6 +21132,15 @@
     "SlotPosition": 19
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Large_Shield",
+    "LastTimeRowUpdated": "2026-02-01 11:50:27",
+    "MerchantItem_ID": "11ca763b-5425-410d-bf49-7137ff86b829",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 19
+  },
+  {
     "ItemListID": "eeb4b37d-7317-4f61-92e9-34ad2ef35ac8",
     "ItemTemplateID": "elm_Eldritch_Staff_of_Mana",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -21217,6 +21361,15 @@
     "ItemTemplateID": "Alb_Thidranki_Studded_Tunic",
     "LastTimeRowUpdated": "2022-12-22 12:00:14",
     "MerchantItem_ID": "11fd4b32-58e9-444c-b715-1e659a7803c9",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Tunic",
+    "LastTimeRowUpdated": "2026-02-01 12:00:14",
+    "MerchantItem_ID": "11fe4b32-58e9-444c-b715-1e659a7803c9",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 12
@@ -22426,6 +22579,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:48:18",
+    "MerchantItem_ID": "133861ae-97d8-4847-bd35-b6f7cb726149",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 5
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -24406,6 +24568,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 4
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Curative",
+    "LastTimeRowUpdated": "2026-02-04 15:30:05",
+    "MerchantItem_ID": "1526cc41-23c8-4808-8e38-2571f240d373",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 13
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -29898,6 +30069,15 @@
     "SlotPosition": 20
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Small_Shield",
+    "LastTimeRowUpdated": "2026-02-04 15:46:53",
+    "MerchantItem_ID": "1a12fd82-3611-4736-8aa7-7750b7e82667",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Small_Shield",
     "LastTimeRowUpdated": "2022-12-22 15:46:53",
@@ -30118,6 +30298,15 @@
     "ItemTemplateID": "shell_nadurtha_sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "MerchantItem_ID": "1a31e735-3a30-4c64-94be-d7e34503e6c2",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 20
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Chausses",
+    "LastTimeRowUpdated": "2026-02-04 15:25:34",
+    "MerchantItem_ID": "1a322c11-fa09-4550-b94b-3b867d942a4b",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 20
@@ -30418,6 +30607,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 21
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloak",
+    "LastTimeRowUpdated": "2026-02-01 12:16:58",
+    "MerchantItem_ID": "1a993e52-76e0-42fd-8a94-45292e1cf2aa",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 3
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -30841,6 +31039,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Tunic",
+    "LastTimeRowUpdated": "2026-02-04 15:48:50",
+    "MerchantItem_ID": "1b142618-1f5e-4217-8dfe-c1b7b0e456e3",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -33817,6 +34024,15 @@
     "ItemTemplateID": "Hib_Thidranki_Spiked_Mace",
     "LastTimeRowUpdated": "2022-12-22 14:27:22",
     "MerchantItem_ID": "1d97fae4-b0b1-46c2-9e7a-981f7135b95a",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 1
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Spiked_Mace",
+    "LastTimeRowUpdated": "2026-02-04 14:27:22",
+    "MerchantItem_ID": "1d97fae4-b0c1-46c2-9e7a-981f7135b95a",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 1
@@ -36810,6 +37026,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Small_Shield",
+    "LastTimeRowUpdated": "2026-02-04 14:34:25",
+    "MerchantItem_ID": "202b05ec-1887-49b0-b0c4-babb6cb31083",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 16
+  },
+  {
     "ItemListID": "a9a08170-3f4a-4a54-b9f3-93e0c38be708",
     "ItemTemplateID": "embossed_mjuklaedar_leggings_lining2",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -37881,6 +38106,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Magic",
+    "LastTimeRowUpdated": "2026-02-04 15:54:43",
+    "MerchantItem_ID": "2134d96c-ba9b-41a8-9e73-bd447c085bde",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 11
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Guardian_Magic",
     "LastTimeRowUpdated": "2022-12-22 15:54:43",
@@ -38218,6 +38452,15 @@
     "ItemTemplateID": "Alb_Thidranki_Flail",
     "LastTimeRowUpdated": "2022-12-22 11:46:15",
     "MerchantItem_ID": "218a6414-af0a-4143-b1a5-3dd5b8cdbe3f",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 7
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Flail",
+    "LastTimeRowUpdated": "2026-02-01 11:46:15",
+    "MerchantItem_ID": "218a6414-af0a-4143-b2a5-3dd5b8cdce3f",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 7
@@ -38718,6 +38961,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Shrouded_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:53:31",
+    "MerchantItem_ID": "2201b32b-638b-4d8d-bec1-657732ee6562",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 6
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Shrouded_Gemstone",
     "LastTimeRowUpdated": "2022-12-22 15:53:31",
@@ -38743,6 +38995,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mystic_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:28:35",
+    "MerchantItem_ID": "22093f9a-7484-4c11-ad8a-4efc66f293de",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 4
   },
   {
     "ItemListID": "b3a9cbfc-cff5-419f-8f27-7ec7d34f2db5",
@@ -39451,6 +39712,15 @@
     "ItemTemplateID": "Mid_Thidranki_Leather_Leggings",
     "LastTimeRowUpdated": "2022-12-22 15:49:08",
     "MerchantItem_ID": "22a233d0-1080-4ca6-9555-7ed945712185",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 8
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:49:08",
+    "MerchantItem_ID": "22a233d1-1080-4ca6-9555-7ed945712185",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 8
@@ -41112,6 +41382,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Great_Axe",
+    "LastTimeRowUpdated": "2026-02-04 15:33:45",
+    "MerchantItem_ID": "24398b90-35b7-4962-8143-231ad06cf152",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 9
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Great_Axe",
     "LastTimeRowUpdated": "2022-12-22 15:33:45",
@@ -42073,6 +42352,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 14
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Longsword",
+    "LastTimeRowUpdated": "2026-02-04 12:24:18",
+    "MerchantItem_ID": "2536c084-69a1-473c-904e-ae273fb0f642",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 0
   },
   {
     "ItemListID": "243e2d98-5161-46c8-af5b-87772e3fceff",
@@ -43693,6 +43981,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Fist_Wrap",
+    "LastTimeRowUpdated": "2026-02-04 15:34:43",
+    "MerchantItem_ID": "27008e35-f76d-47d5-a731-9168a5bff9e6",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -46710,6 +47007,15 @@
     "SlotPosition": 5
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Dagger",
+    "LastTimeRowUpdated": "2026-02-01 11:45:41",
+    "MerchantItem_ID": "29c5931b-4bed-4f82-9348-51f0144a99f7",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "93548ff3-88d5-45fb-aab1-89aac7ae69fb",
     "ItemTemplateID": "strong_alum",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -48168,6 +48474,15 @@
     "SlotPosition": 6
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:24:47",
+    "MerchantItem_ID": "2b2a02b2-b358-48a3-a560-e292e2337598",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 23
+  },
+  {
     "ItemListID": "a3c994cf-2ed7-4217-91a9-544ff5f23917",
     "ItemTemplateID": "fine_alloy_plate_boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -49588,6 +49903,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Gloves",
+    "LastTimeRowUpdated": "2026-02-01 12:00:47",
+    "MerchantItem_ID": "2c759df3-1b3c-4f79-81d8-1da0ef75b967",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 16
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -51408,6 +51732,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Shrouded_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:27:45",
+    "MerchantItem_ID": "2e3927a7-0cf6-48d1-8f74-52af136db542",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Shrouded_Necklace",
     "LastTimeRowUpdated": "2022-12-22 15:27:45",
@@ -51766,6 +52099,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Mystic_Staff",
+    "LastTimeRowUpdated": "2026-02-04 15:34:20",
+    "MerchantItem_ID": "2e80be0d-b012-4550-a110-fd2e81c6bfe4",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 12
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -54099,6 +54441,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Helm",
+    "LastTimeRowUpdated": "2026-02-01 12:05:37",
+    "MerchantItem_ID": "30a8aeb7-94cd-429e-b54b-7a409e419de4",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 27
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Plate_Helm",
     "LastTimeRowUpdated": "2022-12-22 12:05:37",
@@ -54765,6 +55116,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:18:31",
+    "MerchantItem_ID": "3121113f-d679-436b-8657-1e4246239999",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
     "ItemListID": "40e628be-3fca-43af-8ff7-14a33541ff1f",
     "ItemTemplateID": "faerie_boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -55402,6 +55762,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Claymore",
+    "LastTimeRowUpdated": "2026-02-01 11:46:22",
+    "MerchantItem_ID": "31ae220f-497a-4d74-9308-5775883c978a",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 8
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -56160,6 +56529,15 @@
     "SlotPosition": 25
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Helm",
+    "LastTimeRowUpdated": "2026-02-04 15:24:33",
+    "MerchantItem_ID": "325b54fa-bddd-4452-b638-55f044ad8797",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 21
+  },
+  {
     "ItemListID": "0f5abe3a-15d0-4479-a4c8-8ff7ac5314e8",
     "ItemTemplateID": "rough_clout_broadhead_bolts",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -56284,6 +56662,15 @@
     "PageNumber": 4,
     "Price": 0,
     "SlotPosition": 25
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Bracer",
+    "LastTimeRowUpdated": "2026-02-04 15:53:53",
+    "MerchantItem_ID": "32828c75-3f47-4414-8e00-ec3c87d33848",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 9
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -57112,6 +57499,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 1
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Shortbow",
+    "LastTimeRowUpdated": "2026-02-04 15:47:19",
+    "MerchantItem_ID": "3336e6c0-3ff6-49b6-81f1-94f680bba1d1",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 19
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -60777,6 +61173,15 @@
     "SlotPosition": 13
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Pike",
+    "LastTimeRowUpdated": "2026-02-01 11:47:34",
+    "MerchantItem_ID": "36811fc3-c02e-4d33-957f-0a38cbe5f4bc",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "66fa78be-9827-43cf-b989-deb60c4fb7a0",
     "ItemTemplateID": "woolen_padded_cap",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -61434,6 +61839,15 @@
     "SlotPosition": 12
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Medium_Shield",
+    "LastTimeRowUpdated": "2026-02-01 11:50:40",
+    "MerchantItem_ID": "371aef33-a205-414b-b278-51f525e8ff3e",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 20
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Medium_Shield",
     "LastTimeRowUpdated": "2022-12-22 11:50:40",
@@ -61690,6 +62104,15 @@
     "ItemTemplateID": "Alb_Thidranki_Chain_Helm",
     "LastTimeRowUpdated": "2022-12-22 12:04:22",
     "MerchantItem_ID": "376267de-7323-4950-8aaa-9d697e8f9a61",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 21
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Helm",
+    "LastTimeRowUpdated": "2026-02-01 12:04:22",
+    "MerchantItem_ID": "376267de-7323-4950-8bae-9d697e8f9a61",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 21
@@ -64233,6 +64656,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BGRealmEnhancementTokens",
+    "ItemTemplateID": "BG_Realm_Full_Buffs_Token_25",
+    "LastTimeRowUpdated": "2026-01-31 18:20:15",
+    "MerchantItem_ID": "39fd0f56-656d-4e1d-b186-2a9745c803d1",
+    "PageNumber": 0,
+    "Price": 64000,
+    "SlotPosition": 3
+  },
+  {
     "ItemListID": "82a20fe5-f7a0-4646-b034-9cda98a2a0d3",
     "ItemTemplateID": "black_widow_venom",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -64971,6 +65403,15 @@
     "SlotPosition": 7
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_ClawGreave",
+    "LastTimeRowUpdated": "2026-02-04 15:33:11",
+    "MerchantItem_ID": "3aa29883-68f9-4387-b511-c48227b36009",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_ClawGreave",
     "LastTimeRowUpdated": "2022-12-22 15:33:11",
@@ -65403,6 +65844,15 @@
     "SlotPosition": 17
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Boots",
+    "LastTimeRowUpdated": "2026-02-01 12:00:55",
+    "MerchantItem_ID": "3b16c378-3f88-41db-8749-64280f882d8d",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
     "ItemListID": "105879b1-5baa-465e-ae44-7529c0840946",
     "ItemTemplateID": "seamist_heavy_thread",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -65761,6 +66211,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 24
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Belt",
+    "LastTimeRowUpdated": "2026-02-04 15:29:19",
+    "MerchantItem_ID": "3b730ab4-47ba-4423-b4da-00b81a2797fe",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 7
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -68931,6 +69390,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Arcane",
+    "LastTimeRowUpdated": "2026-02-04 15:29:44",
+    "MerchantItem_ID": "3e60624b-eb37-4f2d-8f82-eef3895866c8",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 10
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Guardian_Arcane",
     "LastTimeRowUpdated": "2022-12-22 15:29:44",
@@ -69570,6 +70038,15 @@
     "SlotPosition": 17
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:22:45",
+    "MerchantItem_ID": "3eed9766-bbe8-498f-b26a-9d0047bc0593",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Studded_Boots",
     "LastTimeRowUpdated": "2022-12-22 15:22:45",
@@ -69910,6 +70387,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Chestplate",
+    "LastTimeRowUpdated": "2026-02-01 12:05:12",
+    "MerchantItem_ID": "3f50d2c7-7014-47fa-bb82-4a1ac2c9a780",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 24
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -72153,6 +72639,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Ring",
+    "LastTimeRowUpdated": "2026-02-01 12:19:46",
+    "MerchantItem_ID": "415eb625-266a-429b-8c27-22906ba2c5b4",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 8
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Ring",
     "LastTimeRowUpdated": "2022-12-22 12:19:46",
@@ -72423,6 +72918,15 @@
     "SlotPosition": 8
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Ring",
+    "LastTimeRowUpdated": "2026-02-04 15:29:24",
+    "MerchantItem_ID": "419a972e-ad39-4ad0-a7e1-47192bb97d5f",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 8
+  },
+  {
     "ItemListID": "c9b77777-850a-429f-b479-ce2b23d3b371",
     "ItemTemplateID": "charcoal_leather_dye",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -72508,6 +73012,15 @@
     "ItemTemplateID": "hawk_feathers",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "MerchantItem_ID": "41c1488f-2845-4e94-8ab6-b396a9de05f3",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 1
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:47:49",
+    "MerchantItem_ID": "41c1e722-57a4-44e5-a77e-e387b26a10fe",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 1
@@ -74106,6 +74619,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mighty_Necklace",
+    "LastTimeRowUpdated": "2026-02-01 12:16:38",
+    "MerchantItem_ID": "43291737-ab45-475b-ab7e-b1c190d782e6",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 1
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Mighty_Necklace",
     "LastTimeRowUpdated": "2022-12-22 12:16:38",
@@ -74212,6 +74734,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 20
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Tunic",
+    "LastTimeRowUpdated": "2026-02-04 15:19:00",
+    "MerchantItem_ID": "433c9726-84c8-4fa3-93d4-148724f657e6",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -74511,6 +75042,15 @@
     "SlotPosition": 8
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:23:08",
+    "MerchantItem_ID": "437d483a-6e2d-4f90-8487-6111401c22be",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Studded_Sleeves",
     "LastTimeRowUpdated": "2022-12-22 15:23:08",
@@ -74653,6 +75193,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 1
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Gloves",
+    "LastTimeRowUpdated": "2026-02-01 12:06:00",
+    "MerchantItem_ID": "43acbdff-4bc1-4c05-9eeb-628dcbe3cb47",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 28
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -76050,6 +76599,15 @@
     "SlotPosition": 19
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:51:17",
+    "MerchantItem_ID": "44c719fe-15ea-4097-b371-0ae80a05efe5",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 19
+  },
+  {
     "ItemListID": "87f41e11-4bb4-4ae8-8874-51f074398a95",
     "ItemTemplateID": "steel_mail_sleeves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -76300,6 +76858,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 17
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Mighty",
+    "LastTimeRowUpdated": "2026-02-04 15:54:49",
+    "MerchantItem_ID": "4508f0da-24e5-41fc-958a-6ec7d9f5625a",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 12
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -79297,6 +79864,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 25
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Scythe",
+    "LastTimeRowUpdated": "2026-02-04 14:29:16",
+    "MerchantItem_ID": "47bb9d1c-4f2e-4d35-a1ba-fc11027d4c55",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 9
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -83061,6 +83637,15 @@
     "SlotPosition": 15
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Chausses",
+    "LastTimeRowUpdated": "2026-02-04 15:51:24",
+    "MerchantItem_ID": "4acbd05e-fbf2-47ee-9d8c-2811a1621baa",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 20
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Chain_Chausses",
     "LastTimeRowUpdated": "2022-12-22 15:51:24",
@@ -83257,6 +83842,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 13
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Arcane",
+    "LastTimeRowUpdated": "2026-02-04 15:54:29",
+    "MerchantItem_ID": "4afd4b3b-219a-4163-96d1-a0a74c5f7be6",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 10
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -83482,6 +84076,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 18
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:49:58",
+    "MerchantItem_ID": "4b31103a-121d-4949-a346-b74d4b996094",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 13
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -84969,6 +85572,15 @@
     "SlotPosition": 27
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Arch_Mace",
+    "LastTimeRowUpdated": "2026-02-04 14:29:29",
+    "MerchantItem_ID": "4c6dbceb-9229-4ae4-8b39-a603ca0f032b",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 10
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Arch_Mace",
     "LastTimeRowUpdated": "2022-12-22 14:29:29",
@@ -84985,6 +85597,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 8
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Bracer",
+    "LastTimeRowUpdated": "2026-02-04 15:29:29",
+    "MerchantItem_ID": "4c70ebb0-b3a0-4342-9c81-262141543a8c",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 9
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -90792,6 +91413,15 @@
     "SlotPosition": 5
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Helmet",
+    "LastTimeRowUpdated": "2026-02-04 15:21:01",
+    "MerchantItem_ID": "51a5ee23-0b35-4308-b455-7f48cfa806a4",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 9
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Leather_Helmet",
     "LastTimeRowUpdated": "2022-12-22 15:21:01",
@@ -91933,6 +92563,15 @@
     "PageNumber": 4,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:51:46",
+    "MerchantItem_ID": "52ac55f7-4b50-4ddf-107a-afa551380d2d",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 23
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -93762,6 +94401,15 @@
     "SlotPosition": 17
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Weighted_Staff",
+    "LastTimeRowUpdated": "2026-02-01 11:49:55",
+    "MerchantItem_ID": "5454532b-5b8d-4e71-b9e7-f0316396d597",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
     "ItemListID": "503eecc3-3dad-4790-b0f7-fa02b407ba70",
     "ItemTemplateID": "iron_bladed_moon_fang",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -93805,6 +94453,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:50:41",
+    "MerchantItem_ID": "5460356e-53b8-45d7-9818-86bf77b23b8f",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 17
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -94788,6 +95445,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Mighty",
+    "LastTimeRowUpdated": "2026-02-01 12:20:33",
+    "MerchantItem_ID": "554fda92-5495-43c2-b48d-6fd7d20f4d6b",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Guardian_Mighty",
     "LastTimeRowUpdated": "2022-12-22 12:20:33",
@@ -95517,6 +96183,15 @@
     "SlotPosition": 11
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Weighted_Staff",
+    "LastTimeRowUpdated": "2026-02-04 14:30:21",
+    "MerchantItem_ID": "55e4c21f-3cb2-419a-a1da-fb5788ab15ed",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Weighted_Staff",
     "LastTimeRowUpdated": "2022-12-22 14:30:21",
@@ -95749,6 +96424,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 20
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Robe",
+    "LastTimeRowUpdated": "2026-02-04 14:42:42",
+    "MerchantItem_ID": "56253492-bc94-4ee7-8ef2-86d6c5d8211f",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 0
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -96703,6 +97387,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 13
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Gloves",
+    "LastTimeRowUpdated": "2026-02-01 12:13:54",
+    "MerchantItem_ID": "5711073c-6d06-44f2-a703-640a33abe660",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 10
   },
   {
     "ItemListID": "44c3f762-01fd-4cc6-8c86-8ca6534cfe30",
@@ -100107,6 +100800,15 @@
     "SlotPosition": 4
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mystic_Staff",
+    "LastTimeRowUpdated": "2026-02-04 14:29:52",
+    "MerchantItem_ID": "5a27f225-72a5-4d20-b6c1-7ac131e02e72",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 11
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Mystic_Staff",
     "LastTimeRowUpdated": "2022-12-22 14:29:52",
@@ -100926,6 +101628,15 @@
     "SlotPosition": 22
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Weighted_Staff",
+    "LastTimeRowUpdated": "2026-02-04 15:34:28",
+    "MerchantItem_ID": "5ad19685-0dd1-4dfb-9777-5b2bfd850112",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Weighted_Staff",
     "LastTimeRowUpdated": "2022-12-22 15:34:28",
@@ -101515,6 +102226,15 @@
     "ItemTemplateID": "Alb_Thidranki_Guardian_Focal",
     "LastTimeRowUpdated": "2022-12-22 12:21:37",
     "MerchantItem_ID": "5b6b09e8-6a6a-444b-8d90-8ef5e7cad4be",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Focal",
+    "LastTimeRowUpdated": "2026-02-01 12:21:37",
+    "MerchantItem_ID": "5b6b09e8-6a6c-444b-8d90-8ef5e7cad4be",
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 17
@@ -107226,6 +107946,15 @@
     "SlotPosition": 16
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Leggings",
+    "LastTimeRowUpdated": "2026-02-01 11:56:54",
+    "MerchantItem_ID": "60c8e2d9-0ba8-4607-a0bb-8ff941bc8846",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Cloth_Leggings",
     "LastTimeRowUpdated": "2022-12-22 11:56:54",
@@ -108531,6 +109260,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Robe",
+    "LastTimeRowUpdated": "2026-02-01 11:52:19",
+    "MerchantItem_ID": "621482fc-7c78-4073-ac23-00122f5642af",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 0
+  },
+  {
     "ItemListID": "5fd6c6a8-e410-44e5-8191-0d2ee0783777",
     "ItemTemplateID": "bronze_double-bladed_axe",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -109755,6 +110493,15 @@
     "SlotPosition": 26
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Longbow",
+    "LastTimeRowUpdated": "2026-02-01 11:51:10",
+    "MerchantItem_ID": "635934fe-1140-428f-93e9-7503e2e39de6",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 22
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Longbow",
     "LastTimeRowUpdated": "2022-12-22 11:51:10",
@@ -110830,6 +111577,15 @@
     "ItemTemplateID": "Mid_Thidranki_Shrouded_Necklace",
     "LastTimeRowUpdated": "2022-12-22 15:52:45",
     "MerchantItem_ID": "6454ce60-0d41-4e3c-b15a-c1206d6247b8",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Shrouded_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:52:45",
+    "MerchantItem_ID": "6454ce61-0d41-4e3c-b15a-c1206d6247b8",
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 2
@@ -112707,6 +113463,15 @@
     "SlotPosition": 19
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Harp",
+    "LastTimeRowUpdated": "2026-02-04 14:39:32",
+    "MerchantItem_ID": "65eb3a72-a137-446e-95ae-e8ebbe1096dc",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 19
+  },
+  {
     "ItemListID": "092a12a8-2481-4876-813f-f2ff3358ba8b",
     "ItemTemplateID": "woolen_woven_boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -112959,6 +113724,15 @@
     "SlotPosition": 8
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mystic_Gemstone",
+    "LastTimeRowUpdated": "2026-02-01 12:18:14",
+    "MerchantItem_ID": "66329e4c-0d01-4349-9a46-f250f4f2cd4c",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
     "ItemListID": "MidArtWeaps",
     "ItemTemplateID": "Cyclops_Eye_Shield_Medium",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -113164,6 +113938,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Helmet",
+    "LastTimeRowUpdated": "2026-02-04 15:50:30",
+    "MerchantItem_ID": "665b8aed-c284-481a-bd6e-0475d0277f04",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 15
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -114561,6 +115344,15 @@
     "SlotPosition": 11
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Leggings",
+    "LastTimeRowUpdated": "2026-02-01 11:59:21",
+    "MerchantItem_ID": "67a08444-612e-4e39-ae79-5dfec9763bd2",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 8
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Leather_Leggings",
     "LastTimeRowUpdated": "2022-12-22 11:59:21",
@@ -114883,6 +115675,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 12
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mystic_Staff",
+    "LastTimeRowUpdated": "2026-02-01 11:47:56",
+    "MerchantItem_ID": "67f5fcb3-477d-4157-b1c5-e87bf0bb8f6d",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 15
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -115893,6 +116694,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Spiked_Hammer",
+    "LastTimeRowUpdated": "2026-02-01 11:47:22",
+    "MerchantItem_ID": "68f55990-a833-477f-abb6-3a63fc4b279e",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Spiked_Hammer",
     "LastTimeRowUpdated": "2022-12-22 11:47:22",
@@ -116287,6 +117097,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Bracer",
+    "LastTimeRowUpdated": "2026-02-01 12:20:10",
+    "MerchantItem_ID": "695a548f-fa62-4a4c-8ebb-5e0a88c01124",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 9
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -116982,6 +117801,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mace",
+    "LastTimeRowUpdated": "2026-02-04 14:28:19",
+    "MerchantItem_ID": "69f0743d-b481-4730-929a-d86b89e9d441",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 4
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Mace",
     "LastTimeRowUpdated": "2022-12-22 14:28:19",
@@ -117097,6 +117925,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 23
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Whip",
+    "LastTimeRowUpdated": "2026-02-01 11:45:51",
+    "MerchantItem_ID": "6a071630-3b92-4133-a3cb-a362dce0240b",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -120267,6 +121104,15 @@
     "SlotPosition": 9
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Focal",
+    "LastTimeRowUpdated": "2026-02-04 15:55:27",
+    "MerchantItem_ID": "6d0af59b-f818-4b13-b718-c86b2bb4e51c",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Guardian_Focal",
     "LastTimeRowUpdated": "2022-12-22 15:55:27",
@@ -122632,6 +123478,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Curative",
+    "LastTimeRowUpdated": "2026-02-01 12:20:40",
+    "MerchantItem_ID": "6f489064-b2d9-4ab4-8993-fa162794ab4e",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 13
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -126180,6 +127035,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mystic_Necklace",
+    "LastTimeRowUpdated": "2026-02-01 12:16:15",
+    "MerchantItem_ID": "727ec859-6ae1-42b8-866f-bd7cade3cc3b",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 0
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Mystic_Necklace",
     "LastTimeRowUpdated": "2022-12-22 12:16:15",
@@ -127174,6 +128038,15 @@
     "ItemTemplateID": "Alb_Thidranki_Chain_Chestpiece",
     "LastTimeRowUpdated": "2022-12-22 12:02:30",
     "MerchantItem_ID": "736784e8-f43d-4b11-b512-364d7fce46d1",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Chestpiece",
+    "LastTimeRowUpdated": "2026-02-01 12:02:30",
+    "MerchantItem_ID": "736784e8-f43d-4b11-b513-364d7fce46d1",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 18
@@ -128437,6 +129310,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 10
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:18:40",
+    "MerchantItem_ID": "7478c17d-7b32-472c-8281-3977fb37d9c2",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 5
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -130104,6 +130986,15 @@
     "SlotPosition": 11
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Chestpiece",
+    "LastTimeRowUpdated": "2026-02-04 15:51:08",
+    "MerchantItem_ID": "75f9cf8a-a1bd-4414-88c1-f6534ee03863",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Chain_Chestpiece",
     "LastTimeRowUpdated": "2022-12-22 15:51:08",
@@ -130588,6 +131479,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:49:00",
+    "MerchantItem_ID": "766a4712-3706-4c02-aee8-a599a56230c9",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 7
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -131252,6 +132152,15 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "MerchantItem_ID": "772b977c-af46-41cf-bb4f-d41cf23942dc",
     "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:22:49",
+    "MerchantItem_ID": "772c4a4a-f090-4f7c-9537-1921cf0e8cf0",
+    "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 16
   },
@@ -138204,6 +139113,15 @@
     "SlotPosition": 9
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Great_Sword",
+    "LastTimeRowUpdated": "2026-02-04 15:33:27",
+    "MerchantItem_ID": "7d63abef-0a31-41ac-9215-8324fc501e06",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 7
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Great_Sword",
     "LastTimeRowUpdated": "2022-12-22 15:33:27",
@@ -138636,6 +139554,15 @@
     "SlotPosition": 16
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Belt",
+    "LastTimeRowUpdated": "2026-02-01 12:19:29",
+    "MerchantItem_ID": "7dbe69b1-b359-4c33-b0ba-cd34d3aec4e4",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 7
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Belt",
     "LastTimeRowUpdated": "2022-12-22 12:19:29",
@@ -138994,6 +139921,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 10
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Cap",
+    "LastTimeRowUpdated": "2026-02-04 15:18:25",
+    "MerchantItem_ID": "7e137e19-cae2-4598-928c-0218eaf85d3d",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 3
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -140652,6 +141588,15 @@
     "SlotPosition": 9
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Helmet",
+    "LastTimeRowUpdated": "2026-02-04 15:22:54",
+    "MerchantItem_ID": "7f807032-12bc-4b80-a317-04024f8a602d",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 15
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Studded_Helmet",
     "LastTimeRowUpdated": "2022-12-22 15:22:54",
@@ -141406,6 +142351,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 19
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Mystic_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:53:12",
+    "MerchantItem_ID": "801209dd-4a8b-1aba-b41d-319b84ecca95",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 4
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -142551,6 +143505,15 @@
     "SlotPosition": 22
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:50:35",
+    "MerchantItem_ID": "81123094-54c5-4c10-bce9-dc8431d95f91",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 16
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Studded_Gloves",
     "LastTimeRowUpdated": "2022-12-22 15:50:35",
@@ -142740,6 +143703,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Boots",
+    "LastTimeRowUpdated": "2026-02-01 11:57:15",
+    "MerchantItem_ID": "8133318b-94bb-4933-9ae6-667aba3e346e",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Cloth_Boots",
     "LastTimeRowUpdated": "2022-12-22 11:57:15",
@@ -142828,6 +143800,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 26
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Stalwart",
+    "LastTimeRowUpdated": "2026-02-04 15:30:26",
+    "MerchantItem_ID": "814b0b29-9edf-40f3-87c8-35f056b3c080",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 16
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -144097,6 +145078,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 19
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloth_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:17:58",
+    "MerchantItem_ID": "82642b26-b299-4e13-8d25-b5b92fca0858",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 1
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -146907,6 +147897,15 @@
     "SlotPosition": 4
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Great_Hammer",
+    "LastTimeRowUpdated": "2026-02-01 11:46:41",
+    "MerchantItem_ID": "8525923d-4459-4ecd-824a-fce5add2e611",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 9
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Great_Hammer",
     "LastTimeRowUpdated": "2022-12-22 11:46:41",
@@ -147897,6 +148896,15 @@
     "SlotPosition": 16
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Rapier",
+    "LastTimeRowUpdated": "2026-02-04 14:27:58",
+    "MerchantItem_ID": "85f68e43-ca3e-457e-bfcd-4f741f1fcab9",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Rapier",
     "LastTimeRowUpdated": "2022-12-22 14:27:58",
@@ -148066,6 +149074,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 17
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Leggings",
+    "LastTimeRowUpdated": "2026-02-01 12:00:32",
+    "MerchantItem_ID": "860d70bf-5587-4f11-ab09-1ff84f8c0ad2",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -148273,6 +149290,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 6
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Shortsword",
+    "LastTimeRowUpdated": "2026-02-04 14:28:10",
+    "MerchantItem_ID": "863c1e54-f4c9-4000-a3c4-ea94593e77c2",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 3
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -149065,6 +150091,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:51:36",
+    "MerchantItem_ID": "86f3a4ed-64e3-4258-a1af-2ea3a556d1bb",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 22
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -154098,6 +155133,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Belt",
+    "LastTimeRowUpdated": "2026-02-04 15:53:38",
+    "MerchantItem_ID": "8b5ed2b7-e9fe-4170-b942-7801c3bc2ba5",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 7
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Belt",
     "LastTimeRowUpdated": "2022-12-22 15:53:38",
@@ -155698,6 +156742,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_WarHammer",
+    "LastTimeRowUpdated": "2026-02-04 15:32:34",
+    "MerchantItem_ID": "8cf15cc0-e63d-4267-baee-41dd3b75351b",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 1
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -158476,6 +159529,15 @@
     "ItemTemplateID": "Alb_Thidranki_Cloth_Cap",
     "LastTimeRowUpdated": "2022-12-22 11:57:03",
     "MerchantItem_ID": "8f6dbcb0-c84d-4c5a-9d6b-8bc4d5a1b8e9",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Cap",
+    "LastTimeRowUpdated": "2026-02-01 11:57:03",
+    "MerchantItem_ID": "8f6dbcb0-c84d-4c5a-9d6b-8bc4d5a1c8e9",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 3
@@ -166203,6 +167265,15 @@
     "SlotPosition": 7
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Cloth_Sleeves",
+    "LastTimeRowUpdated": "2026-02-01 11:56:52",
+    "MerchantItem_ID": "964cb93d-fb5f-4e7b-8ba0-7662f85216e5",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 1
+  },
+  {
     "ItemListID": "6b8019ae-9035-4fe6-aad3-c3e465319147",
     "ItemTemplateID": "large_block_shield",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -167913,6 +168984,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Curative",
+    "LastTimeRowUpdated": "2026-02-04 15:54:55",
+    "MerchantItem_ID": "97daac9f-75ef-4143-9c34-abbd911c1744",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Guardian_Curative",
     "LastTimeRowUpdated": "2022-12-22 15:54:55",
@@ -168730,6 +169810,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Sleeves",
+    "LastTimeRowUpdated": "2026-02-01 12:05:19",
+    "MerchantItem_ID": "98a80559-0c53-4626-913b-df5986167b2f",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 25
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -187200,6 +188289,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Tunic",
+    "LastTimeRowUpdated": "2026-02-04 15:47:40",
+    "MerchantItem_ID": "9a1f8ea6-a59d-49e3-8403-3d431141a2eb",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 0
+  },
+  {
     "ItemListID": "067eddfd-b27f-4560-b5d2-761420943c53",
     "ItemTemplateID": "Exquisite_Entrancing_Gossamer_Cap",
     "LastTimeRowUpdated": "2018-01-28 18:36:14",
@@ -187983,6 +189081,15 @@
     "SlotPosition": 9
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Dagger",
+    "LastTimeRowUpdated": "2026-02-04 14:28:24",
+    "MerchantItem_ID": "9abb12f7-6782-4eb8-ad6f-6b64db554568",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Dagger",
     "LastTimeRowUpdated": "2022-12-22 14:28:24",
@@ -188242,6 +189349,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 6
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Great_Hammer",
+    "LastTimeRowUpdated": "2026-02-04 15:33:36",
+    "MerchantItem_ID": "9b08f429-6a5f-4368-a134-cd608ea140dc",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 8
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -193474,6 +194590,15 @@
   },
   {
     "ItemListID": "BGRealmEnhancementTokens",
+    "ItemTemplateID": "BG_Realm_Full_Buffs_Token_25",
+    "LastTimeRowUpdated": "2026-01-31 18:20:19",
+    "MerchantItem_ID": "a0084866-0878-42f5-990f-94212a832644",
+    "PageNumber": 1,
+    "Price": 10,
+    "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BGRealmEnhancementTokens",
     "ItemTemplateID": "BG_Realm_Full_Buffs_Token_20",
     "LastTimeRowUpdated": "2022-11-14 18:20:19",
     "MerchantItem_ID": "a0085866-0878-42f5-990f-94212a832644",
@@ -194724,6 +195849,15 @@
     "SlotPosition": 18
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:47:57",
+    "MerchantItem_ID": "a11a7b71-4251-4e54-b43d-aa35fc35d3c7",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "2b2c4cc3-e486-468e-b696-78f0edd1e121",
     "ItemTemplateID": "mithril_starkakedja_gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -195318,6 +196452,15 @@
     "SlotPosition": 25
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Large_Shield",
+    "LastTimeRowUpdated": "2026-02-04 15:46:28",
+    "MerchantItem_ID": "a1917142-e71e-4ed8-afbb-d2ae3644db75",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 15
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Large_Shield",
     "LastTimeRowUpdated": "2022-12-22 15:46:28",
@@ -195367,6 +196510,15 @@
     "ItemTemplateID": "Alb_Thidranki_Longsword",
     "LastTimeRowUpdated": "2022-12-22 11:22:59",
     "MerchantItem_ID": "a198d542-f747-472d-99f6-882c7384d3b4",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Longsword",
+    "LastTimeRowUpdated": "2026-02-01 11:22:59",
+    "MerchantItem_ID": "a198d542-f747-472d-9af6-882c7384d3b4",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
@@ -195856,6 +197008,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 14
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Shrouded_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:29:03",
+    "MerchantItem_ID": "a20d630c-ad73-45db-ad24-53c43585d289",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "0ae0791c-7067-4d3e-b485-cf1339f57900",
@@ -198337,6 +199498,15 @@
     "ItemTemplateID": "Mid_Thidranki_Composite_Bow",
     "LastTimeRowUpdated": "2022-12-22 15:47:05",
     "MerchantItem_ID": "a46a5da4-5fc0-4190-956f-8ab0004a539d",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Composite_Bow",
+    "LastTimeRowUpdated": "2026-02-04 15:47:05",
+    "MerchantItem_ID": "a46a5da4-5fc1-4190-956f-8ab0004a539d",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 18
@@ -201006,6 +202176,15 @@
     "SlotPosition": 23
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:21:19",
+    "MerchantItem_ID": "a6b823f8-2a3c-4f07-b26b-72e3012802f4",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 11
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Leather_Boots",
     "LastTimeRowUpdated": "2022-12-22 15:21:19",
@@ -201193,6 +202372,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Greaves",
+    "LastTimeRowUpdated": "2026-02-01 12:05:51",
+    "MerchantItem_ID": "a6d88c3b-8c9b-4cf5-a2bd-fdee61fbafd5",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 29
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -202012,6 +203200,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Helmet",
+    "LastTimeRowUpdated": "2026-02-04 15:49:18",
+    "MerchantItem_ID": "a7a1708f-14b3-49cb-bac1-f2fe95aa6c41",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 9
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -202918,6 +204115,15 @@
     "ItemTemplateID": "Alb_Thidranki_Harp",
     "LastTimeRowUpdated": "2022-12-22 11:51:26",
     "MerchantItem_ID": "a8afc253-6abd-4a54-a5be-87e0d0c73f0e",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 24
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Harp",
+    "LastTimeRowUpdated": "2026-02-01 11:51:26",
+    "MerchantItem_ID": "a8afc253-6abd-4c54-a5be-87e0d0c73f0e",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 24
@@ -204336,6 +205542,15 @@
     "SlotPosition": 12
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Sleeves",
+    "LastTimeRowUpdated": "2026-02-01 12:03:42",
+    "MerchantItem_ID": "aa116a64-b3b2-4e08-8cda-2ae077002382",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 19
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Chain_Sleeves",
     "LastTimeRowUpdated": "2022-12-22 12:03:42",
@@ -204667,6 +205882,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 8
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Large_Shield",
+    "LastTimeRowUpdated": "2026-02-04 14:31:22",
+    "MerchantItem_ID": "aa517c27-422c-4538-9762-677a5a0e6b7f",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -205497,6 +206721,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Magic",
+    "LastTimeRowUpdated": "2026-02-04 15:29:52",
+    "MerchantItem_ID": "ab545c06-74f0-4772-a2fc-471fc2c67092",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 11
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Guardian_Magic",
     "LastTimeRowUpdated": "2022-12-22 15:29:52",
@@ -206181,6 +207414,15 @@
     "SlotPosition": 5
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:24:42",
+    "MerchantItem_ID": "abea2de5-8063-4498-b042-5b9fd50a1859",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 22
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Chain_Gloves",
     "LastTimeRowUpdated": "2022-12-22 15:24:42",
@@ -206512,6 +207754,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 19
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Ring",
+    "LastTimeRowUpdated": "2026-02-04 15:53:43",
+    "MerchantItem_ID": "ac24ebcd-71d3-41d5-98d6-0ab7a8233ca3",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 8
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -209439,6 +210690,15 @@
     "SlotPosition": 20
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Shrouded_Necklace",
+    "LastTimeRowUpdated": "2026-02-01 12:16:48",
+    "MerchantItem_ID": "aecfa24a-eac3-4076-8c24-ab5262ce8997",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Shrouded_Necklace",
     "LastTimeRowUpdated": "2022-12-22 12:16:48",
@@ -210240,6 +211500,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Mighty_Gemstone",
+    "LastTimeRowUpdated": "2026-02-01 12:19:20",
+    "MerchantItem_ID": "afc4d828-b7ee-4254-97ce-755f682004cb",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "32a8b069-1f72-469c-af9a-189fdadf4d45",
     "ItemTemplateID": "iron_svarkedja_gloves",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -210775,6 +212044,15 @@
     "ItemTemplateID": "Alb_Thidranki_Studded_Helmet",
     "LastTimeRowUpdated": "2022-12-22 12:00:41",
     "MerchantItem_ID": "b046ea1f-4c9c-42ef-8ddb-c8b950ebf1f1",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 15
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Studded_Helmet",
+    "LastTimeRowUpdated": "2026-02-01 12:00:41",
+    "MerchantItem_ID": "b046ea1f-4e9c-42ef-8ddb-c8b950ebf1f1",
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 15
@@ -211387,6 +212665,15 @@
     "ItemTemplateID": "Alb_Thidranki_Guardian_Magic",
     "LastTimeRowUpdated": "2022-12-22 12:20:27",
     "MerchantItem_ID": "b0dd9f9c-804a-4c2e-b617-8e39368da7b2",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Magic",
+    "LastTimeRowUpdated": "2026-02-01 12:20:27",
+    "MerchantItem_ID": "b0dd9f9d-804a-4c2e-b617-8e39368da7b2",
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 11
@@ -212787,6 +214074,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Shortsword",
+    "LastTimeRowUpdated": "2026-02-01 11:45:17",
+    "MerchantItem_ID": "b24d2acf-a888-4731-8a51-be70b3eb1f7e",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 3
+  },
+  {
     "ItemListID": "c3a44abc-0fdb-46b6-9093-7259f67d6212",
     "ItemTemplateID": "crystalized_strips",
     "LastTimeRowUpdated": "2019-06-25 00:00:00",
@@ -213777,6 +215073,15 @@
     "SlotPosition": 5
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Gloves",
+    "LastTimeRowUpdated": "2026-02-01 12:04:28",
+    "MerchantItem_ID": "b3334f38-50f5-49bc-8c56-08fab0496298",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 22
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Chain_Gloves",
     "LastTimeRowUpdated": "2022-12-22 12:04:28",
@@ -214000,6 +215305,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 11
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mystic_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:27:25",
+    "MerchantItem_ID": "b362e614-447c-499e-a94c-9e5edba5abde",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 0
   },
   {
     "ItemListID": "62d69eca-8f98-42c2-b38c-8fd43574e0b2",
@@ -218178,6 +219492,15 @@
     "SlotPosition": 4
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Cloak",
+    "LastTimeRowUpdated": "2026-02-04 15:28:31",
+    "MerchantItem_ID": "b799b895-f786-4628-8db9-251b45dcab4d",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 3
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Cloak",
     "LastTimeRowUpdated": "2022-12-22 15:28:31",
@@ -218338,6 +219661,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 18
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Leather_Boots",
+    "LastTimeRowUpdated": "2026-02-04 15:49:29",
+    "MerchantItem_ID": "b7d181cf-eb12-4a2d-be8d-58c9275228ba",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 11
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -221301,6 +222633,15 @@
     "SlotPosition": 15
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Helmet",
+    "LastTimeRowUpdated": "2026-02-01 11:59:31",
+    "MerchantItem_ID": "baa198b1-51ed-4ed4-a2df-7cf2ef1d02d4",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 9
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Leather_Helmet",
     "LastTimeRowUpdated": "2022-12-22 11:59:31",
@@ -222415,6 +223756,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 9
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Stalwart",
+    "LastTimeRowUpdated": "2026-02-04 15:55:21",
+    "MerchantItem_ID": "bb800ad7-7581-41a4-b716-da2ebf57b242",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 16
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -224305,6 +225655,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Quarterstaff",
+    "LastTimeRowUpdated": "2026-02-01 11:49:38",
+    "MerchantItem_ID": "bd2252ce-2257-4691-b373-5448078a6b57",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 16
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -226251,6 +227610,15 @@
     "SlotPosition": 16
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Mighty",
+    "LastTimeRowUpdated": "2026-02-04 15:29:58",
+    "MerchantItem_ID": "beefebe0-3526-4a15-a0fd-5d4fe6700a92",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Guardian_Mighty",
     "LastTimeRowUpdated": "2022-12-22 15:29:58",
@@ -226440,6 +227808,15 @@
     "SlotPosition": 1
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Spiked_Mace",
+    "LastTimeRowUpdated": "2026-02-01 11:36:28",
+    "MerchantItem_ID": "bf223572-5aa5-44c0-a698-b72fefbf75c1",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 1
+  },
+  {
     "ItemListID": "1d8e1006-012b-465b-b4e9-328b4cc69782",
     "ItemTemplateID": "ferrite_osnadurtha_boots",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -226582,6 +227959,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 19
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Variant",
+    "LastTimeRowUpdated": "2026-02-04 15:55:06",
+    "MerchantItem_ID": "bf4611ff-f8b7-4c13-965a-77f8d13b130b",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -229491,6 +230877,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Spear",
+    "LastTimeRowUpdated": "2026-02-04 15:33:19",
+    "MerchantItem_ID": "c0e9df90-78be-4efb-84f1-34b04e0d6cba",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 6
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Spear",
     "LastTimeRowUpdated": "2022-12-22 15:33:19",
@@ -229750,6 +231145,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 15
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Great_Hammer",
+    "LastTimeRowUpdated": "2026-02-04 14:28:45",
+    "MerchantItem_ID": "c12b335e-1d3b-4d24-acfc-b126ec5b7dbb",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 7
   },
   {
     "ItemListID": "08139882-7798-472f-a27a-2cd453eafc9e",
@@ -230650,6 +232054,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 26
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloak",
+    "LastTimeRowUpdated": "2026-02-04 15:52:56",
+    "MerchantItem_ID": "c20ff8fe-9cab-4828-a151-1dbcec29182f",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 3
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -233235,6 +234648,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Fist_Wrap",
+    "LastTimeRowUpdated": "2026-02-04 14:30:58",
+    "MerchantItem_ID": "c4930202-6a0e-4794-80c4-6a749043af80",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 13
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Fist_Wrap",
     "LastTimeRowUpdated": "2022-12-22 14:30:58",
@@ -234423,6 +235845,15 @@
     "SlotPosition": 18
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Plate_Chausses",
+    "LastTimeRowUpdated": "2026-02-01 12:05:28",
+    "MerchantItem_ID": "c574f9d3-1461-4c0f-bc95-b02cf282de42",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 26
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Plate_Chausses",
     "LastTimeRowUpdated": "2022-12-22 12:05:28",
@@ -234655,6 +236086,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 8
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:21:11",
+    "MerchantItem_ID": "c5b6d559-425a-40d3-9e20-26c6abe38cac",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 10
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -235204,6 +236644,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 20
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Mighty_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:52:34",
+    "MerchantItem_ID": "c65a1134-73c9-4e25-8c97-b3a54a90b23b",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 1
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -237222,6 +238671,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Arcane",
+    "LastTimeRowUpdated": "2026-02-01 12:20:20",
+    "MerchantItem_ID": "c83de385-a777-46a5-b81e-fe9e6eaf67d2",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 10
+  },
+  {
     "ItemListID": "0f5abe3a-15d0-4479-a4c8-8ff7ac5314e8",
     "ItemTemplateID": "footed_broadhead_bolts",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -238392,6 +239850,15 @@
     "SlotPosition": 0
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Chain_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:24:17",
+    "MerchantItem_ID": "c94a6428-ec76-4702-a27f-0871fd105fbf",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 19
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Chain_Sleeves",
     "LastTimeRowUpdated": "2022-12-22 15:24:17",
@@ -239506,6 +240973,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 15
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Celtic_Spear",
+    "LastTimeRowUpdated": "2026-02-04 14:28:58",
+    "MerchantItem_ID": "ca581fd4-16b8-4758-bf16-159976e516b0",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 8
   },
   {
     "ItemListID": "d074cd78-8210-4fbb-a733-65894819dbf6",
@@ -243738,6 +245214,15 @@
     "SlotPosition": 17
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Focal",
+    "LastTimeRowUpdated": "2026-02-04 15:30:34",
+    "MerchantItem_ID": "ce105b01-3722-4975-95b2-6ed8f185d80f",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 17
+  },
+  {
     "ItemListID": "ad024b3e-f219-4f54-a31f-8f1de8edc4f5",
     "ItemTemplateID": "lifebane",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -247230,6 +248715,15 @@
     "SlotPosition": 2
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Guardian_Enduring",
+    "LastTimeRowUpdated": "2026-02-04 15:55:13",
+    "MerchantItem_ID": "d10d880f-8d65-4513-9c0f-32c40fea2303",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 15
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Guardian_Enduring",
     "LastTimeRowUpdated": "2022-12-22 15:55:13",
@@ -248004,6 +249498,15 @@
     "SlotPosition": 6
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Medium_Shield",
+    "LastTimeRowUpdated": "2026-02-04 14:34:13",
+    "MerchantItem_ID": "d1bf9a89-3714-4172-ac56-3bc4bd93670d",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 15
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Medium_Shield",
     "LastTimeRowUpdated": "2022-12-22 14:34:13",
@@ -248236,6 +249739,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 8
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Leather_Sleeves",
+    "LastTimeRowUpdated": "2026-02-04 15:20:40",
+    "MerchantItem_ID": "d1f10bbd-4b07-4762-8077-b3d31263e4d4",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 7
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -248485,6 +249997,15 @@
     "ItemTemplateID": "Alb_Thidranki_War_Pick",
     "LastTimeRowUpdated": "2022-12-22 11:46:54",
     "MerchantItem_ID": "d230568c-0456-42bb-8d88-d3439a00f6b8",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 10
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_War_Pick",
+    "LastTimeRowUpdated": "2026-02-01 11:46:54",
+    "MerchantItem_ID": "d230568c-0456-42cb-8d88-d3439a01f6b8",
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 10
@@ -249433,6 +250954,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 18
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Halberd",
+    "LastTimeRowUpdated": "2026-02-01 11:47:03",
+    "MerchantItem_ID": "d3222d89-915f-40e4-9fe3-b41287467506",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 11
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -256338,6 +257868,15 @@
     "SlotPosition": 12
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Tunic",
+    "LastTimeRowUpdated": "2026-02-04 15:21:32",
+    "MerchantItem_ID": "d94db814-4011-464d-935c-f060849a8246",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 12
+  },
+  {
     "ItemListID": "853e4391-1560-488b-9f0c-92769a19a818",
     "ItemTemplateID": "fine_alloy_barbed_chain",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -262701,6 +264240,15 @@
     "SlotPosition": 18
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Boots",
+    "LastTimeRowUpdated": "2026-02-01 12:04:35",
+    "MerchantItem_ID": "df66b99b-8272-4ca6-9435-131ac973cbab",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 23
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Chain_Boots",
     "LastTimeRowUpdated": "2022-12-22 12:04:35",
@@ -264393,6 +265941,15 @@
     "SlotPosition": 10
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Longsword",
+    "LastTimeRowUpdated": "2026-02-04 15:32:05",
+    "MerchantItem_ID": "e1139b92-081e-49dc-897d-276dc0b1fec7",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 0
+  },
+  {
     "ItemListID": "55ee6d0c-7874-450f-9fe1-5ff230d78c4a",
     "ItemTemplateID": "tanned_cymric_helm_lining",
     "LastTimeRowUpdated": "2019-06-25 00:00:00",
@@ -265968,6 +267525,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Cap",
+    "LastTimeRowUpdated": "2026-02-04 15:48:03",
+    "MerchantItem_ID": "e287259f-6331-4cf0-8229-90e413038df3",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 3
+  },
+  {
     "ItemListID": "a73a9a8a-244d-4708-a018-7fc78a6c2fd5",
     "ItemTemplateID": "rawhide_starklaedar_leggings",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -266101,6 +267667,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 5
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Runic_Hammer",
+    "LastTimeRowUpdated": "2026-02-04 15:34:08",
+    "MerchantItem_ID": "e2b8f2b7-1f89-1b73-9d0f-ac0043629dcd",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 11
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -268245,6 +269820,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Shortbow",
+    "LastTimeRowUpdated": "2026-02-04 14:39:25",
+    "MerchantItem_ID": "e4daf5b1-22fe-4289-87b6-928d0febba15",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 18
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Shortbow",
     "LastTimeRowUpdated": "2022-12-22 14:39:25",
@@ -268299,6 +269883,15 @@
     "SlotPosition": 16
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_WarAxe",
+    "LastTimeRowUpdated": "2026-02-04 15:32:40",
+    "MerchantItem_ID": "e4e41e01-a5e6-4e94-9d42-d8ddd53d8840",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 2
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_WarAxe",
     "LastTimeRowUpdated": "2022-12-22 15:32:40",
@@ -268333,6 +269926,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 5
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Chain_Chausses",
+    "LastTimeRowUpdated": "2026-02-01 12:04:14",
+    "MerchantItem_ID": "e4ec6f1f-8729-4194-8f36-9d680c1a1564",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 20
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -268747,6 +270349,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 15
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mighty_Necklace",
+    "LastTimeRowUpdated": "2026-02-04 15:27:36",
+    "MerchantItem_ID": "e52a42c5-583a-4273-a088-2fcc1a38ce05",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 1
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -269188,6 +270799,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 3
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Mighty_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:53:20",
+    "MerchantItem_ID": "e5a54caa-178e-4b61-965d-66d0577b953d",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 5
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -271674,6 +273294,15 @@
     "SlotPosition": 22
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Great_Sword",
+    "LastTimeRowUpdated": "2026-02-04 14:28:36",
+    "MerchantItem_ID": "e80a2e57-ef69-4175-badb-186fe6c02b9f",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 6
+  },
+  {
     "ItemListID": "kigriha",
     "ItemTemplateID": "saddle32",
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
@@ -273591,6 +275220,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_LeftAxe",
+    "LastTimeRowUpdated": "2026-02-04 15:32:50",
+    "MerchantItem_ID": "e9c12122-7916-16ef-a617-e8c8845382e2",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 3
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_LeftAxe",
     "LastTimeRowUpdated": "2022-12-22 15:32:50",
@@ -273796,6 +275434,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 12
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Enduring",
+    "LastTimeRowUpdated": "2026-02-04 15:30:20",
+    "MerchantItem_ID": "e9f2513a-9e3d-4def-a659-c9188443108e",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 15
   },
   {
     "ItemListID": "a892350f-98d9-4cef-abcb-df17beaa0e40",
@@ -274165,6 +275812,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 0
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Enduring",
+    "LastTimeRowUpdated": "2026-02-01 12:21:00",
+    "MerchantItem_ID": "ea54e259-4d34-42dc-a533-1133ef31dc3a",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 15
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -276039,6 +277695,15 @@
     "SlotPosition": 26
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Medium_Shield",
+    "LastTimeRowUpdated": "2026-02-04 15:46:44",
+    "MerchantItem_ID": "ec00acd1-10e6-49a9-b9db-511856ed8b8c",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 16
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Medium_Shield",
     "LastTimeRowUpdated": "2022-12-22 15:46:44",
@@ -276370,6 +278035,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Studded_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:22:58",
+    "MerchantItem_ID": "ec4ff69e-9372-43ed-b267-76bf88cfa091",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -276809,6 +278483,15 @@
     "LastTimeRowUpdated": "2000-01-01 00:00:00",
     "MerchantItem_ID": "ec98a04b-3955-4030-85e2-0dde5abdd013",
     "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 14
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Studded_Leggings",
+    "LastTimeRowUpdated": "2026-02-04 15:50:20",
+    "MerchantItem_ID": "ec9dac8b-ce36-4124-835f-6811f3c0d6ba",
+    "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 14
   },
@@ -280197,6 +281880,15 @@
     "SlotPosition": 3
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Arch_Hammer",
+    "LastTimeRowUpdated": "2026-02-04 15:34:00",
+    "MerchantItem_ID": "ef9c1e83-fec3-49e1-a787-b24de5558a34",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 10
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Arch_Hammer",
     "LastTimeRowUpdated": "2022-12-22 15:34:00",
@@ -281466,6 +283158,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Mighty_Gemstone",
+    "LastTimeRowUpdated": "2026-02-04 15:28:43",
+    "MerchantItem_ID": "f03f05af-652b-4d0e-973c-b1112322f8bd",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 5
+  },
+  {
     "ItemListID": "ThidrankiHibMerchant",
     "ItemTemplateID": "Hib_Thidranki_Mighty_Gemstone",
     "LastTimeRowUpdated": "2022-12-22 15:28:43",
@@ -281473,6 +283174,15 @@
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 5
+  },
+  {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Cloth_Gloves",
+    "LastTimeRowUpdated": "2026-02-04 15:48:10",
+    "MerchantItem_ID": "f03f8813-8e21-4f4a-ae85-68d31ce8c504",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 4
   },
   {
     "ItemListID": "ThidrankiMidMerchant",
@@ -283579,6 +285289,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 2
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Tunic",
+    "LastTimeRowUpdated": "2026-02-01 11:57:47",
+    "MerchantItem_ID": "f24a824b-4958-4a8d-b661-c50a159f5862",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 6
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -287199,6 +288918,15 @@
     "SlotPosition": 18
   },
   {
+    "ItemListID": "BraemarMidMerchant",
+    "ItemTemplateID": "Mid_Braemar_Chain_Helm",
+    "LastTimeRowUpdated": "2026-02-04 15:51:31",
+    "MerchantItem_ID": "f59111e8-dd5f-4374-a822-d418e9c14228",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 21
+  },
+  {
     "ItemListID": "ThidrankiMidMerchant",
     "ItemTemplateID": "Mid_Thidranki_Chain_Helm",
     "LastTimeRowUpdated": "2022-12-22 15:51:31",
@@ -287548,6 +289276,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 19
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Leather_Boots",
+    "LastTimeRowUpdated": "2026-02-01 12:13:19",
+    "MerchantItem_ID": "f5f2432b-2569-40c5-aa3f-97c08dd5dec5",
+    "PageNumber": 1,
+    "Price": 0,
+    "SlotPosition": 11
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -290889,6 +292626,15 @@
     "SlotPosition": 23
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Shortbow",
+    "LastTimeRowUpdated": "2026-02-01 11:51:18",
+    "MerchantItem_ID": "f943517c-683e-43e3-8a06-d8852490b304",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 23
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Shortbow",
     "LastTimeRowUpdated": "2022-12-22 11:51:18",
@@ -291244,6 +292990,15 @@
     "ItemTemplateID": "Alb_Thidranki_Guardian_Stalwart",
     "LastTimeRowUpdated": "2022-12-22 12:21:27",
     "MerchantItem_ID": "f98efa34-585d-4283-863a-c6a26b72a969",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 16
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Guardian_Stalwart",
+    "LastTimeRowUpdated": "2026-02-01 12:21:27",
+    "MerchantItem_ID": "f98efb34-585d-4283-863a-c6a26b72a969",
     "PageNumber": 2,
     "Price": 0,
     "SlotPosition": 16
@@ -291760,6 +293515,15 @@
     "PageNumber": 1,
     "Price": 0,
     "SlotPosition": 14
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Rapier",
+    "LastTimeRowUpdated": "2026-02-01 11:44:56",
+    "MerchantItem_ID": "fa1108f6-1688-44a4-ae95-65a43de24161",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 2
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
@@ -293092,6 +294856,15 @@
     "PageNumber": 3,
     "Price": 0,
     "SlotPosition": 1
+  },
+  {
+    "ItemListID": "BraemarHibMerchant",
+    "ItemTemplateID": "Hib_Braemar_Guardian_Variant",
+    "LastTimeRowUpdated": "2026-02-04 15:30:13",
+    "MerchantItem_ID": "fb3afae2-bde0-4e36-bbc7-5cd9ae5d0f94",
+    "PageNumber": 2,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiHibMerchant",
@@ -295290,6 +297063,15 @@
     "SlotPosition": 14
   },
   {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Small_Shield",
+    "LastTimeRowUpdated": "2026-02-01 11:50:51",
+    "MerchantItem_ID": "fd3ea3f4-ee87-4426-b1b7-0437f986c8d9",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 21
+  },
+  {
     "ItemListID": "ThidrankiAlbMerchant",
     "ItemTemplateID": "Alb_Thidranki_Small_Shield",
     "LastTimeRowUpdated": "2022-12-22 11:50:51",
@@ -297376,6 +299158,15 @@
     "PageNumber": 0,
     "Price": 0,
     "SlotPosition": 10
+  },
+  {
+    "ItemListID": "BraemarAlbMerchant",
+    "ItemTemplateID": "Alb_Braemar_Arch_Mace",
+    "LastTimeRowUpdated": "2026-02-01 11:47:45",
+    "MerchantItem_ID": "ff7ab2da-df39-4bd0-a5ec-33dfc9f36ba6",
+    "PageNumber": 0,
+    "Price": 0,
+    "SlotPosition": 14
   },
   {
     "ItemListID": "ThidrankiAlbMerchant",
